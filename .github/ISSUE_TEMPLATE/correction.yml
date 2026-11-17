@@ -1,0 +1,28 @@
+name: Report a correction
+description: Point out something on Faction Atlas that is wrong, missing or out of date.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page address
+      description: Paste the link to the Faction Atlas page.
+      placeholder: https://factionatlas.github.io/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What should it say?
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link that supports the correction, if you have one.
