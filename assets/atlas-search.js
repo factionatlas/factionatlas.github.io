@@ -14,9 +14,10 @@ function searchPath() {
   return "/search-test/";
 }
 const JR = new Set(["jr", "sr", "ii", "iii", "iv", "v"]);
-const TYPE_LABEL = { person: "Person", org: "Organization", faction: "Faction", page: "Page" };
+const TYPE_LABEL = { person: "Person", org: "Organization", faction: "Faction", issue: "Issue", page: "Page" };
 const FILTERS = [
   { id: "all", label: "All" },
+  { id: "issue", label: "Issues" },
   { id: "person", label: "People" },
   { id: "org", label: "Organizations" },
   { id: "faction", label: "Factions" },
@@ -228,30 +229,78 @@ function scoreRecord(q, rec) {
     const cap = typoCap(qt[0]);
     if (cap && levenshtein(qt[0], tokens(rec.t)[0], cap) <= cap) best += 80;
   }
+  if (rec.k === "issue" && (reason === "title" || reason === "alias")) {
+    const exactAlias = (rec.a || []).some((a) => norm(a) === qn) || norm(rec.t) === qn;
+    if (exactAlias) best += 800;
+    else if (norm(rec.t).startsWith(qn)) best += 400;
+  }
   return { s: best, reason };
 }
 
-function searchNames(q, typ, limit) {
+function retiredUrlSet() {
+  const s = new Set();
+  for (const rec of names) {
+    if (rec.r) s.add(pathOnly(rec.u));
+  }
+  return s;
+}
+
+function searchNames(q, typ, limit, includeRetired) {
   const hits = [];
   for (const rec of names) {
-    if (typ && typ !== "all" && rec.k !== typ) continue;
+    if (!typeMatches(rec, typ)) continue;
     const { s, reason } = scoreRecord(q, rec);
     if (s) hits.push({ s, reason, rec });
   }
-  hits.sort((a, b) => b.s - a.s || a.rec.t.localeCompare(b.rec.t, "en", { sensitivity: "base" }) || a.rec.u.localeCompare(b.rec.u));
-  return hits.slice(0, limit);
+  hits.sort((a, b) => (a.rec.r ? 1 : 0) - (b.rec.r ? 1 : 0) || b.s - a.s || a.rec.t.localeCompare(b.rec.t, "en", { sensitivity: "base" }) || a.rec.u.localeCompare(b.rec.u));
+  const active = hits.filter((h) => !h.rec.r);
+  const retired = hits.filter((h) => h.rec.r);
+  const strongRetired = retired.filter((h) => h.s >= 9500);
+  const weakRetired = retired.filter((h) => h.s < 9500);
+  const shownRetired = includeRetired ? retired : strongRetired;
+  const combined = [...active, ...shownRetired].slice(0, limit);
+  return {
+    hits: combined,
+    hiddenRetired: includeRetired ? 0 : weakRetired.length,
+    retiredTotal: retired.length,
+  };
+}
+
+function typeMatches(rec, typ) {
+  if (!typ || typ === "all") return true;
+  if (typ === "issue") return rec.k === "issue" || rec.u === "/issues/" || rec.u.startsWith("/issues/#");
+  return rec.k === typ;
 }
 
 function typeOfUrl(url) {
-  if (url.includes("/faction/")) return "faction";
-  if (url.includes("/person/")) return "person";
-  if (url.includes("/org/")) return "org";
+  const [path, hash] = (url || "").split("#");
+  if (path.includes("/faction/")) return "faction";
+  if (path.includes("/person/")) return "person";
+  if (path.includes("/org/")) return "org";
+  if ((path.replace(/\/index\.html$/, "").replace(/\/$/, "") === "/issues") && hash) return "issue";
   return "page";
 }
 
-async function searchPagefind(q, typ, exclude, limit) {
+function pathOnly(url) {
+  if (!url) return "";
+  let u = url.split("#")[0];
+  u = u.replace(/index\.html$/, "");
+  if (!u.endsWith("/")) u += "/";
+  return u;
+}
+
+async function searchPagefind(q, typ, nameHits, includeRetired, limit) {
   const pf = await loadPagefind();
   if (!pf || !q.trim()) return [];
+  const exclude = new Set();
+  let hasIssueAnchor = false;
+  for (const h of nameHits || []) {
+    exclude.add(h.rec.u);
+    exclude.add(pathOnly(h.rec.u));
+    if (h.rec.u.startsWith("/issues/#")) hasIssueAnchor = true;
+  }
+  if (hasIssueAnchor) exclude.add("/issues/");
+  const retired = includeRetired ? new Set() : retiredUrlSet();
   const res = await pf.search(q);
   const out = [];
   for (const r of res.results) {
@@ -265,9 +314,10 @@ async function searchPagefind(q, typ, exclude, limit) {
       url = url.replace(/index\.html$/, "");
       if (!url.endsWith("/")) url += "/";
     }
-    if (exclude.has(url)) continue;
+    if (exclude.has(url) || exclude.has(pathOnly(url))) continue;
+    if (retired.has(pathOnly(url))) continue;
     const typU = typeOfUrl(url);
-    if (typ && typ !== "all" && typU !== typ) continue;
+    if (typ && typ !== "all" && typU !== typ && !(typ === "issue" && pathOnly(url) === "/issues/")) continue;
     const title = ((d.meta && d.meta.title) || "").replace(/\s*·\s*Faction Atlas\s*$/, "");
     out.push({
       rec: { t: title || url, u: url, k: typU },
@@ -367,6 +417,7 @@ function mount(root, opts = {}) {
   form.append(status, list);
 
   let typ = "all";
+  let showRetired = false;
   let active = -1;
   let current = [];
   let lastQ = "";
@@ -389,10 +440,27 @@ function mount(root, opts = {}) {
     sel.scrollIntoView({ block: "nearest" });
   }
 
-  function paint(nameHits, mentionHits, q, pending) {
+  function retiredToggle(hiddenRetired) {
+    const li = el("li", { class: "atlas-retired-toggle", role: "presentation" });
+    let label, action;
+    if (hiddenRetired > 0) {
+      label = hiddenRetired === 1 ? "Show 1 retired result" : `Show ${hiddenRetired} retired results`;
+      action = "show";
+    } else if (showRetired) {
+      label = "Hide retired results";
+      action = "hide";
+    } else {
+      return null;
+    }
+    li.append(el("button", { type: "button", "data-retired-toggle": action, text: label }));
+    return li;
+  }
+
+  function paint(nameHits, mentionHits, q, pending, hiddenRetired) {
+    hiddenRetired = hiddenRetired || 0;
     current = [...nameHits, ...mentionHits];
     list.replaceChildren();
-    if (!current.length) {
+    if (!current.length && hiddenRetired === 0) {
       list.dataset.empty = "true";
       input.setAttribute("aria-expanded", "false");
       status.textContent = q ? (pending ? "Searching…" : "No matches.") : "";
@@ -404,6 +472,8 @@ function mount(root, opts = {}) {
       list.append(el("li", { class: "atlas-group", role: "presentation", text: "Names" }));
       nameHits.forEach((h, i) => list.append(renderHit(h, i, uid + "-n")));
     }
+    const toggle = retiredToggle(hiddenRetired);
+    if (toggle) list.append(toggle);
     if (mentionHits.length) {
       list.append(el("li", { class: "atlas-group", role: "presentation", text: "Mentions in page text" }));
       mentionHits.forEach((h, i) => list.append(renderHit(h, nameHits.length + i, uid + "-m")));
@@ -413,6 +483,7 @@ function mount(root, opts = {}) {
     const bits = [];
     if (n) bits.push(n === 1 ? "1 name" : n + " names");
     if (m) bits.push(m === 1 ? "1 mention" : m + " mentions");
+    if (hiddenRetired) bits.push(hiddenRetired === 1 ? "1 retired hidden" : hiddenRetired + " retired hidden");
     status.textContent = (bits.join(" and ") || "No matches") + (pending ? "…" : "") + ".";
     active = -1;
   }
@@ -422,18 +493,18 @@ function mount(root, opts = {}) {
     q = q.trim();
     lastQ = q;
     if (!q) {
-      paint([], [], "", false);
+      paint([], [], "", false, 0);
       return;
     }
     await loadNames();
     if (my !== gen) return;
-    const nameHits = searchNames(q, typ, nameLimit);
-    const exclude = new Set(nameHits.map((h) => h.rec.u));
-    paint(nameHits, [], q, true);
+    const found = searchNames(q, typ, nameLimit, showRetired);
+    const nameHits = found.hits;
+    paint(nameHits, [], q, true, found.hiddenRetired);
     if (!withPagefind) return;
-    const mentionHits = await searchPagefind(q, typ, exclude, mentionLimit);
+    const mentionHits = await searchPagefind(q, typ, nameHits, showRetired, mentionLimit);
     if (my !== gen) return;
-    paint(nameHits, mentionHits, q, false);
+    paint(nameHits, mentionHits, q, false, found.hiddenRetired);
   }
 
   function schedule(q) {
@@ -496,6 +567,13 @@ function mount(root, opts = {}) {
     }
     if (lastQ) schedule(lastQ);
     if (mode === "page") syncUrl();
+  });
+  list.addEventListener("click", (e) => {
+    const b = e.target.closest("[data-retired-toggle]");
+    if (!b) return;
+    e.preventDefault();
+    showRetired = b.getAttribute("data-retired-toggle") === "show";
+    if (lastQ) schedule(lastQ);
   });
   document.addEventListener("click", (e) => {
     if (mode === "header" && !form.contains(e.target)) {
