@@ -155,4 +155,4 @@ h2{font-size:.86rem;letter-spacing:.16em;text-transform:uppercase;font-weight:65
 
 /* long ids (e.g. Nostr address) wrap on small screens */
 .mono,code{overflow-wrap:anywhere;word-break:break-word}
-html,body{overflow-x:hidden}
+html,body{overflow-x:clip}
