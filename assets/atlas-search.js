@@ -11,7 +11,7 @@ function searchPath() {
   if (raw && raw.trim()) {
     return raw.endsWith("/") ? raw.trim() : raw.trim() + "/";
   }
-  return "/search-test/";
+  return "/search/";
 }
 const JR = new Set(["jr", "sr", "ii", "iii", "iv", "v"]);
 const TYPE_LABEL = { person: "Person", org: "Organization", faction: "Faction", issue: "Issue", page: "Page" };
@@ -629,8 +629,8 @@ function boot() {
     const pageMode = document.body.classList.contains("atlas-search-page") || path.endsWith("/search/") || path.endsWith("/search-test/");
     mount(hero, { mode: pageMode ? "page" : "hero" });
   }
-  // Header dropdown is opt-in so existing site pages stay unchanged if this script is loaded.
-  if (document.querySelector("[data-atlas-header]")) enhanceHeader();
+  // Enhance the site header search box on every page that has one.
+  if (document.querySelector("form.head-search")) enhanceHeader();
   document.addEventListener("keydown", (e) => {
     if (e.key !== "/" || e.ctrlKey || e.metaKey || e.altKey) return;
     const tag = (document.activeElement && document.activeElement.tagName) || "";

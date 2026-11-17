@@ -177,12 +177,16 @@ html,body{overflow-x:clip}
    Self-contained. Safe to fold into the theme style.css later.
    Loaded by appending this file to assets/style.css at publish time. */
 
-/* Homepage note under the hero counts (class .counts-note). */
-.counts-note{
+/* Homepage note under the hero counts (class .counts-note, sometimes with .note). */
+.counts-note,
+.note.counts-note{
   margin:.2rem 0 1.15rem;
   max-width:44rem;
   font:400 .85rem/1.45 var(--f-ui);
   color:var(--muted);
+  border:0;
+  background:transparent;
+  padding:0;
 }
 .counts-note a{color:var(--muted)}
 .counts-note a:hover{color:var(--link)}

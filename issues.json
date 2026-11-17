@@ -1,0 +1,166 @@
+{
+ "topics": [
+  {
+   "slug": "bitcoin",
+   "title": "Bitcoin factions",
+   "url": "issues/bitcoin/",
+   "anchor": "bitcoin",
+   "positions": 8,
+   "recorded": 45,
+   "summary": "Positions inside Bitcoin culture, independent of political faction: a Christian nationalist and a libertarian can share a Bitcoin faction."
+  },
+  {
+   "slug": "israel",
+   "title": "Israel stance",
+   "url": "issues/israel/",
+   "anchor": "israel_stance",
+   "positions": 3,
+   "recorded": 89,
+   "summary": "Stance on Israel and on US support for Israel."
+  },
+  {
+   "slug": "theological-tradition",
+   "title": "Theological tradition / denomination",
+   "url": "issues/theological-tradition/",
+   "anchor": "theological_tradition",
+   "positions": 33,
+   "recorded": 1073,
+   "summary": "Church tradition stated by the account itself (bio, church affiliation) or shown by explicit theology in posts."
+  },
+  {
+   "slug": "eschatology",
+   "title": "Eschatology",
+   "url": "issues/eschatology/",
+   "anchor": "eschatology",
+   "positions": 2,
+   "recorded": 6,
+   "summary": "End-times views when an account states them."
+  },
+  {
+   "slug": "btc-bip110",
+   "title": "Bitcoin: BIP-110 fork stance",
+   "url": "issues/btc-bip110/",
+   "anchor": "btc_bip110",
+   "positions": 2,
+   "recorded": 6,
+   "summary": "Stance on BIP-110, the 2026 soft-fork effort against data 'spam' led by Knots supporters."
+  },
+  {
+   "slug": "trump",
+   "title": "Stance toward Trump / the administration (Oct 2026)",
+   "url": "issues/trump/",
+   "anchor": "trump_stance",
+   "positions": 4,
+   "recorded": 173,
+   "summary": "How an account treats Trump and the second administration in Oct 2026 posts."
+  },
+  {
+   "slug": "h1b-indian-immigration",
+   "title": "H-1B / Indian immigration stance",
+   "url": "issues/h1b-indian-immigration/",
+   "anchor": "h1b_indian_immigration",
+   "positions": 3,
+   "recorded": 45,
+   "summary": "Stance on H-1B visas and on Indian immigrants / Indian-American politicians."
+  },
+  {
+   "slug": "national-identity",
+   "title": "National identity: heritage vs creedal",
+   "url": "issues/national-identity/",
+   "anchor": "national_identity",
+   "positions": 2,
+   "recorded": 38,
+   "summary": "Who counts as a member of the nation (US or UK)."
+  },
+  {
+   "slug": "midterm-vote-posture",
+   "title": "Midterm vote posture (Nov 3, 2026)",
+   "url": "issues/midterm-vote-posture/",
+   "anchor": "midterm_vote_posture",
+   "positions": 4,
+   "recorded": 42,
+   "summary": "How an account says the right should vote in the 2026 midterms, given disputes over the Iran war, Vance and the Ramaswamy ad."
+  },
+  {
+   "slug": "foreign-policy",
+   "title": "Foreign policy: interventionist hawk to restraint",
+   "url": "issues/foreign-policy/",
+   "anchor": "foreign_policy",
+   "positions": 3,
+   "recorded": 211,
+   "summary": "Where an account sits on US military intervention (Iran war, Ukraine, regime change), from hawk to restraint."
+  },
+  {
+   "slug": "save-heritage-indiana",
+   "title": "Save Heritage Indiana stance",
+   "url": "issues/save-heritage-indiana/",
+   "anchor": "shi_stance",
+   "positions": 3,
+   "recorded": 8,
+   "summary": "Indiana figures only."
+  },
+  {
+   "slug": "ff-food-freedom",
+   "title": "Four Freedoms: food freedom",
+   "url": "issues/ff-food-freedom/",
+   "anchor": "ff_food_freedom",
+   "positions": 3,
+   "recorded": 7,
+   "summary": "Orthogonal issue axis."
+  },
+  {
+   "slug": "ff-financial-freedom",
+   "title": "Four Freedoms: financial freedom",
+   "url": "issues/ff-financial-freedom/",
+   "anchor": "ff_financial_freedom",
+   "positions": 3,
+   "recorded": 8,
+   "summary": "Orthogonal issue axis."
+  },
+  {
+   "slug": "ff-medical-freedom",
+   "title": "Four Freedoms: medical freedom",
+   "url": "issues/ff-medical-freedom/",
+   "anchor": "ff_medical_freedom",
+   "positions": 3,
+   "recorded": 7,
+   "summary": "Orthogonal issue axis."
+  },
+  {
+   "slug": "ff-political-freedom",
+   "title": "Four Freedoms: political freedom",
+   "url": "issues/ff-political-freedom/",
+   "anchor": "ff_political_freedom",
+   "positions": 3,
+   "recorded": 5,
+   "summary": ""
+  },
+  {
+   "slug": "political-strategy",
+   "title": "Political strategy (vehicle / posture toward the GOP)",
+   "url": "issues/political-strategy/",
+   "anchor": "political_strategy",
+   "positions": 5,
+   "recorded": 7,
+   "summary": ""
+  },
+  {
+   "slug": "education-freedom",
+   "title": "Education freedom (stance on schooling)",
+   "url": "issues/education-freedom/",
+   "anchor": "education_freedom",
+   "positions": 4,
+   "recorded": 10,
+   "summary": ""
+  },
+  {
+   "slug": "vance",
+   "title": "Vance stance (VP JD Vance as the post-Trump heir)",
+   "url": "issues/vance/",
+   "anchor": "vance_stance",
+   "positions": 4,
+   "recorded": 16,
+   "summary": ""
+  }
+ ]
+}
