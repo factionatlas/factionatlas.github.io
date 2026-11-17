@@ -152,7 +152,16 @@ h2{font-size:.86rem;letter-spacing:.16em;text-transform:uppercase;font-weight:65
 .menu-grid a{border-radius:0;border-left:4px solid var(--accent)}
 .badge{letter-spacing:.06em;text-transform:uppercase;font-size:.72rem}
 .coord{font-family:var(--f-mono);font-size:.75rem;color:var(--muted);letter-spacing:.05em}
-
+/* Faction Atlas generator additions: tree view (uses existing tokens only) */
+.tree,.tree ul{list-style:none;margin:0;padding:0}
+.tree ul{padding-left:1.15rem;border-left:1px solid var(--border);margin-left:.35rem}
+.tree li{margin:.3rem 0;font:.95rem/1.45 var(--f-ui)}
+.tree .ct{font:.78rem var(--f-mono);color:var(--muted);margin-left:.35rem}
+.tree .badge{margin-left:.35rem;vertical-align:middle}
+.src-list{font:.88rem/1.5 var(--f-ui);padding-left:1.1rem}
+.src-list li{margin:.2rem 0;overflow-wrap:anywhere}
+.tree li{overflow-wrap:anywhere;min-width:0}
+@media (max-width:860px){.tree ul{padding-left:.55rem;margin-left:.2rem}}
 /* long ids (e.g. Nostr address) wrap on small screens */
 .mono,code{overflow-wrap:anywhere;word-break:break-word}
 html,body{overflow-x:clip}
