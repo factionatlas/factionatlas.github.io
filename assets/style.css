@@ -328,3 +328,93 @@ ul.chips.linked-from a.xref:hover{text-decoration:underline;text-decoration-thic
   .entry-links li.link > a.xref,
   .entry-links li.link > .name-source{grid-column:1;grid-row:auto}
 }
+
+/* Folded sources + Atlas-only link chips + in-page [n] citations (apply_links.py). */
+.entry-links li.atlas-on{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:baseline;
+  gap:.4rem .7rem;
+  padding:.15rem 0 .05rem;
+}
+.atlas-on-label{
+  flex:0 0 auto;
+  font:600 .68rem/1.3 var(--f-ui);
+  letter-spacing:.07em;
+  text-transform:uppercase;
+  color:var(--muted);
+  padding-top:.12rem;
+}
+.entry-links li.atlas-on > .chips{flex:1 1 12rem}
+.sources-fold{margin:0}
+.sources-fold > summary{
+  cursor:pointer;
+  list-style:none;
+  font:650 .86rem/1.4 var(--f-head);
+  letter-spacing:.16em;
+  text-transform:uppercase;
+  color:var(--text);
+  padding:.1rem 0 .55rem 1.2rem;
+  position:relative;
+  border-bottom:1px solid transparent;
+}
+.sources-fold > summary::-webkit-details-marker{display:none}
+.sources-fold > summary::marker{content:""}
+.sources-fold > summary::before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:50%;
+  width:.42rem;
+  height:.42rem;
+  border-right:2px solid var(--strong);
+  border-bottom:2px solid var(--strong);
+  transform:translateY(-70%) rotate(-45deg);
+}
+.sources-fold[open] > summary::before{transform:translateY(-40%) rotate(45deg)}
+.sources-fold[open] > summary{border-bottom-color:var(--border);margin-bottom:.7rem}
+.sources-fold > p{margin:.15rem 0 .7rem}
+ol.src-links{
+  list-style:decimal;
+  margin:0;
+  padding:0 0 .2rem 1.5rem;
+  font:.92rem/1.45 var(--f-ui);
+  color:var(--text);
+}
+ol.src-links > li{
+  padding:.4rem 0;
+  border-bottom:1px solid var(--border);
+  overflow-wrap:anywhere;
+}
+ol.src-links > li:last-child{border-bottom:0}
+ol.src-links .src-kind{
+  display:inline-block;
+  min-width:6.2rem;
+  margin-right:.45rem;
+  font:600 .68rem/1.3 var(--f-ui);
+  letter-spacing:.07em;
+  text-transform:uppercase;
+  color:var(--muted);
+  vertical-align:baseline;
+}
+ol.src-links .name-source{
+  display:inline;
+  margin-left:.35rem;
+  font:400 .8rem/1.4 var(--f-ui);
+  color:var(--muted);
+}
+sup.src-ref{
+  font:600 .7em/1 var(--f-ui);
+  margin-left:.14em;
+}
+sup.src-ref a{
+  color:var(--muted);
+  text-decoration:none;
+  padding:0 .12em;
+}
+sup.src-ref a:hover,
+sup.src-ref a:focus-visible{color:var(--link);text-decoration:underline}
+h3 + ul.chips.affiliated-orgs{margin-bottom:.85rem}
+@media (max-width:860px){
+  ol.src-links .src-kind{display:block;min-width:0;margin:0 0 .15rem}
+}

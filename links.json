@@ -61,6 +61,26 @@
    "related": null
   }
  ],
+ "person/p_0806258582/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Alan Jackson (D)",
+   "related": null
+  }
+ ],
+ "person/p_0997242942/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jerry Frey",
+   "related": null
+  }
+ ],
  "person/p_0c2dc394b5/": [
   {
    "label": "Wikipedia: Ben Shapiro",
@@ -81,6 +101,36 @@
    "related": null
   }
  ],
+ "person/p_10e3832682/": [
+  {
+   "label": "Delphi Community School Board",
+   "url": "https://www.delphi.k12.in.us/36686_2",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Stephanie Mills",
+   "related": null
+  }
+ ],
+ "person/p_1120dc6a94/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Tony Liggett",
+   "related": null
+  }
+ ],
+ "person/p_11f06b0c85/": [
+  {
+   "label": "Town of Flora: Local Government",
+   "url": "https://www.townofflora.org/local-government/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Chris Albaugh",
+   "related": null
+  }
+ ],
  "person/p_144458062c/": [
   {
    "label": "Wikipedia: Tucker Carlson",
@@ -88,6 +138,54 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Tucker Carlson",
+   "related": null
+  }
+ ],
+ "person/p_14907f8b8a/": [
+  {
+   "label": "City of Delphi: Council Members",
+   "url": "https://www.cityofdelphi.in.gov/city-building/city-council/council-members",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Dale Seward",
+   "related": null
+  }
+ ],
+ "person/p_14da1d6b8a/": [
+  {
+   "label": "Ballotpedia: Carroll Consolidated School Corporation",
+   "url": "https://ballotpedia.org/Carroll_Consolidated_School_Corporation,_Indiana",
+   "kind": "ballotpedia",
+   "confirms_name": true,
+   "name_shown": "Kyle Wagner",
+   "related": null
+  },
+  {
+   "label": "Carroll Consolidated School Corporation: Board of Trustees",
+   "url": "https://www.carroll.k12.in.us/page/board-of-trustees",
+   "kind": "official_bio",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  }
+ ],
+ "person/p_14da4517da/": [
+  {
+   "label": "City of Delphi: Council Members",
+   "url": "https://www.cityofdelphi.in.gov/city-building/city-council/council-members",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Erin Jubril",
+   "related": null
+  }
+ ],
+ "person/p_16586e4729/": [
+  {
+   "label": "City of Delphi: Council Members",
+   "url": "https://www.cityofdelphi.in.gov/city-building/city-council/council-members",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Kamron Yates",
    "related": null
   }
  ],
@@ -133,11 +231,29 @@
    "related": null
   },
   {
+   "label": "Town of Burlington: Town Council",
+   "url": "https://www.burlingtonindiana.org/government/town-council/town-council-info/71-burlington-town-council.html",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Daniel Stephens",
+   "related": null
+  },
+  {
    "label": "Town of Burlington, Indiana: churches list",
    "url": "https://www.burlingtonindiana.org/community/churches.html",
    "kind": "name_source",
    "confirms_name": true,
    "name_shown": "Daniel Stephens",
+   "related": null
+  }
+ ],
+ "person/p_16d6b893a3/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Scott D. Sisson",
    "related": null
   }
  ],
@@ -151,6 +267,46 @@
    "related": null
   }
  ],
+ "person/p_177f9eaf5d/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jill Moudy",
+   "related": null
+  }
+ ],
+ "person/p_1a1989c967/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Christopher J. Dyke (D)",
+   "related": null
+  }
+ ],
+ "person/p_1d82559bae/": [
+  {
+   "label": "Carroll County Comet: Yeoman Community Park officially opens (16 Oct 2019)",
+   "url": "https://www.carrollcountycomet.com/articles/yeoman-community-park-officially-opens/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Shirley Larson",
+   "related": null
+  }
+ ],
+ "person/p_25097f37b8/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Joseph Mylet (D)",
+   "related": null
+  }
+ ],
  "person/p_25c93d8689/": [
   {
    "label": "Wikipedia: Donald Trump",
@@ -158,6 +314,156 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Donald Trump",
+   "related": null
+  }
+ ],
+ "person/p_260aeb36ef/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Wayne Remaly",
+   "related": null
+  }
+ ],
+ "person/p_26e604aec8/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Kathy Justice",
+   "related": null
+  }
+ ],
+ "person/p_27fedded25/": [
+  {
+   "label": "City of Delphi: Clerk-Treasurer",
+   "url": "https://www.cityofdelphi.in.gov/city-building/clerk-treasurer",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Julie Price",
+   "related": null
+  }
+ ],
+ "person/p_28857da1f1/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Troy Hawkins",
+   "related": null
+  }
+ ],
+ "person/p_2b677d1a23/": [
+  {
+   "label": "Delphi Community School Board",
+   "url": "https://www.delphi.k12.in.us/36686_2",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Chris Nipple",
+   "related": null
+  }
+ ],
+ "person/p_2c8d35280d/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Norman Anderson",
+   "related": null
+  }
+ ],
+ "person/p_2d703e21f0/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jerry Sparks",
+   "related": null
+  }
+ ],
+ "person/p_2e54bfed05/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Linda Heinzelman",
+   "related": null
+  }
+ ],
+ "person/p_2ef4d945a8/": [
+  {
+   "label": "Town of Camden: Contact Us",
+   "url": "https://www.townofcamden.org/contact-us/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Brent Deel",
+   "related": null
+  }
+ ],
+ "person/p_31fe72d47e/": [
+  {
+   "label": "Town of Camden: Contact Us",
+   "url": "https://www.townofcamden.org/contact-us/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Mark Schock",
+   "related": null
+  }
+ ],
+ "person/p_3451c25dc6/": [
+  {
+   "label": "Town of Flora: Local Government",
+   "url": "https://www.townofflora.org/local-government/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Robert Kauffman",
+   "related": null
+  }
+ ],
+ "person/p_34a9795143/": [
+  {
+   "label": "Delphi Community School Board",
+   "url": "https://www.delphi.k12.in.us/36686_2",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Mike Priest",
+   "related": null
+  }
+ ],
+ "person/p_35e1c4db95/": [
+  {
+   "label": "Carroll County Council Members",
+   "url": "https://www.in.gov/counties/carroll/council-members/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Angela C Brown (Angie)",
+   "related": null
+  }
+ ],
+ "person/p_3642cd912f/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jeffrey M. Potts",
+   "related": null
+  }
+ ],
+ "person/p_36f3d00467/": [
+  {
+   "label": "Delphi Community School Board",
+   "url": "https://www.delphi.k12.in.us/36686_2",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Tim Strasser",
    "related": null
   }
  ],
@@ -171,6 +477,16 @@
    "related": null
   }
  ],
+ "person/p_39efa7c4bc/": [
+  {
+   "label": "Carroll County Council Members",
+   "url": "https://www.in.gov/counties/carroll/council-members/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Taylor Fife",
+   "related": null
+  }
+ ],
  "person/p_3a3589cc5a/": [
   {
    "label": "Wikipedia: Marjorie Taylor Greene",
@@ -178,6 +494,162 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Marjorie Taylor Greene",
+   "related": null
+  }
+ ],
+ "person/p_3ca75a0e84/": [
+  {
+   "label": "Ballotpedia: Carroll Consolidated School Corporation",
+   "url": "https://ballotpedia.org/Carroll_Consolidated_School_Corporation,_Indiana",
+   "kind": "ballotpedia",
+   "confirms_name": true,
+   "name_shown": "Eric Johnson",
+   "related": null
+  },
+  {
+   "label": "Carroll Consolidated School Corporation: Board of Trustees",
+   "url": "https://www.carroll.k12.in.us/page/board-of-trustees",
+   "kind": "official_bio",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  }
+ ],
+ "person/p_3d4d90ae1f/": [
+  {
+   "label": "Carroll County Council Members",
+   "url": "https://www.in.gov/counties/carroll/council-members/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Cody Martin",
+   "related": null
+  }
+ ],
+ "person/p_4657de0429/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Kathi O'Farrell",
+   "related": null
+  }
+ ],
+ "person/p_491c47d44f/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Steve May",
+   "related": null
+  }
+ ],
+ "person/p_5063f20ed4/": [
+  {
+   "label": "Delphi Community School Board",
+   "url": "https://www.delphi.k12.in.us/36686_2",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Kirk Schwarzkopf",
+   "related": null
+  }
+ ],
+ "person/p_526da43575/": [
+  {
+   "label": "Carroll County Commissioners",
+   "url": "https://www.in.gov/counties/carroll/commissioners/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "William R. Brown",
+   "related": null
+  }
+ ],
+ "person/p_5522a2aa9e/": [
+  {
+   "label": "Ballotpedia: Carroll Consolidated School Corporation",
+   "url": "https://ballotpedia.org/Carroll_Consolidated_School_Corporation,_Indiana",
+   "kind": "ballotpedia",
+   "confirms_name": true,
+   "name_shown": "Scott Butcher",
+   "related": null
+  },
+  {
+   "label": "Carroll Consolidated School Corporation: Board of Trustees",
+   "url": "https://www.carroll.k12.in.us/page/board-of-trustees",
+   "kind": "official_bio",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  }
+ ],
+ "person/p_55f958c52f/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Karlee Sparks",
+   "related": null
+  }
+ ],
+ "person/p_574bcc6881/": [
+  {
+   "label": "Carroll County Council Members",
+   "url": "https://www.in.gov/counties/carroll/council-members/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Brady Wiles",
+   "related": null
+  }
+ ],
+ "person/p_577e530275/": [
+  {
+   "label": "Town of Camden: Contact Us",
+   "url": "https://www.townofcamden.org/contact-us/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Andy Robison",
+   "related": null
+  }
+ ],
+ "person/p_5794f45d7b/": [
+  {
+   "label": "Carroll County Council Members",
+   "url": "https://www.in.gov/counties/carroll/council-members/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Sheri Johnson",
+   "related": null
+  }
+ ],
+ "person/p_58c3833fe0/": [
+  {
+   "label": "Town of Flora: Local Government",
+   "url": "https://www.townofflora.org/local-government/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Pamela J. Beck",
+   "related": null
+  }
+ ],
+ "person/p_5bba2965b7/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Danny LePage",
+   "related": null
+  }
+ ],
+ "person/p_5df4cafd50/": [
+  {
+   "label": "City of Delphi: Council Members",
+   "url": "https://www.cityofdelphi.in.gov/city-building/city-council/council-members",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Doyle Moore",
    "related": null
   }
  ],
@@ -225,6 +697,96 @@
    "related": null
   }
  ],
+ "person/p_62f5f376ae/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Emily A. Meek",
+   "related": null
+  }
+ ],
+ "person/p_644bb9a521/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Anne Edwards",
+   "related": null
+  }
+ ],
+ "person/p_66dd48faab/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Melinda Rossetter",
+   "related": null
+  }
+ ],
+ "person/p_67cc8a9708/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Annie Crosser",
+   "related": null
+  }
+ ],
+ "person/p_695f795bae/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Patrick H. O'Donnell",
+   "related": null
+  }
+ ],
+ "person/p_69c4000c17/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Ronald Felz",
+   "related": null
+  }
+ ],
+ "person/p_6a9384b4b1/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Sarah Hanaway",
+   "related": null
+  }
+ ],
+ "person/p_6fd023d320/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Marlene (Gail) Frye",
+   "related": null
+  }
+ ],
+ "person/p_711b705270/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Sandra Brown (D)",
+   "related": null
+  }
+ ],
  "person/p_71535e5c66/": [
   {
    "label": "Wikipedia: Ted Cruz",
@@ -232,6 +794,86 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Ted Cruz",
+   "related": null
+  }
+ ],
+ "person/p_71bbae1e0a/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Rick Roller",
+   "related": null
+  }
+ ],
+ "person/p_722a7e0619/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Dean Gangwer",
+   "related": null
+  }
+ ],
+ "person/p_74a9cbc43a/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "John R. O'Rourke",
+   "related": null
+  }
+ ],
+ "person/p_74be12c543/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Dee A. Humbarger",
+   "related": null
+  }
+ ],
+ "person/p_77e229abe3/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Larry Leach",
+   "related": null
+  }
+ ],
+ "person/p_7e57e22468/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Carol Bordner",
+   "related": null
+  }
+ ],
+ "person/p_7ea88db631/": [
+  {
+   "label": "City of Delphi: Council Members",
+   "url": "https://www.cityofdelphi.in.gov/city-building/city-council/council-members",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Spencer Kingery",
+   "related": null
+  }
+ ],
+ "person/p_7f8907ec0e/": [
+  {
+   "label": "Carroll County Chamber: Town of Yeoman",
+   "url": "http://carrollcountychamber.chambermaster.com/list/member/yeoman-town-of-yeoman-305.htm",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Peggy Braden",
    "related": null
   }
  ],
@@ -255,6 +897,24 @@
    "related": null
   }
  ],
+ "person/p_86b068a9b9/": [
+  {
+   "label": "Ballotpedia: Carroll Consolidated School Corporation",
+   "url": "https://ballotpedia.org/Carroll_Consolidated_School_Corporation,_Indiana",
+   "kind": "ballotpedia",
+   "confirms_name": true,
+   "name_shown": "Stacey Brazel",
+   "related": null
+  },
+  {
+   "label": "Carroll Consolidated School Corporation: Board of Trustees",
+   "url": "https://www.carroll.k12.in.us/page/board-of-trustees",
+   "kind": "official_bio",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  }
+ ],
  "person/p_8819c1200d/": [
   {
    "label": "Wikipedia: Jim Jordan",
@@ -262,6 +922,16 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Jim Jordan",
+   "related": null
+  }
+ ],
+ "person/p_8a3dd766ae/": [
+  {
+   "label": "Carroll County Commissioners",
+   "url": "https://www.in.gov/counties/carroll/commissioners/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Loren Hylton",
    "related": null
   }
  ],
@@ -285,6 +955,56 @@
    "related": null
   }
  ],
+ "person/p_94bed14cd9/": [
+  {
+   "label": "Town of Burlington: Town Council",
+   "url": "https://www.burlingtonindiana.org/government/town-council/town-council-info/71-burlington-town-council.html",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jared Goltz",
+   "related": null
+  }
+ ],
+ "person/p_95c4e55bc3/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Deborah \"Deb\" Foreman",
+   "related": null
+  }
+ ],
+ "person/p_97601a9048/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Neda K. Duff",
+   "related": null
+  }
+ ],
+ "person/p_9883c48c06/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Theodore M. Enoch (D)",
+   "related": null
+  }
+ ],
+ "person/p_9a673594a6/": [
+  {
+   "label": "Town of Camden: Contact Us",
+   "url": "https://www.townofcamden.org/contact-us/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jeff Sieber",
+   "related": null
+  }
+ ],
  "person/p_a06ced2035/": [
   {
    "label": "Wikipedia: Tom Cotton",
@@ -292,6 +1012,36 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Tom Cotton",
+   "related": null
+  }
+ ],
+ "person/p_aa72f0c296/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Sharon Milburn",
+   "related": null
+  }
+ ],
+ "person/p_acbf20b490/": [
+  {
+   "label": "Delphi Community School Board",
+   "url": "https://www.delphi.k12.in.us/36686_2",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Gil Smith",
+   "related": null
+  }
+ ],
+ "person/p_af4a084399/": [
+  {
+   "label": "Town of Burlington: Town Council",
+   "url": "https://www.burlingtonindiana.org/government/town-council/town-council-info/71-burlington-town-council.html",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Karen Dinger",
    "related": null
   }
  ],
@@ -305,6 +1055,84 @@
    "related": null
   }
  ],
+ "person/p_b09503a2f3/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Janie Smith (D)",
+   "related": null
+  }
+ ],
+ "person/p_b49f361a86/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "John A. Campbell",
+   "related": null
+  }
+ ],
+ "person/p_baca69ea5c/": [
+  {
+   "label": "Ballotpedia: Carroll Consolidated School Corporation",
+   "url": "https://ballotpedia.org/Carroll_Consolidated_School_Corporation,_Indiana",
+   "kind": "ballotpedia",
+   "confirms_name": true,
+   "name_shown": "Shawn Wickersham",
+   "related": null
+  },
+  {
+   "label": "Carroll Consolidated School Corporation: Board of Trustees",
+   "url": "https://www.carroll.k12.in.us/page/board-of-trustees",
+   "kind": "official_bio",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  }
+ ],
+ "person/p_bc01a5a440/": [
+  {
+   "label": "Town of Burlington: Town Council",
+   "url": "https://www.burlingtonindiana.org/government/town-council/town-council-info/71-burlington-town-council.html",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Kevin Hammond",
+   "related": null
+  }
+ ],
+ "person/p_bc9ce0773f/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jamie Rough",
+   "related": null
+  }
+ ],
+ "person/p_c065ed1c28/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Marla R. Milazzo",
+   "related": null
+  }
+ ],
+ "person/p_c292d46c79/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Joseph Seagrave",
+   "related": null
+  }
+ ],
  "person/p_c3770138ca/": [
   {
    "label": "Wikipedia: JD Vance",
@@ -315,6 +1143,16 @@
    "related": null
   }
  ],
+ "person/p_c7aec6e818/": [
+  {
+   "label": "Delphi Community School Board",
+   "url": "https://www.delphi.k12.in.us/36686_2",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Zach Owen",
+   "related": null
+  }
+ ],
  "person/p_c7ca6d7d1e/": [
   {
    "label": "Wikipedia: Anna Paulina Luna",
@@ -322,6 +1160,136 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Anna Paulina Luna",
+   "related": null
+  }
+ ],
+ "person/p_c8f3fcb666/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Tina Albaugh",
+   "related": null
+  }
+ ],
+ "person/p_cc54c5fc24/": [
+  {
+   "label": "Carroll County Council Members",
+   "url": "https://www.in.gov/counties/carroll/council-members/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Tracy Martin",
+   "related": null
+  }
+ ],
+ "person/p_cd3d35a1ab/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Adam W. Butcher (D)",
+   "related": null
+  }
+ ],
+ "person/p_d10e983706/": [
+  {
+   "label": "Carroll County Commissioners",
+   "url": "https://www.in.gov/counties/carroll/commissioners/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Scott Ayres",
+   "related": null
+  }
+ ],
+ "person/p_d20f328302/": [
+  {
+   "label": "City of Delphi: Council Members",
+   "url": "https://www.cityofdelphi.in.gov/city-building/city-council/council-members",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Denny Myers",
+   "related": null
+  }
+ ],
+ "person/p_d2bdf7dfec/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Kristin Enoch",
+   "related": null
+  }
+ ],
+ "person/p_d3c8b16341/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Lisa Ringer",
+   "related": null
+  }
+ ],
+ "person/p_d4dcf5b6ff/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Morgan Anderson",
+   "related": null
+  }
+ ],
+ "person/p_d63bedcfd6/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Nicholas McLeland",
+   "related": null
+  }
+ ],
+ "person/p_d73895a762/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Shane Evans",
+   "related": null
+  }
+ ],
+ "person/p_dab2ae25b3/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jeff Kessler",
+   "related": null
+  }
+ ],
+ "person/p_db232e6b70/": [
+  {
+   "label": "Town of Flora: Local Government",
+   "url": "https://www.townofflora.org/local-government/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Darrell Yoder",
+   "related": null
+  }
+ ],
+ "person/p_db55e85ee3/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Janice A. Marvin",
    "related": null
   }
  ],
@@ -345,6 +1313,16 @@
    "related": null
   }
  ],
+ "person/p_e0a7a5e36e/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Bill Northcutt",
+   "related": null
+  }
+ ],
  "person/p_e10664b21d/": [
   {
    "label": "Wikipedia: Ashley Moody",
@@ -352,6 +1330,16 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Ashley Moody",
+   "related": null
+  }
+ ],
+ "person/p_e1d72f530d/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Shirley Goyer",
    "related": null
   }
  ],
@@ -375,6 +1363,16 @@
    "related": null
   }
  ],
+ "person/p_e9774f8eb7/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Joseph P. Martin",
+   "related": null
+  }
+ ],
  "person/p_e9d8dce9e3/": [
   {
    "label": "Wikipedia: Jim Banks",
@@ -382,6 +1380,46 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Jim Banks",
+   "related": null
+  }
+ ],
+ "person/p_eb4b6b990a/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Dwaine K. Ward",
+   "related": null
+  }
+ ],
+ "person/p_ebeffee01d/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Robert W Gross",
+   "related": null
+  }
+ ],
+ "person/p_ecc21c387a/": [
+  {
+   "label": "Carroll County Information (county officers)",
+   "url": "https://www.in.gov/counties/carroll/county-information/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Beth L. Myers",
+   "related": null
+  }
+ ],
+ "person/p_ed4941442d/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Lance Alter",
    "related": null
   }
  ],
@@ -405,6 +1443,46 @@
    "related": null
   }
  ],
+ "person/p_f125882380/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jack Begley",
+   "related": null
+  }
+ ],
+ "person/p_f26a037beb/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Marcia Jura",
+   "related": null
+  }
+ ],
+ "person/p_f46f830f74/": [
+  {
+   "label": "Carroll County Council Members",
+   "url": "https://www.in.gov/counties/carroll/council-members/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Paul Rider",
+   "related": null
+  }
+ ],
+ "person/p_f527efb89c/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Donald Leisure",
+   "related": null
+  }
+ ],
  "person/p_f53a08e1ba/": [
   {
    "label": "Wikipedia: Brian Mast",
@@ -415,6 +1493,16 @@
    "related": null
   }
  ],
+ "person/p_fa38a9b501/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Jamie Musall",
+   "related": null
+  }
+ ],
  "person/p_fadf973a23/": [
   {
    "label": "Wikipedia: Lauren Boebert",
@@ -422,6 +1510,26 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Lauren Boebert",
+   "related": null
+  }
+ ],
+ "person/p_fb4f6b7319/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Beth Zink",
+   "related": null
+  }
+ ],
+ "person/p_fc4e86c77f/": [
+  {
+   "label": "Carroll County Townships",
+   "url": "https://www.in.gov/counties/carroll/departments/townships/",
+   "kind": "official_bio",
+   "confirms_name": true,
+   "name_shown": "Richard Stout",
    "related": null
   }
  ],
