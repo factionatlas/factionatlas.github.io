@@ -165,3 +165,9 @@ h2{font-size:.86rem;letter-spacing:.16em;text-transform:uppercase;font-weight:65
 /* long ids (e.g. Nostr address) wrap on small screens */
 .mono,code{overflow-wrap:anywhere;word-break:break-word}
 html,body{overflow-x:clip}
+
+/* search results use site colors in both modes */
+#search .pagefind-ui{--pagefind-ui-primary:var(--text);--pagefind-ui-text:var(--text);--pagefind-ui-background:var(--surface);--pagefind-ui-border:var(--border);--pagefind-ui-tag:var(--surface2)}
+#search .pagefind-ui__result-excerpt{color:var(--muted)}
+#search .pagefind-ui__message{color:var(--muted)}
+#search mark{background:var(--link);color:var(--bg);padding:0 .1em;border-radius:2px}
