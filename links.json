@@ -1,0 +1,438 @@
+{
+ "org/p_02ba24bbc7/": [
+  {
+   "label": "Faith Church of Christ (official site)",
+   "url": "https://www.burlingtonfcc.com/",
+   "kind": "website",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  },
+  {
+   "label": "Faith Church of Christ on YouTube",
+   "url": "https://www.youtube.com/@FaithChurchofChrist",
+   "kind": "youtube",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  },
+  {
+   "label": "Engage Truth podcast (church page)",
+   "url": "https://www.burlingtonfcc.com/engage",
+   "kind": "podcast",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": "org/p_5f932c3728/"
+  },
+  {
+   "label": "@FCofChrist on X",
+   "url": "https://x.com/FCofChrist",
+   "kind": "x",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  },
+  {
+   "label": "Facebook: Faith Church of Christ",
+   "url": "https://www.facebook.com/FaithChurchOfChrist/",
+   "kind": "other_social",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  }
+ ],
+ "person/p_03921818ce/": [
+  {
+   "label": "Wikipedia: Richard B. Spencer",
+   "url": "https://en.wikipedia.org/wiki/Richard_B._Spencer",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Richard B. Spencer",
+   "related": null
+  }
+ ],
+ "person/p_06e1e9a142/": [
+  {
+   "label": "Wikipedia: Nick Fuentes",
+   "url": "https://en.wikipedia.org/wiki/Nick_Fuentes",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Nick Fuentes",
+   "related": null
+  }
+ ],
+ "person/p_0c2dc394b5/": [
+  {
+   "label": "Wikipedia: Ben Shapiro",
+   "url": "https://en.wikipedia.org/wiki/Ben_Shapiro",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Ben Shapiro",
+   "related": null
+  }
+ ],
+ "person/p_0cb8865b21/": [
+  {
+   "label": "Wikipedia: Elon Musk",
+   "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Elon Musk",
+   "related": null
+  }
+ ],
+ "person/p_144458062c/": [
+  {
+   "label": "Wikipedia: Tucker Carlson",
+   "url": "https://en.wikipedia.org/wiki/Tucker_Carlson",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Tucker Carlson",
+   "related": null
+  }
+ ],
+ "person/p_16bdb5131e/": [
+  {
+   "label": "Faith Church of Christ, Burlington, Indiana: Meet the Team (lead pastor)",
+   "url": "https://www.burlingtonfcc.com/about",
+   "kind": "church_site",
+   "confirms_name": true,
+   "name_shown": "Daniel Stephens",
+   "related": "org/p_02ba24bbc7/"
+  },
+  {
+   "label": "Faith Church of Christ on YouTube",
+   "url": "https://www.youtube.com/@FaithChurchofChrist",
+   "kind": "youtube",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": "org/p_02ba24bbc7/"
+  },
+  {
+   "label": "Engage Truth on YouTube (podcast he co-hosts)",
+   "url": "https://www.youtube.com/@EngageTruth",
+   "kind": "youtube",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": "org/p_5f932c3728/"
+  },
+  {
+   "label": "Engage Truth podcast (Faith Church of Christ page)",
+   "url": "https://www.burlingtonfcc.com/engage",
+   "kind": "podcast",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": "org/p_5f932c3728/"
+  },
+  {
+   "label": "@PastorDaniel5x5 on X",
+   "url": "https://x.com/PastorDaniel5x5",
+   "kind": "x",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  },
+  {
+   "label": "Town of Burlington, Indiana: churches list",
+   "url": "https://www.burlingtonindiana.org/community/churches.html",
+   "kind": "name_source",
+   "confirms_name": true,
+   "name_shown": "Daniel Stephens",
+   "related": null
+  }
+ ],
+ "person/p_17568d15bb/": [
+  {
+   "label": "Wikipedia: Rich McCormick",
+   "url": "https://en.wikipedia.org/wiki/Rich_McCormick",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Rich McCormick",
+   "related": null
+  }
+ ],
+ "person/p_25c93d8689/": [
+  {
+   "label": "Wikipedia: Donald Trump",
+   "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Donald Trump",
+   "related": null
+  }
+ ],
+ "person/p_39b129352c/": [
+  {
+   "label": "Wikipedia: Thomas Massie",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Thomas Massie",
+   "related": null
+  }
+ ],
+ "person/p_3a3589cc5a/": [
+  {
+   "label": "Wikipedia: Marjorie Taylor Greene",
+   "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Marjorie Taylor Greene",
+   "related": null
+  }
+ ],
+ "org/p_5f932c3728/": [
+  {
+   "label": "Faith Church of Christ: Engage page",
+   "url": "https://www.burlingtonfcc.com/engage",
+   "kind": "church_site",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": "org/p_02ba24bbc7/"
+  },
+  {
+   "label": "Engage Truth on YouTube",
+   "url": "https://www.youtube.com/@EngageTruth",
+   "kind": "youtube",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  },
+  {
+   "label": "@Engaging_Truth on X",
+   "url": "https://x.com/Engaging_Truth",
+   "kind": "x",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  },
+  {
+   "label": "Faith Church of Christ: Meet the Team (elders incl. Daniel Stephens, Tim Radcliff)",
+   "url": "https://www.burlingtonfcc.com/about",
+   "kind": "name_source",
+   "confirms_name": true,
+   "name_shown": "Daniel Stephens; Tim Radcliff",
+   "related": null
+  }
+ ],
+ "person/p_60342b24d9/": [
+  {
+   "label": "Wikipedia: Mike Lee",
+   "url": "https://en.wikipedia.org/wiki/Mike_Lee",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Mike Lee",
+   "related": null
+  }
+ ],
+ "person/p_71535e5c66/": [
+  {
+   "label": "Wikipedia: Ted Cruz",
+   "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Ted Cruz",
+   "related": null
+  }
+ ],
+ "person/p_84bb3ddcb9/": [
+  {
+   "label": "Wikipedia: Brandon Gill",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Gill",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Brandon Gill",
+   "related": null
+  }
+ ],
+ "person/p_869c4a93d4/": [
+  {
+   "label": "Wikipedia: Rick Scott",
+   "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Rick Scott",
+   "related": null
+  }
+ ],
+ "person/p_8819c1200d/": [
+  {
+   "label": "Wikipedia: Jim Jordan",
+   "url": "https://en.wikipedia.org/wiki/Jim_Jordan",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Jim Jordan",
+   "related": null
+  }
+ ],
+ "person/p_8b52b85d65/": [
+  {
+   "label": "Wikipedia: Candace Owens",
+   "url": "https://en.wikipedia.org/wiki/Candace_Owens",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Candace Owens",
+   "related": null
+  }
+ ],
+ "person/p_9426a07188/": [
+  {
+   "label": "Wikipedia: Don Bacon",
+   "url": "https://en.wikipedia.org/wiki/Don_Bacon",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Don Bacon",
+   "related": null
+  }
+ ],
+ "person/p_a06ced2035/": [
+  {
+   "label": "Wikipedia: Tom Cotton",
+   "url": "https://en.wikipedia.org/wiki/Tom_Cotton",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Tom Cotton",
+   "related": null
+  }
+ ],
+ "person/p_b072fb81d8/": [
+  {
+   "label": "Wikipedia: Ron Johnson",
+   "url": "https://en.wikipedia.org/wiki/Ron_Johnson",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Ron Johnson",
+   "related": null
+  }
+ ],
+ "person/p_c3770138ca/": [
+  {
+   "label": "Wikipedia: JD Vance",
+   "url": "https://en.wikipedia.org/wiki/JD_Vance",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "JD Vance",
+   "related": null
+  }
+ ],
+ "person/p_c7ca6d7d1e/": [
+  {
+   "label": "Wikipedia: Anna Paulina Luna",
+   "url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Anna Paulina Luna",
+   "related": null
+  }
+ ],
+ "person/p_dcbcd8d5b4/": [
+  {
+   "label": "Wikipedia: Andy Biggs",
+   "url": "https://en.wikipedia.org/wiki/Andy_Biggs",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Andy Biggs",
+   "related": null
+  }
+ ],
+ "person/p_e04d79f82c/": [
+  {
+   "label": "Wikipedia: Chip Roy",
+   "url": "https://en.wikipedia.org/wiki/Chip_Roy",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Chip Roy",
+   "related": null
+  }
+ ],
+ "person/p_e10664b21d/": [
+  {
+   "label": "Wikipedia: Ashley Moody",
+   "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Ashley Moody",
+   "related": null
+  }
+ ],
+ "person/p_e33e1b9b4a/": [
+  {
+   "label": "Wikipedia: Ron Paul",
+   "url": "https://en.wikipedia.org/wiki/Ron_Paul",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Ron Paul",
+   "related": null
+  }
+ ],
+ "person/p_e6996d282c/": [
+  {
+   "label": "Wikipedia: Jack Posobiec",
+   "url": "https://en.wikipedia.org/wiki/Jack_Posobiec",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Jack Posobiec",
+   "related": null
+  }
+ ],
+ "person/p_e9d8dce9e3/": [
+  {
+   "label": "Wikipedia: Jim Banks",
+   "url": "https://en.wikipedia.org/wiki/Jim_Banks",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Jim Banks",
+   "related": null
+  }
+ ],
+ "person/p_ee7ebe7906/": [
+  {
+   "label": "Wikipedia: Tim Burchett",
+   "url": "https://en.wikipedia.org/wiki/Tim_Burchett",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Tim Burchett",
+   "related": null
+  }
+ ],
+ "person/p_eef35e7846/": [
+  {
+   "label": "Wikipedia: Eric Schmitt",
+   "url": "https://en.wikipedia.org/wiki/Eric_Schmitt",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Eric Schmitt",
+   "related": null
+  }
+ ],
+ "person/p_f53a08e1ba/": [
+  {
+   "label": "Wikipedia: Brian Mast",
+   "url": "https://en.wikipedia.org/wiki/Brian_Mast",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Brian Mast",
+   "related": null
+  }
+ ],
+ "person/p_fadf973a23/": [
+  {
+   "label": "Wikipedia: Lauren Boebert",
+   "url": "https://en.wikipedia.org/wiki/Lauren_Boebert",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Lauren Boebert",
+   "related": null
+  }
+ ],
+ "person/p_fe3e1ca489/": [
+  {
+   "label": "Wikipedia: Rand Paul",
+   "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Rand Paul",
+   "related": null
+  }
+ ]
+}

@@ -174,8 +174,7 @@ html,body{overflow-x:clip}
 
 /* BEGIN ben-retired.css */
 /* Faction Atlas — retired de-emphasis (presentation only).
-   Self-contained. Safe to fold into the theme style.css later.
-   Loaded by appending this file to assets/style.css at publish time. */
+   Folded into the theme style.css (source of truth). */
 
 /* Homepage note under the hero counts (class .counts-note, sometimes with .note). */
 .counts-note,
@@ -245,3 +244,87 @@ ul.plain li:has(> a):has(.b-retired) a,
   .retired-fold{padding:.1rem .75rem .15rem}
 }
 /* END ben-retired.css */
+
+/* Entry links (Mac: section.entry-links, a.xref, span.name-source, ul.chips.linked-from). */
+.entry-links{
+  margin:.15rem 0 1.35rem;
+  max-width:46rem;
+}
+.entry-links > #links-h{margin:0 0 .55rem}
+.entry-links ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.entry-links li.link{
+  display:grid;
+  grid-template-columns:6.4rem minmax(0,1fr);
+  column-gap:.75rem;
+  row-gap:.12rem;
+  align-items:baseline;
+  padding:.42rem 0;
+  border-bottom:1px solid var(--border);
+  font:.92rem/1.45 var(--f-ui);
+}
+.entry-links li.link:first-child{padding-top:.1rem}
+.entry-links li.link::before{
+  content:"Link";
+  grid-column:1;
+  grid-row:1;
+  font:600 .68rem/1.3 var(--f-ui);
+  letter-spacing:.07em;
+  text-transform:uppercase;
+  color:var(--muted);
+  padding-top:.15rem;
+}
+.entry-links li.link[data-kind="website"]::before{content:"Website"}
+.entry-links li.link[data-kind="org_site"]::before{content:"Org site"}
+.entry-links li.link[data-kind="church_site"]::before{content:"Church"}
+.entry-links li.link[data-kind="youtube"]::before{content:"YouTube"}
+.entry-links li.link[data-kind="podcast"]::before{content:"Podcast"}
+.entry-links li.link[data-kind="x"]::before{content:"X"}
+.entry-links li.link[data-kind="other_social"]::before{content:"Social"}
+.entry-links li.link[data-kind="wikipedia"]::before{content:"Wikipedia"}
+.entry-links li.link[data-kind="ballotpedia"]::before{content:"Ballotpedia"}
+.entry-links li.link[data-kind="official_bio"]::before{content:"Official bio"}
+.entry-links li.link[data-kind="name_source"]::before{content:"Name source"}
+.entry-links li.link > a.ext{
+  grid-column:2;
+  grid-row:1;
+  overflow-wrap:anywhere;
+}
+.entry-links li.link > a.xref{
+  grid-column:2;
+  justify-self:start;
+  font:500 .82rem/1.4 var(--f-ui);
+  color:var(--text);
+  text-decoration:none;
+  border:1px solid var(--border);
+  background:var(--surface);
+  border-radius:4px;
+  padding:.08rem .45rem;
+  overflow-wrap:anywhere;
+}
+.entry-links li.link > a.xref:hover{
+  color:var(--link);
+  border-color:var(--strong);
+}
+.entry-links li.link > .name-source{
+  grid-column:2;
+  font:400 .8rem/1.4 var(--f-ui);
+  color:var(--muted);
+}
+#linked-people{margin:1.15rem 0 .45rem}
+ul.chips.linked-from a.xref{text-decoration:none;color:var(--link)}
+ul.chips.linked-from a.xref:hover{text-decoration:underline;text-decoration-thickness:1px}
+@media (max-width:860px){
+  .entry-links li.link{
+    grid-template-columns:minmax(0,1fr);
+    gap:.12rem;
+    padding:.55rem 0;
+  }
+  .entry-links li.link::before{grid-column:1;grid-row:1;padding-top:0}
+  .entry-links li.link > a.ext{grid-column:1;grid-row:2}
+  .entry-links li.link > a.xref,
+  .entry-links li.link > .name-source{grid-column:1;grid-row:auto}
+}

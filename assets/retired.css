@@ -1,6 +1,5 @@
 /* Faction Atlas — retired de-emphasis (presentation only).
-   Self-contained. Safe to fold into the theme style.css later.
-   Loaded by appending this file to assets/style.css at publish time. */
+   Folded into the theme style.css (source of truth). Kept here as a reference copy. */
 
 /* Homepage note under the hero counts (class .counts-note, sometimes with .note). */
 .counts-note,
