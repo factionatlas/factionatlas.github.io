@@ -1,0 +1,41 @@
+/* Faction Atlas search UI — uses site color tokens, keeps the contrast fix. */
+.atlas-search{position:relative;width:100%;max-width:40rem;margin:1.4rem 0 .5rem}
+.atlas-search-box{display:flex;flex-wrap:wrap;gap:.5rem;align-items:stretch}
+.atlas-search-box input[type=search]{flex:1;min-width:12rem;font:inherit;font-size:1.1rem;padding:.75rem .9rem;border:1.5px solid var(--strong);border-radius:6px;background:var(--surface);color:var(--text)}
+.head-search.atlas-search-enhanced{position:relative;display:block;width:auto}
+.head-search.atlas-search-enhanced input[type=search]{font:inherit;font-size:.9rem;padding:.35rem .6rem;width:14rem;border:1px solid var(--strong);border-radius:4px;background:var(--surface);color:var(--text)}
+@media (max-width:860px){.head-search.atlas-search-enhanced{width:100%}.head-search.atlas-search-enhanced input[type=search]{width:100%}}
+@media (min-width:861px){.site-head .head-search.atlas-search-enhanced{margin-left:auto}}
+
+.atlas-filters{display:flex;flex-wrap:wrap;gap:.35rem;margin:.65rem 0 0;align-items:center}
+.atlas-filters[hidden]{display:none}
+.atlas-filters span{font:600 .75rem/1 var(--f-ui);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:.15rem}
+.atlas-filters button{font:600 .8rem/1 var(--f-ui);padding:.32rem .6rem;border:1.5px solid var(--strong);border-radius:999px;background:var(--surface);color:var(--text);cursor:pointer}
+.atlas-filters button[aria-pressed="true"]{background:var(--placed-bg);color:var(--placed-fg);border-color:var(--placed-bg)}
+
+.atlas-status{font:.88rem/1.4 var(--f-ui);color:var(--muted);margin:.55rem 0 0;min-height:1.2em}
+.atlas-results{list-style:none;margin:.55rem 0 0;padding:0;background:var(--surface);border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.atlas-results[data-empty="true"]{display:none}
+.atlas-results.atlas-dropdown{position:absolute;z-index:40;left:0;right:0;top:calc(100% + .35rem);max-height:min(28rem,70vh);overflow:auto;box-shadow:0 10px 28px color-mix(in srgb, var(--text) 18%, transparent)}
+.atlas-group{font:600 .72rem/1 var(--f-ui);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:.55rem .85rem .3rem;background:var(--surface2);border-top:1px solid var(--border)}
+.atlas-group:first-child{border-top:0}
+
+.atlas-hit{margin:0;border-top:1px solid var(--border)}
+.atlas-hit:first-child,.atlas-group + .atlas-hit{border-top:0}
+.atlas-hit a{display:grid;grid-template-columns:auto 1fr;gap:.15rem .7rem;align-items:baseline;padding:.55rem .85rem .6rem;text-decoration:none;color:var(--text)}
+.atlas-hit a:hover,.atlas-hit.is-active a{background:var(--surface2)}
+.atlas-hit.is-active a{outline:none;box-shadow:inset 3px 0 0 var(--link)}
+.atlas-hit .atlas-title{color:var(--link);font:650 1rem/1.3 var(--f-head);grid-column:2;overflow-wrap:anywhere}
+.atlas-hit a:hover .atlas-title,.atlas-hit.is-active .atlas-title{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em}
+.atlas-hit .atlas-sub{grid-column:2;font:.88rem/1.4 var(--f-ui);color:var(--muted);overflow-wrap:anywhere}
+.atlas-hit .atlas-excerpt{grid-column:2;font:.88rem/1.45 var(--f-ui);color:var(--muted)}
+.atlas-hit .atlas-excerpt mark{background:var(--link);color:var(--bg);padding:0 .1em;border-radius:2px}
+.atlas-badge{grid-column:1;grid-row:1 / span 3;align-self:start;margin-top:.18rem;font:600 .68rem/1 var(--f-ui);letter-spacing:.04em;text-transform:uppercase;padding:.28rem .45rem;border-radius:999px;border:1.5px solid var(--strong);color:var(--text);background:var(--surface);white-space:nowrap}
+.atlas-badge-faction{background:var(--hist-bg);color:var(--hist-fg);border-color:var(--strong)}
+.atlas-badge-person{background:var(--placed-bg);color:var(--placed-fg);border-color:var(--placed-bg)}
+.atlas-badge-org{background:var(--prov-bg);color:var(--prov-fg)}
+.atlas-badge-page{color:var(--muted)}
+.atlas-flag{margin-left:.35rem;font:600 .75rem var(--f-ui);color:var(--retired-fg);letter-spacing:.02em}
+
+.atlas-search-page .atlas-search{max-width:46rem;margin:0 0 1.5rem}
+.atlas-search-page h1{margin-bottom:.35rem}
