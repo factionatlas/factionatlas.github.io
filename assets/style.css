@@ -418,3 +418,9 @@ h3 + ul.chips.affiliated-orgs{margin-bottom:.85rem}
 @media (max-width:860px){
   ol.src-links .src-kind{display:block;min-width:0;margin:0 0 .15rem}
 }
+/* BEGIN ben-lede.css */
+.lede-more{max-width:44rem}
+.lede-more p{margin:0 0 .85rem;line-height:1.6}
+.lede-points{margin:-.35rem 0 .95rem;padding-left:1.6rem;max-width:42rem}
+.lede-points li{margin:.3rem 0;line-height:1.55;padding-left:.15rem}
+/* END ben-lede.css */
