@@ -7,7 +7,12 @@
    "anchor": "bitcoin",
    "positions": 8,
    "recorded": 45,
-   "summary": "Positions inside Bitcoin culture, independent of political faction: a Christian nationalist and a libertarian can share a Bitcoin faction."
+   "summary": "Positions inside Bitcoin culture, independent of political faction: a Christian nationalist and a libertarian can share a Bitcoin faction.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "bitcoin"
+   ]
   },
   {
    "slug": "israel",
@@ -16,7 +21,12 @@
    "anchor": "israel_stance",
    "positions": 3,
    "recorded": 89,
-   "summary": "Stance on Israel and on US support for Israel."
+   "summary": "Stance on Israel and on US support for Israel.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "israel_stance"
+   ]
   },
   {
    "slug": "theological-tradition",
@@ -24,17 +34,28 @@
    "url": "issues/theological-tradition/",
    "anchor": "theological_tradition",
    "positions": 33,
-   "recorded": 1073,
-   "summary": "Church tradition stated by the account itself (bio, church affiliation) or shown by explicit theology in posts."
+   "recorded": 1071,
+   "summary": "Church tradition stated by the account itself (bio, church affiliation) or shown by explicit theology in posts.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "theological_tradition"
+   ]
   },
   {
-   "slug": "eschatology",
-   "title": "Eschatology",
-   "url": "issues/eschatology/",
-   "anchor": "eschatology",
-   "positions": 2,
-   "recorded": 6,
-   "summary": "End-times views when an account states them."
+   "slug": "dispensationalism",
+   "title": "Dispensationalism and covenant theology",
+   "url": "issues/dispensationalism/",
+   "anchor": "theological_system",
+   "positions": 10,
+   "recorded": 16,
+   "summary": "How a person reads the relation between Israel, the church and the biblical covenants.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "theological_system",
+    "eschatology"
+   ]
   },
   {
    "slug": "btc-bip110",
@@ -43,7 +64,12 @@
    "anchor": "btc_bip110",
    "positions": 2,
    "recorded": 6,
-   "summary": "Stance on BIP-110, the 2026 soft-fork effort against data 'spam' led by Knots supporters."
+   "summary": "Stance on BIP-110, the 2026 soft-fork effort against data 'spam' led by Knots supporters.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "btc_bip110"
+   ]
   },
   {
    "slug": "trump",
@@ -52,7 +78,12 @@
    "anchor": "trump_stance",
    "positions": 4,
    "recorded": 173,
-   "summary": "How an account treats Trump and the second administration in Oct 2026 posts."
+   "summary": "How an account treats Trump and the second administration in Oct 2026 posts.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "trump_stance"
+   ]
   },
   {
    "slug": "h1b-indian-immigration",
@@ -61,7 +92,12 @@
    "anchor": "h1b_indian_immigration",
    "positions": 3,
    "recorded": 45,
-   "summary": "Stance on H-1B visas and on Indian immigrants / Indian-American politicians."
+   "summary": "Stance on H-1B visas and on Indian immigrants / Indian-American politicians.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "h1b_indian_immigration"
+   ]
   },
   {
    "slug": "national-identity",
@@ -70,7 +106,12 @@
    "anchor": "national_identity",
    "positions": 2,
    "recorded": 38,
-   "summary": "Who counts as a member of the nation (US or UK)."
+   "summary": "Who counts as a member of the nation (US or UK).",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "national_identity"
+   ]
   },
   {
    "slug": "midterm-vote-posture",
@@ -79,7 +120,12 @@
    "anchor": "midterm_vote_posture",
    "positions": 4,
    "recorded": 42,
-   "summary": "How an account says the right should vote in the 2026 midterms, given disputes over the Iran war, Vance and the Ramaswamy ad."
+   "summary": "How an account says the right should vote in the 2026 midterms, given disputes over the Iran war, Vance and the Ramaswamy ad.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "midterm_vote_posture"
+   ]
   },
   {
    "slug": "foreign-policy",
@@ -88,7 +134,12 @@
    "anchor": "foreign_policy",
    "positions": 3,
    "recorded": 211,
-   "summary": "Where an account sits on US military intervention (Iran war, Ukraine, regime change), from hawk to restraint."
+   "summary": "Where an account sits on US military intervention (Iran war, Ukraine, regime change), from hawk to restraint.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "foreign_policy"
+   ]
   },
   {
    "slug": "save-heritage-indiana",
@@ -97,7 +148,12 @@
    "anchor": "shi_stance",
    "positions": 3,
    "recorded": 8,
-   "summary": "Indiana figures only."
+   "summary": "Indiana figures only.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "shi_stance"
+   ]
   },
   {
    "slug": "ff-food-freedom",
@@ -106,7 +162,12 @@
    "anchor": "ff_food_freedom",
    "positions": 3,
    "recorded": 7,
-   "summary": "Orthogonal issue axis."
+   "summary": "Orthogonal issue axis.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "ff_food_freedom"
+   ]
   },
   {
    "slug": "ff-financial-freedom",
@@ -115,7 +176,12 @@
    "anchor": "ff_financial_freedom",
    "positions": 3,
    "recorded": 8,
-   "summary": "Orthogonal issue axis."
+   "summary": "Orthogonal issue axis.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "ff_financial_freedom"
+   ]
   },
   {
    "slug": "ff-medical-freedom",
@@ -124,7 +190,12 @@
    "anchor": "ff_medical_freedom",
    "positions": 3,
    "recorded": 7,
-   "summary": "Orthogonal issue axis."
+   "summary": "Orthogonal issue axis.",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "ff_medical_freedom"
+   ]
   },
   {
    "slug": "ff-political-freedom",
@@ -133,7 +204,12 @@
    "anchor": "ff_political_freedom",
    "positions": 3,
    "recorded": 5,
-   "summary": ""
+   "summary": "",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "ff_political_freedom"
+   ]
   },
   {
    "slug": "political-strategy",
@@ -142,7 +218,12 @@
    "anchor": "political_strategy",
    "positions": 5,
    "recorded": 7,
-   "summary": ""
+   "summary": "",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "political_strategy"
+   ]
   },
   {
    "slug": "education-freedom",
@@ -151,7 +232,12 @@
    "anchor": "education_freedom",
    "positions": 4,
    "recorded": 10,
-   "summary": ""
+   "summary": "",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "education_freedom"
+   ]
   },
   {
    "slug": "vance",
@@ -160,7 +246,1160 @@
    "anchor": "vance_stance",
    "positions": 4,
    "recorded": 16,
-   "summary": ""
+   "summary": "",
+   "being_filled": false,
+   "group": null,
+   "covers_axes": [
+    "vance_stance"
+   ]
+  },
+  {
+   "slug": "abortion-law",
+   "title": "Abortion law",
+   "url": "issues/abortion-law/",
+   "anchor": "abortion_law",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Where abortion law should be set and how restrictive it should be (a national limit, state-by-state, or legal access).",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "abortion_law"
+   ]
+  },
+  {
+   "slug": "ivf-embryos",
+   "title": "IVF and embryos",
+   "url": "issues/ivf-embryos/",
+   "anchor": "ivf_embryos",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether IVF should be protected or expanded, or limited to protect embryos.",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "ivf_embryos"
+   ]
+  },
+  {
+   "slug": "abortion-pills",
+   "title": "Abortion pills",
+   "url": "issues/abortion-pills/",
+   "anchor": "abortion_pills",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Rules on mifepristone and mailed abortion pills.",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "abortion_pills"
+   ]
+  },
+  {
+   "slug": "pronatalism",
+   "title": "Pronatalism and birth rate",
+   "url": "issues/pronatalism/",
+   "anchor": "pronatalism",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether falling birth rates call for policy to encourage more children.",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "pronatalism"
+   ]
+  },
+  {
+   "slug": "marriage-obergefell",
+   "title": "Marriage and Obergefell",
+   "url": "issues/marriage-obergefell/",
+   "anchor": "marriage_obergefell",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether same-sex marriage (Obergefell v.",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "marriage_obergefell"
+   ]
+  },
+  {
+   "slug": "no-fault-divorce",
+   "title": "No-fault divorce",
+   "url": "issues/no-fault-divorce/",
+   "anchor": "no_fault_divorce",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether no-fault divorce laws should be kept or repealed.",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "no_fault_divorce"
+   ]
+  },
+  {
+   "slug": "trans-medicine-minors",
+   "title": "Transgender medicine for minors",
+   "url": "issues/trans-medicine-minors/",
+   "anchor": "trans_medicine_minors",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether puberty blockers, hormones and surgery for minors should be allowed.",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "trans_medicine_minors"
+   ]
+  },
+  {
+   "slug": "women-combat-draft",
+   "title": "Women in combat and the draft",
+   "url": "issues/women-combat-draft/",
+   "anchor": "women_combat_draft",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether women should serve in combat roles or register for the draft.",
+   "being_filled": true,
+   "group": "Life and family",
+   "covers_axes": [
+    "women_combat_draft"
+   ]
+  },
+  {
+   "slug": "mass-deportation",
+   "title": "Mass deportation",
+   "url": "issues/mass-deportation/",
+   "anchor": "mass_deportation",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Large-scale removal of people living in the country illegally.",
+   "being_filled": true,
+   "group": "Immigration",
+   "covers_axes": [
+    "mass_deportation"
+   ]
+  },
+  {
+   "slug": "remigration",
+   "title": "Remigration",
+   "url": "issues/remigration/",
+   "anchor": "remigration",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Proposals to send back immigrants beyond those here illegally, including legal residents or naturalized citizens.",
+   "being_filled": true,
+   "group": "Immigration",
+   "covers_axes": [
+    "remigration"
+   ]
+  },
+  {
+   "slug": "birthright-citizenship",
+   "title": "Birthright citizenship",
+   "url": "issues/birthright-citizenship/",
+   "anchor": "birthright_citizenship",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether children born in the U.S.",
+   "being_filled": true,
+   "group": "Immigration",
+   "covers_axes": [
+    "birthright_citizenship"
+   ]
+  },
+  {
+   "slug": "legal-immigration-levels",
+   "title": "Legal immigration levels",
+   "url": "issues/legal-immigration-levels/",
+   "anchor": "legal_immigration_levels",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "How many legal immigrants the country should admit.",
+   "being_filled": true,
+   "group": "Immigration",
+   "covers_axes": [
+    "legal_immigration_levels"
+   ]
+  },
+  {
+   "slug": "h1b-program",
+   "title": "H-1B visas in general",
+   "url": "issues/h1b-program/",
+   "anchor": "h1b_program",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "",
+   "being_filled": true,
+   "group": "Immigration",
+   "covers_axes": [
+    "h1b_program"
+   ]
+  },
+  {
+   "slug": "asylum-refugees",
+   "title": "Asylum and refugees",
+   "url": "issues/asylum-refugees/",
+   "anchor": "asylum_refugees",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Asylum rules and refugee admissions.",
+   "being_filled": true,
+   "group": "Immigration",
+   "covers_axes": [
+    "asylum_refugees"
+   ]
+  },
+  {
+   "slug": "ukraine-aid",
+   "title": "Ukraine aid",
+   "url": "issues/ukraine-aid/",
+   "anchor": "ukraine_aid",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "U.S.",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "ukraine_aid"
+   ]
+  },
+  {
+   "slug": "iran-war",
+   "title": "Iran war",
+   "url": "issues/iran-war/",
+   "anchor": "iran_war",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "The U.S.",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "iran_war"
+   ]
+  },
+  {
+   "slug": "china-policy",
+   "title": "China",
+   "url": "issues/china-policy/",
+   "anchor": "china_policy",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "How hard a line to take on China (trade, technology, military).",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "china_policy"
+   ]
+  },
+  {
+   "slug": "taiwan",
+   "title": "Taiwan",
+   "url": "issues/taiwan/",
+   "anchor": "taiwan",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether the U.S.",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "taiwan"
+   ]
+  },
+  {
+   "slug": "nato",
+   "title": "NATO",
+   "url": "issues/nato/",
+   "anchor": "nato",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "U.S.",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "nato"
+   ]
+  },
+  {
+   "slug": "foreign-aid",
+   "title": "Foreign aid",
+   "url": "issues/foreign-aid/",
+   "anchor": "foreign_aid",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "U.S.",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "foreign_aid"
+   ]
+  },
+  {
+   "slug": "gaza-israel-aid",
+   "title": "Gaza war and aid to Israel",
+   "url": "issues/gaza-israel-aid/",
+   "anchor": "gaza_israel_aid",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "gaza_israel_aid"
+   ]
+  },
+  {
+   "slug": "war-powers",
+   "title": "War powers",
+   "url": "issues/war-powers/",
+   "anchor": "war_powers",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether Congress must authorize military action (war powers resolutions).",
+   "being_filled": true,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "war_powers"
+   ]
+  },
+  {
+   "slug": "tariffs",
+   "title": "Tariffs",
+   "url": "issues/tariffs/",
+   "anchor": "tariffs",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Broad tariffs on imports.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "tariffs"
+   ]
+  },
+  {
+   "slug": "antitrust-big-tech",
+   "title": "Antitrust and Big Tech",
+   "url": "issues/antitrust-big-tech/",
+   "anchor": "antitrust_big_tech",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Using antitrust law against large tech firms.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "antitrust_big_tech"
+   ]
+  },
+  {
+   "slug": "unions",
+   "title": "Unions",
+   "url": "issues/unions/",
+   "anchor": "unions",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Labor unions and laws that support or limit them.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "unions"
+   ]
+  },
+  {
+   "slug": "minimum-wage",
+   "title": "Minimum wage",
+   "url": "issues/minimum-wage/",
+   "anchor": "minimum_wage",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Raising the minimum wage.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "minimum_wage"
+   ]
+  },
+  {
+   "slug": "fed-cbdc",
+   "title": "The Fed and CBDC",
+   "url": "issues/fed-cbdc/",
+   "anchor": "fed_cbdc",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "The Federal Reserve (including ending it) and a central bank digital currency.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "fed_cbdc"
+   ]
+  },
+  {
+   "slug": "debt-deficits",
+   "title": "Debt and deficits",
+   "url": "issues/debt-deficits/",
+   "anchor": "debt_deficits",
+   "positions": 2,
+   "recorded": 0,
+   "summary": "How much the national debt and deficits matter.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "debt_deficits"
+   ]
+  },
+  {
+   "slug": "entitlements",
+   "title": "Entitlements",
+   "url": "issues/entitlements/",
+   "anchor": "entitlements",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Social Security and Medicare benefits and reform.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "entitlements"
+   ]
+  },
+  {
+   "slug": "housing-zoning",
+   "title": "Housing and zoning",
+   "url": "issues/housing-zoning/",
+   "anchor": "housing_zoning",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Zoning rules and housing supply.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "housing_zoning"
+   ]
+  },
+  {
+   "slug": "farm-policy",
+   "title": "Farm policy",
+   "url": "issues/farm-policy/",
+   "anchor": "farm_policy",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Farm subsidies, the farm bill and aid to farmers.",
+   "being_filled": true,
+   "group": "Economy",
+   "covers_axes": [
+    "farm_policy"
+   ]
+  },
+  {
+   "slug": "ai-regulation",
+   "title": "AI regulation",
+   "url": "issues/ai-regulation/",
+   "anchor": "ai_regulation",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Government rules for artificial intelligence, including state AI laws.",
+   "being_filled": true,
+   "group": "Tech and speech",
+   "covers_axes": [
+    "ai_regulation"
+   ]
+  },
+  {
+   "slug": "section-230",
+   "title": "Section 230",
+   "url": "issues/section-230/",
+   "anchor": "section_230",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Liability protection for online platforms under Section 230.",
+   "being_filled": true,
+   "group": "Tech and speech",
+   "covers_axes": [
+    "section_230"
+   ]
+  },
+  {
+   "slug": "social-media-age-checks",
+   "title": "Social media age checks",
+   "url": "issues/social-media-age-checks/",
+   "anchor": "social_media_age_checks",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Age verification or age limits for social media.",
+   "being_filled": true,
+   "group": "Tech and speech",
+   "covers_axes": [
+    "social_media_age_checks"
+   ]
+  },
+  {
+   "slug": "online-censorship",
+   "title": "Online censorship",
+   "url": "issues/online-censorship/",
+   "anchor": "online_censorship",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Platform moderation, government pressure on platforms and online speech rules.",
+   "being_filled": true,
+   "group": "Tech and speech",
+   "covers_axes": [
+    "online_censorship"
+   ]
+  },
+  {
+   "slug": "porn-age-verification",
+   "title": "Porn age verification",
+   "url": "issues/porn-age-verification/",
+   "anchor": "porn_age_verification",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Age verification laws for pornography sites.",
+   "being_filled": true,
+   "group": "Tech and speech",
+   "covers_axes": [
+    "porn_age_verification"
+   ]
+  },
+  {
+   "slug": "crypto-altcoins",
+   "title": "Crypto beyond Bitcoin",
+   "url": "issues/crypto-altcoins/",
+   "anchor": "crypto_altcoins",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Cryptocurrencies other than Bitcoin, stablecoins and their regulation (the bitcoin axis tracks Bitcoin itself).",
+   "being_filled": true,
+   "group": "Tech and speech",
+   "covers_axes": [
+    "crypto_altcoins"
+   ]
+  },
+  {
+   "slug": "policing",
+   "title": "Policing",
+   "url": "issues/policing/",
+   "anchor": "policing",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Police funding, powers and accountability.",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "policing"
+   ]
+  },
+  {
+   "slug": "death-penalty",
+   "title": "Death penalty",
+   "url": "issues/death-penalty/",
+   "anchor": "death_penalty",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Capital punishment.",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "death_penalty"
+   ]
+  },
+  {
+   "slug": "drug-legalization",
+   "title": "Drug legalization",
+   "url": "issues/drug-legalization/",
+   "anchor": "drug_legalization",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Legalizing or decriminalizing marijuana and other drugs.",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "drug_legalization"
+   ]
+  },
+  {
+   "slug": "gun-red-flag",
+   "title": "Gun policy: red flag laws",
+   "url": "issues/gun-red-flag/",
+   "anchor": "gun_red_flag",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Extreme-risk (red flag) orders that let courts remove guns.",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "gun_red_flag"
+   ]
+  },
+  {
+   "slug": "gun-suppressors",
+   "title": "Gun policy: suppressors",
+   "url": "issues/gun-suppressors/",
+   "anchor": "gun_suppressors",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Removing suppressors from National Firearms Act rules (Hearing Protection Act).",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "gun_suppressors"
+   ]
+  },
+  {
+   "slug": "gun-national-carry",
+   "title": "Gun policy: national concealed carry",
+   "url": "issues/gun-national-carry/",
+   "anchor": "gun_national_carry",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Nationwide concealed-carry reciprocity.",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "gun_national_carry"
+   ]
+  },
+  {
+   "slug": "jan6-pardons",
+   "title": "January 6 pardons",
+   "url": "issues/jan6-pardons/",
+   "anchor": "jan6_pardons",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "The pardons of people charged over January 6, 2021.",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "jan6_pardons"
+   ]
+  },
+  {
+   "slug": "political-prosecutions",
+   "title": "Political prosecutions",
+   "url": "issues/political-prosecutions/",
+   "anchor": "political_prosecutions",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Prosecutions seen as politically driven (lawfare), against either side.",
+   "being_filled": true,
+   "group": "Law and order",
+   "covers_axes": [
+    "political_prosecutions"
+   ]
+  },
+  {
+   "slug": "church-state",
+   "title": "Church-state separation",
+   "url": "issues/church-state/",
+   "anchor": "church_state",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "How strictly government should be kept separate from religion.",
+   "being_filled": true,
+   "group": "Religion and state",
+   "covers_axes": [
+    "church_state"
+   ]
+  },
+  {
+   "slug": "blasphemy-laws",
+   "title": "Blasphemy laws",
+   "url": "issues/blasphemy-laws/",
+   "anchor": "blasphemy_laws",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Laws punishing blasphemy.",
+   "being_filled": true,
+   "group": "Religion and state",
+   "covers_axes": [
+    "blasphemy_laws"
+   ]
+  },
+  {
+   "slug": "sunday-laws",
+   "title": "Sunday laws",
+   "url": "issues/sunday-laws/",
+   "anchor": "sunday_laws",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Laws restricting commerce or work on Sunday.",
+   "being_filled": true,
+   "group": "Religion and state",
+   "covers_axes": [
+    "sunday_laws"
+   ]
+  },
+  {
+   "slug": "school-prayer",
+   "title": "School prayer",
+   "url": "issues/school-prayer/",
+   "anchor": "school_prayer",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Organized prayer in public schools.",
+   "being_filled": true,
+   "group": "Religion and state",
+   "covers_axes": [
+    "school_prayer"
+   ]
+  },
+  {
+   "slug": "ten-commandments-schools",
+   "title": "Ten Commandments in schools",
+   "url": "issues/ten-commandments-schools/",
+   "anchor": "ten_commandments_schools",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Laws requiring the Ten Commandments in classrooms.",
+   "being_filled": true,
+   "group": "Religion and state",
+   "covers_axes": [
+    "ten_commandments_schools"
+   ]
+  },
+  {
+   "slug": "religious-exemptions",
+   "title": "Religious exemptions",
+   "url": "issues/religious-exemptions/",
+   "anchor": "religious_exemptions",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Religious exemptions from laws (vaccines, anti-discrimination rules, services).",
+   "being_filled": true,
+   "group": "Religion and state",
+   "covers_axes": [
+    "religious_exemptions"
+   ]
+  },
+  {
+   "slug": "christian-nation-amendment",
+   "title": "Christian nation amendment",
+   "url": "issues/christian-nation-amendment/",
+   "anchor": "christian_nation_amendment",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "A constitutional amendment naming the U.S.",
+   "being_filled": true,
+   "group": "Religion and state",
+   "covers_axes": [
+    "christian_nation_amendment"
+   ]
+  },
+  {
+   "slug": "voter-id-mail-ballots",
+   "title": "Voter ID and mail ballots",
+   "url": "issues/voter-id-mail-ballots/",
+   "anchor": "voter_id_mail_ballots",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Voter ID requirements and mail-in voting.",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "voter_id_mail_ballots"
+   ]
+  },
+  {
+   "slug": "filibuster",
+   "title": "Filibuster",
+   "url": "issues/filibuster/",
+   "anchor": "filibuster",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "The Senate legislative filibuster.",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "filibuster"
+   ]
+  },
+  {
+   "slug": "term-limits",
+   "title": "Term limits",
+   "url": "issues/term-limits/",
+   "anchor": "term_limits",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Term limits for members of Congress.",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "term_limits"
+   ]
+  },
+  {
+   "slug": "abolish-agencies",
+   "title": "Abolishing agencies",
+   "url": "issues/abolish-agencies/",
+   "anchor": "abolish_agencies",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Abolishing federal agencies such as the Department of Education, the IRS or the ATF.",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "abolish_agencies"
+   ]
+  },
+  {
+   "slug": "schedule-f",
+   "title": "Schedule F and the civil service",
+   "url": "issues/schedule-f/",
+   "anchor": "schedule_f",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Making more federal jobs political appointments that can be fired at will (Schedule F / Schedule Policy-Career).",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "schedule_f"
+   ]
+  },
+  {
+   "slug": "impoundment",
+   "title": "Impoundment",
+   "url": "issues/impoundment/",
+   "anchor": "impoundment",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether a president may refuse to spend money Congress appropriated.",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "impoundment"
+   ]
+  },
+  {
+   "slug": "states-rights-nullification",
+   "title": "States' rights and nullification",
+   "url": "issues/states-rights-nullification/",
+   "anchor": "states_rights_nullification",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "State power against federal law, including nullification.",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "states_rights_nullification"
+   ]
+  },
+  {
+   "slug": "secession",
+   "title": "Secession",
+   "url": "issues/secession/",
+   "anchor": "secession",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Talk of states leaving the union or a national divorce.",
+   "being_filled": true,
+   "group": "Elections and government",
+   "covers_axes": [
+    "secession"
+   ]
+  },
+  {
+   "slug": "dei",
+   "title": "DEI",
+   "url": "issues/dei/",
+   "anchor": "dei",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Diversity, equity and inclusion programs.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "dei"
+   ]
+  },
+  {
+   "slug": "affirmative-action",
+   "title": "Affirmative action",
+   "url": "issues/affirmative-action/",
+   "anchor": "affirmative_action",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Race-conscious admissions and hiring.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "affirmative_action"
+   ]
+  },
+  {
+   "slug": "reparations",
+   "title": "Reparations",
+   "url": "issues/reparations/",
+   "anchor": "reparations",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Reparations for slavery.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "reparations"
+   ]
+  },
+  {
+   "slug": "confederate-monuments",
+   "title": "Confederate monuments",
+   "url": "issues/confederate-monuments/",
+   "anchor": "confederate_monuments",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Keeping or removing Confederate monuments and names.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "confederate_monuments"
+   ]
+  },
+  {
+   "slug": "antisemitism",
+   "title": "Antisemitism",
+   "url": "issues/antisemitism/",
+   "anchor": "antisemitism",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "How serious a problem antisemitism is, including on the right, and how to respond.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "antisemitism"
+   ]
+  },
+  {
+   "slug": "heritage-americans",
+   "title": "\"Heritage Americans\"",
+   "url": "issues/heritage-americans/",
+   "anchor": "heritage_americans",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "The idea that descendants of the country's founding-era stock are a distinct group with a special claim.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "heritage_americans"
+   ]
+  },
+  {
+   "slug": "western-civ",
+   "title": "Western civilization",
+   "url": "issues/western-civ/",
+   "anchor": "western_civ",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether policy should defend Western civilization as such, and what that means.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "western_civ"
+   ]
+  },
+  {
+   "slug": "vaccines-mandates",
+   "title": "Vaccines and mandates",
+   "url": "issues/vaccines-mandates/",
+   "anchor": "vaccines_mandates",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "",
+   "being_filled": true,
+   "group": "Health",
+   "covers_axes": [
+    "vaccines_mandates"
+   ]
+  },
+  {
+   "slug": "maha-food-dyes",
+   "title": "MAHA and food dyes",
+   "url": "issues/maha-food-dyes/",
+   "anchor": "maha_food_dyes",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Make America Healthy Again goals, such as banning food dyes and additives.",
+   "being_filled": true,
+   "group": "Health",
+   "covers_axes": [
+    "maha_food_dyes"
+   ]
+  },
+  {
+   "slug": "fluoride",
+   "title": "Fluoride",
+   "url": "issues/fluoride/",
+   "anchor": "fluoride",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Adding fluoride to public water.",
+   "being_filled": true,
+   "group": "Health",
+   "covers_axes": [
+    "fluoride"
+   ]
+  },
+  {
+   "slug": "raw-milk",
+   "title": "Raw milk",
+   "url": "issues/raw-milk/",
+   "anchor": "raw_milk",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Legal sale of raw (unpasteurized) milk.",
+   "being_filled": true,
+   "group": "Health",
+   "covers_axes": [
+    "raw_milk"
+   ]
+  },
+  {
+   "slug": "climate-policy",
+   "title": "Climate policy",
+   "url": "issues/climate-policy/",
+   "anchor": "climate_policy",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Government action on climate change.",
+   "being_filled": true,
+   "group": "Energy",
+   "covers_axes": [
+    "climate_policy"
+   ]
+  },
+  {
+   "slug": "nuclear-power",
+   "title": "Nuclear power",
+   "url": "issues/nuclear-power/",
+   "anchor": "nuclear_power",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Building nuclear power.",
+   "being_filled": true,
+   "group": "Energy",
+   "covers_axes": [
+    "nuclear_power"
+   ]
+  },
+  {
+   "slug": "oil-gas",
+   "title": "Oil and gas",
+   "url": "issues/oil-gas/",
+   "anchor": "oil_gas",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Expanding oil and gas drilling and pipelines.",
+   "being_filled": true,
+   "group": "Energy",
+   "covers_axes": [
+    "oil_gas"
+   ]
+  },
+  {
+   "slug": "evs",
+   "title": "Electric vehicles",
+   "url": "issues/evs/",
+   "anchor": "evs",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "EV mandates and subsidies.",
+   "being_filled": true,
+   "group": "Energy",
+   "covers_axes": [
+    "evs"
+   ]
+  },
+  {
+   "slug": "in-property-tax",
+   "title": "Indiana property tax reform",
+   "url": "issues/in-property-tax/",
+   "anchor": "in_property_tax",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Indiana property tax reform (including the 2025 SEA 1 changes) and calls to cut or end property taxes.",
+   "being_filled": true,
+   "group": "Indiana",
+   "covers_axes": [
+    "in_property_tax"
+   ]
+  },
+  {
+   "slug": "in-school-vouchers",
+   "title": "Indiana school choice vouchers",
+   "url": "issues/in-school-vouchers/",
+   "anchor": "in_school_vouchers",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "",
+   "being_filled": true,
+   "group": "Indiana",
+   "covers_axes": [
+    "in_school_vouchers"
+   ]
+  },
+  {
+   "slug": "in-data-centers",
+   "title": "Indiana data centers",
+   "url": "issues/in-data-centers/",
+   "anchor": "in_data_centers",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Large data centers in Indiana: tax breaks, power and water use, and local siting.",
+   "being_filled": true,
+   "group": "Indiana",
+   "covers_axes": [
+    "in_data_centers"
+   ]
+  },
+  {
+   "slug": "third-parties",
+   "title": "Third parties",
+   "url": "issues/third-parties/",
+   "anchor": "third_parties",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Backing third parties instead of the two major parties.",
+   "being_filled": true,
+   "group": "Strategy",
+   "covers_axes": [
+    "third_parties"
+   ]
+  },
+  {
+   "slug": "primarying-incumbents",
+   "title": "Primarying incumbents",
+   "url": "issues/primarying-incumbents/",
+   "anchor": "primarying_incumbents",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Challenging sitting officeholders of one's own party in primaries.",
+   "being_filled": true,
+   "group": "Strategy",
+   "covers_axes": [
+    "primarying_incumbents"
+   ]
+  },
+  {
+   "slug": "working-with-democrats",
+   "title": "Working with Democrats",
+   "url": "issues/working-with-democrats/",
+   "anchor": "working_with_democrats",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Working with Democrats on specific issues.",
+   "being_filled": true,
+   "group": "Strategy",
+   "covers_axes": [
+    "working_with_democrats"
+   ]
+  },
+  {
+   "slug": "flock-alpr-surveillance",
+   "title": "Flock cameras, license plate readers and mass surveillance",
+   "url": "issues/flock-alpr-surveillance/",
+   "anchor": "flock_alpr_surveillance",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Automated license plate reader networks such as Flock Safety cameras, and other mass surveillance used by police and local governments.",
+   "being_filled": true,
+   "group": "Tech and speech",
+   "covers_axes": [
+    "flock_alpr_surveillance"
+   ]
   }
  ]
 }
