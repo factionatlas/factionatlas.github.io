@@ -14,7 +14,7 @@ function searchPath() {
   return "/search/";
 }
 const JR = new Set(["jr", "sr", "ii", "iii", "iv", "v"]);
-const TYPE_LABEL = { person: "Person", org: "Organization", faction: "Faction", issue: "Issue", page: "Page" };
+const TYPE_LABEL = { person: "Person", org: "Organization", faction: "Faction", issue: "Issue", phrase: "Phrase", page: "Page" };
 const FILTERS = [
   { id: "all", label: "All" },
   { id: "issue", label: "Issues" },
@@ -229,7 +229,7 @@ function scoreRecord(q, rec) {
     const cap = typoCap(qt[0]);
     if (cap && levenshtein(qt[0], tokens(rec.t)[0], cap) <= cap) best += 80;
   }
-  if (rec.k === "issue" && (reason === "title" || reason === "alias")) {
+  if ((rec.k === "issue" || rec.k === "phrase") && (reason === "title" || reason === "alias")) {
     const exactAlias = (rec.a || []).some((a) => norm(a) === qn) || norm(rec.t) === qn;
     if (exactAlias) best += 800;
     else if (norm(rec.t).startsWith(qn)) best += 400;
@@ -354,6 +354,7 @@ function renderHit(hit, idx, prefix) {
   a.append(title);
   const subBits = [];
   if (rec.h) subBits.push("@" + rec.h);
+  if (rec.f) subBits.push(rec.f);
   if (hit.reason === "alias" && rec.a && rec.a.length) subBits.push("also " + rec.a[0]);
   if (hit.mention) subBits.push("in the page text");
   if (subBits.length) a.append(el("span", { class: "atlas-sub", text: subBits.join(" · ") }));
