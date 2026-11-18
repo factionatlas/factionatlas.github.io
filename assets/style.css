@@ -445,11 +445,17 @@ h1.phrase-text{font-style:italic;font-weight:600;font-size:clamp(1.8rem,4vw,2.7r
 .src-ref a:hover,.src-ref a:focus{color:var(--link);text-decoration:underline}
 /* END ben-offsite.css */
 /* BEGIN ben-rel.css */
-.relationships .rel-list>li.rel{margin:0 0 .35em!important}
-.relationships details.rel-more>summary{cursor:pointer;list-style-position:outside}
-.relationships details.rel-more>summary a{font-weight:600}
-.relationships details.rel-more[open]>summary{margin-bottom:.25em}
-.relationships details.rel-more>.rel-body{margin:0 0 .6em 1.1em;font-size:.95em}
+.relationships .rel-list{margin:.3rem 0 1rem;padding:0;border-top:1px solid var(--border)}
+.relationships .rel-list>li.rel{position:relative;box-sizing:border-box;min-height:calc(44px + .9rem);margin:0!important;padding:.45rem 0;border-bottom:1px solid var(--border)}
+.relationships .rel-list>li.rel>a{display:inline-block;box-sizing:border-box;max-width:calc(100% - 7.25rem);padding:.55rem 0;font-weight:600;line-height:1.3}
+.relationships details.rel-more>summary{position:absolute;top:.45rem;right:0;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;gap:.35em;min-width:44px;min-height:44px;padding:.45rem .8rem;border:1px solid var(--border);border-radius:8px;background:var(--surface,transparent);color:inherit;font:inherit;font-size:.92em;line-height:1.2;cursor:pointer;list-style:none;user-select:none;-webkit-tap-highlight-color:transparent}
+.relationships details.rel-more>summary::-webkit-details-marker{display:none}
+.relationships details.rel-more>summary::marker{content:""}
+.relationships details.rel-more>summary::after{content:"\25BE";font-size:1.1em;line-height:1}
+.relationships details.rel-more[open]>summary::after{content:"\25B4"}
+.relationships details.rel-more>summary:focus-visible{outline:2px solid var(--link);outline-offset:2px}
+.relationships details.rel-more>.rel-body{margin:.65rem 0 .35rem;font-size:.95em;line-height:1.55}
 .relationships details.rel-more .rel-what{font-size:.82em;text-transform:uppercase;letter-spacing:.04em;opacity:.8}
-.relationships details.rel-more .rel-sources{margin-top:.3em;font-size:.92em}
+.relationships .src-refs{white-space:normal}
+p.phrase-sightings{font-size:.92em;line-height:1.55}
 /* END ben-rel.css */
