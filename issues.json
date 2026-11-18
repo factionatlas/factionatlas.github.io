@@ -105,7 +105,7 @@
    "url": "issues/national-identity/",
    "anchor": "national_identity",
    "positions": 2,
-   "recorded": 38,
+   "recorded": 39,
    "summary": "Who counts as a member of the nation (US or UK).",
    "being_filled": false,
    "group": null,
@@ -133,7 +133,7 @@
    "url": "issues/foreign-policy/",
    "anchor": "foreign_policy",
    "positions": 3,
-   "recorded": 211,
+   "recorded": 213,
    "summary": "Where an account sits on US military intervention (Iran war, Ukraine, regime change), from hawk to restraint.",
    "being_filled": false,
    "group": null,
@@ -455,9 +455,9 @@
    "url": "issues/ukraine-aid/",
    "anchor": "ukraine_aid",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 2,
    "summary": "U.S.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Foreign policy",
    "covers_axes": [
     "ukraine_aid"
@@ -469,9 +469,9 @@
    "url": "issues/iran-war/",
    "anchor": "iran_war",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "The U.S.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Foreign policy",
    "covers_axes": [
     "iran_war"
@@ -483,9 +483,9 @@
    "url": "issues/china-policy/",
    "anchor": "china_policy",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "How hard a line to take on China (trade, technology, military).",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Foreign policy",
    "covers_axes": [
     "china_policy"
@@ -595,9 +595,9 @@
    "url": "issues/war-powers/",
    "anchor": "war_powers",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "Whether Congress must authorize military action (war powers resolutions).",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Foreign policy",
    "covers_axes": [
     "war_powers"
@@ -665,9 +665,9 @@
    "url": "issues/fed-cbdc/",
    "anchor": "fed_cbdc",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "The Federal Reserve (including ending it) and a central bank digital currency.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Economy",
    "covers_axes": [
     "fed_cbdc"
@@ -1071,9 +1071,9 @@
    "url": "issues/abolish-agencies/",
    "anchor": "abolish_agencies",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "Abolishing federal agencies such as the Department of Education, the IRS or the ATF.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Elections and government",
    "covers_axes": [
     "abolish_agencies"
@@ -1197,9 +1197,9 @@
    "url": "issues/heritage-americans/",
    "anchor": "heritage_americans",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "The idea that descendants of the country's founding-era stock are a distinct group with a special claim.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Culture and race",
    "covers_axes": [
     "heritage_americans"
@@ -1427,6 +1427,48 @@
    "group": "Tech and speech",
    "covers_axes": [
     "flock_alpr_surveillance"
+   ]
+  },
+  {
+   "slug": "us-empire",
+   "title": "U.S. empire and expansion",
+   "url": "issues/us-empire/",
+   "anchor": "us_empire",
+   "positions": 3,
+   "recorded": 1,
+   "summary": "Whether the United States should see itself as, or act as, an empire (territorial expansion, imperial framing of foreign policy and of the founding).",
+   "being_filled": false,
+   "group": "Foreign policy",
+   "covers_axes": [
+    "us_empire"
+   ]
+  },
+  {
+   "slug": "evolution-in-schools",
+   "title": "Evolution in public schools",
+   "url": "issues/evolution-in-schools/",
+   "anchor": "evolution_in_schools",
+   "positions": 3,
+   "recorded": 1,
+   "summary": "Whether public schools should teach evolution as the account of human origins.",
+   "being_filled": false,
+   "group": "Religion and state",
+   "covers_axes": [
+    "evolution_in_schools"
+   ]
+  },
+  {
+   "slug": "group-differences-causes",
+   "title": "Causes of group differences: hereditarian vs. environmental",
+   "url": "issues/group-differences-causes/",
+   "anchor": "group_differences_causes",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "What a person says causes average differences between population groups in traits such as measured IQ: mostly genetic (the hereditarian view), mostly environmental (education, income, culture, discrimination), or a mix.",
+   "being_filled": true,
+   "group": "Culture and race",
+   "covers_axes": [
+    "group_differences_causes"
    ]
   }
  ]
