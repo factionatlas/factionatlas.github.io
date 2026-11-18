@@ -439,3 +439,17 @@ h1.phrase-text{font-style:italic;font-weight:600;font-size:clamp(1.8rem,4vw,2.7r
 .phrase-infobox~.sources-box{clear:both}
 .phrase-links li a:first-child{font-style:italic}
 /* END ben-phrases.css */
+/* BEGIN ben-offsite.css */
+.src-ref{font-size:.7em;line-height:0;vertical-align:super;margin-left:.1em;font-family:var(--f-ui,inherit);white-space:nowrap}
+.src-ref a{color:var(--muted);text-decoration:none}
+.src-ref a:hover,.src-ref a:focus{color:var(--link);text-decoration:underline}
+/* END ben-offsite.css */
+/* BEGIN ben-rel.css */
+.relationships .rel-list>li.rel{margin:0 0 .35em!important}
+.relationships details.rel-more>summary{cursor:pointer;list-style-position:outside}
+.relationships details.rel-more>summary a{font-weight:600}
+.relationships details.rel-more[open]>summary{margin-bottom:.25em}
+.relationships details.rel-more>.rel-body{margin:0 0 .6em 1.1em;font-size:.95em}
+.relationships details.rel-more .rel-what{font-size:.82em;text-transform:uppercase;letter-spacing:.04em;opacity:.8}
+.relationships details.rel-more .rel-sources{margin-top:.3em;font-size:.92em}
+/* END ben-rel.css */
