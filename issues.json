@@ -16,12 +16,12 @@
   },
   {
    "slug": "israel",
-   "title": "Israel stance",
+   "title": "Israel: the Israeli government, its policy and US support",
    "url": "issues/israel/",
    "anchor": "israel_stance",
    "positions": 3,
-   "recorded": 89,
-   "summary": "Stance on Israel and on US support for Israel.",
+   "recorded": 84,
+   "summary": "Stance on the Israeli government and its policy, and on US support for Israel (aid, arms, alliance).",
    "being_filled": false,
    "group": null,
    "covers_axes": [
@@ -545,6 +545,48 @@
    "group": "Foreign policy",
    "covers_axes": [
     "gaza_israel_aid"
+   ]
+  },
+  {
+   "slug": "judaism-religion",
+   "title": "Judaism as a religion",
+   "url": "issues/judaism-religion/",
+   "anchor": "judaism_religion",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Views of Judaism as a faith: its scriptures, rabbinic tradition, teachings and practice, including theological criticism of or hostility to the religion itself.",
+   "being_filled": true,
+   "group": "Israel, Judaism and Jewish people",
+   "covers_axes": [
+    "judaism_religion"
+   ]
+  },
+  {
+   "slug": "jewish-group-claims",
+   "title": "Claims about Jewish group influence and ethnic rivalry",
+   "url": "issues/jewish-group-claims/",
+   "anchor": "jewish_group_claims",
+   "positions": 3,
+   "recorded": 5,
+   "summary": "",
+   "being_filled": false,
+   "group": "Israel, Judaism and Jewish people",
+   "covers_axes": [
+    "jewish_group_claims"
+   ]
+  },
+  {
+   "slug": "violence-against-jews",
+   "title": "Calls for violence, expulsion or genocide against Jews",
+   "url": "issues/violence-against-jews/",
+   "anchor": "violence_against_jews",
+   "positions": 3,
+   "recorded": 0,
+   "summary": "Whether a person calls for or endorses violence, expulsion or genocide against Jews.",
+   "being_filled": true,
+   "group": "Israel, Judaism and Jewish people",
+   "covers_axes": [
+    "violence_against_jews"
    ]
   },
   {
@@ -1147,20 +1189,6 @@
    "group": "Culture and race",
    "covers_axes": [
     "confederate_monuments"
-   ]
-  },
-  {
-   "slug": "antisemitism",
-   "title": "Antisemitism",
-   "url": "issues/antisemitism/",
-   "anchor": "antisemitism",
-   "positions": 3,
-   "recorded": 0,
-   "summary": "How serious a problem antisemitism is, including on the right, and how to respond.",
-   "being_filled": true,
-   "group": "Culture and race",
-   "covers_axes": [
-    "antisemitism"
    ]
   },
   {
