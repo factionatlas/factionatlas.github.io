@@ -424,3 +424,18 @@ h3 + ul.chips.affiliated-orgs{margin-bottom:.85rem}
 .lede-points{margin:-.35rem 0 .95rem;padding-left:1.6rem;max-width:42rem}
 .lede-points li{margin:.3rem 0;line-height:1.55;padding-left:.15rem}
 /* END ben-lede.css */
+/* BEGIN ben-phrases.css */
+.phrases td{vertical-align:top}
+.phrases .c-phrase{min-width:14rem}
+.phrases .c-phrase>a{font:600 1rem/1.35 var(--f-head)}
+.phrases .c-phrase .role{display:block;color:var(--muted);font:400 .86rem/1.45 var(--f-ui);margin-top:.2rem;max-width:34rem}
+.phrases .c-kind{white-space:nowrap;font:500 .82rem var(--f-ui);color:var(--muted)}
+.phrase-tools select{max-width:17rem}
+h1.phrase-text{font-style:italic;font-weight:600;font-size:clamp(1.8rem,4vw,2.7rem);max-width:40rem}
+.phrase-gloss{font-size:1.12rem;max-width:40rem}
+.phrase-infobox{position:static;margin:1rem 0 1.25rem}
+@media (min-width:861px){.phrase-infobox{float:right;width:17rem;margin:0 0 1.25rem 2rem}}
+.phrase-sources,.phrase-sightings,.phrase-samples{max-width:42rem}
+.phrase-infobox~.sources-box{clear:both}
+.phrase-links li a:first-child{font-style:italic}
+/* END ben-phrases.css */
