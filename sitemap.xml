@@ -75,6 +75,7 @@
 <url><loc>https://factionatlas.github.io/faction/hist_federalist_party/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/hist_free_soil_party/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/hist_fundamentalist_movement/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/hist_g3_ministries/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/hist_gamergate/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/hist_gilded_age_gop/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/hist_gold_democrats/</loc></url>
@@ -166,6 +167,7 @@
 <url><loc>https://factionatlas.github.io/faction/mr_sports_popculture/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/mr_timcast_network/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/nonpolitical/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/org_a16z/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_aclj/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_acton_institute/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_adf/</loc></url>
@@ -186,6 +188,7 @@
 <url><loc>https://factionatlas.github.io/faction/org_atr/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_aul/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_azapac/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/org_blue_dog_coalition/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_bulwark/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_care_net/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_cascade_policy/</loc></url>
@@ -203,10 +206,12 @@
 <url><loc>https://factionatlas.github.io/faction/org_commonwealth_foundation/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_concerned_veterans/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_cpac/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/org_cpc/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_cwa/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_defense_priorities/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_discovery_institute/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_dispatch/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/org_dsa/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_eagle_forum/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_edchoice/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_empire_center/</loc></url>
@@ -245,6 +250,7 @@
 <url><loc>https://factionatlas.github.io/faction/org_liberty_counsel/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_lincoln_project/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_live_action/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/org_lumena_ministries/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_mackinac_center/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_manhattan_institute/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_march_for_life/</loc></url>
@@ -258,6 +264,7 @@
 <url><loc>https://factionatlas.github.io/faction/org_natural_law_institute/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_ncla/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_ncppr/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/org_new_dem_coalition/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_nra/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_nrcc/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_nrlc/</loc></url>
@@ -268,6 +275,7 @@
 <url><loc>https://factionatlas.github.io/faction/org_operation_rescue/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_passage_press/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_pelican_institute/</loc></url>
+<url><loc>https://factionatlas.github.io/faction/org_problem_solvers_caucus/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_pronatalist/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_protestia/</loc></url>
 <url><loc>https://factionatlas.github.io/faction/org_r_street/</loc></url>
@@ -369,8 +377,10 @@
 <url><loc>https://factionatlas.github.io/issues/gun-suppressors/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/h1b-indian-immigration/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/h1b-program/</loc></url>
+<url><loc>https://factionatlas.github.io/issues/health-coverage-system/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/heritage-americans/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/housing-zoning/</loc></url>
+<url><loc>https://factionatlas.github.io/issues/immigration-legalization/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/impoundment/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/in-data-centers/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/in-property-tax/</loc></url>
@@ -394,6 +404,7 @@
 <url><loc>https://factionatlas.github.io/issues/nuclear-power/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/oil-gas/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/online-censorship/</loc></url>
+<url><loc>https://factionatlas.github.io/issues/permitting-reform/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/policing/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/political-prosecutions/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/political-strategy/</loc></url>
@@ -431,6 +442,7 @@
 <url><loc>https://factionatlas.github.io/issues/western-civ/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/women-combat-draft/</loc></url>
 <url><loc>https://factionatlas.github.io/issues/working-with-democrats/</loc></url>
+<url><loc>https://factionatlas.github.io/map/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_00935b87cc/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_018129853d/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_0216b59124/</loc></url>
@@ -493,6 +505,7 @@
 <url><loc>https://factionatlas.github.io/org/p_318461d2d3/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_31c2e093a9/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_32b0b1d9a0/</loc></url>
+<url><loc>https://factionatlas.github.io/org/p_32d431528b/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_3465e27b12/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_34f1f64991/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_36126d68ee/</loc></url>
@@ -508,6 +521,7 @@
 <url><loc>https://factionatlas.github.io/org/p_3e44c57bc4/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_3fa17971b6/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_40646ee945/</loc></url>
+<url><loc>https://factionatlas.github.io/org/p_413b457f0b/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_42f24388c3/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_433a5eba12/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_4342243d58/</loc></url>
@@ -517,6 +531,7 @@
 <url><loc>https://factionatlas.github.io/org/p_458ef781d9/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_45f600cdbf/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_4709c8e61a/</loc></url>
+<url><loc>https://factionatlas.github.io/org/p_4720f5504e/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_472f102133/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_479ec0aed2/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_47b8dcaa33/</loc></url>
@@ -555,6 +570,7 @@
 <url><loc>https://factionatlas.github.io/org/p_6ac62ace07/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_6b2688cf15/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_6b86014c77/</loc></url>
+<url><loc>https://factionatlas.github.io/org/p_6bc2d5a748/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_6caf339c76/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_6caf98754e/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_6d8655c464/</loc></url>
@@ -582,6 +598,7 @@
 <url><loc>https://factionatlas.github.io/org/p_850c37e13b/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_870cbe5eaa/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_870ccf7f5b/</loc></url>
+<url><loc>https://factionatlas.github.io/org/p_87ebd91a09/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_88c9bffd85/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_895874300e/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_899fe6e506/</loc></url>
@@ -591,6 +608,7 @@
 <url><loc>https://factionatlas.github.io/org/p_8af418079c/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_8c051fc98f/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_8c5add88ba/</loc></url>
+<url><loc>https://factionatlas.github.io/org/p_8c74ea4690/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_8e2cdb0f19/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_8f3cc31445/</loc></url>
 <url><loc>https://factionatlas.github.io/org/p_905e25c4a0/</loc></url>
@@ -726,6 +744,7 @@
 <url><loc>https://factionatlas.github.io/person/p_0063fa4a77/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_006baa3e25/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_009e4e5f43/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_00a444d431/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_00bfdc37d4/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_00c0f9da1b/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_00f3f673a3/</loc></url>
@@ -826,6 +845,7 @@
 <url><loc>https://factionatlas.github.io/person/p_06b21145de/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_06b6b43b11/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_06bc02cd17/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_06cb6ae0f3/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_06d281b7e7/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_06d7899613/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_06db128bd6/</loc></url>
@@ -839,6 +859,7 @@
 <url><loc>https://factionatlas.github.io/person/p_071caf9cf5/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_072ac8d784/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_073ea22b5d/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_074a4c5b20/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_075fcdd24a/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_077301f128/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_077538a13f/</loc></url>
@@ -1200,10 +1221,12 @@
 <url><loc>https://factionatlas.github.io/person/p_1bf2edccdf/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c1a3e6c88/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c31e02e38/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_1c3caa25ab/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c45838311/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c57797778/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c6671c577/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c6751046c/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_1c8099a1eb/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c81922118/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1c860496f5/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_1ca9009a51/</loc></url>
@@ -1480,6 +1503,7 @@
 <url><loc>https://factionatlas.github.io/person/p_2cce93bd84/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_2cd45dccdd/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_2ce532edfb/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_2d173cacd5/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_2d17514319/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_2d25af476a/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_2d27bed739/</loc></url>
@@ -1550,6 +1574,7 @@
 <url><loc>https://factionatlas.github.io/person/p_31769f556a/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_317934965f/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_31847b1f79/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_318548824f/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3189f50c05/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_31ae8e60d9/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_31b4afd522/</loc></url>
@@ -1752,6 +1777,7 @@
 <url><loc>https://factionatlas.github.io/person/p_3e965373d1/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3e9811fd8f/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3ea577c651/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_3ecada0a80/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3edbe4562f/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3ef4076d38/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3f109815f1/</loc></url>
@@ -1761,6 +1787,7 @@
 <url><loc>https://factionatlas.github.io/person/p_3f7c6b05d0/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3f8e2a0ef5/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3fad76e5a8/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_3fae6e9ad8/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_3fed3b34be/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4013352567/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4043d715a4/</loc></url>
@@ -1904,6 +1931,7 @@
 <url><loc>https://factionatlas.github.io/person/p_47fe0f5490/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4806a7c18a/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4808ccc5d1/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_480c7c8803/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4810812706/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_481391f6b7/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_483481cb42/</loc></url>
@@ -1918,6 +1946,7 @@
 <url><loc>https://factionatlas.github.io/person/p_488ea516a9/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_48b3f8b99e/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_48b4652502/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_48b8dc3a69/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_48ccac6eda/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_48ced37534/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_48cf9222fa/</loc></url>
@@ -1981,6 +2010,7 @@
 <url><loc>https://factionatlas.github.io/person/p_4b93652c20/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4ba9acdd3d/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4bab7efbf9/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_4bc32fa799/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4bc4355ddc/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4bc44fae18/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_4bc81b07a0/</loc></url>
@@ -2112,6 +2142,7 @@
 <url><loc>https://factionatlas.github.io/person/p_546a1b986c/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_546a849e6b/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_5484e7fc16/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_549767d99f/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_54aa9e9709/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_54aaaeac4e/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_54b3a83d7c/</loc></url>
@@ -2981,6 +3012,7 @@
 <url><loc>https://factionatlas.github.io/person/p_8926c8d7e1/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_8927030753/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_89364cc470/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_89462f0da8/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_89510bd897/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_8952c92330/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_89546d3fa7/</loc></url>
@@ -3297,6 +3329,7 @@
 <url><loc>https://factionatlas.github.io/person/p_9e094a06cc/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_9e13c8113e/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_9e3cc44f1b/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_9e4bd05df5/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_9e567822fe/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_9e6bfd5a9e/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_9e6d84871c/</loc></url>
@@ -3414,6 +3447,7 @@
 <url><loc>https://factionatlas.github.io/person/p_a4d4d93b3b/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a4ecf3eeb1/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a4efe4330a/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_a4f96bd34c/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a5305236a1/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a53440a55b/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a542b2375b/</loc></url>
@@ -3475,6 +3509,7 @@
 <url><loc>https://factionatlas.github.io/person/p_a8efc7a884/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a8f0f71b62/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a8f1e1964f/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_a8f405aa30/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a906765ef3/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a91be7cdec/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_a91c2c3c6e/</loc></url>
@@ -3701,7 +3736,6 @@
 <url><loc>https://factionatlas.github.io/person/p_b573400259/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b589251cae/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b58b50986a/</loc></url>
-<url><loc>https://factionatlas.github.io/person/p_b5904c013c/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b5ab9bdffe/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b5db16848c/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b5de00ec2e/</loc></url>
@@ -3745,6 +3779,7 @@
 <url><loc>https://factionatlas.github.io/person/p_b8002184aa/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b800b4be9f/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b80cf8a2de/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_b819403e2d/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b8294ad227/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b837eaabf4/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_b8395b6dd1/</loc></url>
@@ -3821,6 +3856,7 @@
 <url><loc>https://factionatlas.github.io/person/p_bca5b99f96/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_bcb42c3f73/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_bcbc63e18a/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_bcc20b7b1b/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_bce015341d/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_bcecbcddec/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_bcf168d918/</loc></url>
@@ -3877,6 +3913,7 @@
 <url><loc>https://factionatlas.github.io/person/p_bfdadbf4bc/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_bffcc8def6/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c002d50bef/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_c010c4831a/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c01a29f401/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c033f7ea10/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c034dec72c/</loc></url>
@@ -4049,6 +4086,7 @@
 <url><loc>https://factionatlas.github.io/person/p_c9b3eedaed/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c9bb2b8a7c/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c9ca069638/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_c9d6027dd0/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c9d6a9b31c/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c9d82276b9/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_c9dd5d01d1/</loc></url>
@@ -4093,6 +4131,7 @@
 <url><loc>https://factionatlas.github.io/person/p_cba195d06b/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_cbb0736a57/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_cbc98eb8b7/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_cbd31261a0/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_cbd4fcccc7/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_cbef59429a/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_cc0314a7a3/</loc></url>
@@ -4357,6 +4396,7 @@
 <url><loc>https://factionatlas.github.io/person/p_db11092a19/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_db232e6b70/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_db3fd9b138/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_db49078701/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_db55e85ee3/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_db5da88cde/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_db67b0970f/</loc></url>
@@ -4922,6 +4962,7 @@
 <url><loc>https://factionatlas.github.io/person/p_fcdec2a1bc/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_fcfa49f0e9/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_fcfeafb54c/</loc></url>
+<url><loc>https://factionatlas.github.io/person/p_fd1e9e4cae/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_fd378ae1de/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_fd393626c6/</loc></url>
 <url><loc>https://factionatlas.github.io/person/p_fd4d292f15/</loc></url>

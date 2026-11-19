@@ -1,0 +1,5 @@
+cytoscape 3.35.0 (dist/cytoscape.min.js, MIT; licence in LICENSE-cytoscape.txt)
+Load: classic script, loaded by atlas-map.js (map v2, descent tree). No other map libraries.
+Removed 2026-11-19 (v1 force map retired): layout-base 2.0.1, cose-base 2.2.0, cytoscape-fcose 2.2.0,
+moved with their licences to /workspace/ben/backups/vendor-v1-libs.bak-20261119-tree/.
+Downloaded from npm 2026-11-19; production copy lives in Ben's overlay assets/vendor/.

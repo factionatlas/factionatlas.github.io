@@ -20,7 +20,7 @@
    "url": "issues/israel/",
    "anchor": "israel_stance",
    "positions": 3,
-   "recorded": 93,
+   "recorded": 94,
    "summary": "Stance on the Israeli government and its policy, and on US support for Israel (aid, arms, alliance).",
    "being_filled": false,
    "group": null,
@@ -77,7 +77,7 @@
    "url": "issues/trump/",
    "anchor": "trump_stance",
    "positions": 4,
-   "recorded": 174,
+   "recorded": 175,
    "summary": "How an account treats Trump and the second administration in Oct 2026 posts.",
    "being_filled": false,
    "group": null,
@@ -91,7 +91,7 @@
    "url": "issues/h1b-indian-immigration/",
    "anchor": "h1b_indian_immigration",
    "positions": 3,
-   "recorded": 45,
+   "recorded": 46,
    "summary": "Stance on H-1B visas and on Indian immigrants / Indian-American politicians.",
    "being_filled": false,
    "group": null,
@@ -105,7 +105,7 @@
    "url": "issues/national-identity/",
    "anchor": "national_identity",
    "positions": 2,
-   "recorded": 39,
+   "recorded": 41,
    "summary": "Who counts as a member of the nation (US or UK).",
    "being_filled": false,
    "group": null,
@@ -133,7 +133,7 @@
    "url": "issues/foreign-policy/",
    "anchor": "foreign_policy",
    "positions": 3,
-   "recorded": 213,
+   "recorded": 214,
    "summary": "Where an account sits on US military intervention (Iran war, Ukraine, regime change), from hawk to restraint.",
    "being_filled": false,
    "group": null,
@@ -217,7 +217,7 @@
    "url": "issues/political-strategy/",
    "anchor": "political_strategy",
    "positions": 5,
-   "recorded": 7,
+   "recorded": 8,
    "summary": "",
    "being_filled": false,
    "group": null,
@@ -245,7 +245,7 @@
    "url": "issues/vance/",
    "anchor": "vance_stance",
    "positions": 4,
-   "recorded": 16,
+   "recorded": 18,
    "summary": "",
    "being_filled": false,
    "group": null,
@@ -371,9 +371,9 @@
    "url": "issues/mass-deportation/",
    "anchor": "mass_deportation",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "Large-scale removal of people living in the country illegally.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Immigration",
    "covers_axes": [
     "mass_deportation"
@@ -413,9 +413,9 @@
    "url": "issues/legal-immigration-levels/",
    "anchor": "legal_immigration_levels",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 6,
    "summary": "How many legal immigrants the country should admit.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Immigration",
    "covers_axes": [
     "legal_immigration_levels"
@@ -427,9 +427,9 @@
    "url": "issues/h1b-program/",
    "anchor": "h1b_program",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 4,
    "summary": "",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Immigration",
    "covers_axes": [
     "h1b_program"
@@ -637,9 +637,9 @@
    "url": "issues/unions/",
    "anchor": "unions",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "Labor unions and laws that support or limit them.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Economy",
    "covers_axes": [
     "unions"
@@ -679,9 +679,9 @@
    "url": "issues/debt-deficits/",
    "anchor": "debt_deficits",
    "positions": 2,
-   "recorded": 0,
+   "recorded": 2,
    "summary": "How much the national debt and deficits matter.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Economy",
    "covers_axes": [
     "debt_deficits"
@@ -735,9 +735,9 @@
    "url": "issues/ai-regulation/",
    "anchor": "ai_regulation",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 4,
    "summary": "Government rules for artificial intelligence, including state AI laws.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Tech and speech",
    "covers_axes": [
     "ai_regulation"
@@ -805,9 +805,9 @@
    "url": "issues/crypto-altcoins/",
    "anchor": "crypto_altcoins",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 3,
    "summary": "Cryptocurrencies other than Bitcoin, stablecoins and their regulation (the bitcoin axis tracks Bitcoin itself).",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Tech and speech",
    "covers_axes": [
     "crypto_altcoins"
@@ -931,9 +931,9 @@
    "url": "issues/church-state/",
    "anchor": "church_state",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "How strictly government should be kept separate from religion.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Religion and state",
    "covers_axes": [
     "church_state"
@@ -1015,9 +1015,9 @@
    "url": "issues/christian-nation-amendment/",
    "anchor": "christian_nation_amendment",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "A constitutional amendment naming the U.S.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Religion and state",
    "covers_axes": [
     "christian_nation_amendment"
@@ -1469,6 +1469,48 @@
    "group": "Culture and race",
    "covers_axes": [
     "group_differences_causes"
+   ]
+  },
+  {
+   "slug": "health-coverage-system",
+   "title": "Health coverage system",
+   "url": "issues/health-coverage-system/",
+   "anchor": "health_coverage_system",
+   "positions": 3,
+   "recorded": 1,
+   "summary": "How health coverage should be organized: a universal, government-guaranteed system (self-described 'universal health care' / 'Medicare for All') versus coverage through private and market-based insurance (self-described 'free-market' or 'patient-centered' health care), or a mix.",
+   "being_filled": false,
+   "group": "Economy and welfare",
+   "covers_axes": [
+    "health_coverage_system"
+   ]
+  },
+  {
+   "slug": "permitting-reform",
+   "title": "Permitting reform (energy and infrastructure projects)",
+   "url": "issues/permitting-reform/",
+   "anchor": "permitting_reform",
+   "positions": 3,
+   "recorded": 1,
+   "summary": "Whether federal permitting and environmental review (e.g.",
+   "being_filled": false,
+   "group": "Economy and welfare",
+   "covers_axes": [
+    "permitting_reform"
+   ]
+  },
+  {
+   "slug": "immigration-legalization",
+   "title": "Legal status for unauthorized immigrants",
+   "url": "issues/immigration-legalization/",
+   "anchor": "immigration_legalization",
+   "positions": 3,
+   "recorded": 27,
+   "summary": "Whether people living in the country illegally should get a legal status (work and travel permits, protection from removal, a path to residency), as in the Dignity Act (H.R.",
+   "being_filled": false,
+   "group": "Immigration",
+   "covers_axes": [
+    "immigration_legalization"
    ]
   }
  ]
