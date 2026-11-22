@@ -1,32 +1,15 @@
-/* Faction Atlas map chrome — Ben overlay (2026-11-21).
-   Styles the toolbar, search, buttons, panel, legend and table so they
-   match the rest of the atlas. Cytoscape colours, label sizes and the
-   "Historical movements" band title are specified in
-   /workspace/ben/factionatlas-drafts/map-style/STYLE.md for Mac to apply
-   in atlas_map.py / atlas-map.js; they cannot be set from this file.
+/* Faction Atlas map chrome — Ben overlay (2026-11-21, theme follow-up).
+   Toolbar, search, buttons, panel, legend and table use the site theme
+   tokens (light and dark via prefers-color-scheme). Cytoscape zone fills
+   and the band title are still hard-coded in atlas-map.js; see
+   /workspace/ben/factionatlas-drafts/map-style/STYLE.md §11 for the
+   dark palette and the snippet Mac can apply.
 */
 
-/* ---- map-scoped tokens ------------------------------------------------ */
-/* Lock the map tool to the light palette so the chrome matches the
-   drawing. The canvas is still hard-coded light in atlas-map.js. */
-.atlas-map,
-.page-map .map-legend,
-.page-map .map-table-wrap {
-  --bg: #F5F1E8;
-  --surface: #FBF8F2;
-  --surface2: #ECE5D6;
-  --text: #1E2A2F;
-  --muted: #4F5B5F;
-  --link: #7A4510;
-  --accent: #4E7470;
-  --border: #D3C9B5;
-  --strong: #857C6B;
-  --placed-bg: #1E2A2F;
-  --placed-fg: #F5F1E8;
-  --hist-bg: #E6DDD0;          /* warm stand-in for theme --hist-bg #E1EBE8 */
-  --hist-fg: #3B3226;
-  --retired-fg: #3B3A35;
-  --map-canvas: #FBF8F2;
+/* ---- map tokens (for chrome now; for Mac's JS once it reads them) ----- */
+:root,
+.atlas-map {
+  --map-canvas: var(--surface);
   --map-zone-left: #D0D6DC;
   --map-zone-center: #D9E0D0;
   --map-zone-out: #DDD8CE;
@@ -35,8 +18,42 @@
   --map-hist-rule: #857C6B;
   --map-hist-box: #E6DFD2;
   --map-hist-ink: #1E2A2F;
+  --map-edge-coequal: #1E2A2F;
+  --map-edge-ancestor: #3B3A35;
+  --map-hist-border: #333333;
+  --map-out-box: #E8E4DC;
+  --map-out-ink: #1E2A2F;
+  --hist-bg: #E6DDD0; /* warm stand-in for theme --hist-bg #E1EBE8 */
+  --hist-fg: #3B3226;
+}
+@media (prefers-color-scheme: dark) {
+  :root,
+  .atlas-map {
+    --map-canvas: var(--surface);
+    --map-zone-left: #2A3542;
+    --map-zone-center: #2A3A30;
+    --map-zone-out: #33342F;
+    --map-zone-right: #1A2226;
+    --map-zone-hist: #4A3F32;
+    --map-hist-rule: #6F7D81;
+    --map-hist-box: #564E42;
+    --map-hist-ink: #E9E4D8;
+    --map-edge-coequal: #D8D2C6;
+    --map-edge-ancestor: #A8A294;
+    --map-hist-border: #B3A790;
+    --map-out-box: #454B4E;
+    --map-out-ink: #E9E4D8;
+    --hist-bg: #1F3331;
+    --hist-fg: #CFE3DF;
+  }
+}
+
+.atlas-map,
+.page-map .map-legend,
+.page-map .map-table-wrap {
   color: var(--text);
   font-family: var(--f-ui);
+  color-scheme: light dark;
 }
 
 /* ---- controls / toolbar ---------------------------------------------- */
@@ -48,16 +65,41 @@
   border: 1.5px solid var(--border);
   border-radius: 0;
   background: var(--surface);
-  padding: 0.5rem 0.75rem 0.6rem;
+  padding: 0.7rem 0.75rem 0.7rem;
+  overflow: visible;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
 }
+/* Sit the heading inside the box (not on the border). display:grid on
+   .map-trace otherwise clips the legend across the top edge. */
 .atlas-map .map-controls legend,
 .atlas-map .map-trace legend,
 .atlas-map .map-rels legend {
-  font: 650 0.78rem/1.2 var(--f-head);
+  float: left;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  grid-column: 1 / -1;
+  position: static;
+  font: 650 0.78rem/1.35 var(--f-head);
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--muted);
-  padding: 0 0.3rem;
+  margin: 0 0 0.5rem;
+  padding: 0 0 0.35rem;
+  border-bottom: 1px solid var(--strong);
+  background: none;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.atlas-map .map-controls fieldset::after,
+.atlas-map .map-rels::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 .atlas-map .map-controls label,
 .atlas-map .map-search label {
@@ -71,6 +113,10 @@
   color: var(--muted);
   margin-bottom: 0.25rem;
 }
+.atlas-map .map-controls input[type="checkbox"] {
+  accent-color: var(--accent);
+  color-scheme: inherit;
+}
 
 /* inputs: same language as site search / roster */
 .atlas-map .map-search input,
@@ -81,6 +127,7 @@
   border-radius: 4px;
   background: var(--surface);
   color: var(--text);
+  color-scheme: inherit;
 }
 .atlas-map .map-search input:hover,
 .atlas-map .map-trace input:hover {
@@ -92,6 +139,7 @@
   background: var(--surface);
   box-shadow: 4px 4px 0 var(--surface2);
   font-size: 0.93rem;
+  color: var(--text);
 }
 .atlas-map .map-q-results li {
   padding: 0.5rem 0.7rem;
@@ -116,6 +164,7 @@
   background: var(--surface);
   color: var(--text);
   cursor: pointer;
+  color-scheme: inherit;
 }
 .atlas-map .map-buttons button:hover,
 .atlas-map .map-panel button:hover,
@@ -145,11 +194,21 @@
 .atlas-map .map-rels .b-none,
 .atlas-map .map-legend .b-none {
   color: var(--muted);
+  white-space: normal;
+  overflow-wrap: anywhere;
+  min-width: 0;
+  max-width: 100%;
 }
 
-/* ---- canvas and overlay chrome --------------------------------------- */
-.atlas-map .map-canvas {
-  background: var(--map-canvas);
+/* ---- canvas: site panel on --surface, infobox edge, no paper card ---- */
+.atlas-map .map-stage {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+.atlas-map .map-canvas,
+.atlas-map #map-canvas {
+  background: var(--map-canvas) !important; /* beat inline CHART_BG until Mac's JS reads the token */
   border: 1.5px solid var(--text);
   border-radius: 0;
   box-shadow: 4px 4px 0 var(--surface2);
@@ -212,18 +271,24 @@
 }
 
 /* ---- legend ---------------------------------------------------------- */
-.page-map .map-legend h2,
-.atlas-map .map-legend h2 {
-  /* keep the site section heading: 0.86rem, uppercase, tracked, rule */
-}
 .atlas-map .map-legend-list,
 .page-map .map-legend-list {
   font-size: 0.93rem;
   gap: 0.45rem 1.4rem;
+  color: var(--text);
+}
+.atlas-map .map-legend-list,
+.page-map .map-legend-list {
+  min-width: 0;
+  max-width: 100%;
 }
 .atlas-map .map-legend-list li,
 .page-map .map-legend-list li {
   line-height: 1.45;
+  min-width: 0;
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
 }
 .atlas-map .map-box,
 .page-map .map-box {
@@ -239,6 +304,7 @@
 .atlas-map .map-table,
 .page-map .map-table {
   font: 0.93rem/1.45 var(--f-ui);
+  color: var(--text);
 }
 .atlas-map .map-table th,
 .page-map .map-table th {
@@ -271,7 +337,7 @@
   border-bottom: 1px solid var(--border);
 }
 
-/* phones: keep the existing layout; only the corners follow the site */
+/* phones: corners, wrapping, and a stacked trace form */
 @media (max-width: 760px) {
   .atlas-map .map-panel {
     border-radius: 8px 8px 0 0;
@@ -279,5 +345,39 @@
   }
   .atlas-map .map-bands button {
     padding: 0.3rem 0.6rem;
+  }
+  .atlas-map .map-legend-list li,
+  .page-map .map-legend-list li {
+    flex: 1 1 100%;
+  }
+  /* Label above a full-width input; Trace and Clear on their own row. */
+  .atlas-map fieldset.map-trace {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.35rem 0.5rem;
+    align-items: stretch;
+  }
+  .atlas-map .map-trace legend,
+  .atlas-map .map-trace label,
+  .atlas-map .map-trace input,
+  .atlas-map .map-trace datalist {
+    grid-column: 1 / -1;
+    min-width: 0;
+    max-width: 100%;
+  }
+  .atlas-map .map-trace label {
+    margin: 0.15rem 0 0;
+  }
+  .atlas-map .map-trace input {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .atlas-map .map-trace button[data-act="trace"] {
+    grid-column: 1;
+    margin-top: 0.2rem;
+  }
+  .atlas-map .map-trace button[data-act="untrace"] {
+    grid-column: 2;
+    margin-top: 0.2rem;
   }
 }

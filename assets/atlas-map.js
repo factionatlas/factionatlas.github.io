@@ -25,9 +25,60 @@ const BW = 120, BH = 70, PADX = 20, TH = 40, PADB = 20, VG = 28, HG = 28, UG = 6
 const BANDS = ["left", "center", "out", "right"];   // living columns; historical/defunct sit in a top band, not a side column
 const BAND_WORD = { left: "Left", center: "Center", out: "Outside left, center and right", hist: "HISTORICAL MOVEMENTS",
   right: "The right (a label for several movements, not one parent)" };
-const ZONE_FILL = { left: "#D0D6DC", center: "#D9E0D0", out: "#DDD8CE", hist: "#D0C4AE", right: "#FBF8F2" };
 const HIST_HEAD = 64, HIST_GUT = 36, HIST_LABW = 210, HIST_GAP = 24;   // tighter packing inside the historical band
-const CHART_BG = "#FBF8F2", SPC = "#c2189b", COQ = "#1E2A2F";
+const SPC = "#c2189b";
+
+// Canvas, zone and historical colours come from Ben's overlay tokens on :root
+// (--map-canvas, --map-zone-*, --map-hist-*). Light hexes are fallbacks if a
+// token is missing. --map-canvas is var(--surface); resolved via getComputedStyle
+// on a live element (not the raw custom-property text) so Cytoscape gets #rrggbb.
+function token(name, fallback) {
+  const el = token.el || (token.el = document.createElement("span"));
+  el.style.color = "";
+  el.style.color = `var(${name}, ${fallback})`;
+  document.documentElement.appendChild(el);
+  const cs = getComputedStyle(el).color;
+  el.remove();
+  const m = String(cs).match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/);
+  return m ? "#" + [m[1], m[2], m[3]].map(x => Number(x).toString(16).padStart(2, "0")).join("") : fallback;
+}
+function chartPalette() {
+  // Only use site --text/--muted for labels when Ben's map tokens are on :root.
+  // Otherwise a dark page theme plus light fill fallbacks would wash out the titles.
+  const hasMap = !!getComputedStyle(document.documentElement).getPropertyValue("--map-canvas").trim();
+  return {
+    canvas: token("--map-canvas", "#FBF8F2"),
+    zone: {
+      left:   token("--map-zone-left",   "#D0D6DC"),
+      center: token("--map-zone-center", "#D9E0D0"),
+      out:    token("--map-zone-out",    "#DDD8CE"),
+      hist:   token("--map-zone-hist",   "#D0C4AE"),
+      right:  token("--map-zone-right",  "#FBF8F2"),
+    },
+    histRule: token("--map-hist-rule", "#857C6B"),
+    histBox:  token("--map-hist-box",  "#E6DFD2"),
+    histInk:  token("--map-hist-ink",  "#1E2A2F"),
+    histBorder: token("--map-hist-border", "#333333"),
+    outBox:   token("--map-out-box", "#E8E4DC"),
+    outInk:   token("--map-out-ink", "#1E2A2F"),
+    edgeCoeq: token("--map-edge-coequal", "#1E2A2F"),
+    edgeAncestor: token("--map-edge-ancestor", "#3B3A35"),
+    zoneInk:    hasMap ? token("--text",  "#1E2A2F") : "#1E2A2F",
+    liveRowInk: hasMap ? token("--muted", "#4F5B5F") : "#4F5B5F",
+    histRowInk: hasMap ? token("--text",  "#1E2A2F") : "#1E2A2F",
+  };
+}
+function applyChartTheme() {
+  const pal = chartPalette();
+  const canvas = $("#map-canvas");
+  if (canvas) canvas.style.background = pal.canvas;
+  if (!cy) return;
+  const view = { zoom: cy.zoom(), pan: { ...cy.pan() } };
+  cy.style().fromJson(styles()).update();
+  render({ fit: false });
+  cy.viewport(view);
+  Z = cy.zoom();
+}
 
 let G = null, byId = new Map(), cy = null, names = null;
 const kidsT = new Map();      // tree children (expand and collapse): nodes whose tp is this node
@@ -479,18 +530,18 @@ function nodeLabel(n) {
 }
 function relRep(id, V) { let x = id; while (x && !V.has(x)) x = byId.get(x).tp; return x; }
 function elements(V, Lt) {
-  const els = [];
+  const els = [], pal = chartPalette();
   // bands (zones) and their headings, drawn behind everything and never tappable
   if (Lt.hasHist) {
     const hw = Lt.histWidth, hh = Lt.histBottom + 8;
-    els.push({ group: "nodes", data: { id: "zone-hist", label: BAND_WORD.hist, w: hw, h: hh, fill: ZONE_FILL.hist }, position: { x: hw / 2, y: hh / 2 }, classes: "zone zone-hist" });
-    els.push({ group: "nodes", data: { id: "zone-hist-rule", w: hw, h: 4, fill: "#857C6B" }, position: { x: hw / 2, y: hh }, classes: "zone-rule" });
+    els.push({ group: "nodes", data: { id: "zone-hist", label: BAND_WORD.hist, w: hw, h: hh, fill: pal.zone.hist }, position: { x: hw / 2, y: hh / 2 }, classes: "zone zone-hist" });
+    els.push({ group: "nodes", data: { id: "zone-hist-rule", w: hw, h: 4, fill: pal.histRule }, position: { x: hw / 2, y: hh }, classes: "zone-rule" });
   }
   const liveTop = Lt.hasHist ? Lt.liveTop - 36 : 0;
   const liveH = Lt.bottom - liveTop + 40;
   for (const b of Lt.bandsUsed) {
     const w = b === "right" ? Lt.CAP + 2 * PADX : SIDEW;
-    els.push({ group: "nodes", data: { id: "zone-" + b, label: BAND_WORD[b], w, h: liveH, fill: ZONE_FILL[b] }, position: { x: Lt.X0[b] + w / 2, y: liveTop + liveH / 2 }, classes: "zone" });
+    els.push({ group: "nodes", data: { id: "zone-" + b, label: BAND_WORD[b], w, h: liveH, fill: pal.zone[b] }, position: { x: Lt.X0[b] + w / 2, y: liveTop + liveH / 2 }, classes: "zone" });
   }
   const rowWord = (r, hist) => {
     if (r === 0) return hist ? "Historical roots" : "Root movements";
@@ -510,8 +561,8 @@ function elements(V, Lt) {
     const n = byId.get(id), box = Lt.BOX.get(id);
     const cls = ["fac", `layer-${n.layer}`, `band-${n.band}`]; if (n.hist) cls.push("hist"); if (n.prov) cls.push("prov");
     if (n.row === 0) cls.push("root");
-    const d = { id, col: n.col, ink: n.hist ? "#1E2A2F" : (lum(n.band === "out" ? "#E8E4DC" : n.col) < 0.5 ? "#fff" : "#1E2A2F"),
-      fill: n.hist ? "#E6DFD2" : n.band === "out" ? "#E8E4DC" : n.col, edge: shade(n.col, 0.8) };
+    const d = { id, col: n.col, ink: n.hist ? pal.histInk : n.band === "out" ? pal.outInk : (lum(n.col) < 0.5 ? "#fff" : "#1E2A2F"),
+      fill: n.hist ? pal.histBox : n.band === "out" ? pal.outBox : n.col, edge: shade(n.col, 0.8) };
     if (n.nest && V.has(n.nest) && Lt.BOX.has(n.nest)) d.parent = n.nest;
     if (box) {
       d.label = wrap(n.label, 60, 1); d.fs = FONT;
@@ -557,27 +608,28 @@ function elements(V, Lt) {
 
 function styles() {
   const font = getComputedStyle(document.documentElement).getPropertyValue("--f-ui").trim() || "system-ui, sans-serif";
+  const pal = chartPalette();
   const px = (m, minPx) => () => Math.max(m, minPx / Z);   // model width, but never thinner than minPx on screen
   const typePx = (base, minScreen, maxModel) => () => Math.min(maxModel, Math.max(base, minScreen / Z));
   return [
     { selector: "node", style: { "font-family": font, "events": "yes" } },
     { selector: "node.zone", style: { shape: "rectangle", width: "data(w)", height: "data(h)", "background-color": "data(fill)", "background-opacity": 1,
       "border-width": 0, label: "data(label)", "text-valign": "top", "text-halign": "center", "text-margin-y": 34, "font-size": typePx(15, 11, 22), "font-weight": 700,
-      color: "#1E2A2F", "text-wrap": "wrap", "text-max-width": "data(w)", events: "no", "z-compound-depth": "bottom", "z-index": 0 } },
-    { selector: "node.zone.zone-hist", style: { "background-opacity": 1, "border-width": 0, "border-color": "#857C6B",
-      "text-margin-y": 20, "font-size": typePx(20, 12, 36), "font-style": "normal", "font-weight": 700, "text-transform": "uppercase", color: "#1E2A2F" } },
+      color: pal.zoneInk, "text-wrap": "wrap", "text-max-width": "data(w)", events: "no", "z-compound-depth": "bottom", "z-index": 0 } },
+    { selector: "node.zone.zone-hist", style: { "background-opacity": 1, "border-width": 0, "border-color": pal.histRule,
+      "text-margin-y": 20, "font-size": typePx(20, 12, 36), "font-style": "normal", "font-weight": 700, "text-transform": "uppercase", color: pal.zoneInk } },
     { selector: "node.zone-rule", style: { shape: "rectangle", width: "data(w)", height: "data(h)", "background-color": "data(fill)",
       "background-opacity": 0.9, "border-width": 0, label: "", events: "no", "z-compound-depth": "bottom", "z-index": 1 } },
     { selector: "node.rowlabel", style: { shape: "rectangle", width: 1, height: 1, "background-opacity": 0, label: "data(label)", "font-size": typePx(12, 9, 16),
-      "font-style": "italic", color: "#4F5B5F", "text-valign": "center", "text-halign": "right", events: "no", "z-index": 1 } },
+      "font-style": "italic", color: pal.liveRowInk, "text-valign": "center", "text-halign": "right", events: "no", "z-index": 1 } },
     { selector: "node.rowlabel.rowlabel-hist", style: { width: "data(w)", height: "data(h)", "text-halign": "center", "text-valign": "center",
       "text-wrap": "wrap", "text-max-width": "data(w)", "font-size": typePx(12, 11, 28), "font-style": "normal", "font-weight": 500,
-      color: "#1E2A2F" } },
+      color: pal.histRowInk } },
     { selector: "node.fac", style: { shape: "round-rectangle", width: BW, height: BH, "background-color": "data(fill)", label: "data(label)",
       color: "data(ink)", "font-size": "data(fs)", "text-valign": "center", "text-halign": "center", "text-wrap": "wrap", "text-max-width": BW - 4,
       "line-height": 1.05, "border-width": 0.7, "border-color": "#333", "z-index": 20, "min-zoomed-font-size": 4 } },
     { selector: "node.fac.root", style: { "font-weight": 700 } },
-    { selector: "node.fac.hist", style: { "font-style": "italic" } },
+    { selector: "node.fac.hist", style: { "font-style": "italic", "border-color": pal.histBorder } },
     { selector: "node.fac.prov", style: { "border-style": "dashed", "border-width": 1.6, "border-color": "#222" } },
     { selector: "node.box", style: { shape: "round-rectangle", "background-color": "data(col)", "background-opacity": 0.13, "border-width": 2.2,
       "border-color": "data(col)", color: "data(edge)", "font-weight": 700, "font-size": 15, "text-valign": "top", "text-halign": "center",
@@ -590,8 +642,8 @@ function styles() {
     { selector: "edge.ln-primary", style: { width: px(3, 1.4) } },
     { selector: "edge.ln-wing", style: { width: px(1.5, 1), opacity: 0.6, "line-style": "dashed", "line-dash-pattern": [8, 4] } },
     { selector: "edge.ln-second", style: { "line-color": SPC, width: px(2, 1.2), "line-style": "dashed", "line-dash-pattern": [10, 4, 2, 4], opacity: 0.85 } },
-    { selector: "edge.ln-coeq", style: { "line-color": COQ, width: px(3.2, 1.5), opacity: 0.95 } },
-    { selector: "edge.ln-ancestor", style: { "line-color": "#3b3a35", width: px(2.4, 1.2), "line-style": "dotted", opacity: 0.9 } },
+    { selector: "edge.ln-coeq", style: { "line-color": pal.edgeCoeq, width: px(3.2, 1.5), opacity: 0.95 } },
+    { selector: "edge.ln-ancestor", style: { "line-color": pal.edgeAncestor, width: px(2.4, 1.2), "line-style": "dotted", opacity: 0.9 } },
     { selector: "edge.rel", style: { "curve-style": "unbundled-bezier", "control-point-distances": [-80], "control-point-weights": [0.5],
       "line-color": "data(col)", width: px(3, 1.4), opacity: 0.8, "z-index": 16 } },
     { selector: "edge.rel-alliance", style: { width: px(5, 2.2) } },
@@ -1042,7 +1094,8 @@ async function start() {
   try { for (const l of LIBS) await loadScript(new URL(l, VENDOR).href); }
   catch (e) { if (!window.cytoscape) { status.textContent = "The interactive map could not be loaded in this browser."; return; } }
   try { await document.fonts.ready; } catch (_) {}   // label sizes are measured with the page font
-  $("#map-canvas").style.background = CHART_BG;
+  applyChartTheme();
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", applyChartTheme);
   cy = window.cytoscape({ container: $("#map-canvas"), elements: [], style: styles(), layout: { name: "preset" },
     minZoom: 0.02, maxZoom: 3, wheelSensitivity: 0.3, boxSelectionEnabled: false, autoungrabify: true, autounselectify: true });
   window.atlasMap = { cy, graph: G, version: 2, layout: "tree", selectNode, selectEdge, trace: runTrace, render,
