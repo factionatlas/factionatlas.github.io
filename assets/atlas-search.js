@@ -83,6 +83,57 @@ function tokens(s) {
   return norm(s).split(/[.\s_-]+/).filter(Boolean);
 }
 
+// Keep Mac/Mc/O' (and a few other particles) glued when splitting camelCase handles.
+const NAME_PARTICLES = new Set(["mac", "mc", "fitz", "o", "d", "de", "del", "della", "van", "von", "bin", "al", "st"]);
+
+function splitCamelWord(word) {
+  if (!word) return [];
+  const parts = [];
+  let buf = "";
+  for (let i = 0; i < word.length; i++) {
+    const ch = word[i];
+    if (i > 0 && /[A-Z]/.test(ch) && /[a-z]/.test(word[i - 1])) {
+      if (NAME_PARTICLES.has(buf.toLowerCase())) buf += ch;
+      else {
+        parts.push(buf);
+        buf = ch;
+      }
+    } else buf += ch;
+  }
+  if (buf) parts.push(buf);
+  return parts;
+}
+
+function nameTokens(s) {
+  if (!s) return [];
+  const seen = new Set();
+  const out = [];
+  const add = (raw) => {
+    for (const p of tokens(raw)) {
+      if (!seen.has(p)) {
+        seen.add(p);
+        out.push(p);
+      }
+    }
+  };
+  const raw = String(s).replaceAll("@", " ");
+  for (const word of raw.split(/[\s._]+/).filter(Boolean)) {
+    for (const piece of word.split(/[-–—]+/).filter(Boolean)) {
+      if (/['’]/.test(piece)) {
+        const bits = piece.split(/['’]+/).filter(Boolean);
+        for (const b of bits) {
+          for (const c of splitCamelWord(b)) add(c);
+        }
+        add(bits.join(""));
+      } else {
+        for (const c of splitCamelWord(piece)) add(c);
+      }
+    }
+  }
+  for (const t of tokens(s)) add(t);
+  return out.filter((t, i, arr) => arr.filter((_, j) => j !== i).join("") !== t);
+}
+
 function levenshtein(a, b, cap = 2) {
   if (a === b) return 0;
   if (Math.abs(a.length - b.length) > cap) return cap + 1;
@@ -125,16 +176,23 @@ function tokenPrefixSeq(qt, ft) {
   return true;
 }
 
-function fieldScore(qn, qt, field, isHandle, queryHasAt) {
+function lastSignificant(ft) {
+  let i = ft.length - 1;
+  while (i >= 0 && JR.has(ft[i])) i -= 1;
+  return i >= 0 ? ft[i] : ft[ft.length - 1];
+}
+
+function fieldScore(qn, qt, field, isHandle, queryHasAt, asName) {
   if (!field) return 0;
   const fn = norm(field);
-  const ft = tokens(field);
+  const ft = asName ? nameTokens(field) : tokens(field);
   if (!fn || !ft.length) return 0;
   let s = 0;
   if (fn === qn) s = 10000;
   else if (fn.startsWith(qn) && (fn.length === qn.length || !/[a-z0-9]/.test(fn[qn.length] || ""))) s = 9000;
   else if (fn.startsWith(qn)) s = 8200;
-  else if (qt.length === 1 && ft[ft.length - 1] === qt[0]) s = 9000;
+  else if (qt.length === 1 && lastSignificant(ft) === qt[0]) s = 9000;
+  else if (qt.length === 1 && qt[0].length >= 3 && lastSignificant(ft).startsWith(qt[0])) s = 8500;
   else if (qt.length >= 2 && ft[0].startsWith(qt[0])) {
     const lastFt = ft[ft.length - 1];
     let i = ft.length - 1;
@@ -202,10 +260,22 @@ function scoreRecord(q, rec) {
   }
   for (const a of rec.a || []) fields.push(["alias", a, false]);
   for (const [name, val, isH] of fields) {
-    const s = fieldScore(qn, qt, val, isH, queryHasAt);
+    const s = fieldScore(qn, qt, val, isH, queryHasAt, true);
     if (s > best) {
       best = s;
       reason = name;
+    }
+  }
+  let officeBest = 0;
+  for (const o of rec.o || []) {
+    const s = fieldScore(qn, qt, o, false, queryHasAt, false);
+    if (s > officeBest) officeBest = s;
+  }
+  if (officeBest) {
+    officeBest = Math.min(officeBest, 5800);
+    if (officeBest > best) {
+      best = officeBest;
+      reason = "office";
     }
   }
   if (!best) return { s: 0, reason: "" };
@@ -214,7 +284,7 @@ function scoreRecord(q, rec) {
       const an = norm(a);
       if (!an || an === qn) continue;
       if (!rec.t.toLowerCase().startsWith(a.toLowerCase()) && tokens(a).length <= 2) {
-        const fs = fieldScore(qn, qt, a, false, queryHasAt);
+        const fs = fieldScore(qn, qt, a, false, queryHasAt, true);
         if (fs === best && fs >= 8000) {
           best = Math.min(best, 7200);
           break;
@@ -342,7 +412,7 @@ function el(tag, attrs = {}, children = []) {
   return n;
 }
 
-function renderHit(hit, idx, prefix) {
+function renderHit(hit, idx, prefix, q) {
   const rec = hit.rec;
   const typ = rec.k || typeOfUrl(rec.u);
   const li = el("li", { class: "atlas-hit", role: "option", id: `${prefix}-${idx}`, "data-url": rec.u });
@@ -356,6 +426,16 @@ function renderHit(hit, idx, prefix) {
   if (rec.h) subBits.push("@" + rec.h);
   if (rec.f) subBits.push(rec.f);
   if (hit.reason === "alias" && rec.a && rec.a.length) subBits.push("also " + rec.a[0]);
+  if (hit.reason === "office" && rec.o && rec.o.length) {
+    const qt = tokens(q || "");
+    let shown = rec.o[0];
+    if (qt.length) {
+      const hitOffice = rec.o.find((o) => qt.every((t) => tokens(o).some((w) => w.startsWith(t))));
+      if (hitOffice) shown = hitOffice;
+    }
+    if (shown.length > 90) shown = shown.slice(0, 87) + "…";
+    subBits.push(shown);
+  }
   if (hit.mention) subBits.push("in the page text");
   if (subBits.length) a.append(el("span", { class: "atlas-sub", text: subBits.join(" · ") }));
   if (hit.excerpt) {
@@ -369,7 +449,7 @@ function renderHit(hit, idx, prefix) {
 
 function mount(root, opts = {}) {
   const mode = opts.mode || "page"; // page | hero | header
-  const nameLimit = opts.nameLimit ?? (mode === "header" ? 6 : mode === "hero" ? 8 : 16);
+  const nameLimit = opts.nameLimit ?? (mode === "header" ? 6 : mode === "hero" ? 8 : 40);
   const mentionLimit = opts.mentionLimit ?? (mode === "header" ? 3 : mode === "hero" ? 5 : 10);
   const showFilters = opts.showFilters !== false && mode !== "header";
   const uid = "as-" + Math.random().toString(36).slice(2, 8);
@@ -471,13 +551,13 @@ function mount(root, opts = {}) {
     input.setAttribute("aria-expanded", "true");
     if (nameHits.length) {
       list.append(el("li", { class: "atlas-group", role: "presentation", text: "Names" }));
-      nameHits.forEach((h, i) => list.append(renderHit(h, i, uid + "-n")));
+      nameHits.forEach((h, i) => list.append(renderHit(h, i, uid + "-n", q)));
     }
     const toggle = retiredToggle(hiddenRetired);
     if (toggle) list.append(toggle);
     if (mentionHits.length) {
       list.append(el("li", { class: "atlas-group", role: "presentation", text: "Mentions in page text" }));
-      mentionHits.forEach((h, i) => list.append(renderHit(h, nameHits.length + i, uid + "-m")));
+      mentionHits.forEach((h, i) => list.append(renderHit(h, nameHits.length + i, uid + "-m", q)));
     }
     const n = nameHits.length;
     const m = mentionHits.length;
