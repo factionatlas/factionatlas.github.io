@@ -1,0 +1,40 @@
+# Faction Atlas
+
+> A sourced, neutral reference map of American political and religious-political factions, the people and organizations in them, and how they relate, with every claim linked to a public source.
+
+Faction Atlas is a read-only reference generated from a project database of public sources. It maps American political and religious-political factions, the people and organizations in them, and how they relate. Every claim is meant to link to a public source. Placements can be wrong and are reviewed. It is not a campaign, an endorsement, or a rating of anyone.
+
+The site is organized as a tree of factions, with a page for each faction, organization, and person, plus issue, relations, resonance, polls, and history views. A client-side search is at /search/.
+
+Text on the site is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## Sections
+
+- [Home](https://factionatlas.github.io/): Overview of the atlas
+- [Tree](https://factionatlas.github.io/tree/): The living faction forest, with historical roots and member counts
+- [Map](https://factionatlas.github.io/map/): An interactive map of factions, their parents, and recorded relations
+- [Issues](https://factionatlas.github.io/issues/): Issue axes and stance summaries, linked to people and factions
+- [Polls](https://factionatlas.github.io/polls/): Published poll results, with sources
+- [Relations](https://factionatlas.github.io/relations/): Recorded relations between factions, with sources
+- [Resonance](https://factionatlas.github.io/resonance/): How messages travel between factions
+- [History](https://factionatlas.github.io/history/): Recent changes to placements
+- [About & method](https://factionatlas.github.io/about/): What the atlas is, how placements work, and where evidence comes from
+- [Donate](https://factionatlas.github.io/donate/): How to support the project
+- [Search](https://factionatlas.github.io/search/): Search people, organizations, factions, and issues
+- [Review queue](https://factionatlas.github.io/review/): Open review items
+- [Freshness](https://factionatlas.github.io/freshness/): Coverage and how recent the data is
+
+## Data files
+
+Machine-readable files already published at the site root and in /assets/. These are snapshots from the latest build, not a live query API.
+
+- [issues.json](https://factionatlas.github.io/issues.json): Issue topics, axes, and recorded-position counts
+- [links.json](https://factionatlas.github.io/links.json): Official and identity links already attached to people and organizations
+- [names.json](https://factionatlas.github.io/assets/names.json): Search index of names, kinds, URLs, and aliases
+
+A compact plain-text index of factions, organizations, people, and issues is at [llms-full.txt](https://factionatlas.github.io/llms-full.txt).
+
+## Corrections
+
+- [Report a correction on GitHub](https://github.com/factionatlas/factionatlas.github.io/issues/new/choose)
+- [Message on Nostr](https://njump.me/npub1fl5au7wjhkgdhl4tc4nucda2dc56gr2rz6nn4wvx5g7a3uw0tassw6u2gj)

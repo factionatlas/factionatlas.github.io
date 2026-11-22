@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+# AI and search crawlers are welcome, including GPTBot, ClaudeBot,
+# PerplexityBot, Google-Extended, Applebot-Extended, and CCBot.
+# A plain-text map for language models is at:
+# https://factionatlas.github.io/llms.txt
+
 Sitemap: https://factionatlas.github.io/sitemap.xml
