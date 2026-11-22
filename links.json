@@ -127,6 +127,16 @@
    "related": null
   }
  ],
+ "person/p_0d16bd85cb/": [
+  {
+   "label": "Wikipedia: Ashley Moody",
+   "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Ashley Moody",
+   "related": null
+  }
+ ],
  "person/p_10e3832682/": [
   {
    "label": "Delphi Community School Board",
@@ -575,6 +585,16 @@
    "related": null
   }
  ],
+ "person/p_2fdf34ce4f/": [
+  {
+   "label": "Wikipedia: Marjorie Taylor Greene",
+   "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Marjorie Taylor Greene",
+   "related": null
+  }
+ ],
  "person/p_31fe72d47e/": [
   {
    "label": "Town of Camden: Contact Us",
@@ -694,16 +714,6 @@
    "kind": "official_bio",
    "confirms_name": true,
    "name_shown": "Taylor Fife",
-   "related": null
-  }
- ],
- "person/p_3a3589cc5a/": [
-  {
-   "label": "Wikipedia: Marjorie Taylor Greene",
-   "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene",
-   "kind": "wikipedia",
-   "confirms_name": true,
-   "name_shown": "Marjorie Taylor Greene",
    "related": null
   }
  ],
@@ -1003,16 +1013,6 @@
    "related": null
   }
  ],
- "person/p_60342b24d9/": [
-  {
-   "label": "Wikipedia: Mike Lee",
-   "url": "https://en.wikipedia.org/wiki/Mike_Lee",
-   "kind": "wikipedia",
-   "confirms_name": true,
-   "name_shown": "Mike Lee",
-   "related": null
-  }
- ],
  "person/p_62f5f376ae/": [
   {
    "label": "Ballotpedia: Carroll County, Indiana, elections, 2026",
@@ -1038,6 +1038,16 @@
    "kind": "official_bio",
    "confirms_name": true,
    "name_shown": "Anne Edwards",
+   "related": null
+  }
+ ],
+ "person/p_65db2048fb/": [
+  {
+   "label": "Wikipedia: Ted Cruz",
+   "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Ted Cruz",
    "related": null
   }
  ],
@@ -1171,16 +1181,6 @@
    "related": null
   }
  ],
- "person/p_71535e5c66/": [
-  {
-   "label": "Wikipedia: Ted Cruz",
-   "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
-   "kind": "wikipedia",
-   "confirms_name": true,
-   "name_shown": "Ted Cruz",
-   "related": null
-  }
- ],
  "person/p_71bbae1e0a/": [
   {
    "label": "Carroll County Townships",
@@ -1305,16 +1305,6 @@
    "related": null
   }
  ],
- "person/p_84bb3ddcb9/": [
-  {
-   "label": "Wikipedia: Brandon Gill",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Gill",
-   "kind": "wikipedia",
-   "confirms_name": true,
-   "name_shown": "Brandon Gill",
-   "related": null
-  }
- ],
  "person/p_8640fd21b7/": [
   {
    "label": "Ballotpedia: Carroll County, Indiana, elections, 2026",
@@ -1360,6 +1350,32 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Jim Jordan",
+   "related": null
+  }
+ ],
+ "person/p_89229ea1d3/": [
+  {
+   "label": "Official website",
+   "url": "https://www.john-mcentee.com/",
+   "kind": "website",
+   "confirms_name": true,
+   "name_shown": "John McEntee",
+   "related": null
+  },
+  {
+   "label": "X: @daterightstuff",
+   "url": "https://x.com/daterightstuff",
+   "kind": "x",
+   "confirms_name": true,
+   "name_shown": "John D. McEntee II",
+   "related": null
+  },
+  {
+   "label": "Wikipedia: John McEntee (political aide)",
+   "url": "https://en.wikipedia.org/wiki/John_McEntee_(political_aide)",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "John McEntee",
    "related": null
   }
  ],
@@ -1618,6 +1634,16 @@
    "kind": "official_bio",
    "confirms_name": true,
    "name_shown": "Karen Dinger",
+   "related": null
+  }
+ ],
+ "person/p_afc4508278/": [
+  {
+   "label": "Wikipedia: Mike Lee",
+   "url": "https://en.wikipedia.org/wiki/Mike_Lee",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Mike Lee",
    "related": null
   }
  ],
@@ -2053,16 +2079,6 @@
    "related": null
   }
  ],
- "person/p_e10664b21d/": [
-  {
-   "label": "Wikipedia: Ashley Moody",
-   "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
-   "kind": "wikipedia",
-   "confirms_name": true,
-   "name_shown": "Ashley Moody",
-   "related": null
-  }
- ],
  "person/p_e1d72f530d/": [
   {
    "label": "Carroll County Townships",
@@ -2412,6 +2428,16 @@
    "kind": "wikipedia",
    "confirms_name": true,
    "name_shown": "Rand Paul",
+   "related": null
+  }
+ ],
+ "person/p_ffc0b5224c/": [
+  {
+   "label": "Wikipedia: Brandon Gill",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Gill",
+   "kind": "wikipedia",
+   "confirms_name": true,
+   "name_shown": "Brandon Gill",
    "related": null
   }
  ]

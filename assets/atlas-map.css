@@ -1,4 +1,9 @@
-/* Faction map (/map/). Base layout only; colors come from style.css variables. Ben owns final styling. */
+/* Faction map (/map/). Base layout only; colors come from style.css variables.
+   Chrome (toolbar, search, buttons, panel, legend, table) is styled by
+   assets/atlas-map-ben.css, loaded after this file — do not raise specificity
+   here in a way that would override that overlay. Canvas fill is --surface
+   (#FBF8F2); zone and box colours are set in atlas-map.js. */
+
 .atlas-map{display:grid;grid-template-columns:minmax(13rem,16rem) minmax(0,1fr);gap:1rem;align-items:start;margin:1rem 0}
 .map-controls{font-size:.92rem;display:flex;flex-direction:column;gap:.6rem}
 .map-controls fieldset{border:1px solid var(--border);border-radius:6px;padding:.4rem .6rem;margin:0}

@@ -1,72 +1,283 @@
-/* Faction Atlas map: Ben's style layer (loads after Mac's atlas-map.css). Theme variables; dark mode follows style.css.
-   v2 (2026-11-19, descent tree): relation swatch marks use the line colours (hostile #c62828, feuding #e67e22). */
-.atlas-map{font-family:var(--f-ui)}
-/* controls */
-.map-controls fieldset{background:var(--surface);border-color:var(--border);border-radius:6px}
-.map-controls legend,.map-search label,.map-filters>summary{font:600 .78rem/1.2 var(--f-ui);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-.map-controls label{min-height:2.75rem;width:100%;box-sizing:border-box;padding:0 .2rem;border-radius:4px;color:var(--text)}
-.map-controls label:hover{background:var(--surface2)}
-.map-controls input[type=checkbox]{width:1.25rem;height:1.25rem;flex:none;accent-color:var(--accent)}
-.map-filters>summary{min-height:2.75rem;list-style-position:inside}
-.map-trace input{min-height:2.75rem;box-sizing:border-box;font-size:1rem}
-.map-search input{min-height:2.75rem;font-size:1rem;border-color:var(--border);background:var(--surface);color:var(--text)}
-.map-search input:focus-visible{outline:3px solid var(--link);outline-offset:1px}
-.map-q-results{background:var(--surface);border-color:var(--border)}
-.map-q-results li{min-height:2.75rem;box-sizing:border-box;display:flex;align-items:center;gap:.4rem;flex-wrap:wrap;color:var(--text)}
-.map-q-results li[aria-selected=true]{background:var(--surface2);box-shadow:inset 3px 0 0 var(--accent)}
-/* buttons: site look, 44px targets */
-.map-buttons{display:flex;flex-wrap:wrap;gap:.5rem}
-.map-buttons button,.map-panel button,.map-focusbar button,.map-table button,.map-trace button,.map-bands button{min-height:2.75rem;font:500 .92rem var(--f-ui);background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:6px}
-.map-buttons button:hover:not(:disabled),.map-trace button:hover,.map-bands button:hover,.map-panel button:hover,.map-focusbar button:hover,.map-table button:hover{background:var(--surface2);border-color:var(--strong)}
-.map-bands button{border-radius:999px;padding:0 .9rem}
-.atlas-map button:focus-visible,.atlas-map a:focus-visible{outline:3px solid var(--link);outline-offset:2px}
-/* canvas */
-.map-canvas{background:var(--surface);border-color:var(--border);border-radius:8px}
-.map-canvas:focus-visible{outline:3px solid var(--link);outline-offset:2px}
-.map-status{font:.88rem var(--f-ui);color:var(--muted)}
-.map-focusbar{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;background:var(--surface2);border-left:3px solid var(--accent);padding:.4rem .7rem;border-radius:0 6px 6px 0}
-/* details panel, styled like the site's infobox */
-.map-panel{background:var(--surface);color:var(--text);border:1px solid var(--border);border-top:3px solid var(--accent);border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,.18)}
-.map-panel .kind{margin:0 3rem .3rem 0}
-.map-panel h2{font:600 1.15rem/1.25 var(--f-head);margin:.1rem 3rem .5rem 0;text-transform:none;letter-spacing:normal;border:0;padding:0;color:var(--text)}
-.map-panel h3{font:600 .78rem/1.2 var(--f-ui);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:.9rem 0 .25rem;padding-top:.6rem;border-top:1px solid var(--border)}
-.map-panel dt{color:var(--muted);font-weight:600}
-.map-panel li{margin:0;line-height:1.35}
-.map-panel li .map-swatch{margin-right:.2rem}
-.map-panel button.map-link{display:inline-flex;align-items:center;min-height:2.75rem;border:0;background:none;padding:0 .1rem;color:var(--link);text-decoration:underline;text-underline-offset:2px;font-weight:500}
-.map-panel button.map-link:hover{background:none;color:var(--text)}
-.map-panel .map-close{width:2.75rem;height:2.75rem;min-height:2.75rem;top:.3rem;right:.3rem;border-radius:50%;font-size:1.5rem}
-/* sticky close: the × stays at the top of the panel/sheet while its content scrolls (in flow, pulled up over the first line;
-   sticky "top" counts from the content edge, so it is negative by the panel padding;
-   same spot as before when not scrolled) */
-.map-panel .map-close{position:sticky;top:-.5rem;right:auto;display:block;margin:-.5rem -.7rem -2.75rem auto;z-index:2;background:var(--surface);box-shadow:0 1px 5px rgba(0,0,0,.22)}
-.map-panel-acts{gap:.6rem}
-.map-panel-acts .map-page-link{display:inline-flex;align-items:center;min-height:2.75rem;padding:0 .9rem;border-radius:6px;background:var(--accent);color:var(--surface);font-weight:600;text-decoration:none}
-.map-panel-acts .map-page-link:hover{background:var(--text)}
-/* legend */
-.map-legend h2,.map-table-wrap h2{font:600 .82rem/1.2 var(--f-ui);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:.3rem}
-.map-legend-list li{display:flex;align-items:center;gap:.4rem}
-.map-swatch{width:2.4rem;flex:none}
-.map-swatch.rel-hostile,.map-swatch.rel-feuding{position:relative}
-.map-swatch.rel-hostile::before,.map-swatch.rel-hostile::after{content:"";position:absolute;top:-8px;width:3px;height:11px;background:#c62828}
-.map-swatch.rel-hostile::before{left:0}.map-swatch.rel-hostile::after{right:0}
-.map-swatch.rel-feuding::after{content:"";position:absolute;top:-7px;left:calc(50% - 1px);width:2px;height:9px;background:#e67e22}
-/* accessible table fallback */
-.map-table-wrap{border:1px solid var(--border);border-radius:8px;background:var(--surface);padding:.2rem .6rem .6rem;max-height:70vh;overflow:auto}
-.map-table{font:.92rem var(--f-ui);color:var(--text)}
-.map-table thead th{position:sticky;top:0;background:var(--surface);z-index:1;box-shadow:inset 0 -2px 0 var(--border)}
-.map-table thead button{min-height:2.75rem;min-width:2.75rem;border:0;background:none;color:var(--text);font-weight:600;padding:0}
-.map-table tbody tr:nth-child(even){background:var(--bg)}
-.map-table tbody tr:hover{background:var(--surface2)}
-.map-table tbody th a{font-weight:600}
-.map-table td:nth-child(5),.map-table td:nth-child(6){font-variant-numeric:tabular-nums}
-/* phones */
-@media (max-width:760px){
- .map-panel{border-top-width:3px;padding:.6rem 1rem calc(.8rem + env(safe-area-inset-bottom));max-height:60vh;box-shadow:0 -6px 24px rgba(0,0,0,.25)}
- .map-panel .map-close{margin-top:-1.05rem;top:-.3rem}   /* phone sheet: beside the grab bar; same 8px spot as before */
- .map-panel::before{content:"";display:block;width:2.5rem;height:4px;border-radius:2px;background:var(--border);margin:0 auto .5rem}
- .map-buttons button{flex:1 1 auto}
+/* Faction Atlas map chrome — Ben overlay (2026-11-21).
+   Styles the toolbar, search, buttons, panel, legend and table so they
+   match the rest of the atlas. Cytoscape colours, label sizes and the
+   "Historical movements" band title are specified in
+   /workspace/ben/factionatlas-drafts/map-style/STYLE.md for Mac to apply
+   in atlas_map.py / atlas-map.js; they cannot be set from this file.
+*/
+
+/* ---- map-scoped tokens ------------------------------------------------ */
+/* Lock the map tool to the light palette so the chrome matches the
+   drawing. The canvas is still hard-coded light in atlas-map.js. */
+.atlas-map,
+.page-map .map-legend,
+.page-map .map-table-wrap {
+  --bg: #F5F1E8;
+  --surface: #FBF8F2;
+  --surface2: #ECE5D6;
+  --text: #1E2A2F;
+  --muted: #4F5B5F;
+  --link: #7A4510;
+  --accent: #4E7470;
+  --border: #D3C9B5;
+  --strong: #857C6B;
+  --placed-bg: #1E2A2F;
+  --placed-fg: #F5F1E8;
+  --hist-bg: #E6DDD0;          /* warm stand-in for theme --hist-bg #E1EBE8 */
+  --hist-fg: #3B3226;
+  --retired-fg: #3B3A35;
+  --map-canvas: #FBF8F2;
+  --map-zone-left: #D0D6DC;
+  --map-zone-center: #D9E0D0;
+  --map-zone-out: #DDD8CE;
+  --map-zone-right: #FBF8F2;
+  --map-zone-hist: #D0C4AE;
+  --map-hist-rule: #857C6B;
+  --map-hist-box: #E6DFD2;
+  --map-hist-ink: #1E2A2F;
+  color: var(--text);
+  font-family: var(--f-ui);
 }
-@media (pointer:coarse){.map-q-results li,.map-table tbody td button{min-height:2.75rem}}
-@media (prefers-reduced-motion:reduce){.atlas-map *,.atlas-map *::before,.atlas-map *::after{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
-@media (forced-colors:active){.map-panel{border:2px solid CanvasText}.map-swatch{forced-color-adjust:none}}
+
+/* ---- controls / toolbar ---------------------------------------------- */
+.atlas-map .map-controls {
+  font-size: 0.93rem; /* roster size */
+}
+.atlas-map .map-controls fieldset,
+.atlas-map .map-rels {
+  border: 1.5px solid var(--border);
+  border-radius: 0;
+  background: var(--surface);
+  padding: 0.5rem 0.75rem 0.6rem;
+}
+.atlas-map .map-controls legend,
+.atlas-map .map-trace legend,
+.atlas-map .map-rels legend {
+  font: 650 0.78rem/1.2 var(--f-head);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 0 0.3rem;
+}
+.atlas-map .map-controls label,
+.atlas-map .map-search label {
+  font-weight: 500;
+  color: var(--text);
+}
+.atlas-map .map-search label {
+  font: 650 0.78rem/1.2 var(--f-ui);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.25rem;
+}
+
+/* inputs: same language as site search / roster */
+.atlas-map .map-search input,
+.atlas-map .map-trace input {
+  font: 400 0.95rem/1.4 var(--f-ui);
+  padding: 0.42rem 0.6rem;
+  border: 1px solid var(--strong);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--text);
+}
+.atlas-map .map-search input:hover,
+.atlas-map .map-trace input:hover {
+  border-color: var(--text);
+}
+.atlas-map .map-q-results {
+  border: 1.5px solid var(--text);
+  border-radius: 0;
+  background: var(--surface);
+  box-shadow: 4px 4px 0 var(--surface2);
+  font-size: 0.93rem;
+}
+.atlas-map .map-q-results li {
+  padding: 0.5rem 0.7rem;
+}
+.atlas-map .map-q-results li[aria-selected="true"],
+.atlas-map .map-q-results li[data-go]:hover {
+  background: var(--surface2);
+}
+
+/* buttons: match .btn */
+.atlas-map .map-buttons button,
+.atlas-map .map-panel button,
+.atlas-map .map-focusbar button,
+.atlas-map .map-table button,
+.atlas-map .map-trace button,
+.atlas-map .map-bands button {
+  font: 600 0.88rem var(--f-ui);
+  padding: 0.45rem 0.8rem;
+  min-height: 2.4rem;
+  border: 1.5px solid var(--strong);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+.atlas-map .map-buttons button:hover,
+.atlas-map .map-panel button:hover,
+.atlas-map .map-trace button:hover,
+.atlas-map .map-bands button:hover,
+.atlas-map .map-focusbar button:hover {
+  background: var(--surface2);
+}
+.atlas-map .map-buttons button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+/* jump chips: same as buttons, not pills */
+.atlas-map .map-bands {
+  gap: 0.4rem 0.45rem;
+  align-items: center;
+}
+.atlas-map .map-bands .b-none {
+  margin-right: 0.15rem;
+}
+.atlas-map .map-bands button {
+  border-radius: 4px;
+  padding: 0.35rem 0.75rem;
+}
+
+/* relation-line notes stay muted italic */
+.atlas-map .map-rels .b-none,
+.atlas-map .map-legend .b-none {
+  color: var(--muted);
+}
+
+/* ---- canvas and overlay chrome --------------------------------------- */
+.atlas-map .map-canvas {
+  background: var(--map-canvas);
+  border: 1.5px solid var(--text);
+  border-radius: 0;
+  box-shadow: 4px 4px 0 var(--surface2);
+}
+.atlas-map .map-status {
+  font: 400 0.88rem/1.45 var(--f-ui);
+  color: var(--muted);
+}
+.atlas-map .map-tip {
+  font: 400 0.85rem/1.4 var(--f-ui);
+  background: var(--surface);
+  color: var(--text);
+  border: 1.5px solid var(--text);
+  border-radius: 0;
+  box-shadow: 4px 4px 0 var(--surface2);
+  padding: 0.4rem 0.55rem;
+}
+.atlas-map .map-panel {
+  background: var(--surface);
+  color: var(--text);
+  border: 1.5px solid var(--text);
+  border-radius: 0;
+  box-shadow: 4px 4px 0 var(--surface2);
+  padding: 0.85rem 1rem;
+}
+.atlas-map .map-panel h2 {
+  font: 650 1rem/1.3 var(--f-head);
+  letter-spacing: 0;
+  text-transform: none;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.35rem;
+  margin: 0.1rem 2rem 0.5rem 0;
+  color: var(--text);
+}
+.atlas-map .map-panel h3 {
+  font: 650 0.78rem/1.2 var(--f-head);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0.9rem 0 0.3rem;
+  border: 0;
+  padding: 0;
+}
+.atlas-map .map-panel .map-close {
+  border-radius: 4px;
+}
+.atlas-map .map-panel button.map-link {
+  border: 0;
+  background: none;
+  box-shadow: none;
+  color: var(--link);
+  font: 600 0.95rem var(--f-ui);
+  text-decoration: underline;
+  padding: 0.2rem 0;
+  min-height: 2rem;
+}
+.atlas-map .map-panel button.map-link:hover {
+  background: none;
+  text-decoration-thickness: 2px;
+}
+
+/* ---- legend ---------------------------------------------------------- */
+.page-map .map-legend h2,
+.atlas-map .map-legend h2 {
+  /* keep the site section heading: 0.86rem, uppercase, tracked, rule */
+}
+.atlas-map .map-legend-list,
+.page-map .map-legend-list {
+  font-size: 0.93rem;
+  gap: 0.45rem 1.4rem;
+}
+.atlas-map .map-legend-list li,
+.page-map .map-legend-list li {
+  line-height: 1.45;
+}
+.atlas-map .map-box,
+.page-map .map-box {
+  border-radius: 2px;
+  border: 1px solid var(--text);
+}
+.atlas-map .map-swatch,
+.page-map .map-swatch {
+  border-radius: 0;
+}
+
+/* ---- table ----------------------------------------------------------- */
+.atlas-map .map-table,
+.page-map .map-table {
+  font: 0.93rem/1.45 var(--f-ui);
+}
+.atlas-map .map-table th,
+.page-map .map-table th {
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-bottom: 2px solid var(--strong);
+}
+.atlas-map .map-table thead button,
+.page-map .map-table thead button {
+  font: 600 0.78rem var(--f-ui);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border: 0;
+  background: none;
+  box-shadow: none;
+  padding: 0.2rem 0;
+  min-height: 2rem;
+}
+.atlas-map .map-table thead button:hover,
+.page-map .map-table thead button:hover {
+  background: none;
+  color: var(--text);
+}
+.atlas-map .map-table td,
+.page-map .map-table td {
+  border-bottom: 1px solid var(--border);
+}
+
+/* phones: keep the existing layout; only the corners follow the site */
+@media (max-width: 760px) {
+  .atlas-map .map-panel {
+    border-radius: 8px 8px 0 0;
+    box-shadow: 0 -4px 0 var(--surface2);
+  }
+  .atlas-map .map-bands button {
+    padding: 0.3rem 0.6rem;
+  }
+}

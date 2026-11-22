@@ -1,9 +1,10 @@
 // Faction Atlas: interactive faction map (/map/), one view: the descent tree. ES module, no third-party requests.
 // Data: map/graph.json (v2). Library: assets/vendor/cytoscape.min.js. The browser draws every box and line from the data.
 // The drawing rules are a port of the layered faction chart: rows are generations (one below the deepest parent),
-// columns are bands (left, center, outside, historical, the right), a faction's wings are packed inside its box in a
-// compact grid, lines run with right-angle turns through the gaps between boxes (routed in the browser, see "line routing"),
-// colours are the chart's branch colours.
+// historical and defunct factions sit in a shaded band across the top, and living factions sit below in columns
+// (left, center, outside, the right). A faction's wings are packed inside its box in a compact grid, lines run with
+// right-angle turns through the gaps between boxes (routed in the browser, see "line routing"), colours are the
+// chart's branch colours.
 const ROOT = document.getElementById("atlas-map");
 const SITE = new URL(ROOT.dataset.root || "../", location.href);
 const VENDOR = new URL("./vendor/", import.meta.url);
@@ -21,11 +22,12 @@ const LEVEL_COLOR = { alliance: "#2e7d32", friendly: "#43a047", neutral: "#8a8a8
 
 // ---------- chart geometry (model units: chart units x 100) ----------
 const BW = 120, BH = 70, PADX = 20, TH = 40, PADB = 20, VG = 28, HG = 28, UG = 60, GUT = 80, SIDEW = 320, BANDGAP = 40;
-const BANDS = ["left", "center", "out", "hist", "right"];
-const BAND_WORD = { left: "Left", center: "Center", out: "Outside left, center and right", hist: "Historical camps",
+const BANDS = ["left", "center", "out", "right"];   // living columns; historical/defunct sit in a top band, not a side column
+const BAND_WORD = { left: "Left", center: "Center", out: "Outside left, center and right", hist: "HISTORICAL MOVEMENTS",
   right: "The right (a label for several movements, not one parent)" };
-const ZONE_FILL = { left: "#c5d4e8", center: "#d5e4d0", out: "#d9d9d9", hist: "#d5cfc0", right: "#f4eedd" };
-const CHART_BG = "#fbf6e9", SPC = "#c2189b", COQ = "#2b2b2b";
+const ZONE_FILL = { left: "#D0D6DC", center: "#D9E0D0", out: "#DDD8CE", hist: "#D0C4AE", right: "#FBF8F2" };
+const HIST_HEAD = 64, HIST_GUT = 36, HIST_LABW = 210, HIST_GAP = 24;   // tighter packing inside the historical band
+const CHART_BG = "#FBF8F2", SPC = "#c2189b", COQ = "#1E2A2F";
 
 let G = null, byId = new Map(), cy = null, names = null;
 const kidsT = new Map();      // tree children (expand and collapse): nodes whose tp is this node
@@ -58,7 +60,7 @@ function wrap(text, width, maxLines) {   // chart nm(): drop parentheses, wrap a
   return out.length > maxLines ? out.slice(0, maxLines).join("\n") + "…" : out.join("\n");
 }
 // font size that fits every line of a box label inside the box (very long single words shrink a little)
-const FONT = 13, FONTMIN = 8.5, TEXTW = BW - 10;
+const FONT = 15, FONTMIN = 9, TEXTW = BW - 10;
 let measureCtx = null, uiFont = null;
 function labelWidth(label, n, fs) {
   if (!measureCtx) { measureCtx = document.createElement("canvas").getContext("2d");
@@ -66,13 +68,45 @@ function labelWidth(label, n, fs) {
   measureCtx.font = `${n.hist ? "italic " : ""}${n.row === 0 ? 700 : 400} ${fs}px ${uiFont}`;
   return Math.max(...label.split("\n").map(l => measureCtx.measureText(l).width));
 }
+// Break a word that is wider than the box: after existing hyphens, otherwise mid-word with a dash.
+function splitWord(w, n, fs) {
+  if (labelWidth(w, n, fs) <= TEXTW) return [{ s: w, glue: false }];
+  if (w.includes("-")) {
+    const parts = w.split(/(?<=-)/).filter(Boolean);
+    if (parts.length > 1) {
+      const out = [];
+      parts.forEach((p, k) => splitWord(p, n, fs).forEach((q, i) => out.push({ s: q.s, glue: (k > 0 || i > 0) })));
+      return out;
+    }
+  }
+  const lower = w.toLowerCase(), prefixes = ["paleo", "anti", "neo", "pseudo"], hints = [];
+  for (const suf of ["conservatives", "ationism", "tionism", "tion", "ism", "atives", "ives", "ment", "ness"]) {
+    const i = lower.lastIndexOf(suf); if (i >= 3) hints.push({ i, rank: suf.length >= 8 ? 1 : 3 });
+  }
+  for (const pre of prefixes) {
+    if (lower.startsWith(pre) && pre.length <= w.length - 3) hints.push({ i: pre.length, rank: 0 });
+  }
+  hints.sort((a, b) => a.rank - b.rank || Math.abs(a.i - w.length / 2) - Math.abs(b.i - w.length / 2));
+  let cut = 0;
+  for (const { i } of hints) {
+    if (labelWidth(w.slice(0, i) + "-", n, fs) <= TEXTW) { cut = i; break; }
+  }
+  if (!cut) {
+    cut = Math.max(3, Math.ceil(w.length / 2));
+    for (let i = w.length - 3; i >= 3; i--) {
+      if (labelWidth(w.slice(0, i) + "-", n, fs) <= TEXTW) { cut = i; break; }
+    }
+  }
+  const rest = splitWord(w.slice(cut), n, fs);
+  return [{ s: w.slice(0, cut) + "-", glue: false }, ...rest.map(q => ({ s: q.s, glue: true }))];
+}
 function fitLabel(n, extra) {   // box label: wrap by measured width, break a long word after its hyphens, shrink only when needed
   const t = String(n.label).replace(/\s*\(.*?\)/g, "").trim();
   let out = null;
   for (let fs = FONT; fs >= FONTMIN && !out; fs -= 0.5) {
     const toks = [], lines = []; let line = "";
     for (const w of t.split(/\s+/)) {
-      if (w.includes("-") && labelWidth(w, n, fs) > TEXTW) w.split(/(?<=-)/).forEach((p, k) => toks.push({ s: p, glue: k > 0 }));
+      if (labelWidth(w, n, fs) > TEXTW) splitWord(w, n, fs).forEach(p => toks.push(p));
       else toks.push({ s: w, glue: false });
     }
     for (const { s, glue } of toks) { const c = line ? line + (glue ? "" : " ") + s : s;
@@ -100,9 +134,16 @@ function visibleSet() {
 }
 
 // ---------- layout (port of the chart's band, row, flow and box packing) ----------
+// Historical and defunct factions (n.hist) are packed in a full-width shaded band at the top, still in
+// generation order (parents above children). Living factions are packed below, in the left / center /
+// outside / right columns. A living child of a deep historical chain starts in the living area, one
+// generation below its deepest parent relative to other living rows (empty historical-only generations
+// are not kept as gaps). A historical child of a living parent stays in the historical band, usually
+// near its bottom, so that line may run upward.
 function layout(V) {
   const aspect = cy ? Math.max(0.45, Math.min(2.4, cy.width() / Math.max(cy.height(), 1))) : 1.6;
-  const nested = id => (kidsT.get(id) || []).filter(k => V.has(k) && byId.get(k).nest === id && expanded.has(id))
+  const sameRegion = (a, b) => !!byId.get(a).hist === !!byId.get(b).hist;
+  const nested = id => (kidsT.get(id) || []).filter(k => V.has(k) && byId.get(k).nest === id && sameRegion(id, k) && expanded.has(id))
     .sort((a, b) => byId.get(a).ox - byId.get(b).ox || byId.get(a).label.localeCompare(byId.get(b).label));
   const SZ = new Map();
   function flow(items, lim, gap) {
@@ -133,19 +174,27 @@ function layout(V) {
       yy += Math.max(...l.map(i => i.h));
     });
   }
-  const tops = [...V].filter(id => !byId.get(id).nest || !V.has(byId.get(id).nest));
-  const bandsUsed = BANDS.filter(b => tops.some(id => byId.get(id).band === b));
+  const bandRank = id => { const b = byId.get(id).band, i = ["left", "center", "out", "hist", "right"].indexOf(b); return i < 0 ? 3 : i; };
+  const byOx = (p, q) => bandRank(p) - bandRank(q) || byId.get(p).ox - byId.get(q).ox || byId.get(p).label.localeCompare(byId.get(q).label);
+  const tops = [...V].filter(id => {
+    const n = byId.get(id);
+    if (!n.nest || !V.has(n.nest)) return true;
+    return !!n.hist !== !!byId.get(n.nest).hist;   // a historical/living pair is not packed inside one box
+  });
+  const histTops = tops.filter(id => byId.get(id).hist);
+  const liveTops = tops.filter(id => !byId.get(id).hist);
+  const bandsUsed = BANDS.filter(b => liveTops.some(id => byId.get(id).band === b));
   // capacity of the right band: wide enough that the whole drawing roughly matches the canvas shape
-  const rightTops = tops.filter(id => byId.get(id).band === "right");
+  const rightTops = liveTops.filter(id => byId.get(id).band === "right");
   let area = 0; for (const id of rightTops) { const s = size(id, 1e9); area += (s.w + UG) * (s.h + GUT); }
-  const maxW = Math.max(BW, ...rightTops.map(id => SZ.get(id).w));
+  const maxW = Math.max(BW, ...rightTops.map(id => SZ.get(id).w), BW);
   const sideW = bandsUsed.filter(b => b !== "right").length * (SIDEW + BANDGAP);
   // first guess from the area, then widen until the drawing's shape is close to the canvas shape (rows are fixed by
   // generation, so a tall drawing needs a wider right band, not more rows)
   // never wider than the widest generation laid out on one line
   const natural = Math.max(maxW, ...[...new Set(rightTops.map(id => byId.get(id).row))].map(r => {
-    const ws = rightTops.filter(id => byId.get(id).row === r).map(id => SZ.get(id).w); return ws.reduce((a, w) => a + w, 0) + UG * (ws.length - 1); }));
-  let CAP = Math.max(maxW, Math.min(natural, 6000, Math.sqrt(area * aspect)));
+    const ws = rightTops.filter(id => byId.get(id).row === r).map(id => SZ.get(id).w); return ws.reduce((a, w) => a + w, 0) + UG * Math.max(0, ws.length - 1); }), maxW);
+  let CAP = Math.max(maxW, Math.min(natural, 6000, Math.sqrt(Math.max(area, 1) * aspect)));
   for (let it = 0; it < 4; it++) {
     const H = passHeight(CAP);
     const want = Math.max(maxW, Math.min(natural, 6000, H * aspect - sideW - 2 * PADX));
@@ -154,14 +203,58 @@ function layout(V) {
   }
   return pass(CAP);
   function passHeight(cap) { return pass(cap).bottom; }
+  function hintX(id, X0, CAP, width) {
+    const b = byId.get(id).band;
+    if (b === "right" && X0.right != null) return X0.right + PADX + CAP / 2;
+    if (X0[b] != null) return X0[b] + SIDEW / 2;
+    if (b === "hist" && X0.right != null) return Math.max(HIST_LABW, X0.right - BANDGAP);
+    return width / 2;
+  }
+  function packAcross(ids, x0, width, y, lim, X0, CAP) {
+    const ns = ids.slice().sort(byOx);
+    const inner = Math.max(lim, BW);
+    const L = flow(ns.map(id => ({ id, ...size(id, inner) })), inner, UG);
+    let yy = y, bottom = y + BH;
+    for (const l of L) {
+      const lw = l.reduce((a, i) => a + i.w, 0) + UG * (l.length - 1);
+      const mean = l.reduce((a, i) => a + hintX(i.id, X0, CAP, x0 + width), 0) / l.length;
+      let xx = mean - lw / 2;
+      xx = Math.max(x0, Math.min(xx, x0 + width - lw));
+      for (const i of l) { place(i.id, xx, yy); xx += i.w + UG; }
+      const rowH = Math.max(...l.map(i => i.h));
+      yy += rowH + 16;
+      bottom = Math.max(bottom, yy - 16);
+    }
+    return bottom;
+  }
   function pass(CAP) {
   P.clear(); BOX.clear();
   const X0 = {}; let x = 0;
   for (const b of bandsUsed) { X0[b] = x; x += (b === "right" ? CAP + 2 * PADX : SIDEW) + BANDGAP; }
-  const rows = [...new Set(tops.map(id => byId.get(id).row))].sort((a, b) => a - b);
-  const rowY = []; let y = 60;
+  const liveWidth = Math.max(x - BANDGAP, SIDEW);
+  const histX0 = HIST_LABW, histInner = Math.max(liveWidth - HIST_LABW - PADX, BW * 3);
+  const histRowY = [];
+  let y = 8;
+  let histBottom = 0;
+  if (histTops.length) {
+    y = HIST_HEAD;
+    const hRows = [...new Set(histTops.map(id => byId.get(id).row))].sort((a, b) => a - b);
+    for (const r of hRows) {
+      const inRow = histTops.filter(id => byId.get(id).row === r);
+      histRowY.push({ r, y });
+      const bottom = packAcross(inRow, histX0, histInner, y, histInner, X0, CAP);
+      y = bottom + HIST_GUT;
+    }
+    histBottom = y - HIST_GUT / 2;
+    y = histBottom + HIST_GAP + 36;   // a short unshaded gap, then room for living-column headings
+  } else {
+    y = 60;
+  }
+  const liveTop = y;
+  const rowY = [];
+  const rows = [...new Set(liveTops.map(id => byId.get(id).row))].sort((a, b) => a - b);
   for (const r of rows) {
-    const inRow = tops.filter(id => byId.get(id).row === r);
+    const inRow = liveTops.filter(id => byId.get(id).row === r);
     let bottom = y + BH;
     for (const b of bandsUsed) {
       const ns = inRow.filter(id => byId.get(id).band === b).sort((p, q) => byId.get(p).ox - byId.get(q).ox || byId.get(p).label.localeCompare(byId.get(q).label));
@@ -183,7 +276,8 @@ function layout(V) {
     }
     rowY.push({ r, y }); y = bottom + GUT;
   }
-  return { P: new Map(P), BOX: new Map(BOX), X0, CAP, bandsUsed, rowY, bottom: y, width: x - BANDGAP };
+  return { P: new Map(P), BOX: new Map(BOX), X0, CAP, bandsUsed, rowY, histRowY, hasHist: histTops.length > 0,
+    histBottom, histWidth: liveWidth, liveTop, bottom: y, width: liveWidth };
   }
 }
 
@@ -387,22 +481,37 @@ function relRep(id, V) { let x = id; while (x && !V.has(x)) x = byId.get(x).tp; 
 function elements(V, Lt) {
   const els = [];
   // bands (zones) and their headings, drawn behind everything and never tappable
-  const top = 0, h = Lt.bottom + 40;
+  if (Lt.hasHist) {
+    const hw = Lt.histWidth, hh = Lt.histBottom + 8;
+    els.push({ group: "nodes", data: { id: "zone-hist", label: BAND_WORD.hist, w: hw, h: hh, fill: ZONE_FILL.hist }, position: { x: hw / 2, y: hh / 2 }, classes: "zone zone-hist" });
+    els.push({ group: "nodes", data: { id: "zone-hist-rule", w: hw, h: 4, fill: "#857C6B" }, position: { x: hw / 2, y: hh }, classes: "zone-rule" });
+  }
+  const liveTop = Lt.hasHist ? Lt.liveTop - 36 : 0;
+  const liveH = Lt.bottom - liveTop + 40;
   for (const b of Lt.bandsUsed) {
     const w = b === "right" ? Lt.CAP + 2 * PADX : SIDEW;
-    els.push({ group: "nodes", data: { id: "zone-" + b, label: BAND_WORD[b], w, h, fill: ZONE_FILL[b] }, position: { x: Lt.X0[b] + w / 2, y: top + h / 2 - 40 }, classes: "zone" });
+    els.push({ group: "nodes", data: { id: "zone-" + b, label: BAND_WORD[b], w, h: liveH, fill: ZONE_FILL[b] }, position: { x: Lt.X0[b] + w / 2, y: liveTop + liveH / 2 }, classes: "zone" });
+  }
+  const rowWord = (r, hist) => {
+    if (r === 0) return hist ? "Historical roots" : "Root movements";
+    if (r === 1) return hist ? "Historical children" : "Children";
+    if (r === 2) return hist ? "Historical grandchildren" : "Grandchildren";
+    return hist ? `Historical generation ${r + 1}` : `Generation ${r + 1}`;
+  };
+  for (const { r, y } of (Lt.histRowY || [])) {
+    const lw = HIST_LABW - 16;
+    els.push({ group: "nodes", data: { id: "hrow-" + r, label: rowWord(r, true), w: lw, h: 52 }, position: { x: lw / 2, y: y + 18 }, classes: "rowlabel rowlabel-hist" });
   }
   for (const { r, y } of Lt.rowY) {
-    const word = r === 0 ? "Root movements" : r === 1 ? "Children" : r === 2 ? "Grandchildren" : `Generation ${r + 1}`;
     const x0 = (Lt.X0.right ?? Lt.X0[Lt.bandsUsed[0]]) + 10;
-    els.push({ group: "nodes", data: { id: "row-" + r, label: word }, position: { x: x0 + 70, y: y - 22 }, classes: "rowlabel" });
+    els.push({ group: "nodes", data: { id: "row-" + r, label: rowWord(r, false) }, position: { x: x0 + 70, y: y - 22 }, classes: "rowlabel" });
   }
   for (const id of V) {
     const n = byId.get(id), box = Lt.BOX.get(id);
     const cls = ["fac", `layer-${n.layer}`, `band-${n.band}`]; if (n.hist) cls.push("hist"); if (n.prov) cls.push("prov");
     if (n.row === 0) cls.push("root");
-    const d = { id, col: n.col, ink: n.hist ? "#444" : (lum(n.band === "out" ? "#e6e6e6" : n.col) < 0.5 ? "#fff" : "#111"),
-      fill: n.hist ? "#d1d1d1" : n.band === "out" ? "#e6e6e6" : n.col, edge: shade(n.col, 0.8) };
+    const d = { id, col: n.col, ink: n.hist ? "#1E2A2F" : (lum(n.band === "out" ? "#E8E4DC" : n.col) < 0.5 ? "#fff" : "#1E2A2F"),
+      fill: n.hist ? "#E6DFD2" : n.band === "out" ? "#E8E4DC" : n.col, edge: shade(n.col, 0.8) };
     if (n.nest && V.has(n.nest) && Lt.BOX.has(n.nest)) d.parent = n.nest;
     if (box) {
       d.label = wrap(n.label, 60, 1); d.fs = FONT;
@@ -417,7 +526,7 @@ function elements(V, Lt) {
   for (const e of G.edges) {
     if (!isLineage(e) || !V.has(e.s) || !V.has(e.t)) continue;
     const c = byId.get(e.s);
-    if (c.nest === e.t && Lt.BOX.has(e.t)) continue;   // the box already shows it
+    if (c.nest === e.t && Lt.BOX.has(e.t) && !!c.hist === !!byId.get(e.t).hist) continue;   // the box already shows it
     const cls = ["ln"];
     if (e.type === "ancestor") cls.push("ln-ancestor");
     else if (c.coeq && e.type !== "ancestor") cls.push("ln-coeq");
@@ -449,13 +558,21 @@ function elements(V, Lt) {
 function styles() {
   const font = getComputedStyle(document.documentElement).getPropertyValue("--f-ui").trim() || "system-ui, sans-serif";
   const px = (m, minPx) => () => Math.max(m, minPx / Z);   // model width, but never thinner than minPx on screen
+  const typePx = (base, minScreen, maxModel) => () => Math.min(maxModel, Math.max(base, minScreen / Z));
   return [
     { selector: "node", style: { "font-family": font, "events": "yes" } },
-    { selector: "node.zone", style: { shape: "rectangle", width: "data(w)", height: "data(h)", "background-color": "data(fill)", "background-opacity": 0.7,
-      "border-width": 0, label: "data(label)", "text-valign": "top", "text-halign": "center", "text-margin-y": 34, "font-size": 15, "font-weight": 700,
-      color: "#555", "text-wrap": "wrap", "text-max-width": "data(w)", events: "no", "z-compound-depth": "bottom", "z-index": 0 } },
-    { selector: "node.rowlabel", style: { shape: "rectangle", width: 1, height: 1, "background-opacity": 0, label: "data(label)", "font-size": 12,
-      "font-style": "italic", color: "#777", "text-valign": "center", "text-halign": "right", events: "no", "z-index": 1 } },
+    { selector: "node.zone", style: { shape: "rectangle", width: "data(w)", height: "data(h)", "background-color": "data(fill)", "background-opacity": 1,
+      "border-width": 0, label: "data(label)", "text-valign": "top", "text-halign": "center", "text-margin-y": 34, "font-size": typePx(15, 11, 22), "font-weight": 700,
+      color: "#1E2A2F", "text-wrap": "wrap", "text-max-width": "data(w)", events: "no", "z-compound-depth": "bottom", "z-index": 0 } },
+    { selector: "node.zone.zone-hist", style: { "background-opacity": 1, "border-width": 0, "border-color": "#857C6B",
+      "text-margin-y": 20, "font-size": typePx(20, 12, 36), "font-style": "normal", "font-weight": 700, "text-transform": "uppercase", color: "#1E2A2F" } },
+    { selector: "node.zone-rule", style: { shape: "rectangle", width: "data(w)", height: "data(h)", "background-color": "data(fill)",
+      "background-opacity": 0.9, "border-width": 0, label: "", events: "no", "z-compound-depth": "bottom", "z-index": 1 } },
+    { selector: "node.rowlabel", style: { shape: "rectangle", width: 1, height: 1, "background-opacity": 0, label: "data(label)", "font-size": typePx(12, 9, 16),
+      "font-style": "italic", color: "#4F5B5F", "text-valign": "center", "text-halign": "right", events: "no", "z-index": 1 } },
+    { selector: "node.rowlabel.rowlabel-hist", style: { width: "data(w)", height: "data(h)", "text-halign": "center", "text-valign": "center",
+      "text-wrap": "wrap", "text-max-width": "data(w)", "font-size": typePx(12, 11, 28), "font-style": "normal", "font-weight": 500,
+      color: "#1E2A2F" } },
     { selector: "node.fac", style: { shape: "round-rectangle", width: BW, height: BH, "background-color": "data(fill)", label: "data(label)",
       color: "data(ink)", "font-size": "data(fs)", "text-valign": "center", "text-halign": "center", "text-wrap": "wrap", "text-max-width": BW - 4,
       "line-height": 1.05, "border-width": 0.7, "border-color": "#333", "z-index": 20, "min-zoomed-font-size": 4 } },
@@ -463,7 +580,7 @@ function styles() {
     { selector: "node.fac.hist", style: { "font-style": "italic" } },
     { selector: "node.fac.prov", style: { "border-style": "dashed", "border-width": 1.6, "border-color": "#222" } },
     { selector: "node.box", style: { shape: "round-rectangle", "background-color": "data(col)", "background-opacity": 0.13, "border-width": 2.2,
-      "border-color": "data(col)", color: "data(edge)", "font-weight": 700, "font-size": 13, "text-valign": "top", "text-halign": "center",
+      "border-color": "data(col)", color: "data(edge)", "font-weight": 700, "font-size": 15, "text-valign": "top", "text-halign": "center",
       "text-margin-y": 26, "text-wrap": "ellipsis", "text-max-width": e => (e.children(".frame").data("w") || 200) - 16, padding: 0,
       "compound-sizing-wrt-labels": "exclude", "z-index": 10 } },
     { selector: "node.box.prov", style: { "border-style": "dashed", "border-width": 2.2, "border-color": "data(col)" } },
@@ -766,7 +883,7 @@ function wire() {
     relOn = new Set($$('input[name="rel"]').filter(x => x.checked).map(x => x.value)); render({ keep: null }); }));
   ROOT.addEventListener("click", ev => {
     const t = ev.target.closest("[data-act],[data-go],[data-show],[data-sort],[data-edge],[data-band]"); if (!t) return;
-    if (t.dataset.band) { const b = t.dataset.band; if (b === "right") { const c = cy.nodes(".fac.band-right.layer-coalition"); viewAt(c.nonempty() ? c : cy.nodes(".fac.band-right"), { top: true }); } else viewAt(cy.nodes(`.fac.band-${b}`), { top: true }); return; }
+    if (t.dataset.band) { const b = t.dataset.band; if (b === "hist") { viewAt(cy.nodes(".fac.hist"), { top: true }); return; } if (b === "right") { const c = cy.nodes(".fac.band-right.layer-coalition").filter(n => !n.hasClass("hist")); viewAt(c.nonempty() ? c : cy.nodes(".fac.band-right").filter(n => !n.hasClass("hist")), { top: true }); } else viewAt(cy.nodes(`.fac.band-${b}`).filter(n => !n.hasClass("hist")), { top: true }); return; }
     if (t.dataset.edge) { selectEdge(t.dataset.edge); return; }
     if (t.dataset.go) { if (t.closest("#map-q-results")) pick(t.dataset.go); else selectNode(t.dataset.go, { focusPanel: true }); return; }
     if (t.dataset.show) { selectNode(t.dataset.show); $("#map-canvas").scrollIntoView({ block: "center", behavior: REDUCED.matches ? "auto" : "smooth" }); $("#map-panel").focus({ preventScroll: true }); return; }
@@ -897,7 +1014,9 @@ function openingView() {
   cy.viewport({ zoom: z, pan: { x: cy.width() / 2 - z * xm, y: cy.height() / 2 - z * ym } }); Z = z; cy.style().update();
 }
 function bandButtons() {
-  const used = BANDS.filter(b => cy.nodes(`.fac.band-${b}`).nonempty());
+  const used = [];
+  if (cy.nodes(".fac.hist").nonempty()) used.push("hist");
+  for (const b of BANDS) if (cy.nodes(`.fac.band-${b}`).filter(n => !n.hasClass("hist")).nonempty()) used.push(b);
   const word = { left: "Left", center: "Center", out: "Outside", hist: "Historical", right: "The right" };
   $("#map-bands").innerHTML = `<span class="b-none">Jump to:</span> ` + used.map(b => `<button type="button" data-band="${b}">${word[b]}</button>`).join(" ");
 }
