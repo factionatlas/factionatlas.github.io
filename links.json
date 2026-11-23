@@ -1491,6 +1491,32 @@
    "related": null
   }
  ],
+ "person/p_97e8cc5760/": [
+  {
+   "label": "Ezra Institute author page",
+   "url": "https://www.ezrainstitute.com/authors/tobias-riemenschneider",
+   "kind": "org_site",
+   "confirms_name": true,
+   "name_shown": "Tobias Riemenschneider",
+   "related": null
+  },
+  {
+   "label": "Tobias Riemenschneider (YouTube)",
+   "url": "https://www.youtube.com/@tobias.riemenschneider",
+   "kind": "youtube",
+   "confirms_name": true,
+   "name_shown": "Tobias Riemenschneider",
+   "related": null
+  },
+  {
+   "label": "Instagram @tobi.riemenschneider",
+   "url": "https://www.instagram.com/tobi.riemenschneider/",
+   "kind": "other_social",
+   "confirms_name": true,
+   "name_shown": "Tobias Riemenschneider",
+   "related": null
+  }
+ ],
  "person/p_9883c48c06/": [
   {
    "label": "Carroll County Townships",
@@ -1604,6 +1630,40 @@
    "kind": "ballotpedia",
    "confirms_name": true,
    "name_shown": "Brandi Nichols Farrer",
+   "related": null
+  }
+ ],
+ "person/p_a4efe4330a/": [
+  {
+   "label": "Alpha and Omega Ministries",
+   "url": "https://www.aomin.org/",
+   "kind": "org_site",
+   "confirms_name": true,
+   "name_shown": "James R. White",
+   "related": null
+  },
+  {
+   "label": "Alpha & Omega Ministries (The Dividing Line)",
+   "url": "https://www.youtube.com/@AominOrg",
+   "kind": "youtube",
+   "confirms_name": false,
+   "name_shown": null,
+   "related": null
+  },
+  {
+   "label": "@HwsEleutheroi",
+   "url": "https://x.com/HwsEleutheroi",
+   "kind": "x",
+   "confirms_name": true,
+   "name_shown": "James White",
+   "related": null
+  },
+  {
+   "label": "@DrOakley1689",
+   "url": "https://x.com/DrOakley1689",
+   "kind": "other_social",
+   "confirms_name": true,
+   "name_shown": "James White",
    "related": null
   }
  ],
@@ -2231,6 +2291,24 @@
    "related": null
   }
  ],
+ "person/p_ed33ecdbb1/": [
+  {
+   "label": "Ezra Institute",
+   "url": "https://www.ezrainstitute.com/authors/joe-boot",
+   "kind": "org_site",
+   "confirms_name": true,
+   "name_shown": "Joe Boot",
+   "related": null
+  },
+  {
+   "label": "@DrJoeBoot",
+   "url": "https://x.com/DrJoeBoot",
+   "kind": "x",
+   "confirms_name": true,
+   "name_shown": "Joseph Boot",
+   "related": null
+  }
+ ],
  "person/p_ed4941442d/": [
   {
    "label": "Ballotpedia: Carroll County, Indiana, elections, 2026",
@@ -2400,6 +2478,24 @@
    "kind": "official_bio",
    "confirms_name": true,
    "name_shown": "Beth Zink",
+   "related": null
+  }
+ ],
+ "person/p_fb84cbadb5/": [
+  {
+   "label": "Center for Cultural Leadership",
+   "url": "https://christianculture.com/about/p-andrew-sandlin/",
+   "kind": "org_site",
+   "confirms_name": true,
+   "name_shown": "P. Andrew Sandlin",
+   "related": null
+  },
+  {
+   "label": "@DocSandlin",
+   "url": "https://x.com/DocSandlin",
+   "kind": "x",
+   "confirms_name": false,
+   "name_shown": null,
    "related": null
   }
  ],

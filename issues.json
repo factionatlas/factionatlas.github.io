@@ -34,7 +34,7 @@
    "url": "issues/theological-tradition/",
    "anchor": "theological_tradition",
    "positions": 33,
-   "recorded": 1068,
+   "recorded": 1069,
    "summary": "Church tradition stated by the account itself (bio, church affiliation) or shown by explicit theology in posts.",
    "being_filled": false,
    "group": null,
@@ -259,7 +259,7 @@
    "url": "issues/abortion-law/",
    "anchor": "abortion_law",
    "positions": 3,
-   "recorded": 166,
+   "recorded": 167,
    "summary": "Where abortion law should be set and how restrictive it should be (a national limit, state-by-state, or legal access).",
    "being_filled": false,
    "group": "Life and family",
@@ -441,9 +441,9 @@
    "url": "issues/asylum-refugees/",
    "anchor": "asylum_refugees",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 10,
    "summary": "Asylum rules and refugee admissions.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Immigration",
    "covers_axes": [
     "asylum_refugees"
@@ -511,9 +511,9 @@
    "url": "issues/nato/",
    "anchor": "nato",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 10,
    "summary": "U.S.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Foreign policy",
    "covers_axes": [
     "nato"
@@ -525,9 +525,9 @@
    "url": "issues/foreign-aid/",
    "anchor": "foreign_aid",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 214,
    "summary": "U.S.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Foreign policy",
    "covers_axes": [
     "foreign_aid"
@@ -595,7 +595,7 @@
    "url": "issues/war-powers/",
    "anchor": "war_powers",
    "positions": 3,
-   "recorded": 1,
+   "recorded": 25,
    "summary": "Whether Congress must authorize military action (war powers resolutions).",
    "being_filled": false,
    "group": "Foreign policy",
@@ -665,7 +665,7 @@
    "url": "issues/fed-cbdc/",
    "anchor": "fed_cbdc",
    "positions": 3,
-   "recorded": 1,
+   "recorded": 219,
    "summary": "The Federal Reserve (including ending it) and a central bank digital currency.",
    "being_filled": false,
    "group": "Economy",
@@ -679,7 +679,7 @@
    "url": "issues/debt-deficits/",
    "anchor": "debt_deficits",
    "positions": 2,
-   "recorded": 3,
+   "recorded": 30,
    "summary": "How much the national debt and deficits matter.",
    "being_filled": false,
    "group": "Economy",
@@ -693,9 +693,9 @@
    "url": "issues/entitlements/",
    "anchor": "entitlements",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 8,
    "summary": "Social Security and Medicare benefits and reform.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Economy",
    "covers_axes": [
     "entitlements"
@@ -791,9 +791,9 @@
    "url": "issues/porn-age-verification/",
    "anchor": "porn_age_verification",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 35,
    "summary": "Age verification laws for pornography sites.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Tech and speech",
    "covers_axes": [
     "porn_age_verification"
@@ -833,9 +833,9 @@
    "url": "issues/death-penalty/",
    "anchor": "death_penalty",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 16,
    "summary": "Capital punishment.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Law and order",
    "covers_axes": [
     "death_penalty"
@@ -847,9 +847,9 @@
    "url": "issues/drug-legalization/",
    "anchor": "drug_legalization",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 19,
    "summary": "Legalizing or decriminalizing marijuana and other drugs.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Law and order",
    "covers_axes": [
     "drug_legalization"
@@ -931,7 +931,7 @@
    "url": "issues/church-state/",
    "anchor": "church_state",
    "positions": 3,
-   "recorded": 1,
+   "recorded": 2,
    "summary": "How strictly government should be kept separate from religion.",
    "being_filled": false,
    "group": "Religion and state",
@@ -945,9 +945,9 @@
    "url": "issues/blasphemy-laws/",
    "anchor": "blasphemy_laws",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "Laws punishing blasphemy.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Religion and state",
    "covers_axes": [
     "blasphemy_laws"
@@ -1043,7 +1043,7 @@
    "url": "issues/filibuster/",
    "anchor": "filibuster",
    "positions": 3,
-   "recorded": 1,
+   "recorded": 2,
    "summary": "The Senate legislative filibuster.",
    "being_filled": false,
    "group": "Elections and government",
@@ -1141,9 +1141,9 @@
    "url": "issues/dei/",
    "anchor": "dei",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 119,
    "summary": "Diversity, equity and inclusion programs.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Culture and race",
    "covers_axes": [
     "dei"
@@ -1211,9 +1211,9 @@
    "url": "issues/western-civ/",
    "anchor": "western_civ",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 11,
    "summary": "Whether policy should defend Western civilization as such, and what that means.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Culture and race",
    "covers_axes": [
     "western_civ"
@@ -1337,9 +1337,9 @@
    "url": "issues/in-property-tax/",
    "anchor": "in_property_tax",
    "positions": 3,
-   "recorded": 0,
+   "recorded": 1,
    "summary": "Indiana property tax reform (including the 2025 SEA 1 changes) and calls to cut or end property taxes.",
-   "being_filled": true,
+   "being_filled": false,
    "group": "Indiana",
    "covers_axes": [
     "in_property_tax"
@@ -1547,7 +1547,7 @@
    "url": "issues/presidential-term-limit/",
    "anchor": "presidential_term_limit",
    "positions": 3,
-   "recorded": 1,
+   "recorded": 2,
    "summary": "Whether the two-term limit on the presidency in the 22nd Amendment should stay, or be repealed or read to allow a third term.",
    "being_filled": false,
    "group": "Government",
@@ -1561,7 +1561,7 @@
    "url": "issues/nettr-stated/",
    "anchor": "nettr_stated",
    "positions": 3,
-   "recorded": 7,
+   "recorded": 9,
    "summary": "Whether the person affirms, in their own words, the principle often called 'No Enemies To The Right' or 'NETTR' (no public disavowal of people they regard as on the right; alliances across the right), or rejects it (some figures on the right should be disavowed or refused a place in the movement).",
    "being_filled": false,
    "group": "Political strategy",
@@ -1603,7 +1603,7 @@
    "url": "issues/islamophobia-definition/",
    "anchor": "islamophobia_definition",
    "positions": 3,
-   "recorded": 1,
+   "recorded": 2,
    "summary": "Whether governments should adopt an official definition of 'Islamophobia' (e.g.",
    "being_filled": false,
    "group": "Religion and state",
@@ -1617,12 +1617,40 @@
    "url": "issues/omnibus-legislation/",
    "anchor": "omnibus_legislation",
    "positions": 3,
-   "recorded": 1,
+   "recorded": 4,
    "summary": "Whether Congress should pass large omnibus / package bills or move legislation as separate, smaller bills.",
    "being_filled": false,
    "group": "Elections and government",
    "covers_axes": [
     "omnibus_legislation"
+   ]
+  },
+  {
+   "slug": "religious-expulsion",
+   "title": "Expulsion on religious or moral grounds",
+   "url": "issues/religious-expulsion/",
+   "anchor": "religious_expulsion",
+   "positions": 3,
+   "recorded": 2,
+   "summary": "Whether people who belong to a religious minority, or who act against the majority religion's moral norms, should be made to leave the country, citizens included.",
+   "being_filled": false,
+   "group": "Religion and state",
+   "covers_axes": [
+    "religious_expulsion"
+   ]
+  },
+  {
+   "slug": "youth-economic-policy",
+   "title": "Policy for young adults' economic obstacles",
+   "url": "issues/youth-economic-policy/",
+   "anchor": "youth_economic_policy",
+   "positions": 3,
+   "recorded": 2,
+   "summary": "Whether government should adopt new policies or programs aimed at the economic obstacles young adults face (housing, jobs, family formation), or leave them to self-reliance and family.",
+   "being_filled": false,
+   "group": "Economy",
+   "covers_axes": [
+    "youth_economic_policy"
    ]
   }
  ]
