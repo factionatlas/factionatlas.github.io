@@ -784,7 +784,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 
 ## People
 
-- [(Stephanie) Slade](https://factionatlas.github.io/person/p_5aa2ea9d9a/) — editor, @reason
 - [0.3 BTC](https://factionatlas.github.io/person/p_eeb34f69a5/) — Exclusive home: Non-political . Public profile: @0_3_BTC on X.
 - [1/4 Black Garrett](https://factionatlas.github.io/person/p_a3623e7f0e/) — My YouTube channel
 - [10% White Pilled](https://factionatlas.github.io/person/p_fe9f315a38/) — North Shore, Oahu
@@ -1199,13 +1198,14 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@toddstarnes](https://factionatlas.github.io/person/p_a171381086/) — conservative
 - [@Trezor](https://factionatlas.github.io/person/p_de6f2aa1e7/) — Exclusive home: Non-political . Public profile: @Trezor on X.
 - [@TRUMPGIRL_STL](https://factionatlas.github.io/person/p_969188af38/) — maga, republican
-- [@tylercowen](https://factionatlas.github.io/person/p_9c2ad855c6/) — Historical faction: Old liberalism (19th c.) . Public profile: @tylercowen on X.
+- [@tylercowen](https://factionatlas.github.io/person/p_9c2ad855c6/) — Defunct faction: Old liberalism (19th c.) . Public profile: @tylercowen on X.
 - [@UAW](https://factionatlas.github.io/person/p_386aab1d02/) — Exclusive home: United Auto Workers (UAW) . Public profile: @UAW on X.
 - [@UCCMGM](https://factionatlas.github.io/person/p_0d285113f0/) — Montgomery, AL
 - [@UFCW](https://factionatlas.github.io/person/p_6591c14d2b/) — Exclusive home: United Food and Commercial Workers (UFCW) . Public profile: @UFCW on X.
 - [@ukJ0N](https://factionatlas.github.io/person/p_3260574566/) — conservative, patriot
 - [@UnitedTribesND](https://factionatlas.github.io/person/p_e01583fed7/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @UnitedTribesND on X.
 - [@unsplash](https://factionatlas.github.io/person/p_0b2c0149dd/) — Exclusive home: Non-political . Public profile: @unsplash on X.
+- [@Uranium337](https://factionatlas.github.io/person/p_8e87050afa/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Uranium337 on X.
 - [@UTXOracle](https://factionatlas.github.io/person/p_7b3e0372e1/) — Exclusive home: Non-political . Public profile: @UTXOracle on X.
 - [@VictoriaBell](https://factionatlas.github.io/person/p_b25ff4b9e5/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @VictoriaBell on X.
 - [@WadeSearle_](https://factionatlas.github.io/person/p_10a906407e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @WadeSearle_ on X.
@@ -1252,7 +1252,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [AD](https://factionatlas.github.io/person/p_f12a31d721/) — christian nationalist
 - [Adam Back](https://factionatlas.github.io/person/p_021db23f00/) — co-founder, @bstrco
 - [Adam Baldwin](https://factionatlas.github.io/person/p_d9f916b9bd/) — early user of the #GamerGate hashtag
-- [Adam Brandon](https://factionatlas.github.io/person/p_9fe05072d2/) — Historical faction: FreedomWorks (2004–2024) .
+- [Adam Brandon](https://factionatlas.github.io/person/p_9fe05072d2/) — Defunct faction: FreedomWorks (2004–2024) .
 - [Adam Conner](https://factionatlas.github.io/person/p_330cb44743/) — Exclusive home: Center for American Progress (CAP) . Public profile: @adamconner on X.
 - [Adam Crigler](https://factionatlas.github.io/person/p_af522644e0/) — Exclusive home: Mainstream Right . Public profile: @AdamCrigler on X.
 - [Adam Fisher](https://factionatlas.github.io/person/p_0e023d4c0b/) — zionist
@@ -1270,7 +1270,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Adam Savit](https://factionatlas.github.io/person/p_312861bac8/) — fellow, @CommonSenseScty
 - [Adam Schiff](https://factionatlas.github.io/person/p_77ec0acf85/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Adam Simecka](https://factionatlas.github.io/person/p_5257c96b96/) — founder, @MannaBitcoin
-- [Adam Smith](https://factionatlas.github.io/person/p_6ff48960ed/) — Died 1790-07-17 (source). Historical faction: Old liberalism (19th c.) .
+- [Adam Smith](https://factionatlas.github.io/person/p_6ff48960ed/) — Died 1790-07-17 (source). Defunct faction: Old liberalism (19th c.) .
 - [Adam W. Butcher](https://factionatlas.github.io/person/p_cd3d35a1ab/) — Carrollton Township Board, Member, Carroll County, IN, sitting source
 - [Addison P. McDowell](https://factionatlas.github.io/person/p_26afcba609/) — US House, NC-06, sitting source
 - [Addison Smith](https://factionatlas.github.io/person/p_cff2de6a19/) — Georgia
@@ -1330,7 +1330,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Albert Bourla](https://factionatlas.github.io/person/p_abfad7e287/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Albert Gallatin](https://factionatlas.github.io/person/p_ebdd43c583/) — US Secretary of the Treasury (1801–1814), former (historical) source
 - [Albert J. Beveridge](https://factionatlas.github.io/person/p_9b17ef9395/) — US Senator, Indiana, former (historical) source
-- [Albert Jay Nock](https://factionatlas.github.io/person/p_17efb57a58/) — Died 1945-08-19 (source). Historical faction: Old Right (1930s–1950s) .
+- [Albert Jay Nock](https://factionatlas.github.io/person/p_17efb57a58/) — Died 1945-08-19 (source). Defunct faction: Old Right (1930s–1950s) .
 - [Albert Mohler](https://factionatlas.github.io/person/p_6b2a4653f5/) — president, @SBTS
 - [Albert Moreno](https://factionatlas.github.io/person/p_bfa5fcf396/) — nice try, feds
 - [Alden Abbott](https://factionatlas.github.io/person/p_b158891619/) — Exclusive home: Mercatus Center . Public profile: @AldenAbbott1 on X.
@@ -1386,7 +1386,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Alix Gould-Werth](https://factionatlas.github.io/person/p_f60f227d85/) — Exclusive home: Demos .
 - [Allen Bernard](https://factionatlas.github.io/person/p_77dc38165f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Allen S. Nelson IV](https://factionatlas.github.io/person/p_e779411864/) — pastor, @gbtseminary
-- [Allen Tate](https://factionatlas.github.io/person/p_2425ede96c/) — Died 1979-02-09 (source). Historical faction: Southern Agrarians (1930–c. 1940s) .
+- [Allen Tate](https://factionatlas.github.io/person/p_2425ede96c/) — Died 1979-02-09 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
 - [Allen West](https://factionatlas.github.io/person/p_1cb9c71842/) — Garland, TX
 - [Alliance Defending](https://factionatlas.github.io/person/p_c2ded877a8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Alliance Defending Freedom](https://factionatlas.github.io/person/p_fcfeafb54c/) — United States
@@ -1467,7 +1467,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Andrew Branca](https://factionatlas.github.io/person/p_db7689c8d1/) — Exclusive home: Trump-loyal core . Public profile: @TheBrancaShow on X.
 - [Andrew Breitbart](https://factionatlas.github.io/person/p_b35d750563/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Andrew Bridgen](https://factionatlas.github.io/person/p_fb8708bf7e/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Andrew Carnegie](https://factionatlas.github.io/person/p_2ae6c67865/) — Died 1919-08-11 (source). Historical faction: American Anti-Imperialist League (1898–1920) .
+- [Andrew Carnegie](https://factionatlas.github.io/person/p_2ae6c67865/) — Died 1919-08-11 (source). Defunct faction: American Anti-Imperialist League (1898–1920) .
 - [Andrew Coffin](https://factionatlas.github.io/person/p_7a3087fa9f/) — Exclusive home: Young America's Foundation (YAF) .
 - [Andrew Day](https://factionatlas.github.io/person/p_447d3b125d/) — editor, @amconmag
 - [Andrew Delano](https://factionatlas.github.io/person/p_52c00529c7/) — 2026 candidate for Secretary of State (did not win; unofficial results), IN source
@@ -1489,7 +1489,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Andrew Klavan](https://factionatlas.github.io/person/p_49ac308476/) — host, @realDailyWire
 - [Andrew Kolvet](https://factionatlas.github.io/person/p_19b05a45c4/) — Exclusive home: Turning Point USA / Turning Point Action . Public profile: @AndrewKolvet on X.
 - [Andrew Lautz](https://factionatlas.github.io/person/p_cf3acdee40/) — Washington, DC
-- [Andrew Nelson Lytle](https://factionatlas.github.io/person/p_2621ea3d30/) — Died 1995-12-12 (source). Historical faction: Southern Agrarians (1930–c. 1940s) .
+- [Andrew Nelson Lytle](https://factionatlas.github.io/person/p_2621ea3d30/) — Died 1995-12-12 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
 - [Andrew Ogles](https://factionatlas.github.io/person/p_37c0c5cec7/) — US House, TN-05, sitting source
 - [Andrew R. Garbarino](https://factionatlas.github.io/person/p_72ace712af/) — US House, NY-02, sitting source
 - [Andrew Rosindell MP](https://factionatlas.github.io/person/p_b837eaabf4/) — MP (Romford), UK, sitting source
@@ -1635,7 +1635,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ayaan Hirsi Ali](https://factionatlas.github.io/person/p_873335aeee/) — founder, @AHAFoundation
 - [Ayanna Pressley](https://factionatlas.github.io/person/p_4e98dc3418/) — US House, MA-07, sitting source
 - [Aydin Paladin](https://factionatlas.github.io/person/p_ccec5331a5/) — Guernsey
-- [Ayn Rand](https://factionatlas.github.io/person/p_ddc36c0c63/) — Died 1982-03-06 (source). Historical faction: Objectivist movement (1950s–1968) .
+- [Ayn Rand](https://factionatlas.github.io/person/p_ddc36c0c63/) — Died 1982-03-06 (source). Defunct faction: Objectivist movement (1950s–1968) .
 - [Ayn Rand Institute](https://factionatlas.github.io/person/p_86adfdb651/) — Santa Ana, California
 - [AZAPAC](https://factionatlas.github.io/person/p_8586b0c6c4/) — United States
 - [AZMAHAMARY](https://factionatlas.github.io/person/p_88c024f7fe/) — Scottsdale, AZ
@@ -1651,7 +1651,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Baptist Press](https://factionatlas.github.io/person/p_e698d10c6a/) — Nashville, Tenn
 - [Barack Hussein Obama](https://factionatlas.github.io/person/p_ddd887b5c1/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Barack Obama](https://factionatlas.github.io/person/p_3eed66dc6c/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Barbara Branden](https://factionatlas.github.io/person/p_7210d59f89/) — Died 2013-12-11 (source). Historical faction: Objectivist movement (1950s–1968) .
+- [Barbara Branden](https://factionatlas.github.io/person/p_7210d59f89/) — Died 2013-12-11 (source). Defunct faction: Objectivist movement (1950s–1968) .
 - [Barbarian Herodotus](https://factionatlas.github.io/person/p_616f102a65/) — Exclusive home: Christian Conservatives . Public profile: @BBHerodotus on X.
 - [Bari Weiss](https://factionatlas.github.io/person/p_9c4a58fffc/) — editor-in-chief, @thefp
 - [Baron](https://factionatlas.github.io/person/p_9c00d17550/) — Exclusive home: Pagan right (heathen / folkish) . Public profile: @B_a_r_o_n___ on X.
@@ -1702,7 +1702,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ben Smaltz](https://factionatlas.github.io/person/p_0f400781be/) — Indiana State Representative, IN-HD52, sitting source
 - [Ben Swann](https://factionatlas.github.io/person/p_2e096cfdcd/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Ben van Kerkwyk - UnchartedX](https://factionatlas.github.io/person/p_c6e1c9ce45/) — Exclusive home: Non-political . Public profile: @UnchartedX1 on X.
-- [Ben Wattenberg](https://factionatlas.github.io/person/p_010df0fbc0/) — Died 2015-06-28 (source). Historical faction: Coalition for a Democratic Majority (1972–c. 1980s) .
+- [Ben Wattenberg](https://factionatlas.github.io/person/p_010df0fbc0/) — Died 2015-06-28 (source). Defunct faction: Coalition for a Democratic Majority (1972–c. 1980s) .
 - [Ben Zeisloft](https://factionatlas.github.io/person/p_0c0d699883/) — Exclusive home: Abortion abolitionists . Public profile: @BenZeisloft on X.
 - [Ben Zornes](https://factionatlas.github.io/person/p_ff3d28d51d/) — pastor, @LivingStoneK1rk
 - [Benjamin Blatt](https://factionatlas.github.io/person/p_d2b0e8019d/) — Exclusive home: Non-political . Public profile: @bblatt11 on X.
@@ -1751,7 +1751,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Bill Whalen](https://factionatlas.github.io/person/p_89cd225247/) — Palo Alto, California
 - [Billie Eilish](https://factionatlas.github.io/person/p_0aa7360fe0/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Billy Binion](https://factionatlas.github.io/person/p_2f4b03fbcc/) — reporter, @reason
-- [Billy Graham](https://factionatlas.github.io/person/p_4c5bc69797/) — Died 2018-02-21 (source). Historical faction: Neo-evangelicals (1942–c. 1976) .
+- [Billy Graham](https://factionatlas.github.io/person/p_4c5bc69797/) — Died 2018-02-21 (source). Defunct faction: Neo-evangelicals (1942–c. 1976) .
 - [Billy Hutchinson](https://factionatlas.github.io/person/p_f4377d8168/) — director, Colson Educators (Colson Center) source
 - [Billy Prempeh](https://factionatlas.github.io/person/p_fe517c79ef/) — Paterson, NJ
 - [Billy Valentine](https://factionatlas.github.io/person/p_5d7dde463a/) — Exclusive home: SBA Pro-Life America .
@@ -1800,7 +1800,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Bob Good](https://factionatlas.github.io/person/p_8a095354ac/) — Former US Representative; former House Freedom Caucus chair, VA-05, former source
 - [Bob Harvie](https://factionatlas.github.io/person/p_a1730dbbc8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Bob Heaton](https://factionatlas.github.io/person/p_77f199d07d/) — Indiana State Representative, IN-HD46, sitting source
-- [Bob Jones Sr.](https://factionatlas.github.io/person/p_f4731088da/) — Died 1968-01-16 (source). Historical faction: Fundamentalist movement (c. 1910–c. 1950) .
+- [Bob Jones Sr.](https://factionatlas.github.io/person/p_f4731088da/) — Died 1968-01-16 (source). Defunct faction: Fundamentalist movement (c. 1910–c. 1950) .
 - [Bob McEwen](https://factionatlas.github.io/person/p_3d701da772/) — Exclusive home: Conservative Baptist Network (CBN) .
 - [Bob McNamara](https://factionatlas.github.io/person/p_17e936bba6/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Bob Moran](https://factionatlas.github.io/person/p_6458ccbf90/) — Exclusive home: UK & European right . Public profile: @bobscartoons on X.
@@ -1872,7 +1872,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Brent Taylor](https://factionatlas.github.io/person/p_324e4c165a/) — US Representative-elect, TN-9, candidate source
 - [Bret Baier](https://factionatlas.github.io/person/p_31184da460/) — editor, @SpecialReport
 - [Bret Johnsen](https://factionatlas.github.io/person/p_018bfacf65/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Bret Weinstein](https://factionatlas.github.io/person/p_9c3aba3587/) — Historical faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @BretWeinstein on X.
+- [Bret Weinstein](https://factionatlas.github.io/person/p_9c3aba3587/) — Defunct faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @BretWeinstein on X.
 - [Brett Clark](https://factionatlas.github.io/person/p_24af0770a4/) — Indiana State Senator, IN-SD24, sitting source
 - [Brett Cooper](https://factionatlas.github.io/person/p_1d53b517c1/) — Nashville, TN
 - [Brett Guthrie](https://factionatlas.github.io/person/p_7d2f2e9e7b/) — US House, KY-02, sitting source
@@ -1991,9 +1991,9 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [captive dreamer](https://factionatlas.github.io/person/p_c87c56f797/) — Milan
 - [Carl B MENGER](https://factionatlas.github.io/person/p_9d07637750/) — Vienna
 - [Carl Benjamin](https://factionatlas.github.io/person/p_6de6854041/) — founder/host, Lotus Eaters
-- [Carl F. H. Henry](https://factionatlas.github.io/person/p_1e7a11f9d8/) — Died 2003-12-07 (source). Historical faction: Neo-evangelicals (1942–c. 1976) .
+- [Carl F. H. Henry](https://factionatlas.github.io/person/p_1e7a11f9d8/) — Died 2003-12-07 (source). Defunct faction: Neo-evangelicals (1942–c. 1976) .
 - [Carl Gunn](https://factionatlas.github.io/person/p_d15b31d282/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Carl McIntire](https://factionatlas.github.io/person/p_c7418acad3/) — Died 2002-04-19 (source). Historical faction: Fundamentalist movement (c. 1910–c. 1950) .
+- [Carl McIntire](https://factionatlas.github.io/person/p_c7418acad3/) — Died 2002-04-19 (source). Defunct faction: Fundamentalist movement (c. 1910–c. 1950) .
 - [Carl R. Trueman](https://factionatlas.github.io/person/p_17700268e5/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Carl Schmidt](https://factionatlas.github.io/person/p_4ee61164f9/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Carl Schmitt](https://factionatlas.github.io/person/p_0717d90b67/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -2058,8 +2058,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Charles Andr](https://factionatlas.github.io/person/p_2c8ec26135/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Charles Booker](https://factionatlas.github.io/person/p_633eea1fbc/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Charles C. W. Cooke](https://factionatlas.github.io/person/p_b5e406abcc/) — moderate
-- [Charles Coughlin](https://factionatlas.github.io/person/p_90cd872898/) — Died 1979-10-27 (source). Historical faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
-- [Charles E. Fuller](https://factionatlas.github.io/person/p_10f51f7fc2/) — Historical faction: Neo-evangelicals (1942–c. 1976) .
+- [Charles Coughlin](https://factionatlas.github.io/person/p_90cd872898/) — Died 1979-10-27 (source). Defunct faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
+- [Charles E. Fuller](https://factionatlas.github.io/person/p_10f51f7fc2/) — Defunct faction: Neo-evangelicals (1942–c. 1976) .
 - [Charles E. Rice](https://factionatlas.github.io/person/p_37b56f137a/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Charles Eugene](https://factionatlas.github.io/person/p_9b6c5e8fe2/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Charles Fain Lehman](https://factionatlas.github.io/person/p_7e40ec7f7f/) — fellow, @ManhattanInst
@@ -2071,10 +2071,10 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Charles Khan](https://factionatlas.github.io/person/p_f826c6c71f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Charles Koch](https://factionatlas.github.io/person/p_765482e1bd/) — Wichita, Kansas
 - [Charles Krauthammer](https://factionatlas.github.io/person/p_44bf403699/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Charles Lindbergh](https://factionatlas.github.io/person/p_01c551cea4/) — Died 1974-08-26 (source). Historical faction: America First Committee (1940–1941) .
+- [Charles Lindbergh](https://factionatlas.github.io/person/p_01c551cea4/) — Died 1974-08-26 (source). Defunct faction: America First Committee (1940–1941) .
 - [Charles Manson](https://factionatlas.github.io/person/p_ef3380be02/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Charles Martel](https://factionatlas.github.io/person/p_b93d9bfffd/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Charles Pelham Villiers](https://factionatlas.github.io/person/p_92e32abf47/) — Died 1898-01-16 (source). Historical faction: Manchester School / Anti-Corn Law League (1838–c. 1860s) .
+- [Charles Pelham Villiers](https://factionatlas.github.io/person/p_92e32abf47/) — Died 1898-01-16 (source). Defunct faction: Old liberalism (19th c.) .
 - [Charles Perry](https://factionatlas.github.io/person/p_3e965373d1/) — Texas State Senator, SD-28 (2014-present); President pro tempore (2025-present), TX, sitting source
 - [Charles Pincourt](https://factionatlas.github.io/person/p_ef67a1c0f0/) — Exclusive home: Free-speech Enlightenment liberals .
 - [Charles Schultz](https://factionatlas.github.io/person/p_8cc3b7c410/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -2173,7 +2173,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Christopher Dennison](https://factionatlas.github.io/person/p_704728ad53/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Christopher H. Smith](https://factionatlas.github.io/person/p_dc80f773ac/) — US House, NJ-04, sitting source
 - [Christopher Hale](https://factionatlas.github.io/person/p_2af40047f6/) — federal executive
-- [Christopher Hitchens](https://factionatlas.github.io/person/p_b8df1841d3/) — Died 2011-12-15 (source). Historical faction: New Atheism (c. 2004–c. 2015) .
+- [Christopher Hitchens](https://factionatlas.github.io/person/p_b8df1841d3/) — Died 2011-12-15 (source). Defunct faction: New Atheism (c. 2004–c. 2015) .
 - [Christopher J. Dyke](https://factionatlas.github.io/person/p_1a1989c967/) — Washington Township Board, Member, Carroll County, IN, sitting source
 - [Christopher Judy](https://factionatlas.github.io/person/p_d098ec8e63/) — Indiana State Representative, IN-HD83, sitting source
 - [Christopher Leonard](https://factionatlas.github.io/person/p_4df60af05f/) — Exclusive home: MAGA-dissident independents . Public profile: @ChrisLeonardATL on X.
@@ -2299,7 +2299,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Connor Dale](https://factionatlas.github.io/person/p_c85bd0792b/) — United States
 - [Connor O'Keeffe](https://factionatlas.github.io/person/p_0ef0c146d7/) — libertarian
 - [Connor Tomlinson](https://factionatlas.github.io/person/p_884ae70d5f/) — London, England
-- [Conor Friedersdorf (per handle; bio not read)](https://factionatlas.github.io/person/p_6b17af2aa5/) — Historical faction: Old liberalism (19th c.) . Public profile: @conor64 on X.
+- [Conor Friedersdorf (per handle; bio not read)](https://factionatlas.github.io/person/p_6b17af2aa5/) — Defunct faction: Old liberalism (19th c.) . Public profile: @conor64 on X.
 - [Conquest Theory](https://factionatlas.github.io/person/p_d1b22308a4/) — United States
 - [Conrad](https://factionatlas.github.io/person/p_c9d6a9b31c/) — host, @WorldWarNow_
 - [Conscious Caracal](https://factionatlas.github.io/person/p_b446a6f196/) — South Africa
@@ -2346,7 +2346,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Curt Doolittle](https://factionatlas.github.io/person/p_a5854169af/) — Seattle/London/Kiev
 - [Curt Doolittle Philosopher](https://factionatlas.github.io/person/p_41405c6789/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Curt Mills](https://factionatlas.github.io/person/p_5db3d6dd5c/) — conservative
-- [Curtis LeMay](https://factionatlas.github.io/person/p_395674ca9e/) — Died 1990-10-01 (source). Historical faction: American Independent Party, Wallace era (1967–1976) .
+- [Curtis LeMay](https://factionatlas.github.io/person/p_395674ca9e/) — Died 1990-10-01 (source). Defunct faction: American Independent Party, Wallace era (1967–1976) .
 - [Curtis Sliwa](https://factionatlas.github.io/person/p_9791256e35/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Curtis Yarvin](https://factionatlas.github.io/person/p_7d70163205/) — Exclusive home: Hard Right intellectuals (BAP / Yarvin / vitalists) . Public profile: @curtis_yarvin on X.
 - [Cyndi Carrasco](https://factionatlas.github.io/person/p_77c384bcd7/) — Indiana State Senator, IN-SD36, sitting source
@@ -2356,7 +2356,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Cynthia M. Lummis](https://factionatlas.github.io/person/p_920d9d6a30/) — US Senate, WY, sitting source
 - [Cᴀʟɪʙʀᴇ Oʙsᴄᴜʀᴀ](https://factionatlas.github.io/person/p_7b0d7db3c5/) — Exclusive home: Non-political . Public profile: @CalibreObscura on X.
 - [D. A. Carson](https://factionatlas.github.io/person/p_027c584139/) — co-founder and president of The Gospel Coalition source
-- [D. James Kennedy](https://factionatlas.github.io/person/p_73c2d7f820/) — Died 2007-09-05 (source). Historical faction: Moral Majority (1979–late 1980s) .
+- [D. James Kennedy](https://factionatlas.github.io/person/p_73c2d7f820/) — Died 2007-09-05 (source). Defunct faction: Moral Majority (1979–late 1980s) .
 - [D.C. Templar](https://factionatlas.github.io/person/p_fa83da2a91/) — maga, patriot
 - [Dade Phelan](https://factionatlas.github.io/person/p_23682b2554/) — Texas State Representative, HD-21 (2015-present); former Speaker (2021-2025), TX, sitting source
 - [Dago Supremacy](https://factionatlas.github.io/person/p_26c23dbcc8/) — Pescara, USA
@@ -2409,7 +2409,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Daniel Cox](https://factionatlas.github.io/person/p_71dd2b5a58/) — director, @amersurveyctr
 - [Daniel Craig](https://factionatlas.github.io/person/p_45dcb0e8bb/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Daniel Darling](https://factionatlas.github.io/person/p_6a0d2ba368/) — director, @thelandcenter
-- [Daniel Dennett](https://factionatlas.github.io/person/p_bbdc07d46b/) — Died 2024-04-19 (source). Historical faction: New Atheism (c. 2004–c. 2015) .
+- [Daniel Dennett](https://factionatlas.github.io/person/p_bbdc07d46b/) — Died 2024-04-19 (source). Defunct faction: New Atheism (c. 2004–c. 2015) .
 - [Daniel Di Martino](https://factionatlas.github.io/person/p_62f77153dd/) — fellow, @ManhattanInst
 - [Daniel Elliott](https://factionatlas.github.io/person/p_fb096fed19/) — Indiana Treasurer, IN, sitting source
 - [Daniel Erspamer](https://factionatlas.github.io/person/p_a591cd2cc0/) — CEO, ORG: Pelican Institute for Public Policy source
@@ -2581,7 +2581,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Denny Hoskins](https://factionatlas.github.io/person/p_1ec562b7b3/) — Secretary of State of MO, MO, sitting source
 - [Denny Myers](https://factionatlas.github.io/person/p_d20f328302/) — Delphi Common Council, District 2, Carroll County, IN, sitting source
 - [Department Of Deportations](https://factionatlas.github.io/person/p_606c378203/) — Exclusive home: Dissident Right . Public profile: @DoDeportations on X.
-- [Department of Government Efficiency](https://factionatlas.github.io/person/p_6d5149da65/) — Exclusive home: Tech Right . Public profile: @DOGE on X.
+- [Department of Government Efficiency](https://factionatlas.github.io/person/p_6d5149da65/) — Defunct faction: DOGE (Department of Government Efficiency) team (2025–2026) . Public profile: @DOGE on X.
 - [Deplorable Bru](https://factionatlas.github.io/person/p_e0c579e988/) — america first
 - [Derek](https://factionatlas.github.io/person/p_22ac7a68a2/) — Exclusive home: Neoconservative / hawkish establishment . Public profile: @DGPsalm3 on X.
 - [Derek Ayala](https://factionatlas.github.io/person/p_24b5782f14/) — Exclusive home: Christian Conservatives . Public profile: @DerekAyala1987 on X.
@@ -2625,7 +2625,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Doinks](https://factionatlas.github.io/person/p_456cd5a659/) — Panera Bread in Valhalla
 - [Dominic Adler](https://factionatlas.github.io/person/p_f09c120dec/) — Exclusive home: Neoconservative / hawkish establishment . Public profile: @DomAdlerUK on X.
 - [Dominic Michael Tripi](https://factionatlas.github.io/person/p_459e2412e1/) — MO, TX - United States
-- [Dominique Venner](https://factionatlas.github.io/person/p_523d48a8fa/) — Died 2013-05-21 (source). Historical faction: European New Right / Traditionalism (1968–) .
+- [Dominique Venner](https://factionatlas.github.io/person/p_523d48a8fa/) — Died 2013-05-21 (source). Defunct faction: European New Right / Traditionalism (1968–) .
 - [Don Bacon](https://factionatlas.github.io/person/p_9426a07188/) — US House, NE-02, sitting source
 - [Don Brown](https://factionatlas.github.io/person/p_5b32eaf664/) — attorney and author; 2026 NC-Sen GOP primary candidate (15.6%, 2nd); 2024 NC-8 candidate, NC, former source
 - [Don Eberly](https://factionatlas.github.io/person/p_28ab04d4aa/) — founder and first president of the Commonwealth Foundation source
@@ -2639,7 +2639,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Don Rumsfeld](https://factionatlas.github.io/person/p_99486319c1/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Don Toliver](https://factionatlas.github.io/person/p_f97e8dcc5c/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Donald Bryson](https://factionatlas.github.io/person/p_090907cfee/) — ceo, @JohnLockeNC
-- [Donald Davidson (poet)](https://factionatlas.github.io/person/p_09d6a5e41c/) — Died 1968-04-25 (source). Historical faction: Southern Agrarians (1930–c. 1940s) .
+- [Donald Davidson (poet)](https://factionatlas.github.io/person/p_09d6a5e41c/) — Died 1968-04-25 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
 - [Donald J. Harris](https://factionatlas.github.io/person/p_6ff8f32ca9/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Donald J. Trump](https://factionatlas.github.io/person/p_25c93d8689/) — President of the United States (45th, 47th), sitting source
 - [Donald John](https://factionatlas.github.io/person/p_d040696f16/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -2724,7 +2724,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ed Feulner](https://factionatlas.github.io/person/p_fc14c255e3/) — Washington, D.C
 - [Ed Gallrein](https://factionatlas.github.io/person/p_922c5651a5/) — US Representative-elect, KY-04, candidate source
 - [Ed Martin](https://factionatlas.github.io/person/p_bac88283a7/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Ed McAteer](https://factionatlas.github.io/person/p_7e048bc5ad/) — Died 2004 (source). Historical faction: Moral Majority (1979–late 1980s) .
+- [Ed McAteer](https://factionatlas.github.io/person/p_7e048bc5ad/) — Died 2004 (source). Defunct faction: Moral Majority (1979–late 1980s) .
 - [Ed Morrissey](https://factionatlas.github.io/person/p_dcb5376344/) — Deep in the heart of
 - [Ed Stetzer](https://factionatlas.github.io/person/p_df6d2ddc78/) — Los Angeles, CA
 - [Ed Teach](https://factionatlas.github.io/person/p_7bc2db5683/) — Exclusive home: Groyper core (Fuentes orbit) . Public profile: @ZforVictory on X.
@@ -2735,16 +2735,16 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Edmond Soliday](https://factionatlas.github.io/person/p_b573400259/) — Indiana State Representative, IN-HD4, former source
 - [Edmund Burke](https://factionatlas.github.io/person/p_556690a2f8/) — MP (Rockingham Whig), former (historical) source
 - [Edmund Fitzgerald](https://factionatlas.github.io/person/p_e9201f5cab/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Edward Atkinson (activist)](https://factionatlas.github.io/person/p_e3a911172c/) — Died 1905-12-11 (source). Historical faction: Liberal Republicans and Mugwumps (1872–c. 1890s) .
+- [Edward Atkinson (activist)](https://factionatlas.github.io/person/p_e3a911172c/) — Died 1905-12-11 (source). Defunct faction: Old liberalism (19th c.) .
 - [Edward Coristine](https://factionatlas.github.io/person/p_cd007e995d/) — DOGE staff (2025), former source
 - [Edward Everett](https://factionatlas.github.io/person/p_0c054519e5/) — US Secretary of State; Governor of Massachusetts, former (historical) source
 - [Edward Feser](https://factionatlas.github.io/person/p_6eb8c1e73e/) — Los Angeles, California
 - [Edward Gibson Gallrein III](https://factionatlas.github.io/person/p_7237d3bddd/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Edward King](https://factionatlas.github.io/person/p_6fc9df6a51/) — founder and president, Defense Priorities source
 - [Edward R. Murrow Award](https://factionatlas.github.io/person/p_822ca8b2aa/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Edward Snowden](https://factionatlas.github.io/person/p_5cb10c51f3/) — Exclusive home: Libertarians . Public profile: @Snowden on X.
+- [Edward Snowden](https://factionatlas.github.io/person/p_5cb10c51f3/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) . Public profile: @Snowden on X.
 - [Edwin Aponte](https://factionatlas.github.io/person/p_adb5218fb6/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Edwin Lawrence Godkin](https://factionatlas.github.io/person/p_4b8e6175da/) — Died 1902-05-21 (source). Historical faction: Liberal Republicans and Mugwumps (1872–c. 1890s) .
+- [Edwin Lawrence Godkin](https://factionatlas.github.io/person/p_4b8e6175da/) — Died 1902-05-21 (source). Defunct faction: Old liberalism (19th c.) .
 - [Edwin Meese](https://factionatlas.github.io/person/p_70ed3681bb/) — U.S. Attorney General (former, 1985-88), US, former source
 - [Effective Altruists](https://factionatlas.github.io/person/p_88bdb8e93a/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Effective Nationalist](https://factionatlas.github.io/person/p_18b6f48ca8/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -2824,7 +2824,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Eric Fruits Adjunct](https://factionatlas.github.io/person/p_25891eddd8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Eric Gladen](https://factionatlas.github.io/person/p_677e403516/) — founder of the World Mercury Project (2007), now Children's Health Defense source
 - [Eric Hargan](https://factionatlas.github.io/person/p_516e2b7410/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Eric Hughes](https://factionatlas.github.io/person/p_f4437e8741/) — Exclusive home: Libertarians .
+- [Eric Hughes](https://factionatlas.github.io/person/p_f4437e8741/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) .
 - [Eric Hunley](https://factionatlas.github.io/person/p_b68ba041bc/) — Hampton, VA
 - [Eric Johnson](https://factionatlas.github.io/person/p_3ca75a0e84/) — Carroll Consolidated School Board, District 5, Carroll County, IN, sitting source
 - [Eric July](https://factionatlas.github.io/person/p_8374a57fde/) — cofounder, @Beinlibertarian
@@ -2892,7 +2892,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ezra Levant](https://factionatlas.github.io/person/p_836f4196bc/) — Canada and the world
 - [Ezra Levin](https://factionatlas.github.io/person/p_e79d512acc/) — Exclusive home: Indivisible . Public profile: @ezralevin on X.
 - [Ezra Taft Benson](https://factionatlas.github.io/person/p_0f4dbd3686/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [F. Clifton White](https://factionatlas.github.io/person/p_009e4e5f43/) — Died 1993-01-09 (source). Historical faction: Goldwater movement (1960–1964) .
+- [F. Clifton White](https://factionatlas.github.io/person/p_009e4e5f43/) — Died 1993-01-09 (source). Defunct faction: Goldwater movement (1960–1964) .
 - [Faith & Freedom Coalition](https://factionatlas.github.io/person/p_cacf180b69/) — Exclusive home: Faith & Freedom Coalition . Public profile: @FaithandFreedom on X.
 - [Falcon](https://factionatlas.github.io/person/p_9762f46fa4/) — The Air
 - [Falcon Heavy](https://factionatlas.github.io/person/p_aea0c991a9/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -2968,20 +2968,20 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Fr Jim Chern](https://factionatlas.github.io/person/p_cd4790c715/) — Montclair NJ
 - [Fr Matthew P. Schneider, LC](https://factionatlas.github.io/person/p_2b4b01a529/) — host, @VaticanSQPN
 - [Francis Fukuyama](https://factionatlas.github.io/person/p_b2f4294db0/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Francis Place](https://factionatlas.github.io/person/p_66011e1df0/) — Died 1854-01-01 (source). Historical faction: Philosophical Radicals (c. 1820s–1840s) .
+- [Francis Place](https://factionatlas.github.io/person/p_66011e1df0/) — Died 1854-01-01 (source). Defunct faction: Old liberalism (19th c.) .
 - [Francis Preston Blair](https://factionatlas.github.io/person/p_d68798bead/) — Died 1876-10-18 (source). Historical faction: Jacksonian Democrats (1828–1860) .
-- [Francis Townsend](https://factionatlas.github.io/person/p_ca651d25dd/) — Died 1960-09-01 (source). Historical faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
+- [Francis Townsend](https://factionatlas.github.io/person/p_ca651d25dd/) — Died 1960-09-01 (source). Defunct faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
 - [Frank Burford](https://factionatlas.github.io/person/p_304c78e4e0/) — Exclusive home: AFC Victory Fund .
 - [Frank Caliendo](https://factionatlas.github.io/person/p_2d40f2768a/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Frank Cannon](https://factionatlas.github.io/person/p_b812ed05be/) — Exclusive home: SBA Pro-Life America .
-- [Frank Chodorov](https://factionatlas.github.io/person/p_a77b95cb61/) — Died 1966-12-28 (source). Historical faction: Old Right (1930s–1950s) .
+- [Frank Chodorov](https://factionatlas.github.io/person/p_a77b95cb61/) — Died 1966-12-28 (source). Defunct faction: Old Right (1930s–1950s) .
 - [Frank D. Lucas](https://factionatlas.github.io/person/p_22dcfff0bc/) — US House, OK-03, sitting source
 - [Frank LaRose](https://factionatlas.github.io/person/p_7b24ff2fa4/) — Secretary of State; candidate for Auditor, OH, sitting source
-- [Frank Lawrence Owsley](https://factionatlas.github.io/person/p_a4007b81f0/) — Died 1955/1956 (source). Historical faction: Southern Agrarians (1930–c. 1940s) .
-- [Frank M. Dixon](https://factionatlas.github.io/person/p_c1a01506bc/) — Died 1965-10-11 (source). Historical faction: Dixiecrats / States' Rights Democratic Party (1948) .
+- [Frank Lawrence Owsley](https://factionatlas.github.io/person/p_a4007b81f0/) — Died 1955/1956 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
+- [Frank M. Dixon](https://factionatlas.github.io/person/p_c1a01506bc/) — Died 1965-10-11 (source). Defunct faction: Dixiecrats / States' Rights Democratic Party (1948) .
 - [Frank McCormick](https://factionatlas.github.io/person/p_62638bbab7/) — Subscribe ️
-- [Frank Meyer](https://factionatlas.github.io/person/p_51761a6588/) — Historical faction: Reagan-era conservative movement (c. 1964–2008) .
-- [Frank Meyer (political philosopher)](https://factionatlas.github.io/person/p_cfed92736b/) — Died 1972-04-01 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
+- [Frank Meyer](https://factionatlas.github.io/person/p_51761a6588/) — Defunct faction: Reagan-era conservative movement (c. 1964–2008) .
+- [Frank Meyer (political philosopher)](https://factionatlas.github.io/person/p_cfed92736b/) — Died 1972-04-01 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
 - [Frank Mrvan](https://factionatlas.github.io/person/p_71af2493ce/) — US House, IN-01, sitting source
 - [Frank Sinatra](https://factionatlas.github.io/person/p_c9b907ccda/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Frank Turek](https://factionatlas.github.io/person/p_b93baa8cff/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3003,7 +3003,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Freedomain - with Stefan Molyneux, MA](https://factionatlas.github.io/person/p_0da564a763/) — Exclusive home: Libertarians . Public profile: @StefanMolyneux on X.
 - [Frenjamin/Benemy](https://factionatlas.github.io/person/p_ca335bcf06/) — Exclusive home: Ex-left heterodox / free-speech centrists . Public profile: @BenjaminABoyce on X.
 - [Fritz Erbe](https://factionatlas.github.io/person/p_ae1523b87f/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Fritz Julius Kuhn](https://factionatlas.github.io/person/p_2776c2926e/) — Died 1951-12-14 (source). Historical faction: US National Socialist groups (1933–) .
+- [Fritz Julius Kuhn](https://factionatlas.github.io/person/p_2776c2926e/) — Died 1951-12-14 (source). Defunct faction: US National Socialist groups (1933–) .
 - [Fudd Busters](https://factionatlas.github.io/person/p_be411bc613/) — Hey there
 - [Fugitive Caesar](https://factionatlas.github.io/person/p_e6db665007/) — Exclusive home: Dissident Right . Public profile: @ThomBrady5 on X.
 - [furiyuri](https://factionatlas.github.io/person/p_4413bf4d01/) — libertarian
@@ -3022,7 +3022,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Gabriel Luna](https://factionatlas.github.io/person/p_1b5b7e35a0/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Gabriel Zucman](https://factionatlas.github.io/person/p_4f1c4d2d95/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Gabriella Hoffman](https://factionatlas.github.io/person/p_b7cedc6735/) — director, @cfact
-- [Gad Saad](https://factionatlas.github.io/person/p_69f2c332ed/) — Historical faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @GadSaad on X.
+- [Gad Saad](https://factionatlas.github.io/person/p_69f2c332ed/) — Defunct faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @GadSaad on X.
 - [Gail Lavielle](https://factionatlas.github.io/person/p_c9d82276b9/) — fellow, Yankee Institute source
 - [Gail Moffitt](https://factionatlas.github.io/person/p_f9ee625303/) — 2026 candidate for Washington Township Board, Washington, Carroll County, IN source
 - [Galaxy Digital](https://factionatlas.github.io/person/p_ba329435f2/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3032,7 +3032,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Gamer Meld](https://factionatlas.github.io/person/p_a06ac22c94/) — Exclusive home: Non-political . Public profile: @GamerMeld on X.
 - [Garand Thumb](https://factionatlas.github.io/person/p_429ae403e6/) — Idaho, USA
 - [Garbage Human](https://factionatlas.github.io/person/p_2cce93bd84/) — Perth, Western Australia
-- [Garet Garrett](https://factionatlas.github.io/person/p_d25462d167/) — Died 1954-11-06 (source). Historical faction: Old Right (1930s–1950s) .
+- [Garet Garrett](https://factionatlas.github.io/person/p_d25462d167/) — Died 1954-11-06 (source). Defunct faction: Old Right (1930s–1950s) .
 - [Garrett Bascom](https://factionatlas.github.io/person/p_ad16a67ca1/) — Indiana State Representative, IN-HD68, sitting source
 - [Garrett Watson](https://factionatlas.github.io/person/p_a9c3006582/) — vp, @TaxFoundation
 - [Garry Tan](https://factionatlas.github.io/person/p_e2877f2d92/) — president, @ycombinator
@@ -3041,7 +3041,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Gary J. Palmer](https://factionatlas.github.io/person/p_2a575e1b73/) — US House, AL-06, sitting source
 - [Gary Johnson](https://factionatlas.github.io/person/p_704b6a686e/) — Exclusive home: Libertarian Party strategy . Public profile: @GovGaryJohnson on X.
 - [Gary L Bauer](https://factionatlas.github.io/person/p_54d9477ad0/) — Washington, DC
-- [Gary North](https://factionatlas.github.io/person/p_bcf168d918/) — Historical faction: Christian Reconstructionism / theonomy (1960s–2000s) .
+- [Gary North](https://factionatlas.github.io/person/p_bcf168d918/) — Defunct faction: Christian Reconstructionism / theonomy (1960s–2000s) .
 - [GaS Digital Network](https://factionatlas.github.io/person/p_9469d1ef38/) — NYC | LA
 - [Gavin Ashenden](https://factionatlas.github.io/person/p_12b2844f30/) — Shropshire
 - [Gavin Baker](https://factionatlas.github.io/person/p_9ea8bc1ed9/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3074,14 +3074,14 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [George H. Pendleton](https://factionatlas.github.io/person/p_cbef59429a/) — Died 1889-11-24 (source). Historical faction: Copperheads / Peace Democrats (c. 1860–1868) .
 - [George Hamilton-Gordon, 4th Earl of Aberdeen](https://factionatlas.github.io/person/p_457b2657d6/) — Prime Minister (1852–1855), former (historical) source
 - [George Howard](https://factionatlas.github.io/person/p_6b169e42bc/) — Raleigh, NC
-- [George Lincoln Rockwell](https://factionatlas.github.io/person/p_fa808f3bd1/) — Died 1967-08-25 (source). Historical faction: US National Socialist groups (1933–) .
+- [George Lincoln Rockwell](https://factionatlas.github.io/person/p_fa808f3bd1/) — Died 1967-08-25 (source). Defunct faction: US National Socialist groups (1933–) .
 - [George Lucas](https://factionatlas.github.io/person/p_75bde796ed/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [George Mason](https://factionatlas.github.io/person/p_9621c04d40/) — Virginia House of Delegates; delegate to the Constitutional Convention, former (historical) source
 - [George Papadopoulos](https://factionatlas.github.io/person/p_87a878e280/) — co-host, @GlobalViewShow
 - [George S. Boutwell](https://factionatlas.github.io/person/p_37dbb8adf6/) — US Secretary of the Treasury; US Senator, former (historical) source
 - [George Soros](https://factionatlas.github.io/person/p_574e0f6ae7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [George The Giant Slayer](https://factionatlas.github.io/person/p_1a7a350373/) — maga
-- [George W. Bush](https://factionatlas.github.io/person/p_7d482b1811/) — Historical faction: Compassionate conservatism / Bush era (c. 1999–2009) .
+- [George W. Bush](https://factionatlas.github.io/person/p_7d482b1811/) — Defunct faction: Compassionate conservatism / Bush era (c. 1999–2009) .
 - [George W. Bush Presidential](https://factionatlas.github.io/person/p_5005584325/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [George W. Grayson](https://factionatlas.github.io/person/p_94aca13e5e/) — Died 2015-03-04 (source). Exclusive home: Center for Immigration Studies (CIS) .
 - [George W. Norris](https://factionatlas.github.io/person/p_d987af6702/) — US Senator, Nebraska, former (historical) source
@@ -3091,7 +3091,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [George Weigel](https://factionatlas.github.io/person/p_6cd1d03a22/) — Exclusive home: Ethics and Public Policy Center (EPPC) .
 - [George Wood Wingate](https://factionatlas.github.io/person/p_ed63645610/) — Died 1928 (source). Exclusive home: National Rifle Association (NRA / NRA-ILA) .
 - [Gerald Ford](https://factionatlas.github.io/person/p_699d371ad1/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Gerald L. K. Smith](https://factionatlas.github.io/person/p_ef6f4a479a/) — Died 1976-04-15 (source). Historical faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
+- [Gerald L. K. Smith](https://factionatlas.github.io/person/p_ef6f4a479a/) — Died 1976-04-15 (source). Defunct faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
 - [Gerald Morgan Jr](https://factionatlas.github.io/person/p_69ceff014e/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Gerald Nye](https://factionatlas.github.io/person/p_5295232274/) — US Senator, North Dakota, former (historical) source
 - [Germán S. Díaz del Castillo](https://factionatlas.github.io/person/p_4053d767cf/) — editor, @firstthingsmag
@@ -3159,7 +3159,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [greg](https://factionatlas.github.io/person/p_285a250119/) — Kentucky, USA
 - [Greg Abbot](https://factionatlas.github.io/person/p_60a2cf3af7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Greg Abbott](https://factionatlas.github.io/person/p_94fb31df0f/) — Governor of Texas; LOST re-election 2026-11-03 to Gina Hinojosa (D) and conceded; serves until Jan 2027, TX, sitting source
-- [Greg Bahnsen](https://factionatlas.github.io/person/p_a7f13f58f0/) — Died 1995-12-11 (source). Historical faction: Christian Reconstructionism / theonomy (1960s–2000s) .
+- [Greg Bahnsen](https://factionatlas.github.io/person/p_a7f13f58f0/) — Died 1995-12-11 (source). Defunct faction: Christian Reconstructionism / theonomy (1960s–2000s) .
 - [Greg Ballard](https://factionatlas.github.io/person/p_c38d7d1231/) — 2026 candidate for Secretary of State (did not win; unofficial results), IN source
 - [Greg Blankenship](https://factionatlas.github.io/person/p_6d3a2f93b9/) — founder, Illinois Policy Institute source
 - [Greg Brockman](https://factionatlas.github.io/person/p_a758d57c40/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3192,7 +3192,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Grover Norquist](https://factionatlas.github.io/person/p_3a6e0afbf7/) — Washington D.C
 - [Groyp Kris](https://factionatlas.github.io/person/p_8d14ce2250/) — Exclusive home: Groypers (Fuentes) . Public profile: @doorkn0b___ on X.
 - [Groyper Essentials](https://factionatlas.github.io/person/p_cbc430a2b7/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Guillaume Faye](https://factionatlas.github.io/person/p_1db16a6422/) — Died 2019-03-06 (source). Historical faction: European New Right / Traditionalism (1968–) .
+- [Guillaume Faye](https://factionatlas.github.io/person/p_1db16a6422/) — Died 2019-03-06 (source). Defunct faction: European New Right / Traditionalism (1968–) .
 - [Gummi](https://factionatlas.github.io/person/p_a583a483ac/) — conservative
 - [Gun Owners of America](https://factionatlas.github.io/person/p_b531b44244/) — Springfield, VA
 - [guns in openscad](https://factionatlas.github.io/person/p_dfe29367f7/) — Earth
@@ -3204,14 +3204,14 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Guy Reschenthaler](https://factionatlas.github.io/person/p_1f8ab9567e/) — US House, PA-14, sitting source
 - [Guy Swann](https://factionatlas.github.io/person/p_8dfc8a9ad6/) — host, @BitcoinAudible
 - [Gwen Mills](https://factionatlas.github.io/person/p_8b49c48f9c/) — Exclusive home: UNITE HERE . Public profile: @GwenMillsUH on X.
-- [H. L. Mencken](https://factionatlas.github.io/person/p_c7badc51ed/) — Died 1956-01-29 (source). Historical faction: Old Right (1930s–1950s) .
+- [H. L. Mencken](https://factionatlas.github.io/person/p_c7badc51ed/) — Died 1956-01-29 (source). Defunct faction: Old Right (1930s–1950s) .
 - [H. L. Richardson](https://factionatlas.github.io/person/p_38c45633ae/) — Died 2020-01-13 (source). Exclusive home: Gun Owners of America (GOA) .
 - [H. Morgan Griffith](https://factionatlas.github.io/person/p_dc35d441ba/) — US House, VA-09, sitting source
 - [H.R. McMaster](https://factionatlas.github.io/person/p_e90153258f/) — fellow, @HooverInst
 - [Hadley Heath Manning](https://factionatlas.github.io/person/p_72cf29157b/) — fellow, @IWF
 - [Hakeem Jeffries](https://factionatlas.github.io/person/p_dc10d38c7c/) — US House, NY-08, sitting source
 - [Hal Brands](https://factionatlas.github.io/person/p_3adfedb6bc/) — Bethesda, MD
-- [Hal Finney](https://factionatlas.github.io/person/p_d0e88c1326/) — Exclusive home: Libertarians .
+- [Hal Finney](https://factionatlas.github.io/person/p_d0e88c1326/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) .
 - [Hal Jordan](https://factionatlas.github.io/person/p_9cf671839a/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Hal Slager](https://factionatlas.github.io/person/p_05acff0eb6/) — Indiana State Representative, IN-HD15, sitting source
 - [Haley Stevens](https://factionatlas.github.io/person/p_081e8e227c/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3224,9 +3224,9 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Hardy Loubser](https://factionatlas.github.io/person/p_86208395b7/) — Exclusive home: Pagan right (heathen / folkish) . Public profile: @LoubserHardy on X.
 - [Harmeet Dillon](https://factionatlas.github.io/person/p_357850f89c/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Harmeet K. Dhillon](https://factionatlas.github.io/person/p_447844577c/) — Assistant Attorney General for Civil Rights (former), US, former source
-- [Harold Lindsell](https://factionatlas.github.io/person/p_924b29a0d3/) — Died 1998-01 (source). Historical faction: Neo-evangelicals (1942–c. 1976) .
+- [Harold Lindsell](https://factionatlas.github.io/person/p_924b29a0d3/) — Died 1998-01 (source). Defunct faction: Neo-evangelicals (1942–c. 1976) .
 - [Harold Myra](https://factionatlas.github.io/person/p_cc88f1e5dc/) — president and CEO of Christianity Today from 1975 source
-- [Harold Ockenga](https://factionatlas.github.io/person/p_97a6d21c2d/) — Died 1985-02-08 (source). Historical faction: Neo-evangelicals (1942–c. 1976) .
+- [Harold Ockenga](https://factionatlas.github.io/person/p_97a6d21c2d/) — Died 1985-02-08 (source). Defunct faction: Neo-evangelicals (1942–c. 1976) .
 - [Harold Rogers](https://factionatlas.github.io/person/p_4e2a049d99/) — US House, KY-05, sitting source
 - [Harper Polling](https://factionatlas.github.io/person/p_7cbb51eee2/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Harriet M. Hageman](https://factionatlas.github.io/person/p_eae174a05c/) — US House; US Senator-elect (WY), won 2026-11-03, WY-AL, sitting source
@@ -3255,7 +3255,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Helen Andrews](https://factionatlas.github.io/person/p_f8fe11ef16/) — Washington, DC
 - [Helen Jenner](https://factionatlas.github.io/person/p_a8aa99364c/) — Member of the Senedd; Leader Reform Wales, UK-Wales, sitting source
 - [Helen Pluckrose](https://factionatlas.github.io/person/p_34693996bb/) — Exclusive home: Ex-left heterodox / free-speech centrists . Public profile: @HPluckrose on X.
-- [Henry Adams](https://factionatlas.github.io/person/p_0855c4a56f/) — Died 1918-03-27 (source). Historical faction: Liberal Republicans and Mugwumps (1872–c. 1890s) .
+- [Henry Adams](https://factionatlas.github.io/person/p_0855c4a56f/) — Died 1918-03-27 (source). Defunct faction: Old liberalism (19th c.) .
 - [Henry Bibb](https://factionatlas.github.io/person/p_a2361d8c54/) — Died 1854-08-01 (source). Historical faction: Liberty Party (1840–1848) .
 - [Henry Cavill](https://factionatlas.github.io/person/p_e01bc937fa/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Henry Clay](https://factionatlas.github.io/person/p_204985a443/) — US Senator, Kentucky; Speaker of the House, former (historical) source
@@ -3271,7 +3271,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Herb Ford](https://factionatlas.github.io/person/p_bd2eddac62/) — deputy director and general counsel, Concerned Veterans for America source
 - [Herbert A. Stiefel](https://factionatlas.github.io/person/p_80d64c8ae9/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Herbert Hoover](https://factionatlas.github.io/person/p_c15b0bb14f/) — President of the United States (1929–1933), former (historical) source
-- [Herbert Spencer](https://factionatlas.github.io/person/p_43b86f0145/) — Died 1903-12-08 (source). Historical faction: Old liberalism (19th c.) .
+- [Herbert Spencer](https://factionatlas.github.io/person/p_43b86f0145/) — Died 1903-12-08 (source). Defunct faction: Old liberalism (19th c.) .
 - [Heritage Action](https://factionatlas.github.io/person/p_45738a0c68/) — Exclusive home: Heritage Action for America . Public profile: @Heritage_Action on X.
 - [Heritage Foundation](https://factionatlas.github.io/person/p_327e970a59/) — conservative
 - [Hermitcraft](https://factionatlas.github.io/person/p_a91be7cdec/) — Worldwide
@@ -3313,7 +3313,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Houston Gaines](https://factionatlas.github.io/person/p_48b4652502/) — US Representative-elect, GA-10, candidate source
 - [Howard Buffett](https://factionatlas.github.io/person/p_8884db9ed7/) — US Representative, Nebraska, former (historical) source
 - [Howard Lutnick](https://factionatlas.github.io/person/p_6f0e3c3eeb/) — US Secretary of Commerce, NY, sitting source
-- [Howard Phillips (politician)](https://factionatlas.github.io/person/p_dbc2bba970/) — Died 2013-04-20 (source). Historical faction: New Right (c. 1974–c. 1988) .
+- [Howard Phillips (politician)](https://factionatlas.github.io/person/p_dbc2bba970/) — Died 2013-04-20 (source). Defunct faction: New Right (c. 1974–c. 1988) .
 - [Howard Pyle](https://factionatlas.github.io/person/p_df14911b2b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Howard W. Smith](https://factionatlas.github.io/person/p_875f77e057/) — U.S. Representative from Virginia (1931–1967), former (historical) source
 - [Howell Scott](https://factionatlas.github.io/person/p_dd01023c2a/) — Exclusive home: Christian Conservatives . Public profile: @DHowellScott on X.
@@ -3333,7 +3333,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [I don't even know](https://factionatlas.github.io/person/p_76a1affa09/) — Exclusive home: Non-political . Public profile: @NihilismLs on X.
 - [I)ruid](https://factionatlas.github.io/person/p_49ab51821d/) — founder, @TrammellVC
 - [i/o](https://factionatlas.github.io/person/p_fbf8f60702/) — Exclusive home: National conservatives (NatCon) . Public profile: @avidseries on X.
-- [Iain Hamilton Grant](https://factionatlas.github.io/person/p_2ae22f0113/) — Historical faction: CCRU / accelerationism (c. 1995–c. 2003) .
+- [Iain Hamilton Grant](https://factionatlas.github.io/person/p_2ae22f0113/) — Defunct faction: CCRU / accelerationism (c. 1995–c. 2003) .
 - [Iain Murray](https://factionatlas.github.io/person/p_edeff19899/) — Washington, DC
 - [IAM Union](https://factionatlas.github.io/person/p_04c725ea84/) — Exclusive home: IAM Union (International Association of Machinists and Aerospace Workers) . Public profile: @IAM_Union on X.
 - [Ian Carroll](https://factionatlas.github.io/person/p_90e53370a6/) — Eyal Yakoby's mom's house
@@ -3409,12 +3409,12 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Iris Caldor](https://factionatlas.github.io/person/p_e70ad5e33e/) — Amaurot
 - [IRL Loading Screens](https://factionatlas.github.io/person/p_a7553d8607/) — Exclusive home: Non-political . Public profile: @IRLoadingScreen on X.
 - [Irving Convention](https://factionatlas.github.io/person/p_e0b170620b/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Irving Kristol](https://factionatlas.github.io/person/p_16aa86048d/) — Died 2009-09-18 (source). Historical faction: Coalition for a Democratic Majority (1972–c. 1980s) .
+- [Irving Kristol](https://factionatlas.github.io/person/p_16aa86048d/) — Died 2009-09-18 (source). Defunct faction: Coalition for a Democratic Majority (1972–c. 1980s) .
 - [Irving Texas](https://factionatlas.github.io/person/p_499d469bcc/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Irénée du Pont](https://factionatlas.github.io/person/p_f4ee8eaff8/) — Died 1963-12-19 (source). Historical faction: American Liberty League (1934–1940) .
+- [Irénée du Pont](https://factionatlas.github.io/person/p_f4ee8eaff8/) — Died 1963-12-19 (source). Defunct faction: American Liberty League (1934–1940) .
 - [Isaac Young](https://factionatlas.github.io/person/p_3cf8132e44/) — Trantor
 - [Isabel Brown](https://factionatlas.github.io/person/p_137c18ca3b/) — Washington, DC
-- [Isabel Paterson](https://factionatlas.github.io/person/p_e6529fac77/) — Died 1961-01-10 (source). Historical faction: Old Right (1930s–1950s) .
+- [Isabel Paterson](https://factionatlas.github.io/person/p_e6529fac77/) — Died 1961-01-10 (source). Defunct faction: Old Right (1930s–1950s) .
 - [Isabel Vaughan-Spruce](https://factionatlas.github.io/person/p_22579d4eb0/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [iSome Dogs have thumbs](https://factionatlas.github.io/person/p_3bf542164c/) — Exclusive home: Non-political . Public profile: @MorlockP on X.
 - [Israel Defense Forces](https://factionatlas.github.io/person/p_2e10c473c6/) — Israel
@@ -3429,9 +3429,9 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [J](https://factionatlas.github.io/person/p_ee9571fa5f/) — patriot
 - [J. Chase Davis](https://factionatlas.github.io/person/p_c9dd5d01d1/) — pastor, @boulderwell
 - [J. D. Prescott](https://factionatlas.github.io/person/p_662f722663/) — Indiana State Representative, IN-HD33, sitting source
-- [J. Elwin Wright](https://factionatlas.github.io/person/p_762f4afe57/) — Historical faction: Neo-evangelicals (1942–c. 1976) .
+- [J. Elwin Wright](https://factionatlas.github.io/person/p_762f4afe57/) — Defunct faction: Neo-evangelicals (1942–c. 1976) .
 - [J. French Hill](https://factionatlas.github.io/person/p_8d3b258ea9/) — US House, AR-02, sitting source
-- [J. Gresham Machen](https://factionatlas.github.io/person/p_3020fe990f/) — Died 1937-01-01 (source). Historical faction: Fundamentalist movement (c. 1910–c. 1950) .
+- [J. Gresham Machen](https://factionatlas.github.io/person/p_3020fe990f/) — Died 1937-01-01 (source). Defunct faction: Fundamentalist movement (c. 1910–c. 1950) .
 - [J. Michael Smith](https://factionatlas.github.io/person/p_01c3bb9ffb/) — co-founder, HSLDA source
 - [J.D. Greear](https://factionatlas.github.io/person/p_f2b87e73bd/) — pastor, @SummitRDU
 - [J.E](https://factionatlas.github.io/person/p_ccac318a52/) — Hermosa Beach, CA
@@ -3482,7 +3482,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [James Blair](https://factionatlas.github.io/person/p_029e05f726/) — Washington, DC
 - [James Bopp](https://factionatlas.github.io/person/p_a26537c95b/) — general counsel, National Right to Life Committee source
 - [James Buchanan](https://factionatlas.github.io/person/p_5200c10fb3/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [James Burnham](https://factionatlas.github.io/person/p_24e8501b15/) — Died 1987-07-28 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
+- [James Burnham](https://factionatlas.github.io/person/p_24e8501b15/) — Died 1987-07-28 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
 - [James C. Justice](https://factionatlas.github.io/person/p_ce0224ac59/) — US Senate, WV, sitting source
 - [James C. Moylan](https://factionatlas.github.io/person/p_cc37ba64fb/) — US House (delegate), GU-AL, sitting source
 - [James Cartlidge](https://factionatlas.github.io/person/p_1a60cee45a/) — MP; Shadow Secretary of State for Defence, sitting source
@@ -3493,10 +3493,10 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [James Corbett](https://factionatlas.github.io/person/p_e05eaafbeb/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [James Dale Davidson](https://factionatlas.github.io/person/p_4ce70701bf/) — founder, National Taxpayers Union source
 - [James Delingpole](https://factionatlas.github.io/person/p_38a69261cd/) — Exclusive home: UK & European right . Public profile: @JMCDelingpole on X.
-- [James Dobson](https://factionatlas.github.io/person/p_0c12d9114c/) — Died 2025-08-21 (source). Historical faction: Religious right / Moral Majority era (1979–2000s) .
+- [James Dobson](https://factionatlas.github.io/person/p_0c12d9114c/) — Died 2025-08-21 (source). Defunct faction: Religious right / Moral Majority era (1979–2000s) .
 - [James E. Clyburn](https://factionatlas.github.io/person/p_153d209885/) — US House, SC-06, sitting source
 - [James E. Risch](https://factionatlas.github.io/person/p_c3f55a524d/) — US Senate; re-elected 2026-11-03, ID, sitting source
-- [James Eastland](https://factionatlas.github.io/person/p_257f44ecd5/) — Died 1986-02-19 (source). Historical faction: Dixiecrats / States' Rights Democratic Party (1948) .
+- [James Eastland](https://factionatlas.github.io/person/p_257f44ecd5/) — Died 1986-02-19 (source). Defunct faction: Dixiecrats / States' Rights Democratic Party (1948) .
 - [James Fishback](https://factionatlas.github.io/person/p_e6721ba80f/) — Exclusive home: Groypers (Fuentes) . Public profile: @jamesfishback on X.
 - [James Fox](https://factionatlas.github.io/person/p_ec6ec61e37/) — Exclusive home: Non-political . Public profile: @jamescfox on X.
 - [James Franco](https://factionatlas.github.io/person/p_3ebc1a8402/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3512,7 +3512,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [James M. Patterson](https://factionatlas.github.io/person/p_919653b719/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [James Madison](https://factionatlas.github.io/person/p_f9831776a4/) — President of the United States (1809–1817), former (historical) source
 - [James Martin](https://factionatlas.github.io/person/p_f9b4ea71bc/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [James Mill](https://factionatlas.github.io/person/p_47f3c53bc8/) — Died 1836-06-23 (source). Historical faction: Philosophical Radicals (c. 1820s–1840s) .
+- [James Mill](https://factionatlas.github.io/person/p_47f3c53bc8/) — Died 1836-06-23 (source). Defunct faction: Old liberalism (19th c.) .
 - [James Monroe](https://factionatlas.github.io/person/p_adda87a780/) — Died 1831-07-04 (source). Historical faction: Democratic-Republican Party (1792–c. 1825) .
 - [James Morrone](https://factionatlas.github.io/person/p_79b8bb1614/) — Exclusive home: Americans for Prosperity (AFP) / AFP Action . Public profile: @James_morrone on X.
 - [James O'Keefe](https://factionatlas.github.io/person/p_1a449aaa72/) — founder and CEO (launched March 15, 2023), O'Keefe Media Group
@@ -3540,7 +3540,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Jamie Rough](https://factionatlas.github.io/person/p_bc9ce0773f/) — Jefferson Township, Trustee, Carroll County, IN, sitting source
 - [Jamieson Greer](https://factionatlas.github.io/person/p_583ed018a9/) — U.S. Trade Representative, US, sitting source
 - [Janai S. Nelson](https://factionatlas.github.io/person/p_2f05565720/) — Exclusive home: Legal Defense Fund (LDF, NAACP Legal Defense and Educational Fund) .
-- [Jane Addams](https://factionatlas.github.io/person/p_9163f80c26/) — Died 1935-05-22 (source). Historical faction: Progressive (Bull Moose) Party (1912–1920) .
+- [Jane Addams](https://factionatlas.github.io/person/p_9163f80c26/) — Died 1935-05-22 (source). Defunct faction: Progressive (Bull Moose) Party (1912–1920) .
 - [Jane Doe](https://factionatlas.github.io/person/p_ce2ff7d2f6/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Jane L. Rehwinkel](https://factionatlas.github.io/person/p_def3804784/) — 2026 candidate for Jefferson Township Board, Jefferson, Carroll County, IN source
 - [Janet Gorbitz](https://factionatlas.github.io/person/p_56e66c25b0/) — Exclusive home: Brownstone Institute .
@@ -3602,7 +3602,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [JD Vance](https://factionatlas.github.io/person/p_c3770138ca/) — Vice President, US, sitting source
 - [Jean Leising](https://factionatlas.github.io/person/p_6da880085d/) — Indiana State Senator, IN-SD42, sitting source
 - [Jean Raspail](https://factionatlas.github.io/person/p_714653894c/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Jean-Claude Valla](https://factionatlas.github.io/person/p_7823e4bcbd/) — Died 2010-02-25 (source). Historical faction: European New Right / Traditionalism (1968–) .
+- [Jean-Claude Valla](https://factionatlas.github.io/person/p_7823e4bcbd/) — Died 2010-02-25 (source). Defunct faction: European New Right / Traditionalism (1968–) .
 - [Jeane Kirkpatrick](https://factionatlas.github.io/person/p_b88510531b/) — US Ambassador to the United Nations (1981–1985), former (historical) source
 - [Jeanette Marie](https://factionatlas.github.io/person/p_42b940debf/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Jeanette Nuñez](https://factionatlas.github.io/person/p_91f57129e9/) — Lieutenant Governor of Florida (former), FL, former source
@@ -3673,7 +3673,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Jentezen Franklin](https://factionatlas.github.io/person/p_5c3b053bdc/) — pastor, @freechapel
 - [Jeremiah.exe](https://factionatlas.github.io/person/p_d9c622d87d/) — Exclusive home: Non-political . Public profile: @JeremiahEXE on X.
 - [Jeremy Beck](https://factionatlas.github.io/person/p_a8bfed8b64/) — co-president, NumbersUSA source
-- [Jeremy Bentham](https://factionatlas.github.io/person/p_c755922657/) — Died 1832-06-06 (source). Historical faction: Philosophical Radicals (c. 1820s–1840s) .
+- [Jeremy Bentham](https://factionatlas.github.io/person/p_c755922657/) — Died 1832-06-06 (source). Defunct faction: Old liberalism (19th c.) .
 - [Jeremy Boreing](https://factionatlas.github.io/person/p_a66f6eed8c/) — co-founder, @realDailyWire
 - [Jeremy C. Hunt](https://factionatlas.github.io/person/p_a4915ee6cf/) — fellow, @HudsonInstitute
 - [Jeremy Carl](https://factionatlas.github.io/person/p_3a8d096021/) — fellow, @claremontinst
@@ -3690,10 +3690,10 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Jerry Bowyer](https://factionatlas.github.io/person/p_201e35c5df/) — contributor, @wngdotorg
 - [Jerry Carl](https://factionatlas.github.io/person/p_4f0ee567d5/) — US Representative-elect, AL-01, candidate source
 - [Jerry Dorris](https://factionatlas.github.io/person/p_e1f296f47d/) — Shelbyville, KY
-- [Jerry Falwell Sr.](https://factionatlas.github.io/person/p_0d923f6475/) — Died 2007-05-15 (source). Historical faction: Religious right / Moral Majority era (1979–2000s) .
+- [Jerry Falwell Sr.](https://factionatlas.github.io/person/p_0d923f6475/) — Died 2007-05-15 (source). Defunct faction: Religious right / Moral Majority era (1979–2000s) .
 - [Jerry Frey](https://factionatlas.github.io/person/p_0997242942/) — Clay Township Board, Member, Carroll County, IN, sitting source
 - [Jerry Moran](https://factionatlas.github.io/person/p_e88dabf524/) — US Senate, KS, sitting source
-- [Jerry Simpson](https://factionatlas.github.io/person/p_c97811b9e8/) — Died 1905-10-23 (source). Historical faction: People's Party / Populists (1892–1909) .
+- [Jerry Simpson](https://factionatlas.github.io/person/p_c97811b9e8/) — Died 1905-10-23 (source). Defunct faction: People's Party / Populists (1892–1909) .
 - [Jerry Sparks](https://factionatlas.github.io/person/p_2d703e21f0/) — Liberty Township Board, Member, Carroll County, IN, sitting source
 - [Jerry Springer](https://factionatlas.github.io/person/p_82be7b1a55/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Jess Smith](https://factionatlas.github.io/person/p_61a12a0bd7/) — Exclusive home: Center for American Progress (CAP) .
@@ -3754,14 +3754,14 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Jim Tressel](https://factionatlas.github.io/person/p_4341e37dff/) — Lieutenant Governor of OH, OH, sitting source
 - [Jim Watkins](https://factionatlas.github.io/person/p_b7919b6f16/) — owner of the image board where Q posted source
 - [Jimmy Corsetti](https://factionatlas.github.io/person/p_1f2ebb922d/) — Arizona ️
-- [Jimmy Dore](https://factionatlas.github.io/person/p_8662b8015f/) — Historical faction: Health-freedom / vaccine-skeptic left (RFK Jr. lineage, c. 2007–2024) . Public profile: @jimmy_dore on X.
+- [Jimmy Dore](https://factionatlas.github.io/person/p_8662b8015f/) — Defunct faction: Health-freedom / vaccine-skeptic left (RFK Jr. lineage, c. 2007–2024) . Public profile: @jimmy_dore on X.
 - [Jimmy Gomez](https://factionatlas.github.io/person/p_b05b2b4432/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Jimmy Lai](https://factionatlas.github.io/person/p_8fea5fde99/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Jimmy Parker](https://factionatlas.github.io/person/p_31da0ffa68/) — Exclusive home: Christian Nationalists . Public profile: @JimmyParker87 on X.
 - [Jimmy Patronis](https://factionatlas.github.io/person/p_058fc836b3/) — US House, FL-01, sitting source
 - [Jimmy Stewart](https://factionatlas.github.io/person/p_72de546586/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Joan Barone Award](https://factionatlas.github.io/person/p_4b35956679/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Joan Carter](https://factionatlas.github.io/person/p_ec4107d7e5/) — Historical faction: FreedomWorks (2004–2024) .
+- [Joan Carter](https://factionatlas.github.io/person/p_ec4107d7e5/) — Defunct faction: FreedomWorks (2004–2024) .
 - [Joanna King](https://factionatlas.github.io/person/p_6682f0115f/) — Indiana State Representative, IN-HD49, sitting source
 - [Joanna Mendoza](https://factionatlas.github.io/person/p_ce8ed9db19/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Joaquin Castro](https://factionatlas.github.io/person/p_75693f56f8/) — US House, TX-20, sitting source
@@ -3833,7 +3833,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [John Connor](https://factionatlas.github.io/person/p_6b40e7fbfe/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [John Cornyn](https://factionatlas.github.io/person/p_8a333ea9a4/) — US Senate, TX, sitting source
 - [John Cowan](https://factionatlas.github.io/person/p_17e9836f60/) — US Representative-elect, GA-11, candidate source
-- [John Crowe Ransom](https://factionatlas.github.io/person/p_c0560efcb1/) — Died 1974-07-03 (source). Historical faction: Southern Agrarians (1930–c. 1940s) .
+- [John Crowe Ransom](https://factionatlas.github.io/person/p_c0560efcb1/) — Died 1974-07-03 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
 - [John Curtis](https://factionatlas.github.io/person/p_7d7f785ee6/) — US Senator, UT, sitting source
 - [John Denmark](https://factionatlas.github.io/person/p_f0bb1a8242/) — 2026 candidate for Burlington Township Trustee, Burlington (did not win; unofficial results), Carroll County, IN source
 - [John Doyle](https://factionatlas.github.io/person/p_288e0f15f5/) — Patriot @theblaze
@@ -3851,7 +3851,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [John G. Schmitz](https://factionatlas.github.io/person/p_b294acde10/) — U.S. Representative from California (1970–1973), former (historical) source
 - [John G. West](https://factionatlas.github.io/person/p_b380c6c195/) — vice president and senior fellow, Discovery Institute source
 - [John Gill](https://factionatlas.github.io/person/p_c6b266eb50/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [John Gilmore](https://factionatlas.github.io/person/p_81715570a7/) — Exclusive home: Libertarians .
+- [John Gilmore](https://factionatlas.github.io/person/p_81715570a7/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) .
 - [John Gray](https://factionatlas.github.io/person/p_d41e49d2c0/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [John H. Rutherford](https://factionatlas.github.io/person/p_a7016344b3/) — US House, FL-05, sitting source
 - [John Hardie](https://factionatlas.github.io/person/p_53218ad76f/) — director, @FDD
@@ -3861,7 +3861,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [John J. Crittenden](https://factionatlas.github.io/person/p_b9dc5fdc75/) — US Senator, Kentucky; US Attorney General, former (historical) source
 - [John J. McGuire III](https://factionatlas.github.io/person/p_ab937445ac/) — US House, VA-05, sitting source
 - [John J. Miller](https://factionatlas.github.io/person/p_c86114f0dd/) — Hillsdale, Mich
-- [John Jakob Raskob](https://factionatlas.github.io/person/p_9f8fbee62f/) — Died 1950-10-15 (source). Historical faction: American Liberty League (1934–1940) .
+- [John Jakob Raskob](https://factionatlas.github.io/person/p_9f8fbee62f/) — Died 1950-10-15 (source). Defunct faction: American Liberty League (1934–1940) .
 - [John James](https://factionatlas.github.io/person/p_4e8a16ffce/) — US House, MI-10, sitting source
 - [John Jay](https://factionatlas.github.io/person/p_76709a8af3/) — Chief Justice of the United States (1789–1795), former (historical) source
 - [John Joyce](https://factionatlas.github.io/person/p_ee47122198/) — US House; re-elected 2026-11-03, PA-13, sitting source
@@ -3871,8 +3871,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [John Kiriakou](https://factionatlas.github.io/person/p_10b36a7981/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [John Knox](https://factionatlas.github.io/person/p_a437c5c57f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [John Lewis](https://factionatlas.github.io/person/p_e3a2ea829b/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [John Lindsay](https://factionatlas.github.io/person/p_e8f10224e7/) — Died 2000-12-19 (source). Historical faction: Rockefeller Republicans (c. 1940–c. 1976) .
-- [John Locke](https://factionatlas.github.io/person/p_d51262c163/) — Died 1704-10-28 (source). Historical faction: Old liberalism (19th c.) .
+- [John Lindsay](https://factionatlas.github.io/person/p_e8f10224e7/) — Died 2000-12-19 (source). Defunct faction: Rockefeller Republicans (c. 1940–c. 1976) .
+- [John Locke](https://factionatlas.github.io/person/p_d51262c163/) — Died 1704-10-28 (source). Defunct faction: Old liberalism (19th c.) .
 - [John Locke Foundation](https://factionatlas.github.io/person/p_dc1d3d9f17/) — North Carolina
 - [John M. Ashbrook](https://factionatlas.github.io/person/p_c30decc5e1/) — US Representative, Ohio, former (historical) source
 - [John M. Groen](https://factionatlas.github.io/person/p_356228d8aa/) — Exclusive home: Pacific Legal Foundation (PLF) .
@@ -3890,7 +3890,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [John McGlone](https://factionatlas.github.io/person/p_f333ffc926/) — Virginia
 - [John McGuire](https://factionatlas.github.io/person/p_ea765d810f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [John McLaughlin](https://factionatlas.github.io/person/p_b0b1ef5ecc/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [John McWhorter](https://factionatlas.github.io/person/p_01ebf3fb21/) — Historical faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @JohnHMcWhorter on X.
+- [John McWhorter](https://factionatlas.github.io/person/p_01ebf3fb21/) — Defunct faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @JohnHMcWhorter on X.
 - [John Michael Beale](https://factionatlas.github.io/person/p_8640fd21b7/) — Carroll County Council, District 4, Carroll County, IN, sitting source
 - [John Mize](https://factionatlas.github.io/person/p_be45a5955a/) — Exclusive home: Americans United for Life (AUL) . Public profile: @johnmize_ on X.
 - [John P. Hale](https://factionatlas.github.io/person/p_b8e5a4e728/) — Died 1873-11-19 (source). Historical faction: Free Soil Party (1848–1854) .
@@ -3920,7 +3920,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [John Stossel](https://factionatlas.github.io/person/p_ae0f64bdb9/) — New York, NY
 - [John Strand](https://factionatlas.github.io/person/p_1dfc6329b5/) — Naples, FL
 - [John Stuart Mill](https://factionatlas.github.io/person/p_27287edd03/) — MP for Westminster (1865–1868), former (historical) source
-- [John T. Flynn](https://factionatlas.github.io/person/p_d76439ff64/) — Died 1964-04-13 (source). Historical faction: America First Committee (1940–1941) .
+- [John T. Flynn](https://factionatlas.github.io/person/p_d76439ff64/) — Died 1964-04-13 (source). Defunct faction: America First Committee (1940–1941) .
 - [John Tamny](https://factionatlas.github.io/person/p_438c5504d4/) — president, @parkviewinst
 - [John Tanton](https://factionatlas.github.io/person/p_6e66d98c9a/) — Died 2019-07-16 (source). Exclusive home: Federation for American Immigration Reform (FAIR) .
 - [John Taylor of Caroline](https://factionatlas.github.io/person/p_0b3ac93f0b/) — US Senator, Virginia, former (historical) source
@@ -4007,7 +4007,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Joseph Sansone](https://factionatlas.github.io/person/p_3bfec010b3/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Joseph Seagrave](https://factionatlas.github.io/person/p_c292d46c79/) — Rock Creek Township Board, Member, Carroll County, IN, sitting source
 - [Joseph Smith](https://factionatlas.github.io/person/p_9568bb1839/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Joseph Sobran](https://factionatlas.github.io/person/p_7192528033/) — Died 2010-09-30 (source). Historical faction: Paleoconservatives (1980s–2000s) .
+- [Joseph Sobran](https://factionatlas.github.io/person/p_7192528033/) — Died 2010-09-30 (source). Defunct faction: Paleoconservatives (1980s–2000s) .
 - [Joseph Spurgeon](https://factionatlas.github.io/person/p_5c81b85a48/) — Exclusive home: Christian Nationalists . Public profile: @Joseph_Spurgeon on X.
 - [Joseph Strickland](https://factionatlas.github.io/person/p_39148ac182/) — Exclusive home: Christian Conservatives .
 - [Joseph Wanderlust](https://factionatlas.github.io/person/p_078c032925/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -4016,7 +4016,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Josh Blackman](https://factionatlas.github.io/person/p_96f8c87a14/) — chair, @STCL_Houston
 - [Josh Block](https://factionatlas.github.io/person/p_5c6ad62aa4/) — Exclusive home: Neoconservative / hawkish establishment . Public profile: @JoshBlockDC on X.
 - [Josh Brecheen](https://factionatlas.github.io/person/p_9f3d48db04/) — US House, OK-02, sitting source
-- [Josh Buice](https://factionatlas.github.io/person/p_3ecada0a80/) — Exclusive home: Christian Conservatives .
+- [Josh Buice](https://factionatlas.github.io/person/p_3ecada0a80/) — Defunct faction: G3 Ministries (2019–2026) .
 - [Josh Crawford](https://factionatlas.github.io/person/p_7d652e1d85/) — staff (listed on the Pelican Institute staff page) source
 - [Josh Daws](https://factionatlas.github.io/person/p_73bf4ae30d/) — vp, @theblaze
 - [Josh Ferme](https://factionatlas.github.io/person/p_ed6a5e2eab/) — fellow, @RestoreBritain
@@ -4274,7 +4274,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Knight's Path](https://factionatlas.github.io/person/p_8ba5422043/) — Exclusive home: Non-political . Public profile: @Knights_Path on X.
 - [Knights Watch](https://factionatlas.github.io/person/p_f717de311a/) — Exclusive home: Non-political . Public profile: @StayOnWatch on X.
 - [Knux Dawgg-AMERICA FIRST](https://factionatlas.github.io/person/p_fdbfc66846/) — maga
-- [Kodwo Eshun](https://factionatlas.github.io/person/p_8ec64db703/) — Historical faction: CCRU / accelerationism (c. 1995–c. 2003) .
+- [Kodwo Eshun](https://factionatlas.github.io/person/p_8ec64db703/) — Defunct faction: CCRU / accelerationism (c. 1995–c. 2003) .
 - [Konstantin Kisin](https://factionatlas.github.io/person/p_15f54ec74b/) — London, England
 - [Kori Schake kschake.bsky.social](https://factionatlas.github.io/person/p_bf94a8c563/) — director, @AEI
 - [Kostas Moros](https://factionatlas.github.io/person/p_d0a123c522/) — Exclusive home: Second Amendment Foundation (SAF) . Public profile: @MorosKostas on X.
@@ -4306,7 +4306,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Kyle Walker](https://factionatlas.github.io/person/p_1312828c37/) — Indiana State Senator, IN-SD31, former source
 - [Kylie Jane Kremer](https://factionatlas.github.io/person/p_dd8eea23b8/) — america first
 - [L y s a n d e r](https://factionatlas.github.io/person/p_ca87027159/) — USA
-- [L. Brent Bozell Jr.](https://factionatlas.github.io/person/p_92fd717099/) — Died 1997-04-15 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
+- [L. Brent Bozell Jr.](https://factionatlas.github.io/person/p_92fd717099/) — Died 1997-04-15 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
 - [LaDonna Mack](https://factionatlas.github.io/person/p_8472517d48/) — San Antonio, TX
 - [Lady C](https://factionatlas.github.io/person/p_da8e4b670a/) — america first
 - [Lady Patriot](https://factionatlas.github.io/person/p_aa617e30fe/) — conservative, zionist
@@ -4375,7 +4375,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Leah Files](https://factionatlas.github.io/person/p_0bfc59e6f5/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @leahfiles on X.
 - [Leah Greenberg](https://factionatlas.github.io/person/p_5bf140984f/) — Exclusive home: Indivisible . Public profile: @Leahgreenb on X.
 - [Leah Vukmir](https://factionatlas.github.io/person/p_c9ca069638/) — vice president of state affairs, NTU source
-- [Leander Perez](https://factionatlas.github.io/person/p_ad42fde7b1/) — Died 1969-03-19 (source). Historical faction: Dixiecrats / States' Rights Democratic Party (1948) .
+- [Leander Perez](https://factionatlas.github.io/person/p_ad42fde7b1/) — Died 1969-03-19 (source). Defunct faction: Dixiecrats / States' Rights Democratic Party (1948) .
 - [Leathermint](https://factionatlas.github.io/person/p_230688eb13/) — Exclusive home: Non-political . Public profile: @TheLeatherMint on X.
 - [Lee (Greater)](https://factionatlas.github.io/person/p_0b55e3626f/) — Martha’s Vineyard
 - [Lee Haight](https://factionatlas.github.io/person/p_22ff9c6170/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -4401,7 +4401,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Leor Sapir](https://factionatlas.github.io/person/p_233813ebcf/) — fellow, @ManhattanInst
 - [Leslie Frane](https://factionatlas.github.io/person/p_067887db51/) — Exclusive home: Service Employees International Union (SEIU) .
 - [Leslie Rutledge](https://factionatlas.github.io/person/p_4c54e730e4/) — Lieutenant Governor of AR, AR, sitting source
-- [Lester Maddox](https://factionatlas.github.io/person/p_a47d418f57/) — Died 2003-06-25 (source). Historical faction: American Independent Party, Wallace era (1967–1976) .
+- [Lester Maddox](https://factionatlas.github.io/person/p_a47d418f57/) — Died 2003-06-25 (source). Defunct faction: American Independent Party, Wallace era (1967–1976) .
 - [Levi Strauss](https://factionatlas.github.io/person/p_041dc65a40/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Lew Rockwell](https://factionatlas.github.io/person/p_7c76007340/) — Auburn, Alabama
 - [Lewis Charles Levin](https://factionatlas.github.io/person/p_0649040c2e/) — US Representative, Pennsylvania (1845–1851), former (historical) source
@@ -4441,7 +4441,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Lilly Gaddis](https://factionatlas.github.io/person/p_a509f423b7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Lilly Rossi](https://factionatlas.github.io/person/p_46b4e3248c/) — policy analyst, Illinois Policy Institute (article byline) source
 - [Lily Tang Williams](https://factionatlas.github.io/person/p_d1976ea484/) — New Hampshire, USA
-- [Lin Wood](https://factionatlas.github.io/person/p_232deaeb84/) — Historical faction: QAnon movement (2017–c. 2021) . Public profile: @LLinWood on X.
+- [Lin Wood](https://factionatlas.github.io/person/p_232deaeb84/) — Defunct faction: QAnon movement (2017–c. 2021) . Public profile: @LLinWood on X.
 - [Lincoln Memorial](https://factionatlas.github.io/person/p_e379d37d1d/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Linda Chavez](https://factionatlas.github.io/person/p_f6699674a1/) — conservative
 - [Linda Heinzelman](https://factionatlas.github.io/person/p_2e54bfed05/) — Burlington Township Board, Member, Carroll County, IN, sitting source
@@ -4534,9 +4534,9 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Lynn Fitch](https://factionatlas.github.io/person/p_e9dab4d898/) — Attorney General of MS, MS, sitting source
 - [Lysander Boomer](https://factionatlas.github.io/person/p_b26a4880e1/) — Exclusive home: Libertarians . Public profile: @LysanderBoomer on X.
 - [Lysander Spooner](https://factionatlas.github.io/person/p_bcfe3158f3/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [M. E. Bradford](https://factionatlas.github.io/person/p_c4a4ce27eb/) — Historical faction: Paleoconservatives (1980s–2000s) .
+- [M. E. Bradford](https://factionatlas.github.io/person/p_c4a4ce27eb/) — Defunct faction: Paleoconservatives (1980s–2000s) .
 - [M. S. Vendrillo & Co. LLC](https://factionatlas.github.io/person/p_130af7b54a/) — Newington, CT
-- [M. Stanton Evans](https://factionatlas.github.io/person/p_69fda96a93/) — Died 2015-03-03 (source). Historical faction: Goldwater movement (1960–1964) .
+- [M. Stanton Evans](https://factionatlas.github.io/person/p_69fda96a93/) — Died 2015-03-03 (source). Defunct faction: Goldwater movement (1960–1964) .
 - [Ma Ri a](https://factionatlas.github.io/person/p_3b70f75c1e/) — Orange County, Ca
 - [Maajid Nawaz](https://factionatlas.github.io/person/p_49abfbf81c/) — London
 - [Maarek](https://factionatlas.github.io/person/p_7554917c13/) — Virginia, USA
@@ -4615,7 +4615,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mark Dubowitz](https://factionatlas.github.io/person/p_d839ea1549/) — ceo, @FDD
 - [Mark E. Amodei](https://factionatlas.github.io/person/p_7e1fddfdfb/) — US House, NV-02, sitting source
 - [Mark Elworth Jr.](https://factionatlas.github.io/person/p_18c4bd0fbc/) — libertarian
-- [Mark Fisher](https://factionatlas.github.io/person/p_f319890ad3/) — Historical faction: CCRU / accelerationism (c. 1995–c. 2003) .
+- [Mark Fisher](https://factionatlas.github.io/person/p_f319890ad3/) — Defunct faction: CCRU / accelerationism (c. 1995–c. 2003) .
 - [Mark Galli](https://factionatlas.github.io/person/p_4204c44bb5/) — editor in chief of Christianity Today 2015–2020 source
 - [Mark Genda](https://factionatlas.github.io/person/p_7d8cc71f08/) — Indiana State Representative, IN-HD41, sitting source
 - [Mark Gordon](https://factionatlas.github.io/person/p_6b96a6b349/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -4652,7 +4652,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mark Teixeira](https://factionatlas.github.io/person/p_6e5abb38ed/) — US Representative-elect, TX-21, candidate source
 - [Mark Thornton](https://factionatlas.github.io/person/p_d26a604393/) — Auburn, AL
 - [Mark Toner](https://factionatlas.github.io/person/p_68f4b61e9a/) — Exclusive home: Center for American Progress (CAP) .
-- [Mark Twain](https://factionatlas.github.io/person/p_cdffbc7fc9/) — Died 1910-04-21 (source). Historical faction: American Anti-Imperialist League (1898–1920) .
+- [Mark Twain](https://factionatlas.github.io/person/p_cdffbc7fc9/) — Died 1910-04-21 (source). Defunct faction: American Anti-Imperialist League (1898–1920) .
 - [Mark Vargas](https://factionatlas.github.io/person/p_f255815c78/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Mark Vroegop](https://factionatlas.github.io/person/p_4b45d298fe/) — Exclusive home: The Gospel Coalition (TGC) .
 - [Mark Walsh](https://factionatlas.github.io/person/p_2c6ee417e2/) — director of operations, Empire Center source
@@ -4683,7 +4683,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mary Ann Blue](https://factionatlas.github.io/person/p_998974ced1/) — 2026 candidate for Monroe Township Board, Monroe Twp (did not win; unofficial results), Carroll County, IN source
 - [Mary E. Miller](https://factionatlas.github.io/person/p_8e5144c63f/) — US House, IL-15, sitting source
 - [Mary Eberstadt](https://factionatlas.github.io/person/p_2d687381be/) — Exclusive home: Natural-law conservatives .
-- [Mary Elizabeth Lease](https://factionatlas.github.io/person/p_6631529850/) — Died 1933-10-29 (source). Historical faction: People's Party / Populists (1892–1909) .
+- [Mary Elizabeth Lease](https://factionatlas.github.io/person/p_6631529850/) — Died 1933-10-29 (source). Defunct faction: People's Party / Populists (1892–1909) .
 - [Mary Harrington](https://factionatlas.github.io/person/p_a6eca46267/) — Exclusive home: Hard Right intellectuals (BAP / Yarvin / vitalists) . Public profile: @moveincircles on X.
 - [Mary Holland](https://factionatlas.github.io/person/p_5f3dc9f07f/) — Exclusive home: Children's Health Defense (CHD) .
 - [Mary Katharine Ham](https://factionatlas.github.io/person/p_327bc33a5d/) — Washington, D.C
@@ -4872,7 +4872,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Michael Wampold](https://factionatlas.github.io/person/p_d158edda49/) — Exclusive home: Mexican American Legal Defense and Educational Fund (MALDEF) .
 - [Michael Watson](https://factionatlas.github.io/person/p_4cb0ee0b64/) — Secretary of State of MS, MS, sitting source
 - [Michael Whatley](https://factionatlas.github.io/person/p_c4d24ac231/) — Candidate for US Senate (former RNC chair); LOST the 2026-11-03 North Carolina US Senate race to Roy Cooper (D), per NBC News projection, NC, former source
-- [Michele Bachmann](https://factionatlas.github.io/person/p_884680f56b/) — Historical faction: Tea Party movement (2009–c. 2016) . Public profile: @MicheleBachmann on X.
+- [Michele Bachmann](https://factionatlas.github.io/person/p_884680f56b/) — Defunct faction: Tea Party movement (2009–c. 2016) . Public profile: @MicheleBachmann on X.
 - [Michele Henry](https://factionatlas.github.io/person/p_68257fd3e1/) — Indiana State Representative, IN-HD72, sitting source
 - [Michele Morrow](https://factionatlas.github.io/person/p_2745f1be59/) — North Carolina
 - [Michele Tafoya](https://factionatlas.github.io/person/p_ab0bc33f74/) — US Senate candidate; LOST the 2026-11-03 Minnesota US Senate race to Peggy Flanagan (D), MN, former source
@@ -4889,7 +4889,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Michigan Senator](https://factionatlas.github.io/person/p_5fc0c9a4b7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Micro Seed.io](https://factionatlas.github.io/person/p_a895d141a7/) — Albuquerque, NM
 - [Middle East Forum](https://factionatlas.github.io/person/p_469d1b68c3/) — Philadelphia
-- [Midge Decter](https://factionatlas.github.io/person/p_8a452fff21/) — Died 2022-05-09 (source). Historical faction: Coalition for a Democratic Majority (1972–c. 1980s) .
+- [Midge Decter](https://factionatlas.github.io/person/p_8a452fff21/) — Died 2022-05-09 (source). Defunct faction: Coalition for a Democratic Majority (1972–c. 1980s) .
 - [Midwest vs. The Rest](https://factionatlas.github.io/person/p_3b274962b2/) — Midwest
 - [Mik Rich](https://factionatlas.github.io/person/p_c476f947cb/) — libertarian
 - [Mikale Olson](https://factionatlas.github.io/person/p_b0a30a5822/) — Wisconsin, USA
@@ -4958,7 +4958,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Miles Smith IV](https://factionatlas.github.io/person/p_cfa19d1b33/) — Hillsdale, MI
 - [Millard Fillmore](https://factionatlas.github.io/person/p_aab922ac3e/) — President of the United States (1850–1853), former (historical) source
 - [Miller Time](https://factionatlas.github.io/person/p_8d478bb343/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [MILO](https://factionatlas.github.io/person/p_9605f3f2cf/) — Historical faction: GamerGate (2014–2015) . Public profile: @Nero on X.
+- [MILO](https://factionatlas.github.io/person/p_9605f3f2cf/) — Defunct faction: GamerGate (2014–2015) . Public profile: @Nero on X.
 - [Milton Friedman](https://factionatlas.github.io/person/p_368a91603f/) — Died 2006-11-16 (source). Exclusive home: EdChoice .
 - [Milton Jones](https://factionatlas.github.io/person/p_84d73b72c1/) — Exclusive home: United Food and Commercial Workers (UFCW) .
 - [Minnesota Mises Caucus](https://factionatlas.github.io/person/p_2745e076ab/) — Exclusive home: Mises Caucus / LP radicals . Public profile: @mnmises on X.
@@ -4997,7 +4997,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Montgomery Toms](https://factionatlas.github.io/person/p_cc718b32e2/) — London
 - [Monty Fritts](https://factionatlas.github.io/person/p_d56e67021c/) — Exclusive home: Christian Conservatives . Public profile: @MontyFritts4TN on X.
 - [Moongazer](https://factionatlas.github.io/person/p_78647a9f21/) — patriot
-- [Moorfield Storey](https://factionatlas.github.io/person/p_b86b892de7/) — Died 1929-10-24 (source). Historical faction: American Anti-Imperialist League (1898–1920) .
+- [Moorfield Storey](https://factionatlas.github.io/person/p_b86b892de7/) — Died 1929-10-24 (source). Defunct faction: American Anti-Imperialist League (1898–1920) .
 - [Morgan Anderson](https://factionatlas.github.io/person/p_d4dcf5b6ff/) — Deer Creek Township, Trustee, Carroll County, IN, sitting source
 - [Morgan Luttrell](https://factionatlas.github.io/person/p_fa3cd7dfaf/) — US House, TX-08, sitting source
 - [Morgoth](https://factionatlas.github.io/person/p_c76e71a97e/) — Exclusive home: Restore Britain bloc . Public profile: @MorgothsReview on X.
@@ -5071,7 +5071,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Nathan Roberts](https://factionatlas.github.io/person/p_a906765ef3/) — Exclusive home: Trump-loyal core . Public profile: @NathanIndiana1 on X.
 - [Nathan Zekveld](https://factionatlas.github.io/person/p_ecf2451ea2/) — Exclusive home: Moscow / Wilson orbit . Public profile: @RevZekveld on X.
 - [Nathanael Greene Society](https://factionatlas.github.io/person/p_05caa6593f/) — Exclusive home: Nathanael Greene Society (North Carolina) . Public profile: @ObedtStNGreene on X.
-- [Nathaniel Branden](https://factionatlas.github.io/person/p_aad84016fd/) — Died 2014-12-03 (source). Historical faction: Objectivist movement (1950s–1968) .
+- [Nathaniel Branden](https://factionatlas.github.io/person/p_aad84016fd/) — Died 2014-12-03 (source). Defunct faction: Objectivist movement (1950s–1968) .
 - [Nathaniel Macon](https://factionatlas.github.io/person/p_0ba16e888d/) — Speaker of the US House (1801–1807); US Senator, former (historical) source
 - [Nathaniel Moran](https://factionatlas.github.io/person/p_223d368595/) — US House, TX-01, sitting source
 - [Nathaniel P. Banks](https://factionatlas.github.io/person/p_eb3012dc84/) — Speaker of the US House (1856–1857), former (historical) source
@@ -5144,7 +5144,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Nick Pope](https://factionatlas.github.io/person/p_631c0fb639/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Nick Shirley](https://factionatlas.github.io/person/p_adfd9954cd/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Nick Sortor](https://factionatlas.github.io/person/p_921de3e5a2/) — Exclusive home: Trump-loyal core . Public profile: @nicksortor on X.
-- [Nick Szabo](https://factionatlas.github.io/person/p_ea2630768d/) — Exclusive home: Libertarians .
+- [Nick Szabo](https://factionatlas.github.io/person/p_ea2630768d/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) .
 - [nick.hoppe](https://factionatlas.github.io/person/p_2c46b1e728/) — Exclusive home: Libertarians . Public profile: @thoughtsbyhoppe on X.
 - [NICO](https://factionatlas.github.io/person/p_bfbc02b7f8/) — founder, @SimplyBitcoin
 - [Nico Parker](https://factionatlas.github.io/person/p_c38b30a8c3/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5175,7 +5175,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Norm Eisen](https://factionatlas.github.io/person/p_943f7e9ee1/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Norman Anderson](https://factionatlas.github.io/person/p_2c8d35280d/) — Madison Township Board, Member, Carroll County, IN, sitting source
 - [Norman Oklahoma](https://factionatlas.github.io/person/p_d2434fd0f9/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Norman Podhoretz](https://factionatlas.github.io/person/p_2285aee93e/) — Died 2025-12-16 (source). Historical faction: Coalition for a Democratic Majority (1972–c. 1980s) .
+- [Norman Podhoretz](https://factionatlas.github.io/person/p_2285aee93e/) — Died 2025-12-16 (source). Defunct faction: Coalition for a Democratic Majority (1972–c. 1980s) .
 - [Norman Rockwell](https://factionatlas.github.io/person/p_2920677b15/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Not Affiliated](https://factionatlas.github.io/person/p_e362a624c1/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Not Gary](https://factionatlas.github.io/person/p_37416ecd9a/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5268,7 +5268,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Pat Fallon](https://factionatlas.github.io/person/p_8cbfbd33e5/) — US House, TX-04, sitting source
 - [Pat Harrigan](https://factionatlas.github.io/person/p_d9a647b192/) — US House, NC-10, sitting source
 - [Pat McAfee](https://factionatlas.github.io/person/p_03509342c0/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Pat Robertson](https://factionatlas.github.io/person/p_7a003fe985/) — Died 2023-06-08 (source). Historical faction: Religious right / Moral Majority era (1979–2000s) .
+- [Pat Robertson](https://factionatlas.github.io/person/p_7a003fe985/) — Died 2023-06-08 (source). Defunct faction: Religious right / Moral Majority era (1979–2000s) .
 - [Pat Toomey](https://factionatlas.github.io/person/p_fdbd652ab7/) — president of Club for Growth 2005–2009 source
 - [Patri Friedman](https://factionatlas.github.io/person/p_51ace3f4b6/) — Austin, TX
 - [Patrice Lee Onwuka](https://factionatlas.github.io/person/p_42cf62e0ed/) — vp, @IWF
@@ -5303,7 +5303,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Paul Dupont](https://factionatlas.github.io/person/p_ff58969f3d/) — Exclusive home: American Principles Project (APP) .
 - [Paul Furber](https://factionatlas.github.io/person/p_ea149bc62c/) — early QAnon promoter (r/CBTS_Stream) source
 - [Paul Giamatti](https://factionatlas.github.io/person/p_3acee3f6e4/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Paul Gottfried](https://factionatlas.github.io/person/p_fa54eedf9b/) — Historical faction: Paleoconservatives (1980s–2000s) .
+- [Paul Gottfried](https://factionatlas.github.io/person/p_fa54eedf9b/) — Defunct faction: Paleoconservatives (1980s–2000s) .
 - [Paul Graham](https://factionatlas.github.io/person/p_17805351c1/) — Exclusive home: Silicon Valley tech establishment (non-right) . Public profile: @paulg on X.
 - [Paul Hatty](https://factionatlas.github.io/person/p_d93e093f6d/) — Exclusive home: Hillsdale College .
 - [Paul J. Batura](https://factionatlas.github.io/person/p_31b4afd522/) — Colorado Springs, CO
@@ -5319,7 +5319,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Paul Ryan](https://factionatlas.github.io/person/p_169b272ead/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Paul Singer](https://factionatlas.github.io/person/p_718d75b264/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Paul Wellstone](https://factionatlas.github.io/person/p_6087893bc4/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Paul Weyrich](https://factionatlas.github.io/person/p_8104ad16d0/) — Died 2008-12-18 (source). Historical faction: New Right (c. 1974–c. 1988) .
+- [Paul Weyrich](https://factionatlas.github.io/person/p_8104ad16d0/) — Died 2008-12-18 (source). Defunct faction: New Right (c. 1974–c. 1988) .
 - [Paul's Hardware](https://factionatlas.github.io/person/p_f32891e082/) — Exclusive home: Non-political . Public profile: @paulhardware on X.
 - [Paula Copenhaver](https://factionatlas.github.io/person/p_dc267f2747/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Paula Davis](https://factionatlas.github.io/person/p_5db05df917/) — Indiana State Representative, IN-HD30, sitting source
@@ -5355,8 +5355,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Pete Stauber](https://factionatlas.github.io/person/p_52c09351ae/) — US House, MN-08, sitting source
 - [Peter](https://factionatlas.github.io/person/p_fc546e37ee/) — patriot
 - [Peter Boettke](https://factionatlas.github.io/person/p_9d410ed884/) — Fairfax, VA
-- [Peter Boghossian](https://factionatlas.github.io/person/p_00bfdc37d4/) — Historical faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @peterboghossian on X.
-- [Peter Brimelow](https://factionatlas.github.io/person/p_e7fa675702/) — Historical faction: Alt-right (2015–2017) . Public profile: @peterbrimelow on X.
+- [Peter Boghossian](https://factionatlas.github.io/person/p_00bfdc37d4/) — Defunct faction: Intellectual Dark Web (c. 2017–c. 2020) . Public profile: @peterboghossian on X.
+- [Peter Brimelow](https://factionatlas.github.io/person/p_e7fa675702/) — Defunct faction: Alt-right (2015–2017) . Public profile: @peterbrimelow on X.
 - [Peter C. Hein](https://factionatlas.github.io/person/p_0a0fc531d3/) — chairman, Empire Center source
 - [Peter D’Abrosca](https://factionatlas.github.io/person/p_d412b87323/) — reporter, @FoxNews
 - [Peter G. Klein](https://factionatlas.github.io/person/p_c4c9a38518/) — fellow, @Mises
@@ -5368,7 +5368,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Peter McCormack](https://factionatlas.github.io/person/p_fe6c10c948/) — chairman, @realbedford
 - [Peter McIndoe](https://factionatlas.github.io/person/p_1e1b6ff4fa/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Peter Navarro](https://factionatlas.github.io/person/p_f49faa57db/) — Washington, DC
-- [Peter O'Donnell (Texas businessman)](https://factionatlas.github.io/person/p_d565fb2963/) — Died 2021-10-10 (source). Historical faction: Goldwater movement (1960–1964) .
+- [Peter O'Donnell (Texas businessman)](https://factionatlas.github.io/person/p_d565fb2963/) — Died 2021-10-10 (source). Defunct faction: Goldwater movement (1960–1964) .
 - [Peter Parker](https://factionatlas.github.io/person/p_fc6dcfc49d/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Peter R. Quinones](https://factionatlas.github.io/person/p_8f7c0dae49/) — The South
 - [Peter Robinson](https://factionatlas.github.io/person/p_0f089f6f6e/) — host, @uncknowledge
@@ -5393,7 +5393,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Phil Scott](https://factionatlas.github.io/person/p_1493b7487c/) — Governor of Vermont; re-elected Governor 2026-11-03, VT, sitting source
 - [Phil Weiser](https://factionatlas.github.io/person/p_593e6fd7ca/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Phil Williams](https://factionatlas.github.io/person/p_739749d745/) — policy director, Alabama Policy Institute source
-- [Phil Zimmermann](https://factionatlas.github.io/person/p_27b36f16bc/) — Exclusive home: Libertarians .
+- [Phil Zimmermann](https://factionatlas.github.io/person/p_27b36f16bc/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) .
 - [Philip Bunn](https://factionatlas.github.io/person/p_d9d6ef4e74/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Philip Derrida](https://factionatlas.github.io/person/p_754eff78f0/) — Exclusive home: NXR / Right Response (Webbon, Texas) . Public profile: @PhilipDerrida on X.
 - [Philip Hamburger](https://factionatlas.github.io/person/p_9a7f3f4d39/) — Exclusive home: New Civil Liberties Alliance (NCLA) .
@@ -5404,7 +5404,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [PhoenixSC / Hamish](https://factionatlas.github.io/person/p_f3319d0d9b/) — AEST/AEDT
 - [Phyllis Schlafly](https://factionatlas.github.io/person/p_d95fac4e3d/) — Died 2016-09-05 (source). Exclusive home: Eagle Forum .
 - [Pierre Rochard](https://factionatlas.github.io/person/p_c9af23e5bb/) — host, @BitcoinForCorps
-- [Pierre Vial](https://factionatlas.github.io/person/p_0e956a1c4d/) — Historical faction: European New Right / Traditionalism (1968–) .
+- [Pierre Vial](https://factionatlas.github.io/person/p_0e956a1c4d/) — Defunct faction: European New Right / Traditionalism (1968–) .
 - [Pinkerton's Ghost](https://factionatlas.github.io/person/p_5ebabe2cf5/) — St Louis, MO
 - [Pirat Nation](https://factionatlas.github.io/person/p_79cd58bd1e/) — Exclusive home: Mainstream Right . Public profile: @Pirat_Nation on X.
 - [Pirate Chain](https://factionatlas.github.io/person/p_e9cc815b31/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5449,8 +5449,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Punished Arvensia Littleglass](https://factionatlas.github.io/person/p_6c2760f2bf/) — Exclusive home: Christian Conservatives . Public profile: @LadyLittleGlass on X.
 - [Quantus Insights](https://factionatlas.github.io/person/p_0c78c6e332/) — United States
 - [R Street Institute](https://factionatlas.github.io/person/p_d76d013e7f/) — DC∙FL∙GA∙TX∙OH∙AL∙CA∙CT∙CO
-- [R. A. Torrey](https://factionatlas.github.io/person/p_d247e6369b/) — Died 1928-10-26 (source). Historical faction: Fundamentalist movement (c. 1910–c. 1950) .
-- [R. Douglas Stuart Jr.](https://factionatlas.github.io/person/p_7728d3ad8b/) — Died 2014-05-08 (source). Historical faction: America First Committee (1940–1941) .
+- [R. A. Torrey](https://factionatlas.github.io/person/p_d247e6369b/) — Died 1928-10-26 (source). Defunct faction: Fundamentalist movement (c. 1910–c. 1950) .
+- [R. Douglas Stuart Jr.](https://factionatlas.github.io/person/p_7728d3ad8b/) — Died 2014-05-08 (source). Defunct faction: America First Committee (1940–1941) .
 - [R. Michael Young](https://factionatlas.github.io/person/p_4e0924b6b1/) — Indiana State Senator, IN-SD35, sitting source
 - [R. R. Reno](https://factionatlas.github.io/person/p_7c118924e0/) — Exclusive home: First Things (Reno era) .
 - [R. Scott Clark](https://factionatlas.github.io/person/p_2653827e95/) — president, @HeidelbergRefo1
@@ -5595,7 +5595,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Richard Brown](https://factionatlas.github.io/person/p_851037ae3f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Richard Cobden](https://factionatlas.github.io/person/p_f80cd7a38a/) — MP, former (historical) source
 - [Richard Cox](https://factionatlas.github.io/person/p_5c0edf9dcf/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Richard Dawkins](https://factionatlas.github.io/person/p_380fc00f3c/) — Historical faction: New Atheism (c. 2004–c. 2015) . Public profile: @RichardDawkins on X.
+- [Richard Dawkins](https://factionatlas.github.io/person/p_380fc00f3c/) — Defunct faction: New Atheism (c. 2004–c. 2015) . Public profile: @RichardDawkins on X.
 - [Richard Fink](https://factionatlas.github.io/person/p_5c5e9040ca/) — long-time Koch network strategist (Citizens for a Sound Economy co-founder) source
 - [Richard Grenell](https://factionatlas.github.io/person/p_931126629d/) — LA, Palm Springs
 - [Richard Hanania](https://factionatlas.github.io/person/p_a581a8e0f8/) — Exclusive home: Free-speech Enlightenment liberals . Public profile: @RichardHanania on X.
@@ -5606,14 +5606,14 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Richard John Neuhaus](https://factionatlas.github.io/person/p_e7d3422ec2/) — Died 2009-01-08 (source). Exclusive home: First Things (Reno era) .
 - [Richard L. Trumka](https://factionatlas.github.io/person/p_cc600a0167/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Richard Land](https://factionatlas.github.io/person/p_61c9db39de/) — president of the ERLC (1988–2013) source
-- [Richard M. Weaver](https://factionatlas.github.io/person/p_6189340ba2/) — Died 1963 (source). Historical faction: Southern Agrarians (1930–c. 1940s) .
+- [Richard M. Weaver](https://factionatlas.github.io/person/p_6189340ba2/) — Died 1963 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
 - [Richard Mack](https://factionatlas.github.io/person/p_c263d04890/) — former lobbyist for Gun Owners of America source
 - [Richard Nascak](https://factionatlas.github.io/person/p_4d626e7c1a/) — Exclusive home: Florida Carry .
 - [Richard Nixon](https://factionatlas.github.io/person/p_b813cfe4c2/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Richard Ondimu Esq](https://factionatlas.github.io/person/p_bd696210b6/) — Exclusive home: Free-speech Enlightenment liberals . Public profile: @ondimu_atera on X.
 - [Richard Reinsch](https://factionatlas.github.io/person/p_8880d2bbbe/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Richard Russell Jr.](https://factionatlas.github.io/person/p_e266bd48c8/) — U.S. Senator from Georgia (1933–1971), former (historical) source
-- [Richard Spencer](https://factionatlas.github.io/person/p_03921818ce/) — Historical faction: Alt-right (2015–2017) . Public profile: @RichardBSpencer on X.
+- [Richard Spencer](https://factionatlas.github.io/person/p_03921818ce/) — Defunct faction: Alt-right (2015–2017) . Public profile: @RichardBSpencer on X.
 - [Richard Stout](https://factionatlas.github.io/person/p_fc4e86c77f/) — Carrollton Township Board, Member, Carroll County, IN, sitting source
 - [Richard Teng](https://factionatlas.github.io/person/p_fc1fbe28b7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Richard Tice MP](https://factionatlas.github.io/person/p_b8f837760d/) — MP (Boston & Skegness); Deputy Leader Reform UK, UK, sitting source
@@ -5675,7 +5675,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Robert Doar](https://factionatlas.github.io/person/p_c8a593c6c3/) — Exclusive home: American Enterprise Institute (AEI) . Public profile: @RobertDoar on X.
 - [Robert E. Latta](https://factionatlas.github.io/person/p_215465a64f/) — US House, OH-05, sitting source
 - [Robert E. Norton II](https://factionatlas.github.io/person/p_8fb68c7dc5/) — Exclusive home: Hillsdale College .
-- [Robert E. Wood](https://factionatlas.github.io/person/p_037378b377/) — Died 1969-11-06 (source). Historical faction: America First Committee (1940–1941) .
+- [Robert E. Wood](https://factionatlas.github.io/person/p_037378b377/) — Died 1969-11-06 (source). Defunct faction: America First Committee (1940–1941) .
 - [Robert Eggers](https://factionatlas.github.io/person/p_7167d5b93f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Robert Enlow](https://factionatlas.github.io/person/p_191099e830/) — Exclusive home: EdChoice . Public profile: @RobertEnlow on X.
 - [Robert F. Kennedy Jr.](https://factionatlas.github.io/person/p_5695abc6bd/) — Los Angeles, California
@@ -5703,9 +5703,9 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Robert P. George](https://factionatlas.github.io/person/p_557e1c5b85/) — Exclusive home: Christian Conservatives . Public profile: @McCormickProf on X.
 - [Robert Pattinson](https://factionatlas.github.io/person/p_10114ea6bb/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Robert Peel](https://factionatlas.github.io/person/p_b15d79ad1c/) — Prime Minister (1834–1835, 1841–1846), former (historical) source
-- [Robert Penn Warren](https://factionatlas.github.io/person/p_b6c296140c/) — Died 1989-09-15 (source). Historical faction: Southern Agrarians (1930–c. 1940s) .
+- [Robert Penn Warren](https://factionatlas.github.io/person/p_b6c296140c/) — Died 1989-09-15 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
 - [Robert R](https://factionatlas.github.io/person/p_7fb56a2e4d/) — Exclusive home: Christian Conservatives . Public profile: @rohorobert on X.
-- [Robert R. McCormick](https://factionatlas.github.io/person/p_9f542d2896/) — Died 1955-04-01 (source). Historical faction: Old Right (1930s–1950s) .
+- [Robert R. McCormick](https://factionatlas.github.io/person/p_9f542d2896/) — Died 1955-04-01 (source). Defunct faction: Old Right (1930s–1950s) .
 - [Robert Rollock](https://factionatlas.github.io/person/p_8e5feb0e24/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Robert Romano](https://factionatlas.github.io/person/p_7c498a1e31/) — Exclusive home: Free-speech Enlightenment liberals . Public profile: @robertromano on X.
 - [Robert Royal](https://factionatlas.github.io/person/p_290e959035/) — Exclusive home: Natural-law conservatives .
@@ -5718,7 +5718,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Robert Yates (politician)](https://factionatlas.github.io/person/p_82b126ea7c/) — Chief Justice of the New York Supreme Court, former (historical) source
 - [Robert ₿reedlove](https://factionatlas.github.io/person/p_8c1cbc57ad/) — Worldwide
 - [Robin Hanson](https://factionatlas.github.io/person/p_c5b17418da/) — Fairfax, VA
-- [Robin Mackay](https://factionatlas.github.io/person/p_0c916db9e6/) — Historical faction: CCRU / accelerationism (c. 1995–c. 2003) .
+- [Robin Mackay](https://factionatlas.github.io/person/p_0c916db9e6/) — Defunct faction: CCRU / accelerationism (c. 1995–c. 2003) .
 - [Robin Tzi](https://factionatlas.github.io/person/p_b9e5bbe706/) — maga, zionist
 - [Rock Doc](https://factionatlas.github.io/person/p_f3d2267ea9/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Rock Hill](https://factionatlas.github.io/person/p_54e0c77690/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5752,7 +5752,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Roman Space Telescope](https://factionatlas.github.io/person/p_501a9aed5b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Romanian TVee (Vee)](https://factionatlas.github.io/person/p_678d38a5a3/) — Exclusive home: Continental European right . Public profile: @not__vee on X.
 - [Romina Boccia](https://factionatlas.github.io/person/p_3a5f5a1256/) — Salt Lake City, UT
-- [Ron](https://factionatlas.github.io/person/p_e906607cf3/) — Historical faction: QAnon movement (2017–c. 2021) . Public profile: @CodeMonkeyZ on X.
+- [Ron](https://factionatlas.github.io/person/p_e906607cf3/) — Defunct faction: QAnon movement (2017–c. 2021) . Public profile: @CodeMonkeyZ on X.
 - [Ron Alting](https://factionatlas.github.io/person/p_78edaaa025/) — Indiana State Senator, IN-SD22, former source
 - [Ron Coleman](https://factionatlas.github.io/person/p_16769ca0fd/) — conservative
 - [Ron DeSantis](https://factionatlas.github.io/person/p_6dd0825a57/) — Governor of Florida, FL, sitting source
@@ -5777,7 +5777,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Roscoe Smith IV](https://factionatlas.github.io/person/p_61df9b32df/) — independent
 - [Rose Friedman](https://factionatlas.github.io/person/p_1e22e5b619/) — Died 2009-08-18 (source). Exclusive home: EdChoice .
 - [Rose L](https://factionatlas.github.io/person/p_ab5c61a97e/) — Exclusive home: Libertarian Party strategy . Public profile: @SaintOfLiberty on X.
-- [Rose Wilder Lane](https://factionatlas.github.io/person/p_b000bf7de5/) — Died 1968-10-30 (source). Historical faction: Old Right (1930s–1950s) .
+- [Rose Wilder Lane](https://factionatlas.github.io/person/p_b000bf7de5/) — Died 1968-10-30 (source). Defunct faction: Old Right (1930s–1950s) .
 - [Roseanne Barr](https://factionatlas.github.io/person/p_ff717df8c3/) — The Universe
 - [Rosemary Jenks](https://factionatlas.github.io/person/p_430f058510/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Rosemary Kelanic](https://factionatlas.github.io/person/p_97553d758f/) — director, Middle East program, Defense Priorities source
@@ -5787,7 +5787,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ross Perot](https://factionatlas.github.io/person/p_57ba7dfe83/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Ross Ulbricht](https://factionatlas.github.io/person/p_2aa8294509/) — Exclusive home: Libertarians . Public profile: @RealRossU on X.
 - [Ross-Ade Stadium](https://factionatlas.github.io/person/p_280ac394f3/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Rousas John Rushdoony](https://factionatlas.github.io/person/p_993b155204/) — Died 2001-02-08 (source). Historical faction: Christian Reconstructionism / theonomy (1960s–2000s) .
+- [Rousas John Rushdoony](https://factionatlas.github.io/person/p_993b155204/) — Died 2001-02-08 (source). Defunct faction: Christian Reconstructionism / theonomy (1960s–2000s) .
 - [Roxanne Brown](https://factionatlas.github.io/person/p_723d0ff527/) — Exclusive home: United Steelworkers (USW) .
 - [Roy Beck](https://factionatlas.github.io/person/p_4bc81b07a0/) — Exclusive home: NumbersUSA .
 - [Roy Childs](https://factionatlas.github.io/person/p_19dd1e60f3/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5808,7 +5808,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Russell Coleman](https://factionatlas.github.io/person/p_1148600680/) — Attorney General of KY, KY, sitting source
 - [Russell Fry](https://factionatlas.github.io/person/p_05b689f9ea/) — US House, SC-07, sitting source
 - [Russell Hunter](https://factionatlas.github.io/person/p_405409a159/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Russell Kirk](https://factionatlas.github.io/person/p_8d86265e36/) — Died 1994-04-29 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
+- [Russell Kirk](https://factionatlas.github.io/person/p_8d86265e36/) — Died 1994-04-29 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
 - [Russell Moore](https://factionatlas.github.io/person/p_a5305236a1/) — writer, @CTmagazine
 - [Ryan B. Anderson](https://factionatlas.github.io/person/p_56462bbaab/) — Vermont
 - [Ryan Bangert](https://factionatlas.github.io/person/p_6685fbfe5a/) — director, @ADF_Action
@@ -5842,7 +5842,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ryan Young](https://factionatlas.github.io/person/p_52d066adfd/) — Exclusive home: Competitive Enterprise Institute (CEI) .
 - [Ryker](https://factionatlas.github.io/person/p_b94e768b0c/) — Exclusive home: Mainstream Right . Public profile: @RykerJackson97 on X.
 - [Sacra Press](https://factionatlas.github.io/person/p_5aa92aeee8/) — Exclusive home: Christian Nationalists . Public profile: @SacraPress on X.
-- [Sadie Plant](https://factionatlas.github.io/person/p_886a9b20ba/) — Historical faction: CCRU / accelerationism (c. 1995–c. 2003) .
+- [Sadie Plant](https://factionatlas.github.io/person/p_886a9b20ba/) — Defunct faction: CCRU / accelerationism (c. 1995–c. 2003) .
 - [SAF](https://factionatlas.github.io/person/p_88fa444561/) — USA
 - [Saifedean Ammous](https://factionatlas.github.io/person/p_a4ecf3eeb1/) — Exclusive home: Libertarians . Public profile: @saifedean on X.
 - [Sal the Agorist](https://factionatlas.github.io/person/p_f5b4a8c377/) — St Petersburg, FL
@@ -5877,7 +5877,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Samuel James](https://factionatlas.github.io/person/p_ca09a7ba9c/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Samuel Lee](https://factionatlas.github.io/person/p_4c1d308329/) — Exclusive home: Christian Conservatives . Public profile: @samuelhlee on X.
 - [Samuel Sey](https://factionatlas.github.io/person/p_78e7e855fc/) — Exclusive home: Christian Conservatives . Public profile: @SlowToWrite on X.
-- [Samuel T. Francis](https://factionatlas.github.io/person/p_f614eeed44/) — Died 2005-02-15 (source). Historical faction: Paleoconservatives (1980s–2000s) .
+- [Samuel T. Francis](https://factionatlas.github.io/person/p_f614eeed44/) — Died 2005-02-15 (source). Defunct faction: Paleoconservatives (1980s–2000s) .
 - [San Jose Church of Christ](https://factionatlas.github.io/person/p_97b8b773d0/) — Exclusive home: Non-political theology / ministry . Public profile: @SanJoseCofCJax on X.
 - [Sandra Brown](https://factionatlas.github.io/person/p_711b705270/) — Rock Creek Township Board, Member, Carroll County, IN, sitting source
 - [Sandy](https://factionatlas.github.io/person/p_b7554eb7a0/) — maga
@@ -5898,7 +5898,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Sarah Isgur](https://factionatlas.github.io/person/p_500b175e48/) — host, @SCOTUSblog
 - [Sarah Longwell](https://factionatlas.github.io/person/p_bed5058804/) — Exclusive home: The Bulwark . Public profile: @SarahLongwell25 on X.
 - [Sarah Montalbano](https://factionatlas.github.io/person/p_b0c69aad7e/) — fellow, @IWF
-- [Sarah Palin](https://factionatlas.github.io/person/p_bd8676b128/) — Historical faction: Tea Party movement (2009–c. 2016) . Public profile: @SarahPalinUSA on X.
+- [Sarah Palin](https://factionatlas.github.io/person/p_bd8676b128/) — Defunct faction: Tea Party movement (2009–c. 2016) . Public profile: @SarahPalinUSA on X.
 - [Sarah Parshall Perry](https://factionatlas.github.io/person/p_1e7d0f528a/) — Exclusive home: Parents Defending Education (Defending Education) .
 - [Sarah Selip](https://factionatlas.github.io/person/p_7876503c95/) — founder, @917strategies
 - [Sarah Trone Garriott](https://factionatlas.github.io/person/p_dde618d08c/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5914,7 +5914,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Scott](https://factionatlas.github.io/person/p_988e8978dc/) — Exclusive home: Christian Conservatives . Public profile: @CathApolDiscipl on X.
 - [Scott Adams](https://factionatlas.github.io/person/p_92a9a2797d/) — Pleasanton CA
 - [Scott Alexander](https://factionatlas.github.io/person/p_8837182c6d/) — Indiana State Senator, IN-SD26, sitting source
-- [Scott Aniol](https://factionatlas.github.io/person/p_480c7c8803/) — Exclusive home: Christian Conservatives .
+- [Scott Aniol](https://factionatlas.github.io/person/p_480c7c8803/) — Defunct faction: G3 Ministries (2019–2026) .
 - [Scott Ayres](https://factionatlas.github.io/person/p_d10e983706/) — Carroll County Commissioner, District 2, Carroll County, IN, sitting source
 - [Scott Baldwin](https://factionatlas.github.io/person/p_090612fad7/) — Indiana State Senator, IN-SD20, sitting source
 - [Scott Bedke](https://factionatlas.github.io/person/p_0f76ec4207/) — Lieutenant Governor of ID, ID, sitting source
@@ -6120,6 +6120,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Stephanie I. Bice](https://factionatlas.github.io/person/p_9135393311/) — US House, OK-05, sitting source
 - [Stephanie Jo Yocum](https://factionatlas.github.io/person/p_92c5fd1871/) — Indiana State Representative, IN-HD88, sitting source
 - [Stephanie Mills](https://factionatlas.github.io/person/p_10e3832682/) — Delphi Community School Board, VP, Carroll County, IN, sitting source
+- [Stephanie Slade](https://factionatlas.github.io/person/p_5aa2ea9d9a/) — editor, @reason
 - [Stephanie Smith (Alabama Policy Institute)](https://factionatlas.github.io/person/p_20a0c5aaf3/) — Exclusive home: Alabama Policy Institute (API) .
 - [Stephanie Sutton](https://factionatlas.github.io/person/p_275543a711/) — Exclusive home: Center for American Progress (CAP) .
 - [Stephen A. Douglas](https://factionatlas.github.io/person/p_4eb27cdfb4/) — US Senator, Illinois (1847–1861), former (historical) source
@@ -6150,7 +6151,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Steve Davis (executive)](https://factionatlas.github.io/person/p_7dae198c27/) — Senior Advisor to the US DOGE Service (2025), current or recent source
 - [Steve Deace](https://factionatlas.github.io/person/p_994626cfcf/) — Exclusive home: Christian Conservatives . Public profile: @SteveDeaceShow on X.
 - [Steve Forbes](https://factionatlas.github.io/person/p_9a20e1740c/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Steve Goodman (Kode9)](https://factionatlas.github.io/person/p_70d8192c6d/) — Historical faction: CCRU / accelerationism (c. 1995–c. 2003) .
+- [Steve Goodman (Kode9)](https://factionatlas.github.io/person/p_70d8192c6d/) — Defunct faction: CCRU / accelerationism (c. 1995–c. 2003) .
 - [Steve Gregg](https://factionatlas.github.io/person/p_4f728e1bd0/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Steve Guest](https://factionatlas.github.io/person/p_f6e92f2a3a/) — conservative
 - [Steve Hilton](https://factionatlas.github.io/person/p_aa5816d0f0/) — Candidate for Governor, CA, candidate source
@@ -6267,7 +6268,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Terence Tendayi](https://factionatlas.github.io/person/p_ca3fffe09c/) — zionist
 - [Teresa Tomeo](https://factionatlas.github.io/person/p_eb95c83e0c/) — host, @EWTN
 - [Terri Green](https://factionatlas.github.io/person/p_e7f7bc0434/) — Exclusive home: Christian Conservatives . Public profile: @TerriGreenUSA on X.
-- [Terry Dolan (activist)](https://factionatlas.github.io/person/p_e24b66344f/) — Died 1986-12-28 (source). Historical faction: New Right (c. 1974–c. 1988) .
+- [Terry Dolan (activist)](https://factionatlas.github.io/person/p_e24b66344f/) — Died 1986-12-28 (source). Defunct faction: New Right (c. 1974–c. 1988) .
 - [Terry Power](https://factionatlas.github.io/person/p_0175437808/) — Exclusive home: Florida Carry .
 - [Terry Schilling](https://factionatlas.github.io/person/p_22ab91320b/) — president, @approject
 - [Texas Agriculture Commissioner](https://factionatlas.github.io/person/p_fbe6167028/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -6419,7 +6420,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Thomas Allen](https://factionatlas.github.io/person/p_eb9dbe5ea4/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Thomas Aquinas](https://factionatlas.github.io/person/p_da4674e202/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Thomas Booher](https://factionatlas.github.io/person/p_82ff667285/) — Exclusive home: Christian Nationalists . Public profile: @ptomer on X.
-- [Thomas C. O'Brien](https://factionatlas.github.io/person/p_fe299a2e1a/) — Died 1951-11-22 (source). Historical faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
+- [Thomas C. O'Brien](https://factionatlas.github.io/person/p_fe299a2e1a/) — Died 1951-11-22 (source). Defunct faction: Coughlin's National Union for Social Justice and the Union Party (1934–1936) .
 - [Thomas C. Patterson](https://factionatlas.github.io/person/p_60cd6b7a58/) — chairman of the Goldwater Institute (2000–2015) source
 - [Thomas C. Platt](https://factionatlas.github.io/person/p_5484e7fc16/) — Died 1910-03-06 (source). Historical faction: Stalwarts (c. 1868–late 1880s) .
 - [Thomas Campbell](https://factionatlas.github.io/person/p_afeac2b972/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -6434,7 +6435,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Thomas H. Kean, Jr.](https://factionatlas.github.io/person/p_f31ec7169e/) — US House, NJ-07, sitting source
 - [Thomas Hart Benton](https://factionatlas.github.io/person/p_a364acfb02/) — US Senator, Missouri (1821–1851), former (historical) source
 - [Thomas Hedde](https://factionatlas.github.io/person/p_17d2b7bcf7/) — 2026 candidate for Monroe Township Trustee, Monroe Twp (did not win; unofficial results), Carroll County, IN source
-- [Thomas J. Anderson](https://factionatlas.github.io/person/p_9409961eee/) — Historical faction: American Independent Party, Wallace era (1967–1976) .
+- [Thomas J. Anderson](https://factionatlas.github.io/person/p_9409961eee/) — Defunct faction: American Independent Party, Wallace era (1967–1976) .
 - [Thomas J. DiLorenzo](https://factionatlas.github.io/person/p_095b464a8d/) — Exclusive home: Mises Institute .
 - [Thomas J. Schmidt](https://factionatlas.github.io/person/p_d0377c7fcf/) — Exclusive home: Home School Legal Defense Association (HSLDA) .
 - [Thomas Jefferson](https://factionatlas.github.io/person/p_fb14bd3fe7/) — President of the United States (1801–1809), former (historical) source
@@ -6446,8 +6447,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Thomas Mann](https://factionatlas.github.io/person/p_9819a908ea/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Thomas Massie](https://factionatlas.github.io/person/p_39b129352c/) — US House, KY-04, sitting source
 - [Thomas Massie Tucker](https://factionatlas.github.io/person/p_e35d13744e/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Thomas Milner Gibson](https://factionatlas.github.io/person/p_3d55532c25/) — Died 1884-02-25 (source). Historical faction: Manchester School / Anti-Corn Law League (1838–c. 1860s) .
-- [Thomas Nast](https://factionatlas.github.io/person/p_607340bb84/) — Died 1902-12-07 (source). Historical faction: Liberal Republicans and Mugwumps (1872–c. 1890s) .
+- [Thomas Milner Gibson](https://factionatlas.github.io/person/p_3d55532c25/) — Died 1884-02-25 (source). Defunct faction: Old liberalism (19th c.) .
+- [Thomas Nast](https://factionatlas.github.io/person/p_607340bb84/) — Died 1902-12-07 (source). Defunct faction: Old liberalism (19th c.) .
 - [Thomas P. Tiffany](https://factionatlas.github.io/person/p_0bc21f652f/) — US House, WI-07, sitting source
 - [Thomas S. Kidd](https://factionatlas.github.io/person/p_3d8bef709a/) — chair, @MBTS
 - [Thomas Sewell](https://factionatlas.github.io/person/p_d42bae7e5b/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -6467,7 +6468,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Tim Goeglein](https://factionatlas.github.io/person/p_8d794563ee/) — vice president of government relations, Focus on the Family source
 - [Tim Kaine](https://factionatlas.github.io/person/p_97b686ee7a/) — US Senate, VA, sitting source
 - [Tim Keller](https://factionatlas.github.io/person/p_0b21ac2202/) — Exclusive home: The Gospel Coalition (TGC) .
-- [Tim LaHaye](https://factionatlas.github.io/person/p_101769625d/) — Died 2016-07-25 (source). Historical faction: Moral Majority (1979–late 1980s) .
+- [Tim LaHaye](https://factionatlas.github.io/person/p_101769625d/) — Died 2016-07-25 (source). Defunct faction: Moral Majority (1979–late 1980s) .
 - [Tim Macy](https://factionatlas.github.io/person/p_2329b6884e/) — Exclusive home: Gun Owners of America (GOA) .
 - [Tim McGraw](https://factionatlas.github.io/person/p_8552e0655b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Tim Miller](https://factionatlas.github.io/person/p_cbb0736a57/) — Exclusive home: The Bulwark . Public profile: @Timodc on X.
@@ -6487,7 +6488,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Tim “mi hermosa” Sharp](https://factionatlas.github.io/person/p_d3d410983d/) — Exclusive home: Libertarian Party strategy . Public profile: @realtimsharp on X.
 - [Timechain Calendar](https://factionatlas.github.io/person/p_be80fea483/) — Block 762135
 - [Timothy Busch](https://factionatlas.github.io/person/p_db5da88cde/) — Exclusive home: Natural-law conservatives .
-- [Timothy C. May](https://factionatlas.github.io/person/p_a0c8929c99/) — Exclusive home: Libertarians .
+- [Timothy C. May](https://factionatlas.github.io/person/p_a0c8929c99/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) .
 - [Timothy Pickering](https://factionatlas.github.io/person/p_86b93f5fe8/) — US Secretary of State (1795–1800); US Senator, former (historical) source
 - [Timothy Wesco](https://factionatlas.github.io/person/p_7c20d93e65/) — Indiana State Representative, IN-HD21, sitting source
 - [Timothy Wiens](https://factionatlas.github.io/person/p_9ea4164e75/) — president of the CLT Board of Academic Advisors source
@@ -6711,7 +6712,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Wayne Remaly](https://factionatlas.github.io/person/p_260aeb36ef/) — Clay Township Board, Member, Carroll County, IN, sitting source
 - [Wayne Stenehjem](https://factionatlas.github.io/person/p_dbb6851bec/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [WBC24](https://factionatlas.github.io/person/p_67a7358d40/) — Worldwide
-- [Wei Dai](https://factionatlas.github.io/person/p_75a16ccdec/) — Exclusive home: Libertarians .
+- [Wei Dai](https://factionatlas.github.io/person/p_75a16ccdec/) — Defunct faction: Cypherpunks (c. 1988–c. 2000s) .
 - [wendell](https://factionatlas.github.io/person/p_bca5b99f96/) — Exclusive home: Non-political . Public profile: @tekwendell on X.
 - [Wendell Berry](https://factionatlas.github.io/person/p_78959c6a20/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Wendigoon](https://factionatlas.github.io/person/p_0db7cf5b18/) — Exclusive home: Non-political . Public profile: @Wendigoon8 on X.
@@ -6737,7 +6738,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [White Criminal of the Day](https://factionatlas.github.io/person/p_faba4e6b44/) — Exclusive home: Dissident Right . Public profile: @WhiteCrimeOTD on X.
 - [White House Press Office](https://factionatlas.github.io/person/p_160d752294/) — Exclusive home: Trump-loyal core . Public profile: @PressSec on X.
 - [White Papers Policy Institute](https://factionatlas.github.io/person/p_14245ce0b3/) — Washington, DC
-- [Whittaker Chambers](https://factionatlas.github.io/person/p_5d8e4a042a/) — Died 1961-07-09 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
+- [Whittaker Chambers](https://factionatlas.github.io/person/p_5d8e4a042a/) — Died 1961-07-09 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
 - [Why women get Ls](https://factionatlas.github.io/person/p_7b0d86d1a0/) — Exclusive home: Non-political . Public profile: @ywomendeservles on X.
 - [Wicked](https://factionatlas.github.io/person/p_f8f07a8d72/) — Exclusive home: Non-political . Public profile: @w_s_bitcoin on X.
 - [Wild Olive Tree](https://factionatlas.github.io/person/p_428d5ead37/) — Exclusive home: Christian Conservatives . Public profile: @olivetree1569 on X.
@@ -6759,8 +6760,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Will Wilder](https://factionatlas.github.io/person/p_cbbf23e07c/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Will Witt](https://factionatlas.github.io/person/p_d0d1c5e56d/) — Tampa, FL
 - [William A. Jacobson](https://factionatlas.github.io/person/p_e75b998ab0/) — founder, @Leginsurrection
-- [William A. Rusher](https://factionatlas.github.io/person/p_03345759c3/) — Died 2011-04-16 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
-- [William Bell Riley](https://factionatlas.github.io/person/p_94c0856949/) — Died 1947-12-05 (source). Historical faction: Fundamentalist movement (c. 1910–c. 1950) .
+- [William A. Rusher](https://factionatlas.github.io/person/p_03345759c3/) — Died 2011-04-16 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
+- [William Bell Riley](https://factionatlas.github.io/person/p_94c0856949/) — Died 1947-12-05 (source). Defunct faction: Fundamentalist movement (c. 1910–c. 1950) .
 - [William Borah](https://factionatlas.github.io/person/p_4b0441230f/) — US Senator, Idaho, former (historical) source
 - [William Boykin](https://factionatlas.github.io/person/p_f80e97b8ea/) — former Deputy Under Secretary of Defense for Intelligence (2002-2007), retired Army lieutenant general, NC, former source
 - [William Cabell Rives](https://factionatlas.github.io/person/p_951b19fc11/) — Died 1868-04-25 (source). Historical faction: Constitutional Union Party (1860–1861) .
@@ -6769,19 +6770,19 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [William Dwight McKissic](https://factionatlas.github.io/person/p_1340e64d7b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [William E. Simon Sr](https://factionatlas.github.io/person/p_eee0320f65/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [William Ewart Gladstone](https://factionatlas.github.io/person/p_26ee0cdb45/) — Prime Minister (four terms, 1868–1894), former (historical) source
-- [William F. Buckley Jr.](https://factionatlas.github.io/person/p_d96e982798/) — Died 2008-02-27 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
+- [William F. Buckley Jr.](https://factionatlas.github.io/person/p_d96e982798/) — Died 2008-02-27 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
 - [William F. Jasper](https://factionatlas.github.io/person/p_5e891a3cb0/) — Exclusive home: John Birch Society (JBS) .
 - [William Freeman Vilas](https://factionatlas.github.io/person/p_518f1189cf/) — US Senator, Wisconsin, former (historical) source
 - [William Gibson](https://factionatlas.github.io/person/p_48c5bd3fa8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [William Gouge](https://factionatlas.github.io/person/p_7b53e12ac3/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [William Graham Sumner](https://factionatlas.github.io/person/p_bbab04c3a0/) — Died 1910-04-12 (source). Historical faction: Old liberalism (19th c.) .
+- [William Graham Sumner](https://factionatlas.github.io/person/p_bbab04c3a0/) — Died 1910-04-12 (source). Defunct faction: Old liberalism (19th c.) .
 - [William H. Seward](https://factionatlas.github.io/person/p_e7b26a6e6e/) — US Secretary of State (1861–1869), former (historical) source
 - [William Henry Harrison](https://factionatlas.github.io/person/p_337d56ee1e/) — President of the United States (1841), former (historical) source
 - [William Howard Taft](https://factionatlas.github.io/person/p_947e082d81/) — President of the United States (1909–1913), former (historical) source
 - [William Jennings Bryan](https://factionatlas.github.io/person/p_a404316076/) — US Secretary of State (1913–1915), former (historical) source
 - [William Lamb, 2nd Viscount Melbourne](https://factionatlas.github.io/person/p_0f8751713a/) — Died 1848-11-24 (source). Historical faction: Whigs (Britain) (1680s–1859) .
 - [William Lemke](https://factionatlas.github.io/person/p_5383c0baeb/) — U.S. Representative from North Dakota, former (historical) source
-- [William Luther Pierce](https://factionatlas.github.io/person/p_40e9e8e5af/) — Died 2002-07-23 (source). Historical faction: US National Socialist groups (1933–) .
+- [William Luther Pierce](https://factionatlas.github.io/person/p_40e9e8e5af/) — Died 2002-07-23 (source). Defunct faction: US National Socialist groups (1933–) .
 - [William MacAskill](https://factionatlas.github.io/person/p_51d7ad185e/) — Oxford
 - [William McKinley](https://factionatlas.github.io/person/p_d8a910e9f3/) — Died 1901-09-14 (source). Historical faction: Gilded Age Republican Party (1870s–1890s) .
 - [William Meservy](https://factionatlas.github.io/person/p_929f8771fc/) — classical liberal
@@ -6796,7 +6797,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [William Wilberforce](https://factionatlas.github.io/person/p_7aaec56e5e/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [William Wirt](https://factionatlas.github.io/person/p_66892380d6/) — US Attorney General (1817–1829), former (historical) source
 - [William Wolfe](https://factionatlas.github.io/person/p_e261d1d4ec/) — Exclusive home: Christian Nationalists . Public profile: @WilliamWolfe on X.
-- [Willmoore Kendall](https://factionatlas.github.io/person/p_587a70acdc/) — Died 1967/1968 (source). Historical faction: National Review circle / fusionism (1955–c. 1964) .
+- [Willmoore Kendall](https://factionatlas.github.io/person/p_587a70acdc/) — Died 1967/1968 (source). Defunct faction: National Review circle / fusionism (1955–c. 1964) .
 - [Willy Rice](https://factionatlas.github.io/person/p_b58b50986a/) — Exclusive home: Evangelical establishment ('liberal Christian right') . Public profile: @WillyRice on X.
 - [Wilton Simpson](https://factionatlas.github.io/person/p_e237599aba/) — Florida Commissioner of Agriculture, FL, sitting source
 - [Winfield Myers](https://factionatlas.github.io/person/p_76a2ee24c3/) — director of Campus Watch (Middle East Forum project) source

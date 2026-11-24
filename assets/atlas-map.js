@@ -1,7 +1,7 @@
 // Faction Atlas: interactive faction map (/map/), one view: the descent tree. ES module, no third-party requests.
 // Data: map/graph.json (v2). Library: assets/vendor/cytoscape.min.js. The browser draws every box and line from the data.
 // The drawing rules are a port of the layered faction chart: rows are generations (one below the deepest parent),
-// historical and defunct factions sit in a shaded band across the top, and living factions sit below in columns
+// pre-1900 historical factions sit in a shaded band across the top, and living factions (including post-1900 defunct ones) sit below in columns
 // (left, center, outside, the right). A faction's wings are packed inside its box in a compact grid, lines run with
 // right-angle turns through the gaps between boxes (routed in the browser, see "line routing"), colours are the
 // chart's branch colours.
@@ -22,9 +22,9 @@ const LEVEL_COLOR = { alliance: "#2e7d32", friendly: "#43a047", neutral: "#8a8a8
 
 // ---------- chart geometry (model units: chart units x 100) ----------
 const BW = 120, BH = 70, PADX = 20, TH = 40, PADB = 20, VG = 28, HG = 28, UG = 60, GUT = 80, SIDEW = 320, BANDGAP = 40;
-const BANDS = ["left", "center", "out", "right"];   // living columns; historical/defunct sit in a top band, not a side column
+const BANDS = ["left", "center", "out", "right"];   // living columns; pre-1900 historical sit in a top band, not a side column
 const BAND_WORD = { left: "Left", center: "Center", out: "Outside left, center and right", hist: "HISTORICAL MOVEMENTS",
-  right: "The right (a label for several movements, not one parent)" };
+  right: "Right" };
 const HIST_HEAD = 64, HIST_GUT = 36, HIST_LABW = 210, HIST_GAP = 24;   // tighter packing inside the historical band
 const SPC = "#c2189b";
 
@@ -88,7 +88,7 @@ let expanded = new Set(), defaultExpanded = new Set();
 let sel = null;               // {kind: "node", id} | {kind: "edge", key} | {kind: "trace", a, b}
 let relOn = new Set(), Z = 1, sortKey = "label", sortDir = 1, lastLayout = null;
 
-function stateWord(n) { return n.hist ? "Historical" : n.prov ? "Active (provisional)" : "Active"; }
+function stateWord(n) { return n.hist ? "Historical" : n.defunct ? "Defunct" : n.prov ? "Active (provisional)" : "Active"; }
 function pageUrl(n) { return new URL(n.url, SITE).href; }
 function loadScript(src) {
   return new Promise((ok, bad) => { const s = document.createElement("script"); s.src = src; s.async = false;
@@ -116,7 +116,7 @@ let measureCtx = null, uiFont = null;
 function labelWidth(label, n, fs) {
   if (!measureCtx) { measureCtx = document.createElement("canvas").getContext("2d");
     uiFont = getComputedStyle(document.documentElement).getPropertyValue("--f-ui").trim() || "system-ui, sans-serif"; }
-  measureCtx.font = `${n.hist ? "italic " : ""}${n.row === 0 ? 700 : 400} ${fs}px ${uiFont}`;
+  measureCtx.font = `${(n.hist || n.defunct) ? "italic " : ""}${n.row === 0 ? 700 : 400} ${fs}px ${uiFont}`;
   return Math.max(...label.split("\n").map(l => measureCtx.measureText(l).width));
 }
 // Break a word that is wider than the box: after existing hyphens, otherwise mid-word with a dash.
@@ -185,12 +185,12 @@ function visibleSet() {
 }
 
 // ---------- layout (port of the chart's band, row, flow and box packing) ----------
-// Historical and defunct factions (n.hist) are packed in a full-width shaded band at the top, still in
-// generation order (parents above children). Living factions are packed below, in the left / center /
-// outside / right columns. A living child of a deep historical chain starts in the living area, one
-// generation below its deepest parent relative to other living rows (empty historical-only generations
-// are not kept as gaps). A historical child of a living parent stays in the historical band, usually
-// near its bottom, so that line may run upward.
+// Pre-1900 historical factions (n.hist) are packed in a full-width shaded band at the top, still in
+// generation order (parents above children). Living factions, including post-1900 defunct ones
+// (n.defunct), are packed below in the left / center / outside / right columns. A living or defunct
+// child of a deep historical chain starts in the living area, one generation below its deepest parent
+// relative to other living rows (empty historical-only generations are not kept as gaps). A pre-1900
+// child of a living parent stays in the historical band, usually near its bottom, so that line may run upward.
 function layout(V) {
   const aspect = cy ? Math.max(0.45, Math.min(2.4, cy.width() / Math.max(cy.height(), 1))) : 1.6;
   const sameRegion = (a, b) => !!byId.get(a).hist === !!byId.get(b).hist;
@@ -230,7 +230,7 @@ function layout(V) {
   const tops = [...V].filter(id => {
     const n = byId.get(id);
     if (!n.nest || !V.has(n.nest)) return true;
-    return !!n.hist !== !!byId.get(n.nest).hist;   // a historical/living pair is not packed inside one box
+    return !!n.hist !== !!byId.get(n.nest).hist;   // a pre-1900 / living pair is not packed inside one box
   });
   const histTops = tops.filter(id => byId.get(id).hist);
   const liveTops = tops.filter(id => !byId.get(id).hist);
@@ -559,7 +559,7 @@ function elements(V, Lt) {
   }
   for (const id of V) {
     const n = byId.get(id), box = Lt.BOX.get(id);
-    const cls = ["fac", `layer-${n.layer}`, `band-${n.band}`]; if (n.hist) cls.push("hist"); if (n.prov) cls.push("prov");
+    const cls = ["fac", `layer-${n.layer}`, `band-${n.band}`]; if (n.hist) cls.push("hist"); if (n.defunct) cls.push("defunct"); if (n.prov) cls.push("prov");
     if (n.row === 0) cls.push("root");
     const d = { id, col: n.col, ink: n.hist ? pal.histInk : n.band === "out" ? pal.outInk : (lum(n.col) < 0.5 ? "#fff" : "#1E2A2F"),
       fill: n.hist ? pal.histBox : n.band === "out" ? pal.outBox : n.col, edge: shade(n.col, 0.8) };
@@ -630,6 +630,8 @@ function styles() {
       "line-height": 1.05, "border-width": 0.7, "border-color": "#333", "z-index": 20, "min-zoomed-font-size": 4 } },
     { selector: "node.fac.root", style: { "font-weight": 700 } },
     { selector: "node.fac.hist", style: { "font-style": "italic", "border-color": pal.histBorder } },
+    { selector: "node.fac.defunct", style: { "font-style": "italic", "border-style": "dotted", "border-width": 1.6, "border-color": "#333" } },
+    { selector: "node.box.defunct", style: { "font-style": "italic", "border-style": "dotted", "border-width": 2.0 } },
     { selector: "node.fac.prov", style: { "border-style": "dashed", "border-width": 1.6, "border-color": "#222" } },
     { selector: "node.box", style: { shape: "round-rectangle", "background-color": "data(col)", "background-opacity": 0.13, "border-width": 2.2,
       "border-color": "data(col)", color: "data(edge)", "font-weight": 700, "font-size": 15, "text-valign": "top", "text-halign": "center",
@@ -916,7 +918,7 @@ function runSearch(q) {
       else if (k.includes(" " + q)) s = Math.min(s, 2); else if (k.includes(q)) s = Math.min(s, 3); } return [s, r]; })
     .filter(([s]) => s < 9).sort((a, b) => a[0] - b[0] || a[1].t.localeCompare(b[1].t)).slice(0, 8).map(([, r]) => r);
   list.innerHTML = hits.length ? hits.map((r, i) => { const n = byId.get(r.id);
-    return `<li role="option" id="map-opt-${i}" data-go="${esc(r.id)}" aria-selected="false">${esc(r.t)} <span class="b-none">${esc(LAYER_WORD[n.layer])}${n.hist ? ", historical" : ""}</span></li>`; }).join("")
+    return `<li role="option" id="map-opt-${i}" data-go="${esc(r.id)}" aria-selected="false">${esc(r.t)} <span class="b-none">${esc(LAYER_WORD[n.layer])}${n.hist ? ", historical" : n.defunct ? ", defunct" : ""}</span></li>`; }).join("")
     : `<li class="b-none" aria-disabled="true">No faction matches</li>`;
   list.hidden = false; $("#map-q").setAttribute("aria-expanded", "true");
 }
@@ -1008,17 +1010,65 @@ function showTip(e, p) {
   tip.hidden = false; tip.style.left = Math.min(p.x + 14, cy.width() - 240) + "px"; tip.style.top = (p.y + 14) + "px";
 }
 function wireCy() {
-  const tapNode = id => { if (traceFrom && traceFrom !== id) { const a = traceFrom; traceFrom = null; runTrace(a, id); return; } selectNode(id, { center: false }); };
+  // Pan from anywhere on the drawing, including inside a coalition box. A pointer move of a few
+  // pixels is a pan; a short click or tap still opens the faction. Built-in panning is off so a
+  // drag on the background and a drag on a box are the same gesture. Wheel zoom is unchanged.
+  let suppressTap = false, drag = null;
+  const PAN_PX = 8;
+  const host = cy.container();
+  const pt = ev => (ev.touches && ev.touches[0]) || (ev.changedTouches && ev.changedTouches[0]) || ev;
+  function panDown(ev) {
+    if (ev.type.startsWith("pointer") && ev.pointerType === "mouse" && ev.button !== 0) return;
+    if (ev.type === "mousedown" && ev.button !== 0) return;
+    if (drag && ev.pointerId != null && drag.pid != null && ev.pointerId !== drag.pid) { drag = null; return; }
+    const p = pt(ev);
+    drag = { x: p.clientX, y: p.clientY, pan: { ...cy.pan() }, moved: false, pid: ev.pointerId };
+  }
+  function panMove(ev) {
+    if (!drag) return;
+    if (ev.pointerId != null && drag.pid != null && ev.pointerId !== drag.pid) return;
+    const p = pt(ev);
+    const dx = p.clientX - drag.x, dy = p.clientY - drag.y;
+    if (!drag.moved && dx * dx + dy * dy >= PAN_PX * PAN_PX) {
+      drag.moved = true;
+      if (host.setPointerCapture && drag.pid != null) { try { host.setPointerCapture(drag.pid); } catch (_) {} }
+    }
+    if (drag.moved) { ev.preventDefault(); cy.pan({ x: drag.pan.x + dx, y: drag.pan.y + dy }); }
+  }
+  function panUp(ev) {
+    if (!drag) return;
+    if (ev.pointerId != null && drag.pid != null && ev.pointerId !== drag.pid) return;
+    const moved = drag.moved;
+    drag = null;
+    if (moved) { suppressTap = true; setTimeout(() => { suppressTap = false; }, 60); }
+  }
+  if (window.PointerEvent) {
+    host.addEventListener("pointerdown", panDown);
+    host.addEventListener("pointermove", panMove);
+    host.addEventListener("pointerup", panUp);
+    host.addEventListener("pointercancel", panUp);
+  } else {
+    host.addEventListener("mousedown", panDown);
+    window.addEventListener("mousemove", panMove);
+    window.addEventListener("mouseup", panUp);
+    host.addEventListener("touchstart", panDown, { passive: true });
+    host.addEventListener("touchmove", panMove, { passive: false });
+    host.addEventListener("touchend", panUp);
+    host.addEventListener("touchcancel", panUp);
+  }
+  const tapNode = id => { if (suppressTap) return; if (traceFrom && traceFrom !== id) { const a = traceFrom; traceFrom = null; runTrace(a, id); return; } selectNode(id, { center: false }); };
   cy.on("tap", "node.fac", ev => {
+    if (suppressTap) return;
     const id = ev.target.id();
     if (ev.target.isParent()) { const ks = edgesAt(ev.renderedPosition, 7); if (ks.length) { tapLines(ks); return; } }   // a line inside a group box
     tapNode(id);
   });
-  cy.on("dbltap", "node.fac", ev => toggle(ev.target.id()));
+  cy.on("dbltap", "node.fac", ev => { if (suppressTap) return; toggle(ev.target.id()); });
   // a tap inside a faction box always means the faction, even when a line's tap area reaches over it
-  cy.on("tap", "edge", ev => { const f = leafAt(ev.position); if (f) { tapNode(f.id()); return; }
+  cy.on("tap", "edge", ev => { if (suppressTap) return; const f = leafAt(ev.position); if (f) { tapNode(f.id()); return; }
     const ks = edgesAt(ev.renderedPosition, 6); tapLines(ks.length ? ks : [ev.target.id()]); });   // the nearest line wins (lanes are close)
   cy.on("tap", ev => {
+    if (suppressTap) return;
     if (ev.target !== cy) return;
     const f = leafAt(ev.position); if (f) { tapNode(f.id()); return; }
     const ks = edgesAt(ev.renderedPosition, 14);
@@ -1069,7 +1119,7 @@ function bandButtons() {
   const used = [];
   if (cy.nodes(".fac.hist").nonempty()) used.push("hist");
   for (const b of BANDS) if (cy.nodes(`.fac.band-${b}`).filter(n => !n.hasClass("hist")).nonempty()) used.push(b);
-  const word = { left: "Left", center: "Center", out: "Outside", hist: "Historical", right: "The right" };
+  const word = { left: "Left", center: "Center", out: "Outside", hist: "Historical", right: "Right" };
   $("#map-bands").innerHTML = `<span class="b-none">Jump to:</span> ` + used.map(b => `<button type="button" data-band="${b}">${word[b]}</button>`).join(" ");
 }
 
@@ -1097,7 +1147,8 @@ async function start() {
   applyChartTheme();
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", applyChartTheme);
   cy = window.cytoscape({ container: $("#map-canvas"), elements: [], style: styles(), layout: { name: "preset" },
-    minZoom: 0.02, maxZoom: 3, wheelSensitivity: 0.3, boxSelectionEnabled: false, autoungrabify: true, autounselectify: true });
+    minZoom: 0.02, maxZoom: 3, wheelSensitivity: 0.3, boxSelectionEnabled: false, autoungrabify: true, autounselectify: true,
+    userPanningEnabled: false });
   window.atlasMap = { cy, graph: G, version: 2, layout: "tree", selectNode, selectEdge, trace: runTrace, render,
     expand: id => { expanded.add(id); render({ keep: id }); }, collapse: id => { expanded.delete(id); render({ keep: id }); },
     visible: () => [...visibleSet()], edgeKey, routeStats: () => ROUTER && ROUTER.stats, routeOf: id => ROUTER && (ROUTER.routes.get(id) || ROUTER.rel.get(id)) || null,

@@ -1,0 +1,47 @@
+{
+ "atlas_index_version": 1,
+ "name": "Faction Atlas",
+ "url": "https://factionatlas.github.io/",
+ "atlas_json": "https://factionatlas.github.io/atlas.json",
+ "maintainer": {
+  "x_handle": "@Uranium337",
+  "x_url": "https://x.com/Uranium337"
+ },
+ "scope": {
+  "label": "US politics",
+  "country": "US",
+  "language": "en"
+ },
+ "description": "A sourced, neutral reference map of American political and religious-political factions, the people and organizations in them, and how they relate, with every claim linked to a public source.",
+ "method": "Public figures and organizations are placed in factions from public evidence: actions first, then their own words, then ties. Attendance or appearances alone never place anyone. Factions are organization/community, ideology/single-issue, or coalition factions; each entry has one exclusive home at the coalition level. Every claim links to a public source, and wording is neutral.",
+ "counts": {
+  "people": 6086,
+  "organizations": 299,
+  "active_factions": 326,
+  "issues": 128
+ },
+ "last_updated": "2026-11-24T14:34:53-05:00",
+ "generator": {
+  "name": "Faction Atlas site generator",
+  "bot": "Faction Analyst (Grok Bot)",
+  "schema": "atlas_index_version 1"
+ },
+ "data": {
+  "factions": "https://factionatlas.github.io/atlas-factions.json",
+  "issues": "https://factionatlas.github.io/issues.json",
+  "issues_detail": "https://factionatlas.github.io/assets/issues-data.json",
+  "llms": "https://factionatlas.github.io/llms.txt",
+  "sitemap": "https://factionatlas.github.io/sitemap.xml"
+ },
+ "known_atlases": [],
+ "corrections": {
+  "github_issues": "https://github.com/factionatlas/factionatlas.github.io/issues/new/choose",
+  "nostr": "https://njump.me/npub1fl5au7wjhkgdhl4tc4nucda2dc56gr2rz6nn4wvx5g7a3uw0tassw6u2gj"
+ },
+ "license": {
+  "name": "CC BY 4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Faction Atlas (https://factionatlas.github.io/). Quoted material and linked sources remain under their own terms."
+ },
+ "use_note": "Other Atlases may index this file and compare their placements and faction structure against it. It is a comparison source, not evidence: each Atlas should check any suggestion against its own public sources."
+}

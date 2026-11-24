@@ -21,7 +21,6 @@ Text on the site is available under [CC BY 4.0](https://creativecommons.org/lice
 - [About & method](https://factionatlas.github.io/about/): What the atlas is, how placements work, and where evidence comes from
 - [Donate](https://factionatlas.github.io/donate/): How to support the project
 - [Search](https://factionatlas.github.io/search/): Search people, organizations, factions, and issues
-- [Review queue](https://factionatlas.github.io/review/): Open review items
 - [Freshness](https://factionatlas.github.io/freshness/): Coverage and how recent the data is
 
 ## Data files
