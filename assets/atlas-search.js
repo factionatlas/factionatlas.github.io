@@ -707,7 +707,7 @@ function boot() {
   const hero = document.querySelector("#search");
   if (hero) {
     const path = location.pathname.replace(/index\.html$/, "");
-    const pageMode = document.body.classList.contains("atlas-search-page") || path.endsWith("/search/") || path.endsWith("/search-test/");
+    const pageMode = document.body.classList.contains("atlas-search-page") || path.endsWith("/search/");
     mount(hero, { mode: pageMode ? "page" : "hero" });
   }
   // Enhance the site header search box on every page that has one.
