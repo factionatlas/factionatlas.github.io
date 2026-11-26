@@ -1,4 +1,4 @@
-/* Faction Atlas map chrome — Ben overlay (2026-11-21, theme follow-up).
+/* Faction Atlas map chrome — Ben overlay (2026-11-25, pinch zoom).
    Toolbar, search, buttons, panel, legend and table use the site theme
    tokens (light and dark via prefers-color-scheme). Cytoscape zone fills
    and the band title are still hard-coded in atlas-map.js; see
@@ -379,5 +379,50 @@
   .atlas-map .map-trace button[data-act="untrace"] {
     grid-column: 2;
     margin-top: 0.2rem;
+  }
+}
+
+/* ---- zoom: pinch the map (not the page); +/- as a fallback ---------- */
+.atlas-map .map-canvas,
+.atlas-map #map-canvas {
+  touch-action: none;
+}
+.atlas-map .map-zoom {
+  position: absolute;
+  left: 0.7rem;
+  bottom: 0.7rem;
+  z-index: 6;
+  display: flex;
+  flex-direction: column;
+  border: 1.5px solid var(--text);
+  border-radius: 4px;
+  background: var(--surface);
+  box-shadow: 4px 4px 0 var(--surface2);
+  overflow: hidden;
+  color-scheme: inherit;
+}
+.atlas-map .map-zoom button {
+  width: 2.75rem;
+  height: 2.75rem;
+  min-height: 2.75rem;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 1.5px solid var(--strong);
+  background: var(--surface);
+  color: var(--text);
+  font: 600 1.35rem/1 var(--f-ui);
+  cursor: pointer;
+  touch-action: manipulation;
+  color-scheme: inherit;
+}
+.atlas-map .map-zoom button:last-child { border-bottom: 0; }
+.atlas-map .map-zoom button:hover { background: var(--surface2); }
+@media (max-width: 760px) {
+  /* Sit above the phone's bottom details sheet. */
+  .atlas-map .map-zoom {
+    bottom: auto;
+    top: 0.7rem;
   }
 }
