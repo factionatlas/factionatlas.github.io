@@ -1,9 +1,10 @@
-/* Faction Atlas map chrome — Ben overlay (2026-11-25, pinch zoom).
-   Toolbar, search, buttons, panel, legend and table use the site theme
-   tokens (light and dark via prefers-color-scheme). Cytoscape zone fills
-   and the band title are still hard-coded in atlas-map.js; see
-   /workspace/ben/factionatlas-drafts/map-style/STYLE.md §11 for the
-   dark palette and the snippet Mac can apply.
+/* Faction Atlas map chrome — Ben overlay (2026-11-25, pinch zoom and
+   defunct-faction styling). Toolbar, search, buttons, panel, legend and
+   table use the site theme tokens (light and dark via prefers-color-scheme).
+   Cytoscape zone fills and the band title are still hard-coded in
+   atlas-map.js; see /workspace/ben/factionatlas-drafts/map-style/STYLE.md
+   §11 for the dark palette and the snippet Mac can apply. Defunct node
+   colours on the canvas are applied by atlas-map-ben.js from these tokens.
 */
 
 /* ---- map tokens (for chrome now; for Mac's JS once it reads them) ----- */
@@ -23,6 +24,8 @@
   --map-hist-border: #333333;
   --map-out-box: #E8E4DC;
   --map-out-ink: #1E2A2F;
+  --map-defunct-fill: #B9B3A8;
+  --map-defunct-border: #3B3A35;
   --hist-bg: #E6DDD0; /* warm stand-in for theme --hist-bg #E1EBE8 */
   --hist-fg: #3B3226;
 }
@@ -43,6 +46,8 @@
     --map-hist-border: #B3A790;
     --map-out-box: #454B4E;
     --map-out-ink: #E9E4D8;
+    --map-defunct-fill: #5A5852;
+    --map-defunct-border: #D4D0C6;
     --hist-bg: #1F3331;
     --hist-fg: #CFE3DF;
   }
@@ -294,6 +299,20 @@
 .page-map .map-box {
   border-radius: 2px;
   border: 1px solid var(--text);
+}
+.atlas-map .map-box-defunct,
+.page-map .map-box-defunct {
+  background-color: var(--map-defunct-fill);
+  background-image: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 2px,
+    color-mix(in srgb, var(--map-defunct-border) 35%, transparent) 2px,
+    color-mix(in srgb, var(--map-defunct-border) 35%, transparent) 4px
+  );
+  border: 2px dotted var(--map-defunct-border);
+  color: transparent;
+  font-style: italic;
 }
 .atlas-map .map-swatch,
 .page-map .map-swatch {
