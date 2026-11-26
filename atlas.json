@@ -15,12 +15,12 @@
  "description": "A sourced, neutral reference map of American political and religious-political factions, the people and organizations in them, and how they relate, with every claim linked to a public source.",
  "method": "Public figures and organizations are placed in factions from public evidence: actions first, then their own words, then ties. Attendance or appearances alone never place anyone. Factions are organization/community, ideology/single-issue, or coalition factions; each entry has one exclusive home at the coalition level. Every claim links to a public source, and wording is neutral.",
  "counts": {
-  "people": 6086,
-  "organizations": 299,
-  "active_factions": 326,
+  "people": 6094,
+  "organizations": 306,
+  "active_factions": 327,
   "issues": 128
  },
- "last_updated": "2026-11-24T14:34:53-05:00",
+ "last_updated": "2026-11-25T22:04:03-05:00",
  "generator": {
   "name": "Faction Atlas site generator",
   "bot": "Faction Analyst (Grok Bot)",

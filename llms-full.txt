@@ -48,7 +48,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Anti-Israel / anti-war right](https://factionatlas.github.io/faction/anti_israel_antiwar/) — Accounts organized around opposing U.S. support for Israel and new Mideast wars, including Iran in 2026. This cuts across the groypers, the CN NXR wing and the Tucker/Candace sphere. Former members are not automatically…
 - [Anti-Masonic Party (1827–1840)](https://factionatlas.github.io/faction/hist_anti_masonic_party/) — First US third party, founded in upstate New York in 1827 after the 1826 Morgan affair, opposing Freemasonry and Jacksonian 'elitism' and favoring the American System. It held the first national nominating convention (1…
 - [Anti-Zionist America PAC (AZAPAC)](https://factionatlas.github.io/faction/org_azapac/) — Federal PAC registered with the FEC (committee C00916379, FEC). Its own About/Mission page: 'The Anti-Zionist America PAC (AZAPAC) exists to end America's political, financial, and military entanglement with Israel. We…
-- [Antioch Declaration circle (Reformed)](https://factionatlas.github.io/faction/cc_antioch_reformed/) — Faction entry: Antioch Declaration circle (Reformed)
+- [Antioch Declaration circle (Reformed)](https://factionatlas.github.io/faction/cc_antioch_reformed/) — The Antioch Declaration (public on or about 2024-11-20) is a statement by "confessionally Reformed, Lutheran and Evangelical believers from a broad range of churches" who "have come together to identify and resist a ris…
 - [Antiwar.com](https://factionatlas.github.io/faction/org_antiwar_com/) — Own "Who we are" page: "This site is devoted to the cause of non-interventionism"; "Our politics are libertarian." Staff page lists CEO/Editor Eric Garris, Executive Director Angela Keaton, Editorial Director Scott Hort…
 - [Article III Project (A3P)](https://factionatlas.github.io/faction/org_article_iii_project/) — Mike Davis's judicial-confirmations and legal-warfare group.
 - [Asatru Folk Assembly](https://factionatlas.github.io/faction/org_asatru_folk_assembly/) — Defined by its own About page: 'Ásatrú is the expression of our native, pre-Christian religion of Europe… the religion by which the Ethnic European Folk have traditionally related to the Divine'; the AFA was 'formed by…
@@ -56,6 +56,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Atlas Arms](https://factionatlas.github.io/faction/org_atlas_arms/) — Non-profit research group (Atlas Arms Research) and affiliated manufacturing branch developing legally unrestricted armor-penetrating ammunition designs (Dagny Dagger) and related open-source data, arguing that 1980s fe…
 - [BAP / vitalist sphere](https://factionatlas.github.io/faction/pl_bap_vitalists/) — Bronze Age Pervert and the anon 'frogs' and other anonymous accounts: aesthetic, Nietzschean and hostile to Hazony-style NatCon. Examples: BAP on Hazony's 'exhausted ethnoreligious Judaean narcissism' (post); FedPoastin…
 - [Basham / Protestia evangelical critics](https://factionatlas.github.io/faction/cc_basham_orbit/) — Evangelical journalists and watchdogs who criticize 'Big Eva' from the right yet refuse to join the Lindsay/O'Fallon 'woke right' campaign. Examples: Basham, 'Last word on… post-liberals at Claremont': O'Fallon 'does no…
+- [Becket Fund for Religious Liberty (Becket)](https://factionatlas.github.io/faction/org_becket/) — Own About page: "The Becket Fund for Religious Liberty is a non-profit, public-interest legal and educational institute with a mission to protect the free expression of all faiths," and "Becket exists to defend the free…
 - [Black Guns Matter (BGM)](https://factionatlas.github.io/faction/org_black_guns_matter/) — Wikipedia: 'Black Guns Matter is an organization aimed at educating African Americans about gun culture in the United States, primarily around Second Amendment rights.' Own X bio: 'Freedom advocates specializing in fire…
 - [Blue Dog Coalition](https://factionatlas.github.io/faction/org_blue_dog_coalition/) — Own site: 'The Blue Dog Coalition is an official caucus in the U.S. House of Representatives comprised of fiscally-responsible Democrats, who are leading the way to find commonsense solutions. They are pragmatic Democra…
 - [Bourbon Democrats (1872–1904)](https://factionatlas.github.io/faction/hist_bourbon_democrats/) — Conservative, pro-business wing of the Democratic Party in the Gilded Age, led by Samuel Tilden and Grover Cleveland: the gold standard, low tariffs, limited government and opposition to Populist inflationism. It lost c…
@@ -75,13 +76,13 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Center for Baptist Leadership (CBL)](https://factionatlas.github.io/faction/org_center_for_baptist_leadership/) — Own key-issues page backs the Law Amendment (men only as pastors in cooperating churches) and "Restoring Mission Fidelity to the ERLC".
 - [Center for Immigration Studies (CIS)](https://factionatlas.github.io/faction/org_cis/) — Faction entry: Center for Immigration Studies (CIS)
 - [Center for Popular Democracy (CPD)](https://factionatlas.github.io/faction/org_center_for_popular_democracy/) — Official about page: it is 'a network of 47 grassroots organizations across 32 states, D.C., and Puerto Rico that unapologetically demand transformational change for Black, brown, and low-income communities' and works t…
-- [Center for Renewing America (CRA)](https://factionatlas.github.io/faction/org_center_renewing_america/) — Russ Vought's think tank (founded 2021).
+- [Center for Renewing America (CRA)](https://factionatlas.github.io/faction/org_center_renewing_america/) — The Center for Renewing America says "Our mission is to renew a consensus of America as a nation under God with unique interests worthy of defending that flow from its people, institutions, and history, where individual…
 - [Center on Budget and Policy Priorities (CBPP)](https://factionatlas.github.io/faction/org_center_on_budget/) — Official about page: CBPP is 'a nonpartisan research and policy institute that advances federal and state policies to help build a nation where everyone — regardless of income, race, ethnicity, sexual orientation, gende…
 - [Center/left foreign-policy restraint](https://factionatlas.github.io/faction/cl_restraint_antiwar/) — Faction entry: Center/left foreign-policy restraint
 - [Centre for Effective Altruism (CEA)](https://factionatlas.github.io/faction/org_cea/) — The Centre for Effective Altruism, the movement’s central community organization. Child of effective altruism. Created Q15.
 - [Chicago Guns Matter (CGM)](https://factionatlas.github.io/faction/org_chicago_guns_matter/) — Faction entry: Chicago Guns Matter (CGM)
 - [Children's Health Defense (CHD)](https://factionatlas.github.io/faction/org_childrens_health_defense/) — Wikipedia: 'Children's Health Defense (CHD) is an American 501(c)(3) nonprofit activist group mainly known for anti-vaccine advocacy'... 'Founded as World Mercury Project in 2007 by Eric Gladen, it was chaired by lawyer…
-- [Christian conservative legal movement](https://factionatlas.github.io/faction/cc_christian_legal_movement/) — Idea faction. Christian legal advocacy organizations that litigate religious-liberty, life, marriage and parental-rights cases and train 'Christian worldview' lawyers. Shared personnel and pipeline: HSLDA co-founder Mic…
+- [Christian conservative legal movement](https://factionatlas.github.io/faction/cc_christian_legal_movement/) — The Christian conservative legal movement is defined from the own About pages of its member legal ministries, which have no joint statement.
 - [Christian Conservatives](https://factionatlas.github.io/faction/christian_conservatives/) — Faction entry: Christian Conservatives
 - [Christian Nationalists](https://factionatlas.github.io/faction/christian_nationalists/) — Christians, mostly Reformed and other Protestant pastors and writers, who call themselves Christian nationalists and argue that a Christian people should order its laws and customs as a Christian nation.
 - [Christian Reconstructionism / theonomy (1960s–2000s)](https://factionatlas.github.io/faction/hist_christian_reconstructionism/) — Reformed movement founded by R. J. Rushdoony (The Institutes of Biblical Law, 1973), developed by Greg Bahnsen (Theonomy in Christian Ethics, 1977) and Gary North. It argued that Old Testament civil law should guide mod…
@@ -105,7 +106,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Commonwealth Foundation (PA)](https://factionatlas.github.io/faction/org_commonwealth_foundation/) — Harrisburg, PA free-market think tank (Commonwealth Foundation for Public Policy Alternatives); SPN affiliate.
 - [Communications Workers of America (CWA)](https://factionatlas.github.io/faction/org_communications_workers_of_america/) — Official overview: CWA represents workers in communications, news media, airlines, broadcasting, public service, higher education, health care, manufacturing, and high tech, and says its legislative and political progra…
 - [Compassionate conservatism / Bush era (c. 1999–2009)](https://factionatlas.github.io/faction/hist_compassionate_conservatism/) — The George W. Bush-era governing program inside the Reagan-era movement: faith-based initiatives, No Child Left Behind, Medicare Part D, and the post-9/11 hawkish turn. Wikipedia: 'The term entered mainstream parlance b…
-- [Competitive Enterprise Institute (CEI)](https://factionatlas.github.io/faction/org_cei/) — Faction entry: Competitive Enterprise Institute (CEI)
+- [Competitive Enterprise Institute (CEI)](https://factionatlas.github.io/faction/org_cei/) — The Competitive Enterprise Institute (CEI) says "CEI’s mission is to reform America’s unaccountable regulatory state" and that it develops and advocates "policies to eliminate harmful bureaucratic controls so people can…
 - [Concerned Veterans for America (CVA)](https://factionatlas.github.io/faction/org_concerned_veterans/) — Faction entry: Concerned Veterans for America (CVA)
 - [Concerned Women for America (CWA)](https://factionatlas.github.io/faction/org_cwa/) — 'Socially conservative, evangelical non-profit women's legislative action committee' (Wikipedia), led by Penny Young Nance (@PYNance, per the org's bio); 'She Prays She Votes' bus tour .
 - [Congressional Black Caucus (CBC)](https://factionatlas.github.io/faction/org_cbc/) — Faction entry: Congressional Black Caucus (CBC)
@@ -118,7 +119,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Conservative media (Daily Wire, Levin, Beck)](https://factionatlas.github.io/faction/mr_conservative_media/) — Established conservative outlets and hosts. In this window they focused on Islamism and the El-Sayed race, and were targets of DR/CN attacks over Israel. Examples: Shapiro on El-Sayed and the Muslim Brotherhood (post);…
 - [Conservative news media](https://factionatlas.github.io/faction/mr_news_media/) — Conservative outlets and news aggregators.
 - [Conservative Partnership Institute (CPI)](https://factionatlas.github.io/faction/org_conservative_partnership_institute/) — Wikipedia: 'The Conservative Partnership Institute (CPI) is a United States-based conservative 501(c)(3) political education and advocacy nonprofit organization.' 'The stated purpose of CPI is the professional developme…
-- [Conservative Party](https://factionatlas.github.io/faction/uk_conservative_party/) — Conservative Party (Kemi Badenoch leader) and its accounts.
+- [Conservative Party](https://factionatlas.github.io/faction/uk_conservative_party/) — The Conservative Party, led by Kemi Badenoch, says on its own site that it is "standing up for your values and priorities", from "leaving the ECHR so we can get control of Britain’s borders" to "cutting state spending s…
 - [Constitutional Union Party (1860–1861)](https://factionatlas.github.io/faction/hist_constitutional_union_party/) — Party formed in 1860 by former Whigs and Know Nothings, chiefly in the border states, to preserve the Union by avoiding the slavery question. It nominated John Bell and Edward Everett, with John J. Crittenden among its…
 - [Continental European right](https://factionatlas.github.io/faction/euro_continental_right/) — French and other continental accounts, centred in this window on the Paris riots and Bardella. Example: Brivael: 'This is bigger than France… institutions captured by an ideology' (post); Vauban Books (postliberal publi…
 - [Copperheads / Peace Democrats (c. 1860–1868)](https://factionatlas.github.io/faction/hist_copperheads/) — Faction of Northern Democrats during the Civil War, led by Clement Vallandigham and Alexander Long, that opposed the war and sought a negotiated peace with the Confederacy, and opposed emancipation. It lost support afte…
@@ -163,7 +164,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ethics and Public Policy Center (EPPC)](https://factionatlas.github.io/faction/org_eppc/) — The Ethics and Public Policy Center, founded in 1976, calls itself "Washington, D.C.'s premier institute dedicated to applying a true and full account of the human person to contemporary questions of law, culture, and p…
 - [European New Right / Traditionalism (1968–)](https://factionatlas.github.io/faction/ext_european_new_right/) — The French Nouvelle Droite (GRECE, Alain de Benoist, from 1968) and the earlier Traditionalist school (Julius Evola). An intellectual source for identitarian movements; Matthew Rose's 'A World After Liberalism' counts i…
 - [Evangelical establishment ('liberal Christian right')](https://factionatlas.github.io/faction/cc_evangelical_establishment/) — The evangelical establishment is the network of mainstream evangelical institutions (SBC entities, The Gospel Coalition, Christianity Today, the National Association of Evangelicals and others) and the pastors and write…
-- [Ex-left heterodox / free-speech centrists](https://factionatlas.github.io/faction/ext_exleft_heterodox/) — Free-speech and anti-woke institutions and writers who come from the center or left and do not call themselves right-wing (e.g. FIRE, Quillette, The Free Press).
+- [Ex-left heterodox / free-speech centrists](https://factionatlas.github.io/faction/ext_exleft_heterodox/) — These institutions have no joint statement; their own About pages describe them as non-partisan or independent defenders of free speech and open debate, and none of the three read calls itself right-wing. FIRE says it "…
 - [Faith & Freedom Coalition](https://factionatlas.github.io/faction/org_faith_and_freedom/) — Conservative political advocacy 501(c)(4) (Wikipedia) chaired by Ralph Reed, first executive director of the Christian Coalition (Wikipedia); GOP voter mobilization ('Vote your values',).
 - [Family Research Council (FRC) / FRC Action / The Washington Stand](https://factionatlas.github.io/faction/org_frc/) — American evangelical 501(c)(3) activist group and think tank 'with an affiliated lobbying organization' (Wikipedia).
 - [Federalist Party (1789–1825)](https://factionatlas.github.io/faction/hist_federalist_party/) — First American political party, organized around Alexander Hamilton's Treasury program: a strong national government, a national bank, public credit and close commercial ties with Britain. Its base was New England merch…
@@ -200,7 +201,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Governing-wing moderate Republicans (Governance Group)](https://factionatlas.github.io/faction/mr_gop_moderates/) — House Republicans in the Republican Governance Group (RG2, formerly the Tuesday Group).
 - [Groyper core (Fuentes orbit)](https://factionatlas.github.io/faction/af_groyper_core/) — Faction entry: Groyper core (Fuentes orbit)
 - [Groypers (Fuentes)](https://factionatlas.github.io/faction/america_first_groypers/) — Nick Fuentes's America First movement (also called groypers). Asked by Webbon whether America First is "just" anti-Israel, he says that is "not enough" and "even more than that," and he is careful not to use "anti-Israe…
-- [Gun Owners of America (GOA)](https://factionatlas.github.io/faction/org_goa/) — Faction entry: Gun Owners of America (GOA)
+- [Gun Owners of America (GOA)](https://factionatlas.github.io/faction/org_goa/) — Gun Owners of America (GOA) says it "is considered the “no compromise” gun lobby" because "Americans have lost some of our precious gun rights and we want them back!" (GOA About).
 - [Gun-rights movement](https://factionatlas.github.io/faction/mr_gun_rights/) — The gun-rights movement is the set of membership organizations whose stated mission is defending the Second Amendment, in two styles by their own words: the NRA's institutional advocacy and education, and groups that ca…
 - [H-1B / Indian-immigration restrictionists](https://factionatlas.github.io/faction/rr_h1b_indian_restrictionists/) — A cross-faction topic cluster with its own recurring accounts, focused on Indian immigration and the H-1B program. Examples: DoDeportations on Indian H-1Bs (post); VDARE's James Kirkpatrick on 'Indians replacing the Ame…
 - [Half-Breeds (1870s–late 1880s)](https://factionatlas.github.io/faction/hist_half_breeds/) — Rival Gilded Age Republican faction around James G. Blaine, James A. Garfield and George Frisbie Hoar that favored moderate civil-service reform against the Stalwarts. It dissolved by the late 1880s.
@@ -210,8 +211,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Heritage & history posting](https://factionatlas.github.io/faction/dr_heritage_history/) — Accounts that post history, Old English, Confederate or Roman material, often as jokes, and draw a DR audience. Examples: Wylfcen's Old English jokes (post); bandy1803 on the conquistador legend (post); Beauregard's '28…
 - [Heritage Action for America](https://factionatlas.github.io/faction/org_heritage_action/) — Faction entry: Heritage Action for America
 - [Heritage Foundation / Heritage Action](https://factionatlas.github.io/faction/org_heritage_foundation/) — The Heritage Foundation is a Washington think tank whose stated mission is "to formulate and promote conservative public policies based on the principles of free enterprise, limited government, individual freedom, tradi…
-- [Hillsdale College](https://factionatlas.github.io/faction/org_hillsdale/) — Private classical liberal-arts college in Michigan (president Larry P. Arnn since 2000).
-- [Home School Legal Defense Association (HSLDA)](https://factionatlas.github.io/faction/org_hslda/) — Homeschool legal-defense and advocacy organization (founded 1983 by Michael Farris; describes itself as a Christian organization).
+- [Hillsdale College](https://factionatlas.github.io/faction/org_hillsdale/) — Hillsdale College's mission statement calls it "an independent institution of higher learning founded in 1844" by founders "grateful to God for the inestimable blessings" of civil and religious liberty, and says that "A…
+- [Home School Legal Defense Association (HSLDA)](https://factionatlas.github.io/faction/org_hslda/) — The Home School Legal Defense Association (HSLDA) calls itself "a 501(c)(3) nonprofit, tax-exempt, religious, membership organization that advocates for homeschooling, defends the civil rights of homeschoolers, and prov…
 - [Hoover Institution](https://factionatlas.github.io/faction/org_hoover/) — Faction entry: Hoover Institution
 - [House Freedom Caucus](https://factionatlas.github.io/faction/mr_freedom_caucus/) — The House Freedom Caucus calls itself "the conservative rudder of the Republican Conference—steering the GOP always to the right", "Bigger than any one person. Rooted in principle." (own post, October 14, 2026, post). I…
 - [Hudson Institute](https://factionatlas.github.io/faction/org_hudson/) — Hudson Institute calls itself "a research organization promoting American leadership for a secure, free, and prosperous future", under the line "Security. Freedom. Prosperity."
@@ -221,13 +222,13 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Identitarian & restrictionist currents](https://factionatlas.github.io/faction/dr_identitarian_restrictionists/) — Factions whose core issue is immigration and national/ethnic identity rather than US movement politics: self-described race realists and the UK & European right.
 - [Ignored](https://factionatlas.github.io/faction/ignored/) — Faction entry: Ignored
 - [Illinois Policy Institute](https://factionatlas.github.io/faction/org_illinois_policy/) — Chicago/Springfield free-market think tank; SPN affiliate.
-- [Immigration restrictionists](https://factionatlas.github.io/faction/mr_immigration_restriction/) — Conservatives and policy groups that advocate lower immigration levels and stronger enforcement: FAIR ('FAIR was founded in 1979',), the Center for Immigration Studies and NumbersUSA.
+- [Immigration restrictionists](https://factionatlas.github.io/faction/mr_immigration_restriction/) — Immigration-restriction organizations on the right, in their own words, advocate lower immigration levels in what they call the national interest; they have no joint statement, so the group is defined from the own About…
 - [Immigration-reduction organizations](https://factionatlas.github.io/faction/mr_immigration_reduction_orgs/) — Faction entry: Immigration-reduction organizations
 - [Imperium Press](https://factionatlas.github.io/faction/org_imperium_press/) — Own site: 'Imperium Press: The Classics Department of the Future' (series incl. Western Canon, Traditionalist Histories, Studies in Reaction).
 - [Independent Women's Forum (IWF) / Independent Women's Voice (IWV)](https://factionatlas.github.io/faction/org_iwf/) — Independent Women's Forum (IWF), now using the public name "Independent Women", is a 501(c)(3) policy group founded in 1992 that says it "emerged as a bold alternative to organizations claiming to speak for all women";…
 - [Indiana Gun Owners](https://factionatlas.github.io/faction/org_indiana_gun_owners/) — Indiana Gun Owners is a discussion and classifieds forum for gun and other weapon owners in Indiana and surrounding areas. Own home page: 'IndianaGunOwners.com is a discussion forum for gun and other weapon owners in th…
 - [Indivisible](https://factionatlas.github.io/faction/org_indivisible/) — Official about page: "Indivisible is a nationwide movement of millions of people working to stop the rise of authoritarianism in the US and to demand a real democracy." The Indivisible Project (501c4) "drives coordinate…
-- [Industrial-policy / labor right](https://factionatlas.github.io/faction/mr_industrial_policy_right/) — Group-of-organizations parent: tariffs, reshoring, industrial policy and the Teamsters–GOP alignment, a coherent current that NatCon describes only loosely. Org wings: American Compass (Oren Cass), American Affairs (Jul…
+- [Industrial-policy / labor right](https://factionatlas.github.io/faction/mr_industrial_policy_right/) — The industrial-policy right has no joint statement; its own institutions describe it as a conservative economics centered on workers, domestic industry and the national interest rather than free markets alone.
 - [Informed Consent Action Network (ICAN)](https://factionatlas.github.io/faction/org_ican/) — Informed Consent Action Network, founded in 2016 by Del Bigtree. The organization’s About page describes informed-consent advocacy and legal actions involving HHS, CDC, NIH, and FDA. Child of MAHA. Created Q13.
 - [Infowars (1999–2026)](https://factionatlas.github.io/faction/infowars_network/) — Historical media faction: classic Infowars (1999–May 2026) was a real multi-host organized media network around Alex Jones and its shows (The Alex Jones Show, The War Room, and related hosts).
 - [Institute for Family Studies (IFS)](https://factionatlas.github.io/faction/org_ifs/) — Marriage-and-family research institute (Charlottesville, VA).
@@ -245,8 +246,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Judicial Watch](https://factionatlas.github.io/faction/org_judicial_watch/) — Conservative legal/educational foundation that promotes transparency, accountability and integrity in government, politics and the law, using Freedom of Information Act (FOIA) requests and lawsuits (self-description,; W…
 - [Justice Democrats](https://factionatlas.github.io/faction/org_justice_democrats/) — Own About page: mission 'To build people power in our country by electing a bloc of working class leaders in Congress who meet the urgency of our political moment and serve the people's agenda — not the interests of big…
 - [Know Nothings / American Party (c. 1844–1860)](https://factionatlas.github.io/faction/hist_know_nothings/) — Nativist movement of the 1840s and 1850s, organized as the Native American Party and then the American Party: opposition to Catholic and Irish/German immigration and longer naturalization periods. It drew a mix of forme…
-- [Koch network (Stand Together / AFP family)](https://factionatlas.github.io/faction/lib_koch_network/) — Faction entry: Koch network (Stand Together / AFP family)
-- [Labor left](https://factionatlas.github.io/faction/labor_left/) — Not a category of all unions. Defined from the official words of its member organizations: the AFL-CIO 'fight[s] for social and economic justice and strive[s] to vanquish oppression in all its forms,' and SEIU is 'dedic…
+- [Koch network (Stand Together / AFP family)](https://factionatlas.github.io/faction/lib_koch_network/) — The Koch network is defined from the own About pages of Stand Together, the community's central organization, and of Americans for Prosperity, its main grassroots advocacy arm.
+- [Labor left](https://factionatlas.github.io/faction/labor_left/) — The labor left is the union-based political camp of the left; it has no joint statement, so it is defined from the own About pages of its two largest member organizations.
 - [Laborers' International Union of North America (LIUNA)](https://factionatlas.github.io/faction/org_laborers_international/) — Official about page: 'LIUNA – the Laborers’ International Union of North America – is a powerhouse of workers who are proud to build the United States and Canada. A half-million strong, we are united through collective…
 - [Lambda Legal](https://factionatlas.github.io/faction/org_lambda_legal/) — Official history page: 'The Lambda Legal Defense and Education Fund, Inc. (“Lambda Legal”) is a national organization working to achieve full recognition of the civil rights of lesbian, gay, bisexual, transgender, and q…
 - [Leadership Institute](https://factionatlas.github.io/faction/org_leadership_institute/) — Faction entry: Leadership Institute
@@ -310,7 +311,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [National Republican Senatorial Committee (NRSC)](https://factionatlas.github.io/faction/org_nrsc/) — Senate Republicans' campaign committee. Moreno press release: 'Senator Bernie Moreno (R-Ohio) was elected Chairman of the National Republican Senatorial Committee (NRSC) by his colleagues for the 2028 cycle. The NRSC is…
 - [National Review](https://factionatlas.github.io/faction/org_national_review/) — National Review defines its founding project in William F. Buckley Jr.'s "Our Mission Statement" (19 Nov 1955): the magazine "stands athwart history, yelling Stop, at a time when no one is inclined to do so", because "l…
 - [National Review circle / fusionism (1955–c. 1964)](https://factionatlas.github.io/faction/hist_national_review_circle/) — Postwar conservative movement around William F. Buckley Jr.'s National Review (founded November 1955): James Burnham, Frank Meyer, Russell Kirk, Willmoore Kendall, L. Brent Bozell and William Rusher. Meyer's fusionism j…
-- [National Rifle Association (NRA / NRA-ILA)](https://factionatlas.github.io/faction/org_nra/) — Faction entry: National Rifle Association (NRA / NRA-ILA)
+- [National Rifle Association (NRA / NRA-ILA)](https://factionatlas.github.io/faction/org_nra/) — The National Rifle Association calls itself the "Defender of Second Amendment Rights and the Premier Firearms Education Organization in the World" and says that, "Founded in 1871 with the goal to advance rifle marksmans…
 - [National Right to Life Committee (NRLC)](https://factionatlas.github.io/faction/org_nrlc/) — Faction entry: National Right to Life Committee (NRLC)
 - [National Right to Work Committee](https://factionatlas.github.io/faction/org_nrtwc/) — Official homepage: 'The National Right To Work Committee is a coalition of 2.8 million workers and concerned Americans fighting to break the chains of forced unionism.' Official officers page names Mark Mix as president…
 - [National Shooting Sports Foundation (NSSF)](https://factionatlas.github.io/faction/org_nssf/) — Faction entry: National Shooting Sports Foundation (NSSF)
@@ -319,7 +320,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Nationalist-populist wing](https://factionatlas.github.io/faction/dr_nationalist_populist/) — Dissident-right factions organized around nation and people: immigration restriction, America First non-interventionism and opposition to US support for Israel. Inherits paleoconservative themes.
 - [Native American Rights Fund (NARF)](https://factionatlas.github.io/faction/org_native_american_rights_fund/) — Official about page: 'The Native American Rights Fund holds governments accountable. We fight to protect Native American rights, resources, and lifeways through litigation, legal advocacy, and legal expertise.'
 - [Natural Law Institute](https://factionatlas.github.io/faction/org_natural_law_institute/) — Own site (About): 'A fellowship of practitioners and scholars building the intellectual infrastructure for lawful civilization: grammar, logic, testimony, rhetoric, behavioral economics, and strictly constructed natural…
-- [Natural-law conservatives](https://factionatlas.github.io/faction/cc_natural_law_conservatives/) — Faction entry: Natural-law conservatives
+- [Natural-law conservatives](https://factionatlas.github.io/faction/cc_natural_law_conservatives/) — This group of religious conservative institutions has no joint statement; its two main institutions describe their aim as bringing a religiously grounded account of the human person into public life.
 - [Neo-evangelicals (1942–c. 1976)](https://factionatlas.github.io/faction/hist_neo_evangelicals/) — Mid-century reform movement that broke with separatist fundamentalism while keeping its doctrine: the National Association of Evangelicals (1942, first president Harold Ockenga), Fuller Seminary, Christianity Today (Car…
 - [Neo-Luddite / anti-technology right](https://factionatlas.github.io/faction/dr_neo_luddites/) — A small current sceptical of industrial technology and the tech right, citing Kaczynski and agrarian and anti-modern writers.
 - [Neoconservative / hawkish establishment](https://factionatlas.github.io/faction/mr_neocon_hawks/) — Right-of-center hawks who back an active US role abroad, a strong military and close alliance with Israel; "neocon" is mostly a label from critics, though some accept it.
@@ -340,7 +341,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Non-political](https://factionatlas.github.io/faction/nonpolitical/) — Faction entry: Non-political
 - [Non-political theology / ministry](https://factionatlas.github.io/faction/nonpolitical_theology/) — Faction entry: Non-political theology / ministry
 - [NumbersUSA](https://factionatlas.github.io/faction/org_numbersusa/) — Faction entry: NumbersUSA
-- [NXR / Right Response (Webbon, Texas)](https://factionatlas.github.io/faction/cn_nxr_ogden/) — Joel Webbon's organizations in Georgetown, Texas. Right Response Ministries (RRM) is the ministry brand and NXR ('New Christian Right') the political brand.
+- [NXR / Right Response (Webbon, Texas)](https://factionatlas.github.io/faction/cn_nxr_ogden/) — Right Response Ministries, on its own About page, names Pastor Joel Webbon as "the President and Founder of Right Response Ministries and the Senior Pastor of Covenant Bible Church, located on the North Side of Austin,…
 - [Objectivist movement (1950s–1968)](https://factionatlas.github.io/faction/hist_objectivist_movement/) — Organized following of Ayn Rand: the informal 'Collective' of the 1950s and the Nathaniel Branden Institute (1958–1968), promoting Objectivism's rational egoism and laissez-faire capitalism. It split in 1968 when Rand b…
 - [Old Glory Club & heritage men's fraternities](https://factionatlas.github.io/faction/af_ogc_fraternities/) — The Old Glory Club (OGC) network of regional 'heritage American' Christian men's fraternities (chapters or 'societies').
 - [Old liberalism (19th c.)](https://factionatlas.github.io/faction/ext_classical_liberalism/) — Outside the right. Nineteenth-century liberal tradition of individual rights, free markets, limited government and free speech (Locke, Smith, Mill). Modern libertarianism and self-described classical liberals trace thei…
@@ -411,7 +412,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ron Paul Institute for Peace and Prosperity](https://factionatlas.github.io/faction/org_ron_paul_institute/) — Own About page: it "continues and expands Dr. Paul's lifetime of public advocacy for a peaceful foreign policy and the protection of civil liberties at home." Executive Director Daniel McAdams.
 - [Ron Paul movement (2007–2012)](https://factionatlas.github.io/faction/hist_ron_paul_movement/) — Supporters of Ron Paul's 2008 and 2012 presidential campaigns: antiwar, anti-Fed, constitutionalist. Later split into Mises Caucus radicals, antiwar restraint conservatives and a paleo pipeline toward the dissident righ…
 - [Roosevelt Institute](https://factionatlas.github.io/faction/org_roosevelt_institute/) — Official about page: "Drawing on the legacy of Franklin and Eleanor Roosevelt, the Roosevelt Institute champions new ideas and new leaders to make our economy and democracy work for the many, not the few."
-- [SBA Pro-Life America](https://factionatlas.github.io/faction/org_sba_pro_life/) — Faction entry: SBA Pro-Life America
+- [SBA Pro-Life America](https://factionatlas.github.io/faction/org_sba_pro_life/) — SBA Pro-Life America, on its own About page, says "We work to end abortion by electing national leaders and advocating for laws that save lives," and that "SBA Pro-Life America's mission is to end abortion by electing n…
 - [Second Amendment Foundation (SAF)](https://factionatlas.github.io/faction/org_saf/) — Faction entry: Second Amendment Foundation (SAF)
 - [Senate progressives (2026 cycle)](https://factionatlas.github.io/faction/dem_senate_progressives/) — Faction entry: Senate progressives (2026 cycle)
 - [Service Employees International Union (SEIU)](https://factionatlas.github.io/faction/org_seiu/) — Official about page: SEIU is 'an organization of 2 million members united by the belief in the dignity and worth of workers and the services they provide — and dedicated to improving the lives of workers and their famil…
@@ -469,14 +470,14 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Vauban Books](https://factionatlas.github.io/faction/org_vauban_books/) — Faction entry: Vauban Books
 - [Vitalist & neoreactionary online right](https://factionatlas.github.io/faction/pl_vitalist_nrx/) — Anti-egalitarian online intellectual currents: BAP vitalism, Yarvin's neoreaction and esoteric philosophy posting.
 - [Washington Free Beacon](https://factionatlas.github.io/faction/org_free_beacon/) — Own About page: chairman Michael Goldfarb, editor in chief Eliana Johnson; own X bio: "Covering the enemies of freedom the way the mainstream media won't."
-- [Watchlist](https://factionatlas.github.io/faction/watchlist/) — The watchlist is a holding bin for tracked public accounts that have not yet been placed in a faction. It is not a faction, and being on it implies nothing about an account's views.
+- [Watchlist](https://factionatlas.github.io/faction/watchlist/) — The watchlist is a holding bin for tracked people and organizations that have not yet been placed in a faction. It is not a faction, and being on it implies nothing about anyone's views.
 - [Whig Party (US) (1833–1856)](https://factionatlas.github.io/faction/hist_whig_party_us/) — Main opposition to the Jacksonian Democrats in the Second Party System, led by Henry Clay and Daniel Webster: congressional supremacy over the executive, economic modernization, tariffs and a national bank. It won the p…
 - [Whigs (Britain) (1680s–1859)](https://factionatlas.github.io/faction/hist_uk_whigs/) — British parliamentary faction and party from the Exclusion Crisis to 1859: parliamentary supremacy, the Glorious Revolution settlement, Protestant toleration and later reform (the Reform Act of 1832). It merged with the…
 - [Woodson Center](https://factionatlas.github.io/faction/org_woodson_center/) — Community-development / self-help nonprofit founded by Robert L. Woodson Sr. (1937 - May 19, 2026).
-- [Working Families Party (WFP)](https://factionatlas.github.io/faction/org_working_families_party/) — Own X bio (@WorkingFamilies): 'We are a progressive grassroots political party building a multiracial, feminist movement of working people to transform America.' National director Maurice Mitchell (Wikipedia infobox; no…
+- [Working Families Party (WFP)](https://factionatlas.github.io/faction/org_working_families_party/) — The Working Families Party, on its own About page, says it "is regular people coming together across our differences to make a better future for us all" and "a multiracial party that fights for workers over bosses and p…
 - [Wretched (Todd Friel)](https://factionatlas.github.io/faction/org_wretched/) — Daily Christian program and media network hosted by Todd Friel ('A Daily Christian Program | Hosted by Todd Friel. Watch on @fortis_plus',). Chris Rosebrough (@piratechristian, Fighting for the Faith) is a similar disce…
 - [Yankee Institute for Public Policy](https://factionatlas.github.io/faction/org_yankee_institute/) — Connecticut free-market think tank; SPN affiliate.
-- [Young America's Foundation (YAF)](https://factionatlas.github.io/faction/org_yaf/) — Conservative youth organization founded 1969; runs campus programs and preserves the Reagan Ranch; president Scott Walker since 2021 (Wikipedia; own bio).
+- [Young America's Foundation (YAF)](https://factionatlas.github.io/faction/org_yaf/) — Young America's Foundation (YAF) says it "is committed to ensuring that increasing numbers of young Americans understand and are inspired by the ideas of individual freedom, a strong national defense, free enterprise, a…
 - [Young Americans for Liberty (YAL)](https://factionatlas.github.io/faction/org_yaliberty/) — Official FAQ: 'the largest and most effective pro-liberty student organization in America—identifying, educating, training, and mobilizing students to Make Liberty Win on campus and beyond. Founded from the Ron Paul mov…
 - [Zionist Organization of America (ZOA)](https://factionatlas.github.io/faction/org_zoa/) — Own About page: "the leading major American Jewish organization courageously defending Israel and the Jewish people."
 
@@ -508,7 +509,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@NEWSMAX](https://factionatlas.github.io/org/p_e6b578533b/) — conservative, independent
 - [@NRCC](https://factionatlas.github.io/org/p_7e4a52de15/) — conservative
 - [@NumbersUSA](https://factionatlas.github.io/org/p_1bfb272f7c/) — Washington, DC
-- [@pnwguerrilla](https://factionatlas.github.io/org/p_690248ed2d/) — Exclusive home: Groypers (Fuentes) . Public profile: @pnwguerrilla on X.
 - [@prageru](https://factionatlas.github.io/org/p_7a783cdb40/) — Exclusive home: Mainstream Right . Public profile: @prageru on X.
 - [@RedState](https://factionatlas.github.io/org/p_c8b1230239/) — editor, @jenvanlaar
 - [@Ricochet](https://factionatlas.github.io/org/p_c53d5b2c37/) — conservative
@@ -561,6 +561,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Claire](https://factionatlas.github.io/org/p_649e6b2d19/) — Exclusive home: Establishment / party Republicans . Public profile: @burnyourbinder on X.
 - [Classic Learning Test](https://factionatlas.github.io/org/p_21de3f8dfa/) — Annapolis, MD
 - [Classical Liberal Caucus of Texas](https://factionatlas.github.io/org/p_a9b702b7cc/) — libertarian
+- [Coalition for a Prosperous America](https://factionatlas.github.io/org/p_5c20c8a72d/) — Exclusive home: Coalition for a Prosperous America (CPA) .
+- [Coalition for Jewish Values](https://factionatlas.github.io/org/p_6c7685ea8d/) — Exclusive home: Christian Conservatives .
 - [Coefficient Giving](https://factionatlas.github.io/org/p_3dcfbc15bc/) — San Francisco, CA
 - [College Republicans at FSU](https://factionatlas.github.io/org/p_2ed3cb3483/) — conservative
 - [Colorado Mises Caucus](https://factionatlas.github.io/org/p_97d6aa0d04/) — Exclusive home: Mises Caucus / LP radicals . Public profile: @COMisesCaucus on X.
@@ -606,6 +608,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Frenly Watch Co.](https://factionatlas.github.io/org/p_75a6f41c58/) — Exclusive home: Dissident Right . Public profile: @frenlywatchco on X.
 - [Fuentes Updates](https://factionatlas.github.io/org/p_1fb0bc8212/) — Exclusive home: Groyper core (Fuentes orbit) . Public profile: @FuentesUpdates on X.
 - [Giving What We Can](https://factionatlas.github.io/org/p_d04b763028/) — Oxford
+- [Global Methodist Church](https://factionatlas.github.io/org/p_bfa11e59a3/) — Exclusive home: Christian Conservatives .
 - [Grimaldus](https://factionatlas.github.io/org/p_e32a88ea0c/) — america first
 - [Healthy Oil Respecter](https://factionatlas.github.io/org/p_d3a95285b7/) — Exclusive home: Dissident Right . Public profile: @RealOilRspctr on X.
 - [Heartbeat Int'l](https://factionatlas.github.io/org/p_6f2950420c/) — Columbus, OH
@@ -625,6 +628,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Institute for Faith & Culture](https://factionatlas.github.io/org/p_cc6fae0c83/) — Fort Lauderdale, FL
 - [Institute for Humane Studies](https://factionatlas.github.io/org/p_55e2bdf7e5/) — Arlington, VA
 - [Intercollegiate Studies Institute](https://factionatlas.github.io/org/p_899fe6e506/) — Defending Western Tradition
+- [Jewish Institute for National Security of America](https://factionatlas.github.io/org/p_3864a504f9/) — Exclusive home: Neoconservative / hawkish establishment .
 - [Jewish Policy Center](https://factionatlas.github.io/org/p_100449cd54/) — Washington, DC
 - [Judicial Watch](https://factionatlas.github.io/org/p_6d8655c464/) — conservative
 - [Justice Democrats](https://factionatlas.github.io/org/p_d9e4cbb98e/) — Exclusive home: Justice Democrats . Public profile: @justicedems on X.
@@ -656,6 +660,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Live Action News](https://factionatlas.github.io/org/p_8c5add88ba/) — United States
 - [LP North Dakota](https://factionatlas.github.io/org/p_ceaa81c7a5/) — Exclusive home: Libertarian Party strategy . Public profile: @LPNorthDakota on X.
 - [LP of West Virginia](https://factionatlas.github.io/org/p_9437acb9c2/) — libertarian
+- [Lutheran Church–Missouri Synod](https://factionatlas.github.io/org/p_c231afd408/) — Exclusive home: Christian Conservatives .
 - [MAHA Caucus](https://factionatlas.github.io/org/p_6f04c7a8b6/) — chairman, @RogerMarshallMD
 - [March for Life](https://factionatlas.github.io/org/p_ab4f59c420/) — Washington, DC
 - [Maryland Republican Party](https://factionatlas.github.io/org/p_7e8947ec3b/) — republican
@@ -696,6 +701,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Polk County Young Republicans](https://factionatlas.github.io/org/p_433a5eba12/) — Lakeland, FL
 - [Populist Solutions](https://factionatlas.github.io/org/p_b176bd8e1f/) — populist
 - [POST](https://factionatlas.github.io/org/p_29a813e07c/) — Exclusive home: Groypers (Fuentes) . Public profile: @postgrypr on X.
+- [Presbyterian Church in America](https://factionatlas.github.io/org/p_7acd64a978/) — Exclusive home: Christian Conservatives .
 - [Problem Solvers Caucus](https://factionatlas.github.io/org/p_413b457f0b/) — Exclusive home: Problem Solvers Caucus (bipartisan) . Public profile: @ProbSolveCaucus on X.
 - [Progressive Caucus](https://factionatlas.github.io/org/p_32d431528b/) — Washington, D.C
 - [Project Veritas](https://factionatlas.github.io/org/p_0bbe76f411/) — institution account; founded 2010 by James O'Keefe; separate from O'Keefe Media Group since 2023 (litigation between them), Project Veritas
@@ -721,6 +727,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Seed Oil Disrespecter](https://factionatlas.github.io/org/p_5250a1bb9d/) — Exclusive home: Dissident Right . Public profile: @SeedOilDsrspctr on X.
 - [Senate Democrats](https://factionatlas.github.io/org/p_42ebec6fc8/) — Washington, DC
 - [Senate Leadership Fund](https://factionatlas.github.io/org/p_e8b8dc209b/) — Exclusive home: Establishment / party Republicans . Public profile: @Senate_Fund on X.
+- [Senate Republicans](https://factionatlas.github.io/org/p_687e1b9d7c/) — republican
 - [Senate Republicans](https://factionatlas.github.io/org/p_72454735a6/) — republican
 - [Sign of the Cross](https://factionatlas.github.io/org/p_6ac62ace07/) — Exclusive home: Christian Conservatives . Public profile: @CatholicSOTC on X.
 - [South Dakota GOP](https://factionatlas.github.io/org/p_e8de8fb341/) — South Dakota
@@ -728,6 +735,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [spiked](https://factionatlas.github.io/org/p_987279db48/) — Exclusive home: Ex-left heterodox / free-speech centrists . Public profile: @spikedonline on X.
 - [Stand Together](https://factionatlas.github.io/org/p_88c9bffd85/) — Arlington, VA
 - [Stand Together Fellowships](https://factionatlas.github.io/org/p_c6172bf8ba/) — Arlington, VA
+- [State Freedom Caucus Network](https://factionatlas.github.io/org/p_1612058bbc/) — Exclusive home: House Freedom Caucus .
 - [Stew Peters Network](https://factionatlas.github.io/org/p_e52a7cb0b6/) — Minneapolis, MN
 - [Stocking Mill Coffee](https://factionatlas.github.io/org/p_fd2565aad6/) — Daytona Beach, FL
 - [Students for Life Action](https://factionatlas.github.io/org/p_5e91bd1ca5/) — United States
@@ -800,179 +808,176 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@9mmsmg](https://factionatlas.github.io/person/p_238eae636d/) — Brescia, Lombardy - Golden, CO
 - [@AaronRDay](https://factionatlas.github.io/person/p_bd23d88f2f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AaronRDay on X.
 - [@AAStack](https://factionatlas.github.io/person/p_c56a11f658/) — Exclusive home: Libertarians . Public profile: @AAStack on X.
-- [@AbbyClosson](https://factionatlas.github.io/person/p_0718d82352/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AbbyClosson on X.
+- [@AbbyClosson](https://factionatlas.github.io/person/p_0718d82352/) — Exclusive home: Ignored . Public profile: @AbbyClosson on X.
 - [@ACLJ](https://factionatlas.github.io/person/p_fd378ae1de/) — Washington, D.C
-- [@ACLJ_Action](https://factionatlas.github.io/person/p_7101cf7b4a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ACLJ_Action on X.
+- [@ACLJ_Action](https://factionatlas.github.io/person/p_7101cf7b4a/) — Exclusive home: American Center for Law & Justice (ACLJ) . Public profile: @ACLJ_Action on X.
 - [@ACLU](https://factionatlas.github.io/person/p_ce89151e08/) — Exclusive home: American Civil Liberties Union (ACLU) . Public profile: @ACLU on X.
-- [@AdamTriplett](https://factionatlas.github.io/person/p_52fc28a3d6/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AdamTriplett on X.
-- [@aelfred80](https://factionatlas.github.io/person/p_b29f00db2e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @aelfred80 on X.
+- [@AdamTriplett](https://factionatlas.github.io/person/p_52fc28a3d6/) — Exclusive home: Non-political theology / ministry . Public profile: @AdamTriplett on X.
+- [@aelfred80](https://factionatlas.github.io/person/p_b29f00db2e/) — Exclusive home: Christian Nationalists . Public profile: @aelfred80 on X.
 - [@AFDutchman](https://factionatlas.github.io/person/p_688a4a9deb/) — Oregon, USA
 - [@AFSCME](https://factionatlas.github.io/person/p_f9d441a52c/) — Exclusive home: American Federation of State, County and Municipal Employees (AFSCME) . Public profile: @AFSCME on X.
 - [@AIPAC](https://factionatlas.github.io/person/p_7e7ba7d2d6/) — Washington, DC
-- [@alex_e_davis](https://factionatlas.github.io/person/p_8f543d71d7/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @alex_e_davis on X.
-- [@alex_kobylarz](https://factionatlas.github.io/person/p_05b2fb5f1b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @alex_kobylarz on X.
-- [@alexanderpcs](https://factionatlas.github.io/person/p_daa1c1a6e3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @alexanderpcs on X.
-- [@AlexIngersoll](https://factionatlas.github.io/person/p_3645e99f4b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AlexIngersoll on X.
-- [@Alexisfire1991](https://factionatlas.github.io/person/p_0be30c47fa/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Alexisfire1991 on X.
-- [@Alexleaf](https://factionatlas.github.io/person/p_76cdbfa292/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Alexleaf on X.
+- [@alex_e_davis](https://factionatlas.github.io/person/p_8f543d71d7/) — Exclusive home: Natural-law conservatives . Public profile: @alex_e_davis on X.
+- [@alex_kobylarz](https://factionatlas.github.io/person/p_05b2fb5f1b/) — Exclusive home: Abortion abolitionists . Public profile: @alex_kobylarz on X.
+- [@alexanderpcs](https://factionatlas.github.io/person/p_daa1c1a6e3/) — Exclusive home: Non-political . Public profile: @alexanderpcs on X.
+- [@AlexIngersoll](https://factionatlas.github.io/person/p_3645e99f4b/) — Exclusive home: Trump-loyal core . Public profile: @AlexIngersoll on X.
+- [@Alexisfire1991](https://factionatlas.github.io/person/p_0be30c47fa/) — Exclusive home: Libertarians . Public profile: @Alexisfire1991 on X.
+- [@Alexleaf](https://factionatlas.github.io/person/p_76cdbfa292/) — Exclusive home: Non-political . Public profile: @Alexleaf on X.
 - [@ALGOP](https://factionatlas.github.io/person/p_01fd77c39b/) — republican
 - [@alicefaith218](https://factionatlas.github.io/person/p_d2acdc3844/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @alicefaith218 on X.
 - [@allahpundit](https://factionatlas.github.io/person/p_a870ef9b11/) — Exclusive home: Free-speech Enlightenment liberals . Public profile: @allahpundit on X.
 - [@AlphaDoge12](https://factionatlas.github.io/person/p_95bbea76b1/) — Ohio, USA
 - [@amjadt25](https://factionatlas.github.io/person/p_fdecc04514/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @amjadt25 on X.
 - [@AnarClips](https://factionatlas.github.io/person/p_b46d2f714e/) — Exclusive home: Ignored . Public profile: @AnarClips on X.
-- [@andrewbreydow](https://factionatlas.github.io/person/p_44f1de8f2b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @andrewbreydow on X.
-- [@AngelaHaysMoore](https://factionatlas.github.io/person/p_18e01708f8/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AngelaHaysMoore on X.
+- [@andrewbreydow](https://factionatlas.github.io/person/p_44f1de8f2b/) — Exclusive home: Trump-loyal core . Public profile: @andrewbreydow on X.
+- [@AngelaHaysMoore](https://factionatlas.github.io/person/p_18e01708f8/) — Exclusive home: Mainstream Right . Public profile: @AngelaHaysMoore on X.
 - [@AngloVarangian](https://factionatlas.github.io/person/p_ee42822ffb/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AngloVarangian on X.
 - [@AnnaM_215](https://factionatlas.github.io/person/p_2fb8e01a0d/) — Los Angeles, CA
-- [@AnnieBot4573](https://factionatlas.github.io/person/p_40254d5b58/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AnnieBot4573 on X.
+- [@AnnieBot4573](https://factionatlas.github.io/person/p_40254d5b58/) — Exclusive home: Non-political . Public profile: @AnnieBot4573 on X.
 - [@AnnPatriot72](https://factionatlas.github.io/person/p_44d0a20c5e/) — america first
 - [@AntiCNtheonomy](https://factionatlas.github.io/person/p_4c5d1b6190/) — Exclusive home: Christian Conservatives . Public profile: @AntiCNtheonomy on X.
 - [@AntifaWatch](https://factionatlas.github.io/person/p_cf8c946d44/) — Exclusive home: Mainstream Right . Public profile: @AntifaWatch on X.
 - [@Anton_Bitcoin](https://factionatlas.github.io/person/p_0d10f3088b/) — Exclusive home: Non-political . Public profile: @Anton_Bitcoin on X.
 - [@Anyextee](https://factionatlas.github.io/person/p_18e44b92af/) — Egypt
 - [@Aranforge](https://factionatlas.github.io/person/p_e190955183/) — america first, nationalist
-- [@AtlasArmsMfg](https://factionatlas.github.io/person/p_6ff7c69611/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AtlasArmsMfg on X.
+- [@AtlasArmsMfg](https://factionatlas.github.io/person/p_6ff7c69611/) — Exclusive home: Atlas Arms . Public profile: @AtlasArmsMfg on X.
 - [@AugustaMaineCoC](https://factionatlas.github.io/person/p_1787e2ce86/) — Augusta, Maine, USA
-- [@AurenReads](https://factionatlas.github.io/person/p_ed85e9acb0/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AurenReads on X.
-- [@AustinShiloh1](https://factionatlas.github.io/person/p_abc745d92a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @AustinShiloh1 on X.
+- [@AurenReads](https://factionatlas.github.io/person/p_ed85e9acb0/) — Exclusive home: Non-political . Public profile: @AurenReads on X.
+- [@AustinShiloh1](https://factionatlas.github.io/person/p_abc745d92a/) — Exclusive home: Mises Caucus / LP radicals . Public profile: @AustinShiloh1 on X.
 - [@AutisticHODL](https://factionatlas.github.io/person/p_b167f28b41/) — Texas, USA
 - [@awcoc1](https://factionatlas.github.io/person/p_f3b3054c5e/) — 33 Letsatsi St, Saulsville,RSA
 - [@bannedpastor](https://factionatlas.github.io/person/p_c1052ffc6f/) — Exclusive home: Christian Conservatives . Public profile: @bannedpastor on X.
 - [@BasedMedical](https://factionatlas.github.io/person/p_7cb830db74/) — cofounder, @Treasure_DAO
-- [@BeauBayhsDiary](https://factionatlas.github.io/person/p_f2d8dfc0b0/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BeauBayhsDiary on X.
 - [@BeccaRyun](https://factionatlas.github.io/person/p_e860ae0f71/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BeccaRyun on X.
 - [@BenbrookCofc](https://factionatlas.github.io/person/p_6a97dec2ff/) — 8936 Benbrook Blvd, Suite D
 - [@BensonNewsHub](https://factionatlas.github.io/person/p_2ae6d56f13/) — independent
 - [@BerlinHeights](https://factionatlas.github.io/person/p_6cefcafc10/) — Evansville, Indiana
 - [@bethesda](https://factionatlas.github.io/person/p_42b184de1c/) — Rockville, MD
-- [@BethesdaSupport](https://factionatlas.github.io/person/p_a8fe2aa309/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BethesdaSupport on X.
+- [@BethesdaSupport](https://factionatlas.github.io/person/p_a8fe2aa309/) — Exclusive home: Non-political . Public profile: @BethesdaSupport on X.
 - [@BGEA](https://factionatlas.github.io/person/p_b2c236d289/) — Charlotte, N.C
 - [@BigHeathenBear](https://factionatlas.github.io/person/p_5ae43a3315/) — Exclusive home: Pagan right (heathen / folkish) . Public profile: @BigHeathenBear on X.
 - [@bigrockcoc](https://factionatlas.github.io/person/p_fe9d0939df/) — Big Rock, Tennessee
-- [@billblasterapp](https://factionatlas.github.io/person/p_992f1adcb8/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @billblasterapp on X.
-- [@BillMelugin_](https://factionatlas.github.io/person/p_4aff6a9d63/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BillMelugin_ on X.
-- [@Billybobwalter1](https://factionatlas.github.io/person/p_2277cb3d84/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Billybobwalter1 on X.
+- [@billblasterapp](https://factionatlas.github.io/person/p_992f1adcb8/) — Exclusive home: Non-political . Public profile: @billblasterapp on X.
+- [@BillMelugin_](https://factionatlas.github.io/person/p_4aff6a9d63/) — Exclusive home: Mainstream Right . Public profile: @BillMelugin_ on X.
 - [@Bitcoin](https://factionatlas.github.io/person/p_5800f2bcc8/) — Worldwide
-- [@BitcoinAnja](https://factionatlas.github.io/person/p_2966d71b94/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BitcoinAnja on X.
+- [@BitcoinAnja](https://factionatlas.github.io/person/p_2966d71b94/) — Exclusive home: Libertarians . Public profile: @BitcoinAnja on X.
 - [@BitcoinErrorLog](https://factionatlas.github.io/person/p_c9b21ed76c/) — Exclusive home: Non-political . Public profile: @BitcoinErrorLog on X.
-- [@BitcoinForCorps](https://factionatlas.github.io/person/p_d8a55373ac/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BitcoinForCorps on X.
+- [@BitcoinForCorps](https://factionatlas.github.io/person/p_d8a55373ac/) — Exclusive home: Non-political . Public profile: @BitcoinForCorps on X.
 - [@Bitkey](https://factionatlas.github.io/person/p_8b2a634fbb/) — Exclusive home: Non-political . Public profile: @Bitkey on X.
 - [@BitmundFreud](https://factionatlas.github.io/person/p_c3ce0eb20e/) — Exclusive home: Non-political . Public profile: @BitmundFreud on X.
 - [@Bitreumalt](https://factionatlas.github.io/person/p_ac243ae92e/) — Earth
 - [@Blockstream](https://factionatlas.github.io/person/p_eb3f6583be/) — Exclusive home: Non-political . Public profile: @Blockstream on X.
-- [@BlockstreamHelp](https://factionatlas.github.io/person/p_d96edc5fdb/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BlockstreamHelp on X.
+- [@BlockstreamHelp](https://factionatlas.github.io/person/p_d96edc5fdb/) — Exclusive home: Non-political . Public profile: @BlockstreamHelp on X.
 - [@blocktank](https://factionatlas.github.io/person/p_7f77ea1ff5/) — Get connected →
 - [@BlueSpringscofc](https://factionatlas.github.io/person/p_9bb78a5209/) — 1000 SW Clark Rd, Blue Springs
 - [@BoostWillis](https://factionatlas.github.io/person/p_b91c551b37/) — The Internet
-- [@bradleyhaley27](https://factionatlas.github.io/person/p_f17d606bbb/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @bradleyhaley27 on X.
+- [@bradleyhaley27](https://factionatlas.github.io/person/p_f17d606bbb/) — Exclusive home: Classic / Reagan–Bush conservatives . Public profile: @bradleyhaley27 on X.
 - [@BradyJBush](https://factionatlas.github.io/person/p_dc78d9952e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BradyJBush on X.
 - [@brandan_buck](https://factionatlas.github.io/person/p_f8722bbd30/) — fellow, @CatoFP
-- [@brandongilltx](https://factionatlas.github.io/person/p_3a0e976f0d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @brandongilltx on X.
+- [@brandongilltx](https://factionatlas.github.io/person/p_3a0e976f0d/) — Exclusive home: Trump-loyal core . Public profile: @brandongilltx on X.
 - [@brave](https://factionatlas.github.io/person/p_d77ef6c510/) — San Francisco, CA
-- [@BraveSupport](https://factionatlas.github.io/person/p_58cb76d25f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BraveSupport on X.
-- [@brentmoney](https://factionatlas.github.io/person/p_9d66ab8345/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @brentmoney on X.
+- [@BraveSupport](https://factionatlas.github.io/person/p_58cb76d25f/) — Exclusive home: Non-political . Public profile: @BraveSupport on X.
+- [@brentmoney](https://factionatlas.github.io/person/p_9d66ab8345/) — Exclusive home: Mainstream Right . Public profile: @brentmoney on X.
 - [@BrettRSmith76](https://factionatlas.github.io/person/p_b72b6a8944/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BrettRSmith76 on X.
-- [@BrianACity](https://factionatlas.github.io/person/p_b2c0ddc560/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BrianACity on X.
-- [@bringinxyz](https://factionatlas.github.io/person/p_4c96bb9b06/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @bringinxyz on X.
-- [@BrittanyEHarvey](https://factionatlas.github.io/person/p_50cc6112ef/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BrittanyEHarvey on X.
-- [@brucefenton](https://factionatlas.github.io/person/p_cafe7892f9/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @brucefenton on X.
+- [@BrianACity](https://factionatlas.github.io/person/p_b2c0ddc560/) — Exclusive home: Classic / Reagan–Bush conservatives . Public profile: @BrianACity on X.
+- [@bringinxyz](https://factionatlas.github.io/person/p_4c96bb9b06/) — Exclusive home: Non-political . Public profile: @bringinxyz on X.
+- [@BrittanyEHarvey](https://factionatlas.github.io/person/p_50cc6112ef/) — Exclusive home: Non-political . Public profile: @BrittanyEHarvey on X.
+- [@brucefenton](https://factionatlas.github.io/person/p_cafe7892f9/) — Exclusive home: Non-political . Public profile: @brucefenton on X.
 - [@BruceSaiFun](https://factionatlas.github.io/person/p_dc13a03891/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BruceSaiFun on X.
 - [@btctmac](https://factionatlas.github.io/person/p_8c2332e6da/) — patriot
 - [@burlingtonfcc](https://factionatlas.github.io/person/p_883034164d/) — Burlington, IN
 - [@callebtc](https://factionatlas.github.io/person/p_4238bafdd9/) — Exclusive home: Libertarians . Public profile: @callebtc on X.
 - [@campbellrdcoc](https://factionatlas.github.io/person/p_bf5484b4bd/) — Garland, TX
-- [@canaaninamerica](https://factionatlas.github.io/person/p_6ddac548b2/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @canaaninamerica on X.
-- [@CanonTwoTwelve](https://factionatlas.github.io/person/p_389723f79e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @CanonTwoTwelve on X.
-- [@CarlHigbie](https://factionatlas.github.io/person/p_94017602d8/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @CarlHigbie on X.
-- [@CarrieIsaac](https://factionatlas.github.io/person/p_b02d9f2132/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @CarrieIsaac on X.
+- [@canaaninamerica](https://factionatlas.github.io/person/p_6ddac548b2/) — Exclusive home: Non-political . Public profile: @canaaninamerica on X.
+- [@CanonTwoTwelve](https://factionatlas.github.io/person/p_389723f79e/) — Exclusive home: Non-political theology / ministry . Public profile: @CanonTwoTwelve on X.
+- [@CarlHigbie](https://factionatlas.github.io/person/p_94017602d8/) — Exclusive home: Trump-loyal core . Public profile: @CarlHigbie on X.
+- [@CarrieIsaac](https://factionatlas.github.io/person/p_b02d9f2132/) — Exclusive home: Mainstream Right . Public profile: @CarrieIsaac on X.
 - [@CatholicVote](https://factionatlas.github.io/person/p_23b73e6f40/) — Exclusive home: Christian Conservatives . Public profile: @CatholicVote on X.
 - [@CatoFP](https://factionatlas.github.io/person/p_e9ea3d2ce1/) — Exclusive home: Cato Institute . Public profile: @CatoFP on X.
 - [@CentralChurcho2](https://factionatlas.github.io/person/p_55c570e86d/) — Exclusive home: Non-political theology / ministry . Public profile: @CentralChurcho2 on X.
 - [@Cernovich](https://factionatlas.github.io/person/p_57e71197ee/) — Exclusive home: MAGA-dissident independents . Public profile: @Cernovich on X.
-- [@chadfelixg](https://factionatlas.github.io/person/p_68ca8a583a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @chadfelixg on X.
-- [@charliekulyrwah](https://factionatlas.github.io/person/p_7ba56f98ad/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @charliekulyrwah on X.
-- [@chelseahandler](https://factionatlas.github.io/person/p_0e9625c463/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @chelseahandler on X.
-- [@Chicago](https://factionatlas.github.io/person/p_97b5ba8f8a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Chicago on X.
+- [@chadfelixg](https://factionatlas.github.io/person/p_68ca8a583a/) — Exclusive home: Pro-Israel right (RJC / ZOA / JPC / Commentary) . Public profile: @chadfelixg on X.
+- [@charliekulyrwah](https://factionatlas.github.io/person/p_7ba56f98ad/) — Exclusive home: Trump-loyal core . Public profile: @charliekulyrwah on X.
+- [@chelseahandler](https://factionatlas.github.io/person/p_0e9625c463/) — Exclusive home: Mainstream Democrats . Public profile: @chelseahandler on X.
+- [@Chicago](https://factionatlas.github.io/person/p_97b5ba8f8a/) — Exclusive home: Progressive left . Public profile: @Chicago on X.
 - [@Chicago1Ray](https://factionatlas.github.io/person/p_1a056ec967/) — maga
-- [@chrishardman](https://factionatlas.github.io/person/p_08ffa68526/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @chrishardman on X.
-- [@ChrisRuddyNMX](https://factionatlas.github.io/person/p_22df9ecd70/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ChrisRuddyNMX on X.
-- [@Christ_OverAll](https://factionatlas.github.io/person/p_de1a0b5d63/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Christ_OverAll on X.
-- [@ChristineDrazan](https://factionatlas.github.io/person/p_330f8c2871/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ChristineDrazan on X.
-- [@ChuckRocha](https://factionatlas.github.io/person/p_317b17c6f0/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ChuckRocha on X.
+- [@chrishardman](https://factionatlas.github.io/person/p_08ffa68526/) — Exclusive home: Non-political . Public profile: @chrishardman on X.
+- [@ChrisRuddyNMX](https://factionatlas.github.io/person/p_22df9ecd70/) — Exclusive home: Trump-loyal core . Public profile: @ChrisRuddyNMX on X.
+- [@Christ_OverAll](https://factionatlas.github.io/person/p_de1a0b5d63/) — Exclusive home: Christian Conservatives . Public profile: @Christ_OverAll on X.
+- [@ChristineDrazan](https://factionatlas.github.io/person/p_330f8c2871/) — Exclusive home: Establishment / party Republicans . Public profile: @ChristineDrazan on X.
+- [@ChuckRocha](https://factionatlas.github.io/person/p_317b17c6f0/) — Exclusive home: Mainstream Democrats . Public profile: @ChuckRocha on X.
 - [@CitizenGO](https://factionatlas.github.io/person/p_f294a93150/) — 50 different countries
 - [@ClearDissolute](https://factionatlas.github.io/person/p_891fcfcc39/) — classical liberal, constitutionalist, libertarian
 - [@ClintonChurch](https://factionatlas.github.io/person/p_7655d054fa/) — Clinton, Tennessee
 - [@CoCChapelHill](https://factionatlas.github.io/person/p_f1b0958008/) — White Bluff Tennessee
 - [@coclawanson](https://factionatlas.github.io/person/p_529b1c3ea9/) — Lawanson, S/L, Lagos, Nigeria
-- [@colemannation1](https://factionatlas.github.io/person/p_1c8d633db3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @colemannation1 on X.
-- [@colorblindk1d](https://factionatlas.github.io/person/p_5ea317186e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @colorblindk1d on X.
-- [@connor_echols](https://factionatlas.github.io/person/p_75640d5982/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @connor_echols on X.
-- [@ConorMartinMO](https://factionatlas.github.io/person/p_e7d98c8c60/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ConorMartinMO on X.
+- [@colemannation1](https://factionatlas.github.io/person/p_1c8d633db3/) — Exclusive home: Trump-loyal core . Public profile: @colemannation1 on X.
+- [@colorblindk1d](https://factionatlas.github.io/person/p_5ea317186e/) — Exclusive home: Libertarians . Public profile: @colorblindk1d on X.
+- [@connor_echols](https://factionatlas.github.io/person/p_75640d5982/) — Exclusive home: Center/left foreign-policy restraint . Public profile: @connor_echols on X.
+- [@ConorMartinMO](https://factionatlas.github.io/person/p_e7d98c8c60/) — Exclusive home: Establishment / party Republicans . Public profile: @ConorMartinMO on X.
 - [@ConquestThread](https://factionatlas.github.io/person/p_5baf20f145/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ConquestThread on X.
 - [@CorySwan](https://factionatlas.github.io/person/p_2a540aae98/) — ceo, @Swan
 - [@counterpod](https://factionatlas.github.io/person/p_1ca70e9e85/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @counterpod on X.
 - [@CPAC](https://factionatlas.github.io/person/p_9f36e0cdb1/) — Where Globalism Goes to Die
-- [@CreationMuseum](https://factionatlas.github.io/person/p_a2358a9f64/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @CreationMuseum on X.
-- [@credova_us](https://factionatlas.github.io/person/p_9ba77027c4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @credova_us on X.
+- [@CreationMuseum](https://factionatlas.github.io/person/p_a2358a9f64/) — Exclusive home: Non-political theology / ministry . Public profile: @CreationMuseum on X.
+- [@credova_us](https://factionatlas.github.io/person/p_9ba77027c4/) — Exclusive home: Non-political . Public profile: @credova_us on X.
 - [@CrenshawCoc](https://factionatlas.github.io/person/p_9f864ebb48/) — Los Angeles, CA
 - [@CrossPolitic](https://factionatlas.github.io/person/p_fb6dd35a01/) — Moscow, Idaho
 - [@CryptoHamsterIO](https://factionatlas.github.io/person/p_05407e5ea8/) — Japan
-- [@CurtTigges](https://factionatlas.github.io/person/p_58ae954319/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @CurtTigges on X.
+- [@CurtTigges](https://factionatlas.github.io/person/p_58ae954319/) — Exclusive home: Non-political . Public profile: @CurtTigges on X.
 - [@DataRepublican](https://factionatlas.github.io/person/p_9afc5794c4/) — Exclusive home: Passage Publishing (Passage Press) . Public profile: @DataRepublican on X.
 - [@DawnStensland](https://factionatlas.github.io/person/p_aa53b94b38/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DawnStensland on X.
-- [@DebraMMason1](https://factionatlas.github.io/person/p_a6472c9122/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DebraMMason1 on X.
+- [@DebraMMason1](https://factionatlas.github.io/person/p_a6472c9122/) — Exclusive home: Trump-loyal core . Public profile: @DebraMMason1 on X.
 - [@DeepBlueCrypto](https://factionatlas.github.io/person/p_f902a19955/) — Exclusive home: Libertarians . Public profile: @DeepBlueCrypto on X.
 - [@defcad](https://factionatlas.github.io/person/p_d0173f7776/) — Exclusive home: Non-political . Public profile: @defcad on X.
-- [@dennyabraham](https://factionatlas.github.io/person/p_c5c169bdda/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @dennyabraham on X.
+- [@dennyabraham](https://factionatlas.github.io/person/p_c5c169bdda/) — Exclusive home: Non-political . Public profile: @dennyabraham on X.
 - [@derekwilc](https://factionatlas.github.io/person/p_a72c93d1ee/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @derekwilc on X.
-- [@DiscoveryCHE](https://factionatlas.github.io/person/p_c2dec187c3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DiscoveryCHE on X.
-- [@DiscoveryCNAI](https://factionatlas.github.io/person/p_b7def6a06d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DiscoveryCNAI on X.
-- [@DiscoveryCWP](https://factionatlas.github.io/person/p_f014ccad54/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DiscoveryCWP on X.
-- [@donna_appraise](https://factionatlas.github.io/person/p_9cbe444a58/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @donna_appraise on X.
+- [@DiscoveryCHE](https://factionatlas.github.io/person/p_c2dec187c3/) — Exclusive home: Discovery Institute . Public profile: @DiscoveryCHE on X.
+- [@DiscoveryCNAI](https://factionatlas.github.io/person/p_b7def6a06d/) — Exclusive home: Discovery Institute . Public profile: @DiscoveryCNAI on X.
+- [@DiscoveryCWP](https://factionatlas.github.io/person/p_f014ccad54/) — Exclusive home: Discovery Institute . Public profile: @DiscoveryCWP on X.
+- [@donna_appraise](https://factionatlas.github.io/person/p_9cbe444a58/) — Exclusive home: Establishment / party Republicans . Public profile: @donna_appraise on X.
 - [@DOOM](https://factionatlas.github.io/person/p_c855adc6d7/) — Hell
-- [@DrewMcKissick](https://factionatlas.github.io/person/p_ad0bafafd1/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DrewMcKissick on X.
+- [@DrewMcKissick](https://factionatlas.github.io/person/p_ad0bafafd1/) — Exclusive home: Establishment / party Republicans . Public profile: @DrewMcKissick on X.
 - [@Drunk3P0](https://factionatlas.github.io/person/p_af01d0c776/) — Next to Your Heart
 - [@DuckDuckGo](https://factionatlas.github.io/person/p_03048e5ee5/) — independent
-- [@dudleywbrown](https://factionatlas.github.io/person/p_db650b1e1c/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @dudleywbrown on X.
-- [@DukeDukingtonRD](https://factionatlas.github.io/person/p_369404414b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DukeDukingtonRD on X.
-- [@DukeLaw](https://factionatlas.github.io/person/p_97f58642e9/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DukeLaw on X.
+- [@DukeDukingtonRD](https://factionatlas.github.io/person/p_369404414b/) — Exclusive home: Non-political . Public profile: @DukeDukingtonRD on X.
+- [@DukeLaw](https://factionatlas.github.io/person/p_97f58642e9/) — Exclusive home: Non-political . Public profile: @DukeLaw on X.
 - [@dustinmoskovitz](https://factionatlas.github.io/person/p_712be548ad/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @dustinmoskovitz on X.
-- [@DylanLeClair](https://factionatlas.github.io/person/p_810109a99a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @DylanLeClair on X.
+- [@DylanLeClair](https://factionatlas.github.io/person/p_810109a99a/) — Exclusive home: Non-political . Public profile: @DylanLeClair on X.
 - [@E3](https://factionatlas.github.io/person/p_011be66c2a/) — Los Angeles, CA
 - [@edchoice](https://factionatlas.github.io/person/p_3383d944d1/) — Indianapolis, IN
 - [@elena_cornaro](https://factionatlas.github.io/person/p_d3b92940d4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @elena_cornaro on X.
-- [@Eliana_Goldin](https://factionatlas.github.io/person/p_e2792a3e6d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Eliana_Goldin on X.
-- [@ericagailyarbro](https://factionatlas.github.io/person/p_a530c7ded6/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ericagailyarbro on X.
-- [@Erikcason](https://factionatlas.github.io/person/p_7767bb7853/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Erikcason on X.
-- [@erinexplores_](https://factionatlas.github.io/person/p_5e71e7f2a7/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @erinexplores_ on X.
+- [@Eliana_Goldin](https://factionatlas.github.io/person/p_e2792a3e6d/) — Exclusive home: Non-political . Public profile: @Eliana_Goldin on X.
+- [@ericagailyarbro](https://factionatlas.github.io/person/p_a530c7ded6/) — Exclusive home: Ignored . Public profile: @ericagailyarbro on X.
+- [@Erikcason](https://factionatlas.github.io/person/p_7767bb7853/) — Exclusive home: Libertarians . Public profile: @Erikcason on X.
+- [@erinexplores_](https://factionatlas.github.io/person/p_5e71e7f2a7/) — Exclusive home: Non-political . Public profile: @erinexplores_ on X.
 - [@exquofonte](https://factionatlas.github.io/person/p_648c31cf78/) — Biological realist. Accumulationist. Bioconservative.
 - [@Fallout](https://factionatlas.github.io/person/p_021806f965/) — Vault-Tec Industries HQ
 - [@FDD](https://factionatlas.github.io/person/p_1bbbe7ee2c/) — Washington DC
 - [@firsttosettle](https://factionatlas.github.io/person/p_607dcedc5b/) — United States
-- [@FloridaYRs](https://factionatlas.github.io/person/p_05f1933d8e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @FloridaYRs on X.
+- [@FloridaYRs](https://factionatlas.github.io/person/p_05f1933d8e/) — Exclusive home: Mainstream Right . Public profile: @FloridaYRs on X.
 - [@FRCAction](https://factionatlas.github.io/person/p_1d1f25e237/) — Washington, DC
-- [@Fred_Butler](https://factionatlas.github.io/person/p_ddbb0106c3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Fred_Butler on X.
+- [@Fred_Butler](https://factionatlas.github.io/person/p_ddbb0106c3/) — Exclusive home: Non-political theology / ministry . Public profile: @Fred_Butler on X.
 - [@fshgroyp](https://factionatlas.github.io/person/p_331f4ca53a/) — Exclusive home: Groypers (Fuentes) . Public profile: @fshgroyp on X.
 - [@FuddHat](https://factionatlas.github.io/person/p_aa6e6ca88c/) — Exclusive home: Ignored . Public profile: @FuddHat on X.
-- [@GabrielDod83525](https://factionatlas.github.io/person/p_0a39ddb7df/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @GabrielDod83525 on X.
+- [@GabrielDod83525](https://factionatlas.github.io/person/p_0a39ddb7df/) — Exclusive home: Non-political . Public profile: @GabrielDod83525 on X.
 - [@gameranx](https://factionatlas.github.io/person/p_b12d98555f/) — New York, NY
 - [@GamersNexus](https://factionatlas.github.io/person/p_54f3c670e0/) — In a series of tubes
-- [@GamersOutreach](https://factionatlas.github.io/person/p_2f60e2f1dc/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @GamersOutreach on X.
+- [@GamersOutreach](https://factionatlas.github.io/person/p_2f60e2f1dc/) — Exclusive home: Non-political . Public profile: @GamersOutreach on X.
 - [@gascope](https://factionatlas.github.io/person/p_784e603638/) — Crypto Void
-- [@gavinnixon7](https://factionatlas.github.io/person/p_2037884777/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @gavinnixon7 on X.
+- [@gavinnixon7](https://factionatlas.github.io/person/p_2037884777/) — Exclusive home: Non-political . Public profile: @gavinnixon7 on X.
 - [@gen0m1cs](https://factionatlas.github.io/person/p_2b27fb57ea/) — Exclusive home: Non-political . Public profile: @gen0m1cs on X.
 - [@GetVideoHQ](https://factionatlas.github.io/person/p_c267d57887/) — Earth
 - [@GlobalViewShow](https://factionatlas.github.io/person/p_7fcb91981f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @GlobalViewShow on X.
 - [@GrassFedBitcoin](https://factionatlas.github.io/person/p_c0cef28901/) — Exclusive home: Non-political . Public profile: @GrassFedBitcoin on X.
 - [@Gravantus](https://factionatlas.github.io/person/p_ecd271260e/) — House of Temptations & Trials
-- [@GreggRoman](https://factionatlas.github.io/person/p_65daa8d6b3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @GreggRoman on X.
+- [@GreggRoman](https://factionatlas.github.io/person/p_65daa8d6b3/) — Exclusive home: Middle East Forum (MEF) . Public profile: @GreggRoman on X.
 - [@greggutfeld](https://factionatlas.github.io/person/p_7f4ba52e18/) — I am here
 - [@Grummz](https://factionatlas.github.io/person/p_a354077552/) — Exclusive home: Mainstream Right . Public profile: @Grummz on X.
 - [@HARRISFAULKNER](https://factionatlas.github.io/person/p_7cf307f167/) — America
 - [@HealthRanger](https://factionatlas.github.io/person/p_c1976d5270/) — Austin, Texas
-- [@heidiganahl](https://factionatlas.github.io/person/p_864aa441f1/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @heidiganahl on X.
-- [@heritagedefense](https://factionatlas.github.io/person/p_2d86c3d641/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @heritagedefense on X.
+- [@heidiganahl](https://factionatlas.github.io/person/p_864aa441f1/) — Exclusive home: Establishment / party Republicans . Public profile: @heidiganahl on X.
+- [@heritagedefense](https://factionatlas.github.io/person/p_2d86c3d641/) — Exclusive home: Christian Conservatives . Public profile: @heritagedefense on X.
 - [@hodlonaut](https://factionatlas.github.io/person/p_1ed827c6d7/) — Exclusive home: Libertarians . Public profile: @hodlonaut on X.
 - [@Holden_Court](https://factionatlas.github.io/person/p_9fc9b4ee01/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Holden_Court on X.
 - [@HoppeanJuuzou](https://factionatlas.github.io/person/p_30adde517b/) — Hoppeborea, AnCapistan
@@ -982,42 +987,42 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@intangiblecoins](https://factionatlas.github.io/person/p_937fed6207/) — Exclusive home: Non-political . Public profile: @intangiblecoins on X.
 - [@iowahawkblog](https://factionatlas.github.io/person/p_0e2c1056ef/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @iowahawkblog on X.
 - [@Iraqveteran8888](https://factionatlas.github.io/person/p_2beace22fb/) — Georgia/Florida
-- [@IsaacJLaster](https://factionatlas.github.io/person/p_ab77cd7505/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @IsaacJLaster on X.
-- [@Islamist_Watch](https://factionatlas.github.io/person/p_b9e4981c57/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Islamist_Watch on X.
+- [@IsaacJLaster](https://factionatlas.github.io/person/p_ab77cd7505/) — Exclusive home: MAGA nationalist-populists . Public profile: @IsaacJLaster on X.
+- [@Islamist_Watch](https://factionatlas.github.io/person/p_b9e4981c57/) — Exclusive home: Middle East Forum (MEF) . Public profile: @Islamist_Watch on X.
 - [@itispsychomath](https://factionatlas.github.io/person/p_7cd3d3c45b/) — windward
 - [@jack](https://factionatlas.github.io/person/p_baee231113/) — Exclusive home: Libertarians . Public profile: @jack on X.
 - [@jackablak](https://factionatlas.github.io/person/p_6bbc6a553f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @jackablak on X.
-- [@jackandsethshow](https://factionatlas.github.io/person/p_ffdeab695e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @jackandsethshow on X.
-- [@JackFlynn810](https://factionatlas.github.io/person/p_c618d868bb/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JackFlynn810 on X.
-- [@jackrwilkie](https://factionatlas.github.io/person/p_8eced4baba/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @jackrwilkie on X.
-- [@jamespanero](https://factionatlas.github.io/person/p_35939c85db/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @jamespanero on X.
-- [@janebcoleman](https://factionatlas.github.io/person/p_d137c5365e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @janebcoleman on X.
-- [@JarrettStepman](https://factionatlas.github.io/person/p_ccdc909bc5/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JarrettStepman on X.
+- [@jackandsethshow](https://factionatlas.github.io/person/p_ffdeab695e/) — Exclusive home: Non-political theology / ministry . Public profile: @jackandsethshow on X.
+- [@JackFlynn810](https://factionatlas.github.io/person/p_c618d868bb/) — Exclusive home: Trump-loyal core . Public profile: @JackFlynn810 on X.
+- [@jackrwilkie](https://factionatlas.github.io/person/p_8eced4baba/) — Exclusive home: Non-political theology / ministry . Public profile: @jackrwilkie on X.
+- [@jamespanero](https://factionatlas.github.io/person/p_35939c85db/) — Exclusive home: Classic / Reagan–Bush conservatives . Public profile: @jamespanero on X.
+- [@janebcoleman](https://factionatlas.github.io/person/p_d137c5365e/) — Exclusive home: Establishment / party Republicans . Public profile: @janebcoleman on X.
+- [@JarrettStepman](https://factionatlas.github.io/person/p_ccdc909bc5/) — Exclusive home: Claremont Institute circle . Public profile: @JarrettStepman on X.
 - [@Jason](https://factionatlas.github.io/person/p_0d994eb8a7/) — host, All-In podcast
 - [@JayzTwoCents](https://factionatlas.github.io/person/p_d6b23ba90a/) — Watercooled, USA
-- [@JeffShipley77](https://factionatlas.github.io/person/p_c722e92d3f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JeffShipley77 on X.
-- [@JeffWadlin](https://factionatlas.github.io/person/p_66703dd7ef/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JeffWadlin on X.
-- [@jeremybob1](https://factionatlas.github.io/person/p_a2cb16f1d9/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @jeremybob1 on X.
+- [@JeffShipley77](https://factionatlas.github.io/person/p_c722e92d3f/) — Exclusive home: MAGA-dissident independents . Public profile: @JeffShipley77 on X.
+- [@JeffWadlin](https://factionatlas.github.io/person/p_66703dd7ef/) — Exclusive home: Libertarian Party strategy . Public profile: @JeffWadlin on X.
+- [@jeremybob1](https://factionatlas.github.io/person/p_a2cb16f1d9/) — Exclusive home: Pro-Israel right (RJC / ZOA / JPC / Commentary) . Public profile: @jeremybob1 on X.
 - [@JesseHughesNC](https://factionatlas.github.io/person/p_32d2f70dda/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JesseHughesNC on X.
 - [@JgaltTweets](https://factionatlas.github.io/person/p_3bf428a740/) — Exclusive home: Mainstream Right . Public profile: @JgaltTweets on X.
-- [@JohnGreen583274](https://factionatlas.github.io/person/p_c146b17085/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JohnGreen583274 on X.
-- [@JohnloyPH](https://factionatlas.github.io/person/p_29c892920c/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JohnloyPH on X.
-- [@johnnyjunkers](https://factionatlas.github.io/person/p_7c6a4ab15a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @johnnyjunkers on X.
-- [@JohnsHopkins](https://factionatlas.github.io/person/p_fc9a9e4b59/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JohnsHopkins on X.
-- [@JohnTha03266269](https://factionatlas.github.io/person/p_39fe9d0197/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JohnTha03266269 on X.
+- [@JohnGreen583274](https://factionatlas.github.io/person/p_c146b17085/) — Exclusive home: Non-political . Public profile: @JohnGreen583274 on X.
+- [@JohnloyPH](https://factionatlas.github.io/person/p_29c892920c/) — Exclusive home: Non-political . Public profile: @JohnloyPH on X.
+- [@johnnyjunkers](https://factionatlas.github.io/person/p_7c6a4ab15a/) — Exclusive home: Non-political theology / ministry . Public profile: @johnnyjunkers on X.
+- [@JohnsHopkins](https://factionatlas.github.io/person/p_fc9a9e4b59/) — Exclusive home: Non-political . Public profile: @JohnsHopkins on X.
+- [@JohnTha03266269](https://factionatlas.github.io/person/p_39fe9d0197/) — Exclusive home: Non-political . Public profile: @JohnTha03266269 on X.
 - [@jonathanvswan](https://factionatlas.github.io/person/p_698d3f7158/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @jonathanvswan on X.
-- [@josephbackholm](https://factionatlas.github.io/person/p_a842a48249/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @josephbackholm on X.
+- [@josephbackholm](https://factionatlas.github.io/person/p_a842a48249/) — Exclusive home: Evangelical establishment ('liberal Christian right') . Public profile: @josephbackholm on X.
 - [@joshbazzlewrite](https://factionatlas.github.io/person/p_f52afa1db4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @joshbazzlewrite on X.
 - [@joshuaherr6](https://factionatlas.github.io/person/p_d1449061cf/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @joshuaherr6 on X.
 - [@JudeanGeneral ll 🇺🇸 🇮🇱](https://factionatlas.github.io/person/p_103ceb106d/) — Miami, FL
-- [@JulianEpstein](https://factionatlas.github.io/person/p_43c6a7792a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @JulianEpstein on X.
-- [@KaceeAllenShow](https://factionatlas.github.io/person/p_ecbf63d76b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @KaceeAllenShow on X.
+- [@JulianEpstein](https://factionatlas.github.io/person/p_43c6a7792a/) — Exclusive home: Mainstream Democrats . Public profile: @JulianEpstein on X.
+- [@KaceeAllenShow](https://factionatlas.github.io/person/p_ecbf63d76b/) — Exclusive home: America First . Public profile: @KaceeAllenShow on X.
 - [@Kaizerrev](https://factionatlas.github.io/person/p_08b4ea6a0b/) — Exclusive home: Groypers (Fuentes) . Public profile: @Kaizerrev on X.
-- [@KatherineH9215](https://factionatlas.github.io/person/p_5e2156a7c5/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @KatherineH9215 on X.
+- [@KatherineH9215](https://factionatlas.github.io/person/p_5e2156a7c5/) — Exclusive home: Ignored . Public profile: @KatherineH9215 on X.
 - [@kccwired](https://factionatlas.github.io/person/p_5c16b246a1/) — Kalkaska, Michigan
-- [@Kelleyswords](https://factionatlas.github.io/person/p_7863031424/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Kelleyswords on X.
-- [@kellyclaudeai](https://factionatlas.github.io/person/p_d4a99f68f7/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @kellyclaudeai on X.
-- [@KevinEganAZ](https://factionatlas.github.io/person/p_6041576247/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @KevinEganAZ on X.
+- [@Kelleyswords](https://factionatlas.github.io/person/p_7863031424/) — Exclusive home: MAHA (Make America Healthy Again) . Public profile: @Kelleyswords on X.
+- [@kellyclaudeai](https://factionatlas.github.io/person/p_d4a99f68f7/) — Exclusive home: Non-political . Public profile: @kellyclaudeai on X.
+- [@KevinEganAZ](https://factionatlas.github.io/person/p_6041576247/) — Exclusive home: Mainstream Right . Public profile: @KevinEganAZ on X.
 - [@KevinKelbie](https://factionatlas.github.io/person/p_df0312e63c/) — Exclusive home: Non-political . Public profile: @KevinKelbie on X.
 - [@Kevmagna](https://factionatlas.github.io/person/p_45f30a11df/) — conservative, maga
 - [@KeystoneWallet](https://factionatlas.github.io/person/p_19cf205b6d/) — Decentralized
@@ -1026,62 +1031,62 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@Kneon](https://factionatlas.github.io/person/p_9a7aa9a27b/) — Pittsburgh, PA
 - [@kyliecarlino](https://factionatlas.github.io/person/p_3a135deae3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @kyliecarlino on X.
 - [@Laura_L_Celli](https://factionatlas.github.io/person/p_b25b6a3de4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Laura_L_Celli on X.
-- [@LauriForLiberty](https://factionatlas.github.io/person/p_95439fbc9b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @LauriForLiberty on X.
-- [@LeoTerrellDOJ](https://factionatlas.github.io/person/p_949cb7770c/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @LeoTerrellDOJ on X.
+- [@LauriForLiberty](https://factionatlas.github.io/person/p_95439fbc9b/) — Exclusive home: Libertarian Party strategy . Public profile: @LauriForLiberty on X.
+- [@LeoTerrellDOJ](https://factionatlas.github.io/person/p_949cb7770c/) — Exclusive home: Trump-loyal core . Public profile: @LeoTerrellDOJ on X.
 - [@Level1Techs](https://factionatlas.github.io/person/p_0cef23d568/) — In the computer
-- [@LibSpecInfoSec](https://factionatlas.github.io/person/p_94ed0f5f9f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @LibSpecInfoSec on X.
+- [@LibSpecInfoSec](https://factionatlas.github.io/person/p_94ed0f5f9f/) — Exclusive home: Non-political . Public profile: @LibSpecInfoSec on X.
 - [@Lifeway](https://factionatlas.github.io/person/p_75889dc3e8/) — Exclusive home: Evangelical establishment ('liberal Christian right') . Public profile: @Lifeway on X.
-- [@LisaDeP](https://factionatlas.github.io/person/p_3314d2ca6d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @LisaDeP on X.
-- [@LisaTho26849367](https://factionatlas.github.io/person/p_1b1736d9e2/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @LisaTho26849367 on X.
+- [@LisaDeP](https://factionatlas.github.io/person/p_3314d2ca6d/) — Exclusive home: Non-political . Public profile: @LisaDeP on X.
+- [@LisaTho26849367](https://factionatlas.github.io/person/p_1b1736d9e2/) — Exclusive home: MAGA nationalist-populists . Public profile: @LisaTho26849367 on X.
 - [@LIUNA](https://factionatlas.github.io/person/p_0b1f225580/) — Exclusive home: Laborers' International Union of North America (LIUNA) . Public profile: @LIUNA on X.
-- [@Louisiana_SOS](https://factionatlas.github.io/person/p_fff686995e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Louisiana_SOS on X.
-- [@louisianaltgov](https://factionatlas.github.io/person/p_4778e1e902/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @louisianaltgov on X.
+- [@Louisiana_SOS](https://factionatlas.github.io/person/p_fff686995e/) — Exclusive home: Mainstream Right . Public profile: @Louisiana_SOS on X.
+- [@louisianaltgov](https://factionatlas.github.io/person/p_4778e1e902/) — Exclusive home: Establishment / party Republicans . Public profile: @louisianaltgov on X.
 - [@LPNH](https://factionatlas.github.io/person/p_02ca506f48/) — Exclusive home: Mises Caucus / LP radicals . Public profile: @LPNH on X.
-- [@lucyjaynewhite1](https://factionatlas.github.io/person/p_b642f99dc3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @lucyjaynewhite1 on X.
-- [@lukemoon1](https://factionatlas.github.io/person/p_ff8df4b57e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @lukemoon1 on X.
-- [@lukeobrien](https://factionatlas.github.io/person/p_03556ec5c7/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @lukeobrien on X.
+- [@lucyjaynewhite1](https://factionatlas.github.io/person/p_b642f99dc3/) — Exclusive home: UK & European right . Public profile: @lucyjaynewhite1 on X.
+- [@lukemoon1](https://factionatlas.github.io/person/p_ff8df4b57e/) — Exclusive home: Trump-loyal core . Public profile: @lukemoon1 on X.
+- [@lukeobrien](https://factionatlas.github.io/person/p_03556ec5c7/) — Exclusive home: Progressive left . Public profile: @lukeobrien on X.
 - [@LukeWSchmidt](https://factionatlas.github.io/person/p_01232afa89/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @LukeWSchmidt on X.
 - [@m1k__3](https://factionatlas.github.io/person/p_651d34096d/) — Exclusive home: Non-political . Public profile: @m1k__3 on X.
 - [@Magahalla](https://factionatlas.github.io/person/p_5b673cafb1/) — patriot
-- [@makekidsgreater](https://factionatlas.github.io/person/p_00e9a22732/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @makekidsgreater on X.
-- [@makenzecameron](https://factionatlas.github.io/person/p_2890055bb5/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @makenzecameron on X.
+- [@makekidsgreater](https://factionatlas.github.io/person/p_00e9a22732/) — Exclusive home: Christian Conservatives . Public profile: @makekidsgreater on X.
+- [@makenzecameron](https://factionatlas.github.io/person/p_2890055bb5/) — Exclusive home: Mainstream Right . Public profile: @makenzecameron on X.
 - [@MALDEF](https://factionatlas.github.io/person/p_4610d58d0e/) — Exclusive home: Mexican American Legal Defense and Educational Fund (MALDEF) . Public profile: @MALDEF on X.
 - [@Malwarebytes](https://factionatlas.github.io/person/p_ef85913666/) — Santa Clara, CA
-- [@marc_lotter](https://factionatlas.github.io/person/p_5342e8f23f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @marc_lotter on X.
-- [@MarinasHammer](https://factionatlas.github.io/person/p_24cbf4b8ee/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MarinasHammer on X.
+- [@marc_lotter](https://factionatlas.github.io/person/p_5342e8f23f/) — Exclusive home: Trump-loyal core . Public profile: @marc_lotter on X.
+- [@MarinasHammer](https://factionatlas.github.io/person/p_24cbf4b8ee/) — Exclusive home: Christian Nationalists . Public profile: @MarinasHammer on X.
 - [@markchristenson](https://factionatlas.github.io/person/p_67e5625c09/) — iPhone: 51.456281,-0.309055
-- [@MarkCorallo1](https://factionatlas.github.io/person/p_6c650e160b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MarkCorallo1 on X.
+- [@MarkCorallo1](https://factionatlas.github.io/person/p_6c650e160b/) — Exclusive home: Establishment / party Republicans . Public profile: @MarkCorallo1 on X.
 - [@markdtooley](https://factionatlas.github.io/person/p_990a640f71/) — president, @theird
 - [@MarkMShindler](https://factionatlas.github.io/person/p_b672bfe609/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MarkMShindler on X.
-- [@MarkQuiggmed](https://factionatlas.github.io/person/p_779c594db2/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MarkQuiggmed on X.
+- [@MarkQuiggmed](https://factionatlas.github.io/person/p_779c594db2/) — Exclusive home: Mainstream Right . Public profile: @MarkQuiggmed on X.
 - [@MarshallProj](https://factionatlas.github.io/person/p_8937ca6f92/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MarshallProj on X.
 - [@MasonNatSec](https://factionatlas.github.io/person/p_3e9e688c86/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MasonNatSec on X.
 - [@Matt02199893](https://factionatlas.github.io/person/p_b56b22a1ef/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Matt02199893 on X.
-- [@matt_johnson](https://factionatlas.github.io/person/p_2f9ecccf8b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @matt_johnson on X.
+- [@matt_johnson](https://factionatlas.github.io/person/p_2f9ecccf8b/) — Exclusive home: America First . Public profile: @matt_johnson on X.
 - [@maximalistus](https://factionatlas.github.io/person/p_d0a5509aff/) — Land Of The Free
-- [@maxwellwise](https://factionatlas.github.io/person/p_0eefdfa005/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @maxwellwise on X.
+- [@maxwellwise](https://factionatlas.github.io/person/p_0eefdfa005/) — Exclusive home: Mainstream Right . Public profile: @maxwellwise on X.
 - [@medievalistmatt](https://factionatlas.github.io/person/p_fcde75b95e/) — Exclusive home: Non-political . Public profile: @medievalistmatt on X.
-- [@MeganD_79](https://factionatlas.github.io/person/p_602801f86f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MeganD_79 on X.
+- [@MeganD_79](https://factionatlas.github.io/person/p_602801f86f/) — Exclusive home: Mainstream Democrats . Public profile: @MeganD_79 on X.
 - [@MelonieMac](https://factionatlas.github.io/person/p_8494a42307/) — Texas, USA
 - [@memeorandum](https://factionatlas.github.io/person/p_b29ebc0317/) — United States
 - [@mempool](https://factionatlas.github.io/person/p_7c42e17188/) — Exclusive home: Non-political . Public profile: @mempool on X.
 - [@MentisWave](https://factionatlas.github.io/person/p_2c5ca6dc46/) — libertarian
-- [@MicahBeckwith](https://factionatlas.github.io/person/p_0cddf859f9/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MicahBeckwith on X.
+- [@MicahBeckwith](https://factionatlas.github.io/person/p_0cddf859f9/) — Exclusive home: Trump-loyal core . Public profile: @MicahBeckwith on X.
 - [@Michael_Bxxx](https://factionatlas.github.io/person/p_ef64b7ad0a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Michael_Bxxx on X.
 - [@michaelboldin](https://factionatlas.github.io/person/p_e7a9864302/) — DTLA-escapee
 - [@Midwest_expat](https://factionatlas.github.io/person/p_d36c0e7bbb/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Midwest_expat on X.
 - [@MightofMe](https://factionatlas.github.io/person/p_4c5bc8e6b5/) — Germany
 - [@Mike60725635933](https://factionatlas.github.io/person/p_8170b5a986/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Mike60725635933 on X.
-- [@mikebranc](https://factionatlas.github.io/person/p_1fab70b374/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @mikebranc on X.
+- [@mikebranc](https://factionatlas.github.io/person/p_1fab70b374/) — Exclusive home: Non-political . Public profile: @mikebranc on X.
 - [@mikeofpol](https://factionatlas.github.io/person/p_e548b42722/) — Exclusive home: Non-political . Public profile: @mikeofpol on X.
 - [@MikeWilnau](https://factionatlas.github.io/person/p_e6adc22a34/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MikeWilnau on X.
 - [@minds](https://factionatlas.github.io/person/p_ae8c3ea573/) — Norwalk, CT
 - [@Minecraft](https://factionatlas.github.io/person/p_d2b820df91/) — Stockholm, Sweden
 - [@miriam_cates](https://factionatlas.github.io/person/p_0a06c234b0/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @miriam_cates on X.
-- [@mitchellvii](https://factionatlas.github.io/person/p_994e22d8be/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @mitchellvii on X.
+- [@mitchellvii](https://factionatlas.github.io/person/p_994e22d8be/) — Exclusive home: Trump-loyal core . Public profile: @mitchellvii on X.
 - [@MLbelch](https://factionatlas.github.io/person/p_6142716056/) — Exclusive home: Christian Conservatives . Public profile: @MLbelch on X.
-- [@ModernBoethius](https://factionatlas.github.io/person/p_5e2578c8ca/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ModernBoethius on X.
-- [@ModernHeretic13](https://factionatlas.github.io/person/p_07122a0c98/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ModernHeretic13 on X.
+- [@ModernBoethius](https://factionatlas.github.io/person/p_5e2578c8ca/) — Exclusive home: Non-political theology / ministry . Public profile: @ModernBoethius on X.
+- [@ModernHeretic13](https://factionatlas.github.io/person/p_07122a0c98/) — Exclusive home: America First . Public profile: @ModernHeretic13 on X.
 - [@MontgomeryHeat2](https://factionatlas.github.io/person/p_de5927947c/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MontgomeryHeat2 on X.
 - [@MoundLore](https://factionatlas.github.io/person/p_9cdb18f8f7/) — Indiana, USA
 - [@MoveOn](https://factionatlas.github.io/person/p_2c696392af/) — Exclusive home: MoveOn . Public profile: @MoveOn on X.
@@ -1095,53 +1100,53 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@Neome_com](https://factionatlas.github.io/person/p_efcff66ed7/) — Montreal, Quebec
 - [@NeoUnrealist](https://factionatlas.github.io/person/p_5588abcef8/) — NYC
 - [@Newegg](https://factionatlas.github.io/person/p_5e584a1652/) — Southern California
-- [@NeweggHotDeals](https://factionatlas.github.io/person/p_836b183b76/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @NeweggHotDeals on X.
-- [@NeweggService](https://factionatlas.github.io/person/p_1333fc5010/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @NeweggService on X.
+- [@NeweggHotDeals](https://factionatlas.github.io/person/p_836b183b76/) — Exclusive home: Non-political . Public profile: @NeweggHotDeals on X.
+- [@NeweggService](https://factionatlas.github.io/person/p_1333fc5010/) — Exclusive home: Non-political . Public profile: @NeweggService on X.
 - [@Nicksdankmemes3](https://factionatlas.github.io/person/p_bfd700dbfe/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Nicksdankmemes3 on X.
 - [@NicolausRexPol](https://factionatlas.github.io/person/p_bcecbcddec/) — Planet Earth, Solar System
-- [@nicolehunt](https://factionatlas.github.io/person/p_7f189bedaf/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @nicolehunt on X.
+- [@nicolehunt](https://factionatlas.github.io/person/p_7f189bedaf/) — Exclusive home: Evangelical establishment ('liberal Christian right') . Public profile: @nicolehunt on X.
 - [@northoakscoc](https://factionatlas.github.io/person/p_3e7a50f2af/) — Canyon Country, CA
 - [@notch](https://factionatlas.github.io/person/p_73ca3b8ddf/) — Exclusive home: Dissident Right . Public profile: @notch on X.
-- [@NotPnwguerrilla](https://factionatlas.github.io/person/p_4d7bc49a21/) — Exclusive home: Groypers (Fuentes) . Public profile: @NotPnwguerrilla on X.
 - [@NRA](https://factionatlas.github.io/person/p_d21d6d3ad2/) — Fairfax, VA
-- [@nssfshotshow](https://factionatlas.github.io/person/p_34fa36d5bc/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @nssfshotshow on X.
+- [@nssfshotshow](https://factionatlas.github.io/person/p_34fa36d5bc/) — Exclusive home: Non-political . Public profile: @nssfshotshow on X.
 - [@nvk](https://factionatlas.github.io/person/p_9e567822fe/) — Exclusive home: Non-political . Public profile: @nvk on X.
 - [@NVVTIONALISM](https://factionatlas.github.io/person/p_b028501c03/) — america first, christian nationalist
-- [@OdyseeHelp](https://factionatlas.github.io/person/p_297526e751/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @OdyseeHelp on X.
-- [@OlympusDAO](https://factionatlas.github.io/person/p_ad397f4622/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @OlympusDAO on X.
+- [@OdyseeHelp](https://factionatlas.github.io/person/p_297526e751/) — Exclusive home: Non-political . Public profile: @OdyseeHelp on X.
+- [@OlympusDAO](https://factionatlas.github.io/person/p_ad397f4622/) — Exclusive home: Non-political . Public profile: @OlympusDAO on X.
 - [@OnePeterFive](https://factionatlas.github.io/person/p_175b982f5f/) — Exclusive home: Christian Conservatives . Public profile: @OnePeterFive on X.
 - [@OpenSats](https://factionatlas.github.io/person/p_bdd2c792af/) — Exclusive home: Non-political . Public profile: @OpenSats on X.
-- [@PatriotPlea](https://factionatlas.github.io/person/p_3e65b9e6b4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @PatriotPlea on X.
-- [@penelopedidit2](https://factionatlas.github.io/person/p_3e26e31981/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @penelopedidit2 on X.
-- [@pennydreams24](https://factionatlas.github.io/person/p_8fd973b3e6/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @pennydreams24 on X.
-- [@PennywiseBTC](https://factionatlas.github.io/person/p_debc07b502/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @PennywiseBTC on X.
+- [@PatriotPlea](https://factionatlas.github.io/person/p_3e65b9e6b4/) — Exclusive home: Trump-loyal core . Public profile: @PatriotPlea on X.
+- [@penelopedidit2](https://factionatlas.github.io/person/p_3e26e31981/) — Exclusive home: Mainstream Democrats . Public profile: @penelopedidit2 on X.
+- [@pennydreams24](https://factionatlas.github.io/person/p_8fd973b3e6/) — Exclusive home: Groypers (Fuentes) . Public profile: @pennydreams24 on X.
+- [@PennywiseBTC](https://factionatlas.github.io/person/p_debc07b502/) — Exclusive home: Non-political . Public profile: @PennywiseBTC on X.
 - [@permabulla](https://factionatlas.github.io/person/p_71801a792d/) — America First
-- [@pete_rizzo_](https://factionatlas.github.io/person/p_ddebaae0c9/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @pete_rizzo_ on X.
-- [@peter_groyper](https://factionatlas.github.io/person/p_d34d31eebd/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @peter_groyper on X.
+- [@pete_rizzo_](https://factionatlas.github.io/person/p_ddebaae0c9/) — Exclusive home: Non-political . Public profile: @pete_rizzo_ on X.
+- [@peter_groyper](https://factionatlas.github.io/person/p_d34d31eebd/) — Exclusive home: Groypers (Fuentes) . Public profile: @peter_groyper on X.
 - [@PeterRFB](https://factionatlas.github.io/person/p_0d7df4c83a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @PeterRFB on X.
-- [@petersonacademy](https://factionatlas.github.io/person/p_d01f6a45cf/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @petersonacademy on X.
-- [@PeterWrangel](https://factionatlas.github.io/person/p_001441bc16/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @PeterWrangel on X.
-- [@phillies](https://factionatlas.github.io/person/p_8f2063371d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @phillies on X.
+- [@petersonacademy](https://factionatlas.github.io/person/p_d01f6a45cf/) — Exclusive home: Non-political . Public profile: @petersonacademy on X.
+- [@PeterWrangel](https://factionatlas.github.io/person/p_001441bc16/) — Exclusive home: Non-political . Public profile: @PeterWrangel on X.
+- [@phillies](https://factionatlas.github.io/person/p_8f2063371d/) — Exclusive home: Non-political . Public profile: @phillies on X.
 - [@Pledditor](https://factionatlas.github.io/person/p_6e902b6b4a/) — Exclusive home: Non-political . Public profile: @Pledditor on X.
-- [@ProjectLiberal](https://factionatlas.github.io/person/p_ca5cb910c4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ProjectLiberal on X.
+- [@pnwguerrilla](https://factionatlas.github.io/person/p_690248ed2d/) — Exclusive home: Groypers (Fuentes) . Public profile: @pnwguerrilla on X.
+- [@ProjectLiberal](https://factionatlas.github.io/person/p_ca5cb910c4/) — Exclusive home: Mainstream Democrats . Public profile: @ProjectLiberal on X.
 - [@Protestia](https://factionatlas.github.io/person/p_fe247a4f2f/) — Exclusive home: Protestia . Public profile: @Protestia on X.
 - [@pvcclr](https://factionatlas.github.io/person/p_08b231820d/) — Little Rock, AR
 - [@Quillette](https://factionatlas.github.io/person/p_a553f2fb71/) — Earth
 - [@Ramonacofc](https://factionatlas.github.io/person/p_5c5f4b1062/) — Ramona, OK 74061
-- [@RandRCigars](https://factionatlas.github.io/person/p_23919310ab/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @RandRCigars on X.
+- [@RandRCigars](https://factionatlas.github.io/person/p_23919310ab/) — Exclusive home: Non-political . Public profile: @RandRCigars on X.
 - [@RayMears1977](https://factionatlas.github.io/person/p_17c7f9aad1/) — Oceania
 - [@ReformedRant](https://factionatlas.github.io/person/p_6abf88ac37/) — Exclusive home: Non-political theology / ministry . Public profile: @ReformedRant on X.
-- [@ReformTheoSem](https://factionatlas.github.io/person/p_f00fd11b1a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ReformTheoSem on X.
+- [@ReformTheoSem](https://factionatlas.github.io/person/p_f00fd11b1a/) — Exclusive home: Non-political theology / ministry . Public profile: @ReformTheoSem on X.
 - [@ReformUSA_](https://factionatlas.github.io/person/p_28dbc961fd/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ReformUSA_ on X.
 - [@relic71](https://factionatlas.github.io/person/p_b1a1ff23ab/) — YogiTheRelic
-- [@rich_goldberg](https://factionatlas.github.io/person/p_f0e75f3785/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @rich_goldberg on X.
-- [@RichD23254478](https://factionatlas.github.io/person/p_97eea46f0a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @RichD23254478 on X.
+- [@rich_goldberg](https://factionatlas.github.io/person/p_f0e75f3785/) — Exclusive home: Neoconservative / hawkish establishment . Public profile: @rich_goldberg on X.
+- [@RichD23254478](https://factionatlas.github.io/person/p_97eea46f0a/) — Exclusive home: Trump-loyal core . Public profile: @RichD23254478 on X.
 - [@RickforFlorida](https://factionatlas.github.io/person/p_9a6a97230a/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @RickforFlorida on X.
 - [@River](https://factionatlas.github.io/person/p_e1badbd3f1/) — Exclusive home: Non-political . Public profile: @River on X.
 - [@RJC](https://factionatlas.github.io/person/p_b450fa2c22/) — republican
 - [@RobertDrewry7](https://factionatlas.github.io/person/p_aa3eeb16f0/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @RobertDrewry7 on X.
 - [@RocketPulpHack](https://factionatlas.github.io/person/p_754a8a9575/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @RocketPulpHack on X.
-- [@rogerkimball](https://factionatlas.github.io/person/p_a4ec28d167/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @rogerkimball on X.
+- [@rogerkimball](https://factionatlas.github.io/person/p_a4ec28d167/) — Exclusive home: Classic / Reagan–Bush conservatives . Public profile: @rogerkimball on X.
 - [@Rothmus](https://factionatlas.github.io/person/p_d9a87a6428/) — Exclusive home: Libertarians . Public profile: @Rothmus on X.
 - [@Ryanmatta](https://factionatlas.github.io/person/p_565859c5ac/) — United States
 - [@ryanmcmaken](https://factionatlas.github.io/person/p_0f9c582807/) — Exclusive home: Mises Institute . Public profile: @ryanmcmaken on X.
@@ -1151,37 +1156,37 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@Sanoyjustin](https://factionatlas.github.io/person/p_6448cca101/) — Exclusive home: Non-political . Public profile: @Sanoyjustin on X.
 - [@Sarah4Texas](https://factionatlas.github.io/person/p_59d16e5a2d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Sarah4Texas on X.
 - [@scott_twit85770](https://factionatlas.github.io/person/p_4ff7381619/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @scott_twit85770 on X.
-- [@Scott_Wiener](https://factionatlas.github.io/person/p_69e8c2b675/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Scott_Wiener on X.
-- [@ScottMcConnell9](https://factionatlas.github.io/person/p_9d4abc281f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ScottMcConnell9 on X.
-- [@scottmelker](https://factionatlas.github.io/person/p_f3cb3587dc/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @scottmelker on X.
+- [@Scott_Wiener](https://factionatlas.github.io/person/p_69e8c2b675/) — Exclusive home: Mainstream Democrats . Public profile: @Scott_Wiener on X.
+- [@ScottMcConnell9](https://factionatlas.github.io/person/p_9d4abc281f/) — Exclusive home: Ron Paul / restraint antiwar right . Public profile: @ScottMcConnell9 on X.
+- [@scottmelker](https://factionatlas.github.io/person/p_f3cb3587dc/) — Exclusive home: Non-political . Public profile: @scottmelker on X.
 - [@SCOTUSblog](https://factionatlas.github.io/person/p_374757fabd/) — independent
-- [@SeanSpicerShow](https://factionatlas.github.io/person/p_2b20eaa8bf/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @SeanSpicerShow on X.
+- [@SeanSpicerShow](https://factionatlas.github.io/person/p_2b20eaa8bf/) — Exclusive home: Trump-loyal core . Public profile: @SeanSpicerShow on X.
 - [@SeedSigner](https://factionatlas.github.io/person/p_4b8cfb9420/) — Exclusive home: Non-political . Public profile: @SeedSigner on X.
 - [@SEIU](https://factionatlas.github.io/person/p_09fdd46348/) — Exclusive home: Service Employees International Union (SEIU) . Public profile: @SEIU on X.
 - [@selfcustodykrux](https://factionatlas.github.io/person/p_e1ce7d630f/) — Global
-- [@sethrobson1](https://factionatlas.github.io/person/p_63bc68136f/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @sethrobson1 on X.
-- [@ShadesofGrace_](https://factionatlas.github.io/person/p_53ecacf5f0/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ShadesofGrace_ on X.
-- [@shawnryanshow](https://factionatlas.github.io/person/p_573d550f38/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @shawnryanshow on X.
+- [@sethrobson1](https://factionatlas.github.io/person/p_63bc68136f/) — Exclusive home: Non-political . Public profile: @sethrobson1 on X.
+- [@ShadesofGrace_](https://factionatlas.github.io/person/p_53ecacf5f0/) — Exclusive home: Non-political theology / ministry . Public profile: @ShadesofGrace_ on X.
+- [@shawnryanshow](https://factionatlas.github.io/person/p_573d550f38/) — Exclusive home: Non-political . Public profile: @shawnryanshow on X.
 - [@ShawnTBay](https://factionatlas.github.io/person/p_938819a2d2/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ShawnTBay on X.
-- [@sheldonrichman](https://factionatlas.github.io/person/p_cb9df0e960/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @sheldonrichman on X.
+- [@sheldonrichman](https://factionatlas.github.io/person/p_cb9df0e960/) — Exclusive home: Libertarians . Public profile: @sheldonrichman on X.
 - [@shipwreckedcrew](https://factionatlas.github.io/person/p_651d6cdaba/) — Interspace
 - [@SkepticalWaves](https://factionatlas.github.io/person/p_f0788f6505/) — The Æther
 - [@sneako](https://factionatlas.github.io/person/p_cc88d1d82a/) — NYC
-- [@Solomon_2028](https://factionatlas.github.io/person/p_feb5f6adf1/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Solomon_2028 on X.
+- [@Solomon_2028](https://factionatlas.github.io/person/p_feb5f6adf1/) — Exclusive home: Ignored . Public profile: @Solomon_2028 on X.
 - [@SpaceX](https://factionatlas.github.io/person/p_0e21abd787/) — Earth
 - [@SpecterAndBride](https://factionatlas.github.io/person/p_bc65ac9c36/) — Exclusive home: Non-political theology / ministry . Public profile: @SpecterAndBride on X.
 - [@statelinecoc](https://factionatlas.github.io/person/p_1a24a487f4/) — Charlotte, NC
 - [@Steam](https://factionatlas.github.io/person/p_445d85c1af/) — Exclusive home: Non-political . Public profile: @Steam on X.
-- [@StefanoLForte](https://factionatlas.github.io/person/p_f11723ac1d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @StefanoLForte on X.
+- [@StefanoLForte](https://factionatlas.github.io/person/p_f11723ac1d/) — Exclusive home: Trump-loyal core . Public profile: @StefanoLForte on X.
 - [@Stellaaa](https://factionatlas.github.io/person/p_89d7bdabab/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Stellaaa on X.
-- [@StephenGutowski](https://factionatlas.github.io/person/p_4814b4d209/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @StephenGutowski on X.
-- [@stephensemler](https://factionatlas.github.io/person/p_7678c0fdb4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @stephensemler on X.
-- [@SteveFriend](https://factionatlas.github.io/person/p_baa9f46226/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @SteveFriend on X.
-- [@SteveLanceNTD](https://factionatlas.github.io/person/p_e3e5b8920e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @SteveLanceNTD on X.
-- [@StevenJ67130757](https://factionatlas.github.io/person/p_9abbc12088/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @StevenJ67130757 on X.
+- [@StephenGutowski](https://factionatlas.github.io/person/p_4814b4d209/) — Exclusive home: Gun-rights movement . Public profile: @StephenGutowski on X.
+- [@stephensemler](https://factionatlas.github.io/person/p_7678c0fdb4/) — Exclusive home: Center/left foreign-policy restraint . Public profile: @stephensemler on X.
+- [@SteveFriend](https://factionatlas.github.io/person/p_baa9f46226/) — Exclusive home: MAGA-dissident independents . Public profile: @SteveFriend on X.
+- [@SteveLanceNTD](https://factionatlas.github.io/person/p_e3e5b8920e/) — Exclusive home: Mainstream Right . Public profile: @SteveLanceNTD on X.
+- [@StevenJ67130757](https://factionatlas.github.io/person/p_9abbc12088/) — Exclusive home: Non-political . Public profile: @StevenJ67130757 on X.
 - [@SteveSimple](https://factionatlas.github.io/person/p_f663d42f1d/) — Raleigh, NC
 - [@Strategy](https://factionatlas.github.io/person/p_8608d17e8e/) — Exclusive home: Non-political . Public profile: @Strategy on X.
-- [@SummerForPA](https://factionatlas.github.io/person/p_b8cc44cf45/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @SummerForPA on X.
+- [@SummerForPA](https://factionatlas.github.io/person/p_b8cc44cf45/) — Exclusive home: Progressive left . Public profile: @SummerForPA on X.
 - [@Swan](https://factionatlas.github.io/person/p_e478c11257/) — Get started
 - [@TaleWorlds](https://factionatlas.github.io/person/p_5233ed6474/) — Ankara, Türkiye
 - [@Tangem](https://factionatlas.github.io/person/p_18bad96bd1/) — Zug, Switzerland
@@ -1192,8 +1197,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@thebillyboone](https://factionatlas.github.io/person/p_69b8dd4ca7/) — The Allocators Map
 - [@TheBTCTherapist](https://factionatlas.github.io/person/p_6280539cce/) — Exclusive home: Non-political . Public profile: @TheBTCTherapist on X.
 - [@TheQuartering](https://factionatlas.github.io/person/p_f28eb53a09/) — Milwaukee, WI
-- [@ThomasGalvin](https://factionatlas.github.io/person/p_e10706e1af/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ThomasGalvin on X.
-- [@TinaBrunz](https://factionatlas.github.io/person/p_bb4b9a85a4/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @TinaBrunz on X.
+- [@ThomasGalvin](https://factionatlas.github.io/person/p_e10706e1af/) — Exclusive home: Establishment / party Republicans . Public profile: @ThomasGalvin on X.
+- [@TinaBrunz](https://factionatlas.github.io/person/p_bb4b9a85a4/) — Exclusive home: Trump-loyal core . Public profile: @TinaBrunz on X.
 - [@TNGOP](https://factionatlas.github.io/person/p_64862531d8/) — The Volunteer State
 - [@toddstarnes](https://factionatlas.github.io/person/p_a171381086/) — conservative
 - [@Trezor](https://factionatlas.github.io/person/p_de6f2aa1e7/) — Exclusive home: Non-political . Public profile: @Trezor on X.
@@ -1203,28 +1208,28 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [@UCCMGM](https://factionatlas.github.io/person/p_0d285113f0/) — Montgomery, AL
 - [@UFCW](https://factionatlas.github.io/person/p_6591c14d2b/) — Exclusive home: United Food and Commercial Workers (UFCW) . Public profile: @UFCW on X.
 - [@ukJ0N](https://factionatlas.github.io/person/p_3260574566/) — conservative, patriot
-- [@UnitedTribesND](https://factionatlas.github.io/person/p_e01583fed7/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @UnitedTribesND on X.
+- [@UnitedTribesND](https://factionatlas.github.io/person/p_e01583fed7/) — Exclusive home: Non-political . Public profile: @UnitedTribesND on X.
 - [@unsplash](https://factionatlas.github.io/person/p_0b2c0149dd/) — Exclusive home: Non-political . Public profile: @unsplash on X.
 - [@Uranium337](https://factionatlas.github.io/person/p_8e87050afa/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @Uranium337 on X.
 - [@UTXOracle](https://factionatlas.github.io/person/p_7b3e0372e1/) — Exclusive home: Non-political . Public profile: @UTXOracle on X.
-- [@VictoriaBell](https://factionatlas.github.io/person/p_b25ff4b9e5/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @VictoriaBell on X.
-- [@WadeSearle_](https://factionatlas.github.io/person/p_10a906407e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @WadeSearle_ on X.
-- [@WalterIsaacson](https://factionatlas.github.io/person/p_dac03a54fa/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @WalterIsaacson on X.
+- [@VictoriaBell](https://factionatlas.github.io/person/p_b25ff4b9e5/) — Exclusive home: Ignored . Public profile: @VictoriaBell on X.
+- [@WadeSearle_](https://factionatlas.github.io/person/p_10a906407e/) — Exclusive home: Christian Conservatives . Public profile: @WadeSearle_ on X.
+- [@WalterIsaacson](https://factionatlas.github.io/person/p_dac03a54fa/) — Exclusive home: Non-political . Public profile: @WalterIsaacson on X.
 - [@WayneCrews](https://factionatlas.github.io/person/p_9e8e466ec0/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @WayneCrews on X.
-- [@wendyp4545](https://factionatlas.github.io/person/p_8357edd657/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @wendyp4545 on X.
+- [@wendyp4545](https://factionatlas.github.io/person/p_8357edd657/) — Exclusive home: Trump-loyal core . Public profile: @wendyp4545 on X.
 - [@westsidecofc](https://factionatlas.github.io/person/p_ed08811989/) — Norman, OK
 - [@whatifalthist](https://factionatlas.github.io/person/p_14f438d4db/) — Austin, TX (from PA)
 - [@wikileaks](https://factionatlas.github.io/person/p_b619551bf3/) — Everywhere
-- [@will4planet](https://factionatlas.github.io/person/p_cbe494cf30/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @will4planet on X.
-- [@WillCainShow](https://factionatlas.github.io/person/p_6a9abead59/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @WillCainShow on X.
+- [@will4planet](https://factionatlas.github.io/person/p_cbe494cf30/) — Exclusive home: Non-political . Public profile: @will4planet on X.
+- [@WillCainShow](https://factionatlas.github.io/person/p_6a9abead59/) — Exclusive home: Mainstream Right . Public profile: @WillCainShow on X.
 - [@wootware](https://factionatlas.github.io/person/p_e02dc5e76c/) — Somerset West, South Africa
 - [@WuBlockchain](https://factionatlas.github.io/person/p_ee31b19448/) — Exclusive home: Non-political . Public profile: @WuBlockchain on X.
 - [@xisumavoid](https://factionatlas.github.io/person/p_5e005dbc9f/) — Exclusive home: Non-political . Public profile: @xisumavoid on X.
 - [@yaf](https://factionatlas.github.io/person/p_4bfc3e6c3c/) — Reston, VA
-- [@ZacharyZermay](https://factionatlas.github.io/person/p_f9804b4210/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ZacharyZermay on X.
-- [@ZachCostello_](https://factionatlas.github.io/person/p_65f0fb545b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ZachCostello_ on X.
+- [@ZacharyZermay](https://factionatlas.github.io/person/p_f9804b4210/) — Exclusive home: Ignored . Public profile: @ZacharyZermay on X.
+- [@ZachCostello_](https://factionatlas.github.io/person/p_65f0fb545b/) — Exclusive home: Trump-loyal core . Public profile: @ZachCostello_ on X.
 - [@zestular](https://factionatlas.github.io/person/p_b71e2e469c/) — Exclusive home: Effective accelerationism (e/acc) . Public profile: @zestular on X.
-- [@ZoomerVirgil](https://factionatlas.github.io/person/p_b43db5c984/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @ZoomerVirgil on X.
+- [@ZoomerVirgil](https://factionatlas.github.io/person/p_b43db5c984/) — Exclusive home: Groypers (Fuentes) . Public profile: @ZoomerVirgil on X.
 - [A 🌸](https://factionatlas.github.io/person/p_1556b54f0c/) — Exclusive home: Christian Conservatives . Public profile: @AThinksAloud on X.
 - [A.J. Smith](https://factionatlas.github.io/person/p_b9584f33ad/) — Exclusive home: Non-political . Public profile: @AJSmith82077448 on X.
 - [a16z (Andreessen Horowitz)](https://factionatlas.github.io/person/p_88d7b6c0fd/) — It's time to build
@@ -1387,6 +1392,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Allen Bernard](https://factionatlas.github.io/person/p_77dc38165f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Allen S. Nelson IV](https://factionatlas.github.io/person/p_e779411864/) — pastor, @gbtseminary
 - [Allen Tate](https://factionatlas.github.io/person/p_2425ede96c/) — Died 1979-02-09 (source). Defunct faction: Southern Agrarians (1930–c. 1940s) .
+- [Allen Turnage](https://factionatlas.github.io/person/p_cf3b6e2ecd/) — Exclusive home: Asatru Folk Assembly .
 - [Allen West](https://factionatlas.github.io/person/p_1cb9c71842/) — Garland, TX
 - [Alliance Defending](https://factionatlas.github.io/person/p_c2ded877a8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Alliance Defending Freedom](https://factionatlas.github.io/person/p_fcfeafb54c/) — United States
@@ -1407,8 +1413,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ameenah Salaam](https://factionatlas.github.io/person/p_2dc2dae579/) — Exclusive home: Communications Workers of America (CWA) .
 - [Amelia](https://factionatlas.github.io/person/p_ae3b460fc4/) — The Yookay
 - [AMERICA 24](https://factionatlas.github.io/person/p_bbb4711655/) — america first
-- [America First](https://factionatlas.github.io/person/p_1e8f1e526e/) — america first
 - [America First](https://factionatlas.github.io/person/p_93b258f7a9/) — america first
+- [America First](https://factionatlas.github.io/person/p_1e8f1e526e/) — america first
 - [America First Bureau](https://factionatlas.github.io/person/p_38c5b0ec11/) — Washington, DC
 - [America First Foundation](https://factionatlas.github.io/person/p_31d1c485cb/) — Exclusive home: America First . Public profile: @AmericaFirstFdn on X.
 - [America First Legal](https://factionatlas.github.io/person/p_b287043971/) — Washington D.C
@@ -1535,6 +1541,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Anglo Groyper](https://factionatlas.github.io/person/p_5cf2aa2d62/) — america first
 - [Anglo Invictus](https://factionatlas.github.io/person/p_2433285e05/) — christian nationalist
 - [Anglo Saxons](https://factionatlas.github.io/person/p_1e2dbd5b6b/) — On the watchlist (not yet placed in a faction): Watchlist .
+- [Angus King](https://factionatlas.github.io/person/p_fa53bb9da6/) — US Senate, ME, sitting source
 - [Angus MacIntyre](https://factionatlas.github.io/person/p_1daf7402be/) — Exclusive home: Reform UK . Public profile: @AngusReform on X.
 - [Anita Staver](https://factionatlas.github.io/person/p_8fbcef3e66/) — president and co-founder, Liberty Counsel source
 - [Ann](https://factionatlas.github.io/person/p_e704b230e5/) — Florida, USA
@@ -1652,10 +1659,11 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Barack Hussein Obama](https://factionatlas.github.io/person/p_ddd887b5c1/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Barack Obama](https://factionatlas.github.io/person/p_3eed66dc6c/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Barbara Branden](https://factionatlas.github.io/person/p_7210d59f89/) — Died 2013-12-11 (source). Defunct faction: Objectivist movement (1950s–1968) .
+- [Barbara McQuade](https://factionatlas.github.io/person/p_d01d1f4994/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Barbarian Herodotus](https://factionatlas.github.io/person/p_616f102a65/) — Exclusive home: Christian Conservatives . Public profile: @BBHerodotus on X.
 - [Bari Weiss](https://factionatlas.github.io/person/p_9c4a58fffc/) — editor-in-chief, @thefp
 - [Baron](https://factionatlas.github.io/person/p_9c00d17550/) — Exclusive home: Pagan right (heathen / folkish) . Public profile: @B_a_r_o_n___ on X.
-- [Baron Coleman](https://factionatlas.github.io/person/p_84ac6884a5/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @baroncoleman on X.
+- [Baron Coleman](https://factionatlas.github.io/person/p_84ac6884a5/) — Exclusive home: MAGA-dissident independents . Public profile: @baroncoleman on X.
 - [Barron Trump Memes](https://factionatlas.github.io/person/p_7973ab2288/) — Antarctic Pyramids, 4000 B.C
 - [Barry Goldwater](https://factionatlas.github.io/person/p_876d154c33/) — US Senator, Arizona, former (historical) source
 - [Barry Goldwater Jr.](https://factionatlas.github.io/person/p_ef9362d63d/) — board member, Goldwater Institute source
@@ -1739,6 +1747,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Bill Ackman](https://factionatlas.github.io/person/p_7af1337a55/) — Exclusive home: Tech Right . Public profile: @BillAckman on X.
 - [Bill Bachenberg](https://factionatlas.github.io/person/p_8191c2646c/) — NRA president source
 - [Bill Cassidy](https://factionatlas.github.io/person/p_e4df38f758/) — US Senate, LA, sitting source
+- [Bill Clinton](https://factionatlas.github.io/person/p_7cec492f29/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Bill de Blasio](https://factionatlas.github.io/person/p_88fa9404f8/) — Mayor of New York City, NY, former source
 - [Bill Drexel](https://factionatlas.github.io/person/p_8ff895f471/) — Washington, DC
 - [Bill Hagerty](https://factionatlas.github.io/person/p_94f7abe042/) — US Senate; re-elected 2026-11-03, TN, sitting source
@@ -1781,7 +1790,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Blake Kresses](https://factionatlas.github.io/person/p_62084d4727/) — maga, patriot
 - [Blake Masters](https://factionatlas.github.io/person/p_aeb8fe66fd/) — Thiel protégé; co-author of Zero to One, Thiel network
 - [Blake Miguez](https://factionatlas.github.io/person/p_d675e16ee7/) — US House candidate (LA-6), Louisiana State Senator, LA, candidate source
-- [Blake Neff](https://factionatlas.github.io/person/p_b23445cc3b/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @BlakeSNeff on X.
+- [Blake Neff](https://factionatlas.github.io/person/p_b23445cc3b/) — Exclusive home: Trump-loyal core . Public profile: @BlakeSNeff on X.
 - [Blockstream Jade](https://factionatlas.github.io/person/p_82440c4137/) — Exclusive home: Non-political . Public profile: @BlockstreamJade on X.
 - [Bloodywood](https://factionatlas.github.io/person/p_b6fa9952ea/) — New Delhi, India
 - [Blue and Butternut](https://factionatlas.github.io/person/p_e59504e825/) — Richmond, Virginia
@@ -1851,6 +1860,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Brandon Tatum](https://factionatlas.github.io/person/p_110df3822e/) — Arizona, USA
 - [Brandon Taylor Moore](https://factionatlas.github.io/person/p_5bcde45f92/) — Earth
 - [Brandon Weichert](https://factionatlas.github.io/person/p_7aa6dbf034/) — On the watchlist (not yet placed in a faction): Watchlist .
+- [Brandy Fassett](https://factionatlas.github.io/person/p_4890d92666/) — Exclusive home: Asatru Folk Assembly .
 - [Brandy Shufutinsky, EdD](https://factionatlas.github.io/person/p_d43c411f88/) — Exclusive home: Foundation for Defense of Democracies (FDD) . Public profile: @76brandy76 on X.
 - [Brave White Books](https://factionatlas.github.io/person/p_5f2ee56bb6/) — United States
 - [Braxton McCoy](https://factionatlas.github.io/person/p_b589251cae/) — Idaho, USA
@@ -1894,7 +1904,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Brian Cole Jr](https://factionatlas.github.io/person/p_047bc3f91b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Brian Costin](https://factionatlas.github.io/person/p_a19cc594e7/) — Buffalo Grove, IL
 - [Brian Harpole](https://factionatlas.github.io/person/p_40b7843444/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Brian Hegseth](https://factionatlas.github.io/person/p_29a00a8a33/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @brianhegseth on X.
+- [Brian Hegseth](https://factionatlas.github.io/person/p_29a00a8a33/) — Exclusive home: Trump-loyal core . Public profile: @brianhegseth on X.
 - [Brian Hooker](https://factionatlas.github.io/person/p_9a6dcf4bff/) — chief scientific officer, Children's Health Defense source
 - [Brian Hooks](https://factionatlas.github.io/person/p_108cf53ee3/) — founding CEO, Stand Together; president, Charles Koch Foundation source
 - [Brian Hund](https://factionatlas.github.io/person/p_55a79666f8/) — Exclusive home: Libertarians . Public profile: @brianhund on X.
@@ -2029,7 +2039,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Cassandra MacDonald](https://factionatlas.github.io/person/p_381d0d7bff/) — West by God Virginia
 - [Cat Ryan](https://factionatlas.github.io/person/p_668ddfdaf2/) — Exclusive home: MAGA-dissident independents . Public profile: @CatQuestionsAll on X.
 - [Catherine Engelbrecht](https://factionatlas.github.io/person/p_28d7686bd4/) — Exclusive home: True the Vote .
-- [Catherine Engelbrecht](https://factionatlas.github.io/person/p_b437e41c26/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Catherine Hanaway](https://factionatlas.github.io/person/p_cb46c8a7d0/) — Attorney General of MO, MO, sitting source
 - [Catherine Pakaluk](https://factionatlas.github.io/person/p_f11dfeaacd/) — Washington, DC
 - [Cathie Adams](https://factionatlas.github.io/person/p_0deb7a3a4d/) — first vice-president, Eagle Forum source
@@ -2226,6 +2235,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Cliff Notes](https://factionatlas.github.io/person/p_f6c7994d0f/) — Purdue, IN
 - [Clifford Asness](https://factionatlas.github.io/person/p_e01432c5dd/) — Greenwich, CT
 - [Clifford D. May](https://factionatlas.github.io/person/p_2159e8a242/) — founder, @FDD
+- [Clifford Erickson](https://factionatlas.github.io/person/p_35da557ab1/) — Exclusive home: Asatru Folk Assembly .
 - [Clifton Duncan](https://factionatlas.github.io/person/p_35ad3b7b22/) — Explore my longform writing
 - [Clint Bolick](https://factionatlas.github.io/person/p_4c676fb0fe/) — Exclusive home: Federalist Society / conservative legal movement .
 - [Clint Russell](https://factionatlas.github.io/person/p_540511275e/) — Exclusive home: Paleolibertarians . Public profile: @LibertyLockPod on X.
@@ -2235,8 +2245,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Club Prez](https://factionatlas.github.io/person/p_8184cb6978/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Clyde Wayne](https://factionatlas.github.io/person/p_63b7ee8bb7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Clyde Wayne Crews](https://factionatlas.github.io/person/p_5cfc66f213/) — Exclusive home: Competitive Enterprise Institute (CEI) . Public profile: @wayne_crews on X.
-- [Coalition for a Prosperous America](https://factionatlas.github.io/person/p_5c20c8a72d/) — Exclusive home: Coalition for a Prosperous America (CPA) .
-- [Coalition for Jewish Values](https://factionatlas.github.io/person/p_6c7685ea8d/) — Exclusive home: Christian Conservatives .
 - [Cobra Cast](https://factionatlas.github.io/person/p_4767d8d2d4/) — 1️⃣9️⃣9️⃣
 - [Cody J. Wisniewski](https://factionatlas.github.io/person/p_eaaf99dfd8/) — senior attorney for constitutional litigation, FPC (2022); president and CEO of FPC Action Foundation (2024) source
 - [Cody Justice](https://factionatlas.github.io/person/p_f24aa3ac10/) — founder, @SacraPress
@@ -2327,6 +2335,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Craig A. Goldman](https://factionatlas.github.io/person/p_4945ea8c21/) — US House, TX-12, sitting source
 - [Craig Federighi](https://factionatlas.github.io/person/p_6a320cb3b3/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Craig Haggard](https://factionatlas.github.io/person/p_483481cb42/) — Indiana State Representative, IN-HD57, former source
+- [Craig Rucker](https://factionatlas.github.io/person/p_e0542e97ff/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Craig Singleton](https://factionatlas.github.io/person/p_7783ba0002/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Craig Snow](https://factionatlas.github.io/person/p_07cb324cc0/) — Indiana State Representative, IN-HD22, sitting source
 - [Craig Wright](https://factionatlas.github.io/person/p_bc5f7ade7e/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -2437,6 +2446,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Daniel Webster](https://factionatlas.github.io/person/p_54c0a38b8e/) — US House, FL-11, sitting source
 - [Daniel Webster](https://factionatlas.github.io/person/p_dd7d7ad0bf/) — US Senator, Massachusetts; Secretary of State, former (historical) source
 - [Daniel West](https://factionatlas.github.io/person/p_06e1099495/) — Washington, DC
+- [Daniel Young](https://factionatlas.github.io/person/p_9d572ba98d/) — Exclusive home: Asatru Folk Assembly .
 - [Danielle Pletka](https://factionatlas.github.io/person/p_860afc530e/) — Exclusive home: Neoconservative / hawkish establishment . Public profile: @dpletka on X.
 - [Danny Kruger](https://factionatlas.github.io/person/p_36bc359760/) — parliament
 - [Danny LePage](https://factionatlas.github.io/person/p_5bba2965b7/) — Madison Township Board, Member, Carroll County, IN, sitting source
@@ -2621,6 +2631,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Dissident West](https://factionatlas.github.io/person/p_8952c92330/) — Exclusive home: Groypers (Fuentes) . Public profile: @dissidentwest on X.
 - [Dixie Aphorist](https://factionatlas.github.io/person/p_c06dc36121/) — Tennessee
 - [DJ Jenkins](https://factionatlas.github.io/person/p_bd58f9c373/) — Los Angeles, CA
+- [Dmitri Loutsik](https://factionatlas.github.io/person/p_e6ee3981f7/) — Exclusive home: Antelope Hill Publishing .
 - [Documenting Bitcoin](https://factionatlas.github.io/person/p_3d4dd7c783/) — Exclusive home: Non-political . Public profile: @DocumentingBTC on X.
 - [Doinks](https://factionatlas.github.io/person/p_456cd5a659/) — Panera Bread in Valhalla
 - [Dominic Adler](https://factionatlas.github.io/person/p_f09c120dec/) — Exclusive home: Neoconservative / hawkish establishment . Public profile: @DomAdlerUK on X.
@@ -2735,6 +2746,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Edmond Soliday](https://factionatlas.github.io/person/p_b573400259/) — Indiana State Representative, IN-HD4, former source
 - [Edmund Burke](https://factionatlas.github.io/person/p_556690a2f8/) — MP (Rockingham Whig), former (historical) source
 - [Edmund Fitzgerald](https://factionatlas.github.io/person/p_e9201f5cab/) — On the watchlist (not yet placed in a faction): Watchlist .
+- [Edmund Haislmaier](https://factionatlas.github.io/person/p_3d0c44a008/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Edward Atkinson (activist)](https://factionatlas.github.io/person/p_e3a911172c/) — Died 1905-12-11 (source). Defunct faction: Old liberalism (19th c.) .
 - [Edward Coristine](https://factionatlas.github.io/person/p_cd007e995d/) — DOGE staff (2025), former source
 - [Edward Everett](https://factionatlas.github.io/person/p_0c054519e5/) — US Secretary of State; Governor of Massachusetts, former (historical) source
@@ -2749,7 +2761,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Effective Altruists](https://factionatlas.github.io/person/p_88bdb8e93a/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Effective Nationalist](https://factionatlas.github.io/person/p_18b6f48ca8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Efraim Karsh](https://factionatlas.github.io/person/p_b8a9ccfa04/) — principal research fellow and former director, Middle East Forum source
-- [Efrat Fenigson](https://factionatlas.github.io/person/p_06db128bd6/) — host, @YoureTheVoiceEF
+- [Efrat Fenigson](https://factionatlas.github.io/person/p_06db128bd6/) — independent
 - [Eileen Norcross](https://factionatlas.github.io/person/p_58e6f405a9/) — Arlington, VA
 - [Eitan Fischberger](https://factionatlas.github.io/person/p_b853c1d859/) — Israel
 - [el connoisseur](https://factionatlas.github.io/person/p_6589a7aa00/) — London, England
@@ -2772,8 +2784,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Eli McGowan](https://factionatlas.github.io/person/p_749ef89bcf/) — conservative
 - [Eliezer Yudkowsky ⏹️](https://factionatlas.github.io/person/p_f33eeb52da/) — personal second (high-volume) account, @allTheYud
 - [Elihu Root](https://factionatlas.github.io/person/p_3bd7d8655f/) — US Secretary of State; US Senator, New York, former (historical) source
-- [Elijah](https://factionatlas.github.io/person/p_1eebd6314c/) — libertarian
 - [Elijah](https://factionatlas.github.io/person/p_6cbfc7e825/) — West Texas
+- [Elijah](https://factionatlas.github.io/person/p_1eebd6314c/) — libertarian
 - [Elijah Crane](https://factionatlas.github.io/person/p_61e3c89c89/) — US House, AZ-02, sitting source
 - [Elijah Schäffer](https://factionatlas.github.io/person/p_001c423247/) — host, @slightlyoffens
 - [Eliot A Cohen](https://factionatlas.github.io/person/p_59877b3749/) — writer, @TheAtlantic
@@ -2844,7 +2856,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Eric Zemmour](https://factionatlas.github.io/person/p_2e1dec333b/) — France
 - [Erich Pratt](https://factionatlas.github.io/person/p_732aeb28e9/) — Springfield, VA
 - [Erick Erickson](https://factionatlas.github.io/person/p_a8e6eea81d/) — conservative
-- [Erick Erickson](https://factionatlas.github.io/person/p_c720e41810/) — Ananindeua - PA
 - [Ericka Andersen](https://factionatlas.github.io/person/p_ac53aab51d/) — Exclusive home: Christian Conservatives . Public profile: @ErickaAndersen on X.
 - [Erik Johnson](https://factionatlas.github.io/person/p_091b4b51c9/) — pastor, @ConcordiaMWood
 - [Erik Kiehle](https://factionatlas.github.io/person/p_7b5e79e266/) — Libertarian candidate, US House MS-3 (2026), MS, candidate source
@@ -2930,7 +2941,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Flint](https://factionatlas.github.io/person/p_77a337e527/) — Exclusive home: Ignored . Public profile: @ur_boy_flint on X.
 - [Floresta](https://factionatlas.github.io/person/p_31ae8e60d9/) — Cyberspace
 - [Florida Cabinet](https://factionatlas.github.io/person/p_3f3d4ca233/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Florida Carry](https://factionatlas.github.io/person/p_c714654247/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @FloridaCarryInc on X.
+- [Florida Carry](https://factionatlas.github.io/person/p_c714654247/) — Exclusive home: Florida Carry . Public profile: @FloridaCarryInc on X.
 - [Florida Congressman](https://factionatlas.github.io/person/p_feab142526/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Florida Cracker](https://factionatlas.github.io/person/p_6aa0e390bf/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Florida Division](https://factionatlas.github.io/person/p_f5a19018c3/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3105,7 +3116,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Giga Based Dad](https://factionatlas.github.io/person/p_b38a1b7743/) — Texas
 - [Gil Smith](https://factionatlas.github.io/person/p_acbf20b490/) — Delphi Community School Board, Member, Carroll County, IN, sitting source
 - [Gina Carano](https://factionatlas.github.io/person/p_2c01a0466f/) — Exclusive home: Trump-loyal core . Public profile: @ginacarano on X.
-- [Gina Hinojosa](https://factionatlas.github.io/person/p_39d2548afe/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @GinaHinojosaTX on X.
+- [Gina Hinojosa](https://factionatlas.github.io/person/p_39d2548afe/) — Exclusive home: Mainstream Democrats . Public profile: @GinaHinojosaTX on X.
 - [Gladden Pappin](https://factionatlas.github.io/person/p_9a2aa38120/) — Exclusive home: Hard Right intellectuals (BAP / Yarvin / vitalists) .
 - [Gladiator](https://factionatlas.github.io/person/p_92c31cc0be/) — Exclusive home: Ignored . Public profile: @Gladiator21M on X.
 - [Glenn Beck](https://factionatlas.github.io/person/p_a7b6dedd31/) — founder, The Blaze
@@ -3119,7 +3130,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Global Evangelist](https://factionatlas.github.io/person/p_93fec53a58/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Global Financial](https://factionatlas.github.io/person/p_f7087e825d/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Global Investable Market](https://factionatlas.github.io/person/p_37702a5271/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Global Methodist Church](https://factionatlas.github.io/person/p_bfa11e59a3/) — Exclusive home: Christian Conservatives .
 - [Global Refuge](https://factionatlas.github.io/person/p_d8eab5bc96/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Global Risk](https://factionatlas.github.io/person/p_964d005653/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Global Strategist](https://factionatlas.github.io/person/p_1b0bd2a53a/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3295,9 +3305,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Hollyham](https://factionatlas.github.io/person/p_9f9e531d19/) — maga
 - [Home Alone](https://factionatlas.github.io/person/p_a43003d708/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Home Depot](https://factionatlas.github.io/person/p_ce8b6aacf3/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Home School Legal Defense Association](https://factionatlas.github.io/person/p_9b21c64a06/) — Exclusive home: Home School Legal Defense Association (HSLDA) .
 - [Homeland Security](https://factionatlas.github.io/person/p_3cdee608c7/) — Washington, D.C
-- [Honest Money](https://factionatlas.github.io/person/p_19e9de49dd/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @honestmoneyshow on X.
+- [Honest Money](https://factionatlas.github.io/person/p_19e9de49dd/) — Exclusive home: Non-political . Public profile: @honestmoneyshow on X.
 - [Honest Views](https://factionatlas.github.io/person/p_46c73e3eed/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Hoosier Hardware](https://factionatlas.github.io/person/p_04fea3296c/) — Exclusive home: Non-political . Public profile: @HoosierHardware on X.
 - [Hoosier Hospitality Award](https://factionatlas.github.io/person/p_6d82a9b5e9/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3427,6 +3436,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ivory Fritz](https://factionatlas.github.io/person/p_dce787d162/) — Minnesota, USA
 - [Iwan Egerström](https://factionatlas.github.io/person/p_542d4965fc/) — Sverige
 - [J](https://factionatlas.github.io/person/p_ee9571fa5f/) — patriot
+- [J. Burden](https://factionatlas.github.io/person/p_daed8bafe1/) — dissident right / new right
 - [J. Chase Davis](https://factionatlas.github.io/person/p_c9dd5d01d1/) — pastor, @boulderwell
 - [J. D. Prescott](https://factionatlas.github.io/person/p_662f722663/) — Indiana State Representative, IN-HD33, sitting source
 - [J. Elwin Wright](https://factionatlas.github.io/person/p_762f4afe57/) — Defunct faction: Neo-evangelicals (1942–c. 1976) .
@@ -3677,6 +3687,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Jeremy Boreing](https://factionatlas.github.io/person/p_a66f6eed8c/) — co-founder, @realDailyWire
 - [Jeremy C. Hunt](https://factionatlas.github.io/person/p_a4915ee6cf/) — fellow, @HudsonInstitute
 - [Jeremy Carl](https://factionatlas.github.io/person/p_3a8d096021/) — fellow, @claremontinst
+- [Jeremy Hosking](https://factionatlas.github.io/person/p_9b9fea0de0/) — Exclusive home: Reclaim Party (UK) .
 - [Jeremy Kauffman](https://factionatlas.github.io/person/p_2cc4e76d9d/) — president, @freestatepty
 - [Jeremy Latcham](https://factionatlas.github.io/person/p_b9831ca4e9/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Jeremy Nighohossian](https://factionatlas.github.io/person/p_71cfe40dee/) — Washington, DC
@@ -3715,7 +3726,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Jessica Tarlov](https://factionatlas.github.io/person/p_bfe232d3a0/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Jesus is King](https://factionatlas.github.io/person/p_85a2907eda/) — Exclusive home: Non-political theology / ministry . Public profile: @9klaughs on X.
 - [Jewels Jones](https://factionatlas.github.io/person/p_1bc904b9a2/) — Exclusive home: Trump-loyal core . Public profile: @JewelsJonesLive on X.
-- [Jewish Institute for National Security of America](https://factionatlas.github.io/person/p_3864a504f9/) — Exclusive home: Neoconservative / hawkish establishment .
 - [Jewish Redneck](https://factionatlas.github.io/person/p_e55763182b/) — patriot
 - [Jihyun Park](https://factionatlas.github.io/person/p_d0f1b8d855/) — Exclusive home: Non-political . Public profile: @JihyunPark7 on X.
 - [Jill Biden](https://factionatlas.github.io/person/p_c7dade88c0/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -3799,6 +3809,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Joel Webbon](https://factionatlas.github.io/person/p_a6755b8515/) — owner, NXR Studios
 - [Joey Carrion](https://factionatlas.github.io/person/p_164d793993/) — conservative, populist
 - [Joey Mannarino](https://factionatlas.github.io/person/p_40aad46e72/) — host, @Newsforce
+- [Joey Oliver](https://factionatlas.github.io/person/p_07bcec5d94/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Joey802](https://factionatlas.github.io/person/p_0147b9be75/) — Exclusive home: Libertarians . Public profile: @Vampire52VT on X.
 - [john](https://factionatlas.github.io/person/p_fbb93fce59/) — Melbourne, Victoria
 - [John](https://factionatlas.github.io/person/p_274de269db/) — Exclusive home: Pagan right (heathen / folkish) . Public profile: @DownHomeJohn on X.
@@ -3938,6 +3949,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [John Wheatley](https://factionatlas.github.io/person/p_96c93f426d/) — Exclusive home: Ignored . Public profile: @nudgestradamus on X.
 - [John White](https://factionatlas.github.io/person/p_e81b05cfc2/) — Boone, NC
 - [John Wick](https://factionatlas.github.io/person/p_b6e0c33bf0/) — On the watchlist (not yet placed in a faction): Watchlist .
+- [John Yoo](https://factionatlas.github.io/person/p_3dd596ec7d/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [John Ʌ Konrad V](https://factionatlas.github.io/person/p_19c30ef941/) — ceo, @gCaptain
 - [Johnny Burtka](https://factionatlas.github.io/person/p_85c054d6f9/) — director, @AmerCompass
 - [Johnny Come Too](https://factionatlas.github.io/person/p_1721c8c8e2/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -4099,7 +4111,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Kai Schwemmer](https://factionatlas.github.io/person/p_43ec6350c1/) — Exclusive home: Mainstream Right . Public profile: @KaiSchwemmer on X.
 - [Kaiser](https://factionatlas.github.io/person/p_e81bb1ff95/) — classical liberal, patriot
 - [Kaiser Ng](https://factionatlas.github.io/person/p_0d882ee594/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Kamala Harris](https://factionatlas.github.io/person/p_1580786c2e/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @kamalaharris on X.
+- [Kamala Harris](https://factionatlas.github.io/person/p_1580786c2e/) — Exclusive home: Mainstream Democrats . Public profile: @kamalaharris on X.
 - [Kamron Yates](https://factionatlas.github.io/person/p_16586e4729/) — City of Delphi Mayor, Carroll County, IN, sitting source
 - [Kamryn Crane](https://factionatlas.github.io/person/p_313cd04093/) — independent
 - [Kangmin Lee](https://factionatlas.github.io/person/p_8d3ef6e227/) — patriot
@@ -4324,7 +4336,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Lance Wallnau](https://factionatlas.github.io/person/p_3a4d5a0a15/) — Exclusive home: Christian Conservatives . Public profile: @lancewallnau on X.
 - [Lara Logan](https://factionatlas.github.io/person/p_44c7750836/) — Exclusive home: MAGA-dissident independents . Public profile: @laralogan on X.
 - [Lara Trump](https://factionatlas.github.io/person/p_c0a687877d/) — maga
-- [Laramie Minga](https://factionatlas.github.io/person/p_3fae6e9ad8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Laramie Minga](https://factionatlas.github.io/person/p_424271aabc/) — Winston, GA
 - [Larry Conger](https://factionatlas.github.io/person/p_33ac2bde71/) — Exclusive home: Trump-loyal core . Public profile: @eMTBrides on X.
 - [Larry Elder](https://factionatlas.github.io/person/p_2f5bd7fb3f/) — Exclusive home: Mainstream Right . Public profile: @larryelder on X.
@@ -4382,8 +4393,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Lee Kuan Yew](https://factionatlas.github.io/person/p_54742bb3dd/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Lee Liberman Otis](https://factionatlas.github.io/person/p_9fbbb2a923/) — Exclusive home: Federalist Society / conservative legal movement .
 - [Lee Rudofsky](https://factionatlas.github.io/person/p_ad07c05ee8/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Lee Smith](https://factionatlas.github.io/person/p_e180a3fd1f/) — USA
 - [Lee Smith](https://factionatlas.github.io/person/p_bdde784cc2/) — USA
+- [Lee Smith](https://factionatlas.github.io/person/p_e180a3fd1f/) — USA
 - [Lee Zeldin](https://factionatlas.github.io/person/p_9722d67ae2/) — EPA Administrator, NY, sitting source
 - [Legal Bytes](https://factionatlas.github.io/person/p_10c4fdf160/) — Exclusive home: Non-political . Public profile: @legalbytesmedia on X.
 - [Legal Defense Fund](https://factionatlas.github.io/person/p_abb13edc0f/) — Exclusive home: Legal Defense Fund (LDF, NAACP Legal Defense and Educational Fund) . Public profile: @NAACP_LDF on X.
@@ -4463,6 +4474,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Lisa Cook](https://factionatlas.github.io/person/p_064129e3c8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Lisa Demuth](https://factionatlas.github.io/person/p_c3c7108e69/) — Speaker of the Minnesota House; 2026 Republican nominee for Governor, MN, sitting source
 - [Lisa Murkowski](https://factionatlas.github.io/person/p_996c9a7e15/) — US Senate, AK, sitting source
+- [Lisa Nelson](https://factionatlas.github.io/person/p_08e712dd94/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Lisa Ringer](https://factionatlas.github.io/person/p_d3c8b16341/) — Jackson Township Board, Member, Carroll County, IN, sitting source
 - [Littoria](https://factionatlas.github.io/person/p_1d010850a5/) — Exclusive home: Dissident Right . Public profile: @Littoria14 on X.
 - [Live Action](https://factionatlas.github.io/person/p_efe400ed63/) — Los Angeles / Washington D.C
@@ -4525,7 +4537,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Luke Stamps](https://factionatlas.github.io/person/p_add8263b71/) — director, @ClampDivinity
 - [Luke Weinhagen](https://factionatlas.github.io/person/p_10ed650db7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Lulu Cheng Meservey](https://factionatlas.github.io/person/p_dd44b93bdc/) — Exclusive home: Tech Right . Public profile: @lulumeservey on X.
-- [Lutheran Church–Missouri Synod](https://factionatlas.github.io/person/p_c231afd408/) — Exclusive home: Christian Conservatives .
 - [Lutheran Husband Dad](https://factionatlas.github.io/person/p_f891fb7176/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Lydia Christensen](https://factionatlas.github.io/person/p_7e225ae6f7/) — Candidate for US Senate, MI, candidate source
 - [Lyle Goldstein](https://factionatlas.github.io/person/p_288dc1aa03/) — Exclusive home: Defense Priorities . Public profile: @lylegoldstein on X.
@@ -4625,7 +4636,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mark Hammond](https://factionatlas.github.io/person/p_6706a239e7/) — Secretary of State of SC, SC, sitting source
 - [Mark Hanna](https://factionatlas.github.io/person/p_7283895320/) — Died 1904-02-15 (source). Historical faction: Gilded Age Republican Party (1870s–1890s) .
 - [Mark Harris](https://factionatlas.github.io/person/p_2c9066dc99/) — US House; re-elected 2026-11-03, NC-08, sitting source
-- [Mark Ivanyo](https://factionatlas.github.io/person/p_f84156c7b1/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MarkIvanyo on X.
+- [Mark Ivanyo](https://factionatlas.github.io/person/p_f84156c7b1/) — Exclusive home: Trump-loyal core . Public profile: @MarkIvanyo on X.
 - [Mark Karpel](https://factionatlas.github.io/person/p_b23bd5da3f/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Mark Kelly](https://factionatlas.github.io/person/p_a14430bc13/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Mark Krikorian](https://factionatlas.github.io/person/p_ebc7d3668a/) — director, @CIS_org
@@ -4656,7 +4667,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mark Vargas](https://factionatlas.github.io/person/p_f255815c78/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Mark Vroegop](https://factionatlas.github.io/person/p_4b45d298fe/) — Exclusive home: The Gospel Coalition (TGC) .
 - [Mark Walsh](https://factionatlas.github.io/person/p_2c6ee417e2/) — director of operations, Empire Center source
-- [Mark Warner](https://factionatlas.github.io/person/p_2a6b3a793d/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @MarkWarner on X.
+- [Mark Warner](https://factionatlas.github.io/person/p_2a6b3a793d/) — Exclusive home: Mainstream Democrats . Public profile: @MarkWarner on X.
 - [Mark Wayne McMuffin](https://factionatlas.github.io/person/p_8ea27c11bd/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Mark Zuckerberg](https://factionatlas.github.io/person/p_ef725ae1cd/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Markwayne Mullin](https://factionatlas.github.io/person/p_2dc1a07cf2/) — US Secretary of Homeland Security (former US Senator, OK), OK, sitting source
@@ -4708,6 +4719,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Matt Chandler](https://factionatlas.github.io/person/p_6936d6cd6a/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Matt Cole](https://factionatlas.github.io/person/p_982d779eb5/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Matt Commons](https://factionatlas.github.io/person/p_6d74245ca7/) — Indiana State Representative, IN-HD13, sitting source
+- [Matt Flavel](https://factionatlas.github.io/person/p_d8e31a19f9/) — Exclusive home: Asatru Folk Assembly .
 - [Matt Forney](https://factionatlas.github.io/person/p_93a539de2d/) — NYC/Austin
 - [Matt Franck](https://factionatlas.github.io/person/p_d1cb2598c4/) — fellow, @WitherspoonInst
 - [Matt Gaetz](https://factionatlas.github.io/person/p_6cd67a5b02/) — Former US Representative (FL-01), FL, former source
@@ -4918,7 +4930,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mike Gonzalez](https://factionatlas.github.io/person/p_d21f8bc0cc/) — Washington, DC
 - [Mike Haridopolos](https://factionatlas.github.io/person/p_e03ac1180b/) — US House, FL-08, sitting source
 - [Mike Hilgers](https://factionatlas.github.io/person/p_6bb2b90dab/) — Attorney General of NE, NE, sitting source
-- [Mike Howell](https://factionatlas.github.io/person/p_8dfb35b750/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Mike Howell](https://factionatlas.github.io/person/p_b5ea5ee040/) — Exclusive home: The Oversight Project . Public profile: @MHowellTweets on X.
 - [Mike Johnson](https://factionatlas.github.io/person/p_06b6b43b11/) — Speaker of the House, LA-04, sitting source
 - [Mike Kehoe](https://factionatlas.github.io/person/p_2a74c2474a/) — Governor of Missouri, MO, sitting source
@@ -4939,8 +4950,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mike Priest](https://factionatlas.github.io/person/p_34a9795143/) — Delphi Community School Board, Member, Carroll County, IN, sitting source
 - [Mike Richter](https://factionatlas.github.io/person/p_7523f99b3c/) — Texas, USA
 - [Mike Roberts](https://factionatlas.github.io/person/p_24afaa4a85/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Mike Rogers](https://factionatlas.github.io/person/p_305c59ba6d/) — US Senate candidate; LOST the 2026-11-03 Michigan US Senate race to Abdul El-Sayed (D), MI, former source
 - [Mike Rogers](https://factionatlas.github.io/person/p_44f92b4a37/) — US House, AL-03, sitting source
+- [Mike Rogers](https://factionatlas.github.io/person/p_305c59ba6d/) — US Senate candidate; LOST the 2026-11-03 Michigan US Senate race to Abdul El-Sayed (D), MI, former source
 - [Mike Rounds](https://factionatlas.github.io/person/p_aa9b8b258f/) — US Senate; re-elected 2026-11-03 (NBC News projection), SD, sitting source
 - [Mike Rulli](https://factionatlas.github.io/person/p_67a2f37e03/) — U.S. Representative, OH-6, OH, sitting source
 - [Mike Shelby](https://factionatlas.github.io/person/p_9567c1a68e/) — Austin, Republic of Texas
@@ -5014,11 +5025,10 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Mr. Snow. Makes](https://factionatlas.github.io/person/p_2bf476b2d4/) — United States
 - [Mr. William C. Michael, OP](https://factionatlas.github.io/person/p_26653ad760/) — classical liberal
 - [Mrs. Daniel VS Babylon](https://factionatlas.github.io/person/p_f5ad7e50b6/) — Where God placed me
-- [Ms. Ezell (Ms. "right to acquire and maintain")](https://factionatlas.github.io/person/p_12c259e7ac/) — Exclusive home: Chicago Guns Matter (CGM) . Public profile: @ms_ezell on X.
 - [Mulder’s Long Fight for Account Reinstatement](https://factionatlas.github.io/person/p_4806a7c18a/) — Exclusive home: Libertarians . Public profile: @proteinwisdom on X.
 - [Mumbo Jumbo](https://factionatlas.github.io/person/p_5acaaf9c91/) — United Kingdom
-- [Murray Rothbard](https://factionatlas.github.io/person/p_2600ae1839/) — Died 1995-01-07 (source). Exclusive home: Mises Institute .
 - [Murray Rothbard](https://factionatlas.github.io/person/p_79d4b2cf0f/) — anarcho-capitalist
+- [Murray Rothbard](https://factionatlas.github.io/person/p_2600ae1839/) — Died 1995-01-07 (source). Exclusive home: Mises Institute .
 - [Musa al-Gharbi](https://factionatlas.github.io/person/p_aff98fba44/) — Exclusive home: Ex-left heterodox / free-speech centrists . Public profile: @Musa_alGharbi on X.
 - [Myles Sullivan](https://factionatlas.github.io/person/p_34c2552872/) — Exclusive home: United Steelworkers (USW) .
 - [N.D. Wilson](https://factionatlas.github.io/person/p_7ff7020c59/) — Sherwood Forest
@@ -5089,6 +5099,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Nature Medicine](https://factionatlas.github.io/person/p_174297fd36/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Naval Academy](https://factionatlas.github.io/person/p_6b66cfc6e3/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Navi of Boomhandia](https://factionatlas.github.io/person/p_82c617ca97/) — Exclusive home: Non-political . Public profile: @NaviGoBoom on X.
+- [Nayib Bukele](https://factionatlas.github.io/person/p_aaf7bec822/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [ndgo - SHA256 Maximalist](https://factionatlas.github.io/person/p_5994af5b85/) — Exclusive home: Non-political . Public profile: @ndgo1370 on X.
 - [NEA](https://factionatlas.github.io/person/p_97e3510592/) — Exclusive home: National Education Association (NEA) . Public profile: @NEAToday on X.
 - [Neal Bisno](https://factionatlas.github.io/person/p_07077d08d7/) — Exclusive home: Service Employees International Union (SEIU) .
@@ -5135,7 +5146,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Nick Fuentes Fast](https://factionatlas.github.io/person/p_394990d358/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Nick Gillespie](https://factionatlas.github.io/person/p_db3fd9b138/) — libertarian
 - [Nick LaLota](https://factionatlas.github.io/person/p_58c51d0750/) — US House, NY-01, sitting source
-- [Nick Land](https://factionatlas.github.io/person/p_5755c9c134/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Nick Land](https://factionatlas.github.io/person/p_65ca8f3bc9/) — Exclusive home: Hard Right intellectuals (BAP / Yarvin / vitalists) . Public profile: @xenocosmography on X.
 - [Nick Matau](https://factionatlas.github.io/person/p_3061db01a8/) — Exclusive home: Trump-loyal core . Public profile: @nick_matau on X.
 - [Nick McKinley](https://factionatlas.github.io/person/p_e957cb4a11/) — Indiana State Senator, IN-SD17, former source
@@ -5183,6 +5193,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Not Going](https://factionatlas.github.io/person/p_faedaad52b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Not that Elon.](https://factionatlas.github.io/person/p_ceb7e42fda/) — London
 - [Not the Bee](https://factionatlas.github.io/person/p_b8cd0573ac/) — Exclusive home: Mainstream Right . Public profile: @Not_the_Bee on X.
+- [Not Their Script](https://factionatlas.github.io/person/p_fb2c2f12dd/) — Exclusive home: Mainstream Right . Public profile: @NotTheirScript on X.
 - [NRA-ILA](https://factionatlas.github.io/person/p_045e3be1aa/) — Fairfax, VA
 - [NSSF—The Firearm Industry Trade Association](https://factionatlas.github.io/person/p_58fb30a744/) — Shelton, CT
 - [Nto Alaska](https://factionatlas.github.io/person/p_c7826275d1/) — maga
@@ -5426,7 +5437,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Posts With Botted Likes](https://factionatlas.github.io/person/p_b358ee8473/) — Exclusive home: Non-political . Public profile: @Botted_Likes on X.
 - [Powdur](https://factionatlas.github.io/person/p_41b5dae0a1/) — Inside your computer
 - [Pramila Jayapal](https://factionatlas.github.io/person/p_b819403e2d/) — US House, WA-07, sitting source
-- [Presbyterian Church in America](https://factionatlas.github.io/person/p_7acd64a978/) — Exclusive home: Christian Conservatives .
 - [President Trump 45 Archived](https://factionatlas.github.io/person/p_5801634b48/) — Exclusive home: Trump-loyal core . Public profile: @POTUS45 on X.
 - [Preston Cooper](https://factionatlas.github.io/person/p_1efd94623c/) — Washington, DC
 - [Preston Pysh](https://factionatlas.github.io/person/p_a2d3412d4e/) — Exclusive home: Non-political . Public profile: @PrestonPysh on X.
@@ -5466,7 +5476,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Radley Balko](https://factionatlas.github.io/person/p_c81fdfafe4/) — Nashville, TN
 - [Raheem Kassam](https://factionatlas.github.io/person/p_08db60f970/) — editor, @thenatpulse
 - [Raj Kannappan](https://factionatlas.github.io/person/p_2b89379112/) — Exclusive home: Young America's Foundation (YAF) .
-- [Raja Krishnamoorthi](https://factionatlas.github.io/person/p_f8513602db/) — US House
+- [Raja Krishnamoorthi](https://factionatlas.github.io/person/p_f8513602db/) — US House, IL-08, sitting source
 - [Rajat Soni, CFA](https://factionatlas.github.io/person/p_c4f07a0f4e/) — Toronto, Ontario
 - [Rajeev Sharma](https://factionatlas.github.io/person/p_c764ad03c1/) — founder, @IAACouncil
 - [Ralph Alvarado](https://factionatlas.github.io/person/p_7b7d293da4/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5581,7 +5591,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [REVENANT](https://factionatlas.github.io/person/p_c7203e39f2/) — Exclusive home: Dissident Right . Public profile: @revenant_MMXX on X.
 - [Revival Defense](https://factionatlas.github.io/person/p_135e24530a/) — Exclusive home: Non-political . Public profile: @revival_defense on X.
 - [Rex Jones](https://factionatlas.github.io/person/p_41d648cde3/) — host (@grayareatalks per bio), Gray Area
-- [Rhonda Ezell](https://factionatlas.github.io/person/p_1af95ac8ee/) — Exclusive home: Chicago Guns Matter (CGM) .
+- [Rhonda Ezell](https://factionatlas.github.io/person/p_12c259e7ac/) — Exclusive home: Chicago Guns Matter (CGM) . Public profile: @ms_ezell on X.
 - [Rhonda Mary](https://factionatlas.github.io/person/p_5a91b89c49/) — Exclusive home: Gun-rights movement . Public profile: @iamrhondamary on X.
 - [Ric Reed](https://factionatlas.github.io/person/p_4c45f3d688/) — conservative
 - [Ricardo Larrondo](https://factionatlas.github.io/person/p_d672de8dbc/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5662,7 +5672,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Robbie Ben Shapiro](https://factionatlas.github.io/person/p_97de97a096/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Robbie Bernstein](https://factionatlas.github.io/person/p_2fe06900e5/) — NYC
 - [Robbie J](https://factionatlas.github.io/person/p_9b5c6bfda4/) — Raleigh, NC
-- [Robby Mills](https://factionatlas.github.io/person/p_368cb4ba38/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @RobbyMillsforKy on X.
+- [Robby Mills](https://factionatlas.github.io/person/p_368cb4ba38/) — Exclusive home: Mainstream Right . Public profile: @RobbyMillsforKy on X.
 - [Robby Soave](https://factionatlas.github.io/person/p_2fee7b25ec/) — Washington DC
 - [Robby Starbuck](https://factionatlas.github.io/person/p_2c350b1e43/) — fellow, @Heritage
 - [Robert A. Heinlein](https://factionatlas.github.io/person/p_0161aed3ad/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5740,7 +5750,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Roger Pilon](https://factionatlas.github.io/person/p_6ae783cc68/) — Exclusive home: Federalist Society / conservative legal movement .
 - [Roger Scruton](https://factionatlas.github.io/person/p_f26ec26c78/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Roger Severino](https://factionatlas.github.io/person/p_9b864b6e8f/) — Exclusive home: Heritage Foundation / Heritage Action . Public profile: @RogerSeverino_ on X.
-- [Roger Stone](https://factionatlas.github.io/person/p_eed0666942/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @RogerJStoneJr on X.
+- [Roger Stone](https://factionatlas.github.io/person/p_eed0666942/) — Exclusive home: Trump-loyal core . Public profile: @RogerJStoneJr on X.
 - [Roger Williams](https://factionatlas.github.io/person/p_a4b40381f5/) — US House, TX-25, sitting source
 - [Roger Zakheim](https://factionatlas.github.io/person/p_0f8b06192e/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Roland Fryer](https://factionatlas.github.io/person/p_ff803c424d/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5762,6 +5772,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Ron Nehring](https://factionatlas.github.io/person/p_4487355613/) — San Diego, CA
 - [Ron Paul](https://factionatlas.github.io/person/p_e33e1b9b4a/) — US House (former), TX, former source
 - [Ron Paul Institute](https://factionatlas.github.io/person/p_d0a526d4dc/) — Exclusive home: Ron Paul Institute for Peace and Prosperity . Public profile: @RonPaulInstitut on X.
+- [Ron Simmons](https://factionatlas.github.io/person/p_b9e2896020/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Ron Smith](https://factionatlas.github.io/person/p_13559b4a7b/) — libertarian, republican
 - [Ron Swanson](https://factionatlas.github.io/person/p_fdb05c922b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Ron Watkins](https://factionatlas.github.io/person/p_0bfa3d02bf/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -5801,6 +5812,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Rufus King](https://factionatlas.github.io/person/p_1d2de6bf73/) — US Senator, New York, former (historical) source
 - [Rupert Darwall](https://factionatlas.github.io/person/p_b3b145ba0b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Rupert Lowe](https://factionatlas.github.io/person/p_76db443bb8/) — parliament
+- [Rush Limbaugh](https://factionatlas.github.io/person/p_560d9ade97/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Russ Fulcher](https://factionatlas.github.io/person/p_ab2dba4f38/) — US House, ID-01, sitting source
 - [Russ Roberts](https://factionatlas.github.io/person/p_aeb46305ae/) — fellow, @hooverinst
 - [Russ Vought](https://factionatlas.github.io/person/p_6896a92957/) — OMB Director (acting CFPB, USAID), VA, sitting source
@@ -5892,6 +5904,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Sara Jacobs](https://factionatlas.github.io/person/p_b2385d07e2/) — US House, CA-51, sitting source
 - [Sarah Chamberlain](https://factionatlas.github.io/person/p_fa53282977/) — Exclusive home: Republican Main Street Partnership (RMSP) .
 - [Sarah Clendenon](https://factionatlas.github.io/person/p_b0346cfe7f/) — Exclusive home: Idaho Freedom Foundation (IFF) .
+- [Sarah Cucchiara](https://factionatlas.github.io/person/p_0a7c7a4876/) — Exclusive home: Antelope Hill Publishing .
 - [Sarah Hanaway](https://factionatlas.github.io/person/p_6a9384b4b1/) — Monroe Township, Trustee, Carroll County, IN, sitting source
 - [Sarah Huckabee](https://factionatlas.github.io/person/p_73d966535b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Sarah Huckabee Sanders](https://factionatlas.github.io/person/p_b6d1cc3d0c/) — Governor of Arkansas, AR, sitting source
@@ -5973,7 +5986,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Seed](https://factionatlas.github.io/person/p_1c45838311/) — Exclusive home: Non-political . Public profile: @sesi_the_man on X.
 - [Semper Fi](https://factionatlas.github.io/person/p_ff469bef9b/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Semper Invictus](https://factionatlas.github.io/person/p_7840259501/) — america first, conservative
-- [Senate Republicans](https://factionatlas.github.io/person/p_687e1b9d7c/) — republican
 - [Senator Alex Padilla](https://factionatlas.github.io/person/p_efcdbcc22d/) — US Senate, CA, sitting source
 - [Senator Cortez Masto](https://factionatlas.github.io/person/p_12d8ff035c/) — US Senate, NV, sitting source
 - [Senator Lisa Blunt Rochester](https://factionatlas.github.io/person/p_ff051e5b4f/) — US Senate, DE, sitting source
@@ -5982,7 +5994,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Sergio Gor](https://factionatlas.github.io/person/p_5022919c2c/) — US Ambassador to India; Special Envoy for South and Central Asia, US, sitting source
 - [Seth Bodnar](https://factionatlas.github.io/person/p_63528bf860/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Seth Dillon](https://factionatlas.github.io/person/p_4eccf84bd5/) — Exclusive home: Mainstream Right . Public profile: @SethDillon on X.
-- [Seth Mandel](https://factionatlas.github.io/person/p_f4080b9ec9/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @sethamandel on X.
+- [Seth Mandel](https://factionatlas.github.io/person/p_f4080b9ec9/) — Exclusive home: Neoconservative / hawkish establishment . Public profile: @sethamandel on X.
 - [Seth Meyer](https://factionatlas.github.io/person/p_7d4a39949c/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Shad M.Brooks](https://factionatlas.github.io/person/p_ad72b04e93/) — Australia
 - [Shadi Hamid](https://factionatlas.github.io/person/p_65b5a871ff/) — columnist, @WashingtonPost
@@ -6107,7 +6119,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Star Parker](https://factionatlas.github.io/person/p_bed1b0bdb4/) — president, @CUREpolicy
 - [Star Wars Theory](https://factionatlas.github.io/person/p_daf01b1f28/) — Exclusive home: Non-political . Public profile: @realswtheory on X.
 - [Start9](https://factionatlas.github.io/person/p_864f3a21d2/) — Colorado, US
-- [State Freedom Caucus Network](https://factionatlas.github.io/person/p_1612058bbc/) — Exclusive home: House Freedom Caucus .
 - [State Representative Gabe Firment](https://factionatlas.github.io/person/p_321d4598d5/) — US House candidate (LA-5), Louisiana State Representative HD22, LA, candidate source
 - [Stavros Anthony](https://factionatlas.github.io/person/p_0b1c441e21/) — Lieutenant Governor of NV, NV, sitting source
 - [Steadfast Cigars](https://factionatlas.github.io/person/p_859f8fb6b0/) — Exclusive home: Non-political . Public profile: @SteadfastCigar on X.
@@ -6135,6 +6146,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Stephen Kinzer](https://factionatlas.github.io/person/p_f2f9538bd4/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Stephen Kokx](https://factionatlas.github.io/person/p_de7738035d/) — co-founder, @IntegritasMag
 - [Stephen L. Miller](https://factionatlas.github.io/person/p_c3048a5993/) — Exclusive home: Mainstream Right . Public profile: @redsteeze on X.
+- [Stephen McNallen](https://factionatlas.github.io/person/p_f766d9b0b2/) — Exclusive home: Asatru Folk Assembly .
 - [Stephen Miller](https://factionatlas.github.io/person/p_2c81df37c3/) — White House Chief of Staff, US, sitting source
 - [Stephen Moore](https://factionatlas.github.io/person/p_daf39aed2b/) — co-founder and former president, Club for Growth source
 - [Stephen Slivinski](https://factionatlas.github.io/person/p_913dec96fc/) — fellow, @CatoInstitute
@@ -6214,6 +6226,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Sunrise Movement](https://factionatlas.github.io/person/p_47574e550f/) — Exclusive home: Sunrise Movement . Public profile: @sunrisemvmt on X.
 - [Susan Collins](https://factionatlas.github.io/person/p_2c740508c2/) — US Senator (re-election candidate); LOST re-election 2026-11-03 to Troy Jackson (D) and conceded; serves until Jan 2027, ME, sitting source
 - [Susan Good Geise](https://factionatlas.github.io/person/p_eb92f7ad4a/) — former Montana Republican Party chair (1992-1993), former Lewis and Clark County commissioner (not current officeholder), former source
+- [Susan Hirschmann](https://factionatlas.github.io/person/p_f504f490db/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Susan R](https://factionatlas.github.io/person/p_92946ef291/) — independent
 - [Susie Wiles](https://factionatlas.github.io/person/p_0db701ad99/) — White House Chief of Staff (former), US, former source
 - [Sutherland Institute](https://factionatlas.github.io/person/p_e587793718/) — Salt Lake City, UT
@@ -6221,6 +6234,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Suzanne Bowdey](https://factionatlas.github.io/person/p_736d82c4b0/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Suzanne Kahn](https://factionatlas.github.io/person/p_41994ff3b4/) — Exclusive home: Roosevelt Institute .
 - [Suzanne Maloney](https://factionatlas.github.io/person/p_40b504d8fa/) — Exclusive home: Brookings Institution .
+- [Svan Herul](https://factionatlas.github.io/person/p_d6961d47ce/) — Exclusive home: Asatru Folk Assembly .
 - [Svante Myrick](https://factionatlas.github.io/person/p_a7bf27464a/) — Ithaca, NY
 - [Swan Bitcoin Client Services](https://factionatlas.github.io/person/p_164db152b0/) — Get started with Swan today
 - [Sydney Gruters](https://factionatlas.github.io/person/p_965cc02759/) — US Representative-elect, FL-16, candidate source
@@ -6230,7 +6244,6 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Synology Inc.](https://factionatlas.github.io/person/p_b7fcb5d815/) — Global
 - [Synonym](https://factionatlas.github.io/person/p_ecb3e738ea/) — The Atomic Economy
 - [Sólionath](https://factionatlas.github.io/person/p_83755f18a3/) — maga
-- [Sólionath](https://factionatlas.github.io/person/p_ac28bfdec5/) — Exclusive home: MAGA nationalist-populists . Public profile: @Solionath on X.
 - [T. Greer](https://factionatlas.github.io/person/p_bb59f96591/) — Exclusive home: National conservatives (NatCon) . Public profile: @Scholars_Stage on X.
 - [T. J. Roberts](https://factionatlas.github.io/person/p_5cf1ddc09e/) — Kentucky State Representative, HD-66 (2025-present), KY, sitting source
 - [T. Russell Hunter🌳🪓](https://factionatlas.github.io/person/p_fa4c2f67bd/) — Norman, Oklahoma, USA
@@ -6246,7 +6259,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Taylor D. Rhodes](https://factionatlas.github.io/person/p_46b2535163/) — Hoover, AL
 - [Taylor Day](https://factionatlas.github.io/person/p_6fdaec5667/) — Based Island
 - [Taylor Fife](https://factionatlas.github.io/person/p_39efa7c4bc/) — Carroll County Council, District 3 (VP), Carroll County, IN, sitting source
-- [Taylor Lorenz](https://factionatlas.github.io/person/p_ff244e51d6/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @TaylorLorenz on X.
+- [Taylor Lorenz](https://factionatlas.github.io/person/p_ff244e51d6/) — Exclusive home: Progressive left . Public profile: @TaylorLorenz on X.
 - [Taylor R. Marshall](https://factionatlas.github.io/person/p_118af88c23/) — patriot
 - [Taylor Swift](https://factionatlas.github.io/person/p_211714e4b9/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Taylor Weintraub](https://factionatlas.github.io/person/p_8f65d7cf86/) — On the watchlist (not yet placed in a faction): Watchlist .
@@ -6292,7 +6305,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Texas Right to Life](https://factionatlas.github.io/person/p_d4d8e85c35/) — Exclusive home: Christian Conservatives . Public profile: @TXRightToLife on X.
 - [Texas Roadhouse](https://factionatlas.github.io/person/p_b584ebb2aa/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Texas Tech](https://factionatlas.github.io/person/p_63a655542a/) — On the watchlist (not yet placed in a faction): Watchlist .
-- [Texas Texas](https://factionatlas.github.io/person/p_d8a0e66af3/) — On the watchlist (not yet placed in a faction): Watchlist . Public profile: @TexasFLCA on X.
+- [Texas Texas](https://factionatlas.github.io/person/p_d8a0e66af3/) — Exclusive home: Establishment / party Republicans . Public profile: @TexasFLCA on X.
 - [Texas Tribune](https://factionatlas.github.io/person/p_8600d336a8/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Texas Youth Summit](https://factionatlas.github.io/person/p_cded71d7d7/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Texas2A Attorney](https://factionatlas.github.io/person/p_f6d2098ca7/) — Exclusive home: House Freedom Caucus . Public profile: @CJGRISHAM on X.
@@ -6676,8 +6689,10 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Vik Ath](https://factionatlas.github.io/person/p_4ec9df5c88/) — Western Loudoun, VA
 - [Viking of Appalachia](https://factionatlas.github.io/person/p_c521625818/) — conservative
 - [Vince Fong](https://factionatlas.github.io/person/p_3ef4076d38/) — US House, CA-20, sitting source
+- [Vincent Cucchiara](https://factionatlas.github.io/person/p_2c14cb34e6/) — Exclusive home: Antelope Hill Publishing .
 - [Vinod Khosla](https://factionatlas.github.io/person/p_e7ecf4f891/) — Exclusive home: Silicon Valley tech establishment (non-right) . Public profile: @vkhosla on X.
 - [Virgil L. Walker](https://factionatlas.github.io/person/p_30aeb1017e/) — Exclusive home: Christian Conservatives . Public profile: @virgilwalker on X.
+- [Virgil Storr](https://factionatlas.github.io/person/p_da301dccbe/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Virginia Foxx](https://factionatlas.github.io/person/p_647929ceb3/) — US House, NC-05, sitting source
 - [Virginia GOP](https://factionatlas.github.io/person/p_c9bb2b8a7c/) — republican
 - [Virginia Grace McKinnon](https://factionatlas.github.io/person/p_923b9af599/) — Washington, DC
@@ -6826,6 +6841,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Young Kim](https://factionatlas.github.io/person/p_a733a698a4/) — US House, CA-40, sitting source
 - [Young Male](https://factionatlas.github.io/person/p_1897c8d2cc/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [Young Men](https://factionatlas.github.io/person/p_d149eec0be/) — On the watchlist (not yet placed in a faction): Watchlist .
+- [Young Patriots of Indiana](https://factionatlas.github.io/person/p_d4deb3ff27/) — Exclusive home: Dissident Right . Public profile: @YPsofIndiana on X.
 - [young scrolls](https://factionatlas.github.io/person/p_4a1e146472/) — Morrowind
 - [Young Turks](https://factionatlas.github.io/person/p_8b1b078132/) — On the watchlist (not yet placed in a faction): Watchlist .
 - [yunayu](https://factionatlas.github.io/person/p_efdddc926e/) — Exclusive home: Non-political . Public profile: @yunayuispink on X.
@@ -6904,7 +6920,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [DEI](https://factionatlas.github.io/issues/dei/) — Diversity, equity and inclusion programs.
 - [Dispensationalism and covenant theology](https://factionatlas.github.io/issues/dispensationalism/) — How a person reads the relation between Israel, the church and the biblical covenants.
 - [Drug legalization](https://factionatlas.github.io/issues/drug-legalization/) — Legalizing or decriminalizing marijuana and other drugs.
-- [Education freedom (stance on schooling)](https://factionatlas.github.io/issues/education-freedom/) — Education freedom (stance on schooling): 4 positions and 19 recorded stances. Recorded positions on Education freedom (stance on schooling).
+- [Education freedom (stance on schooling)](https://factionatlas.github.io/issues/education-freedom/) — Education freedom (stance on schooling): 4 positions and 148 recorded stances. Recorded positions on Education freedom (stance on schooling).
 - [Electric vehicles](https://factionatlas.github.io/issues/evs/) — EV mandates and subsidies.
 - [Elite overproduction and credentialism](https://factionatlas.github.io/issues/elite-overproduction/) — Whether the person endorses the view that there is an oversupply of credentialed aspirant elites (Peter Turchin's elite overproduction) or attacks credentialism and the managerial-credentialed class, versus rejecting th…
 - [Entitlements](https://factionatlas.github.io/issues/entitlements/) — Social Security and Medicare benefits and reform.
@@ -6995,7 +7011,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [llms.tx
 - [Unemployment benefits for locked-out workers](https://factionatlas.github.io/issues/lockout-unemployment/) — Whether workers locked out by their employer during a contract dispute should be guaranteed state unemployment benefits (and protected from claw-backs), or whether current eligibility rules should stand.
 - [Unions](https://factionatlas.github.io/issues/unions/) — Labor unions and laws that support or limit them.
 - [Vaccines and mandates](https://factionatlas.github.io/issues/vaccines-mandates/) — Vaccines and mandates: 3 positions and 26 recorded stances. Recorded positions on Vaccines and mandates.
-- [Vance stance (VP JD Vance as the post-Trump heir)](https://factionatlas.github.io/issues/vance/) — Vance stance (VP JD Vance as the post-Trump heir): 4 positions and 20 recorded stances. Recorded positions on Vance stance (VP JD Vance as the post-Trump heir).
+- [Vance stance (VP JD Vance as the post-Trump heir)](https://factionatlas.github.io/issues/vance/) — Vance stance (VP JD Vance as the post-Trump heir): 4 positions and 24 recorded stances. Recorded positions on Vance stance (VP JD Vance as the post-Trump heir).
 - [Voter ID and mail ballots](https://factionatlas.github.io/issues/voter-id-mail-ballots/) — Voter ID requirements and mail-in voting.
 - [War powers](https://factionatlas.github.io/issues/war-powers/) — Whether Congress must authorize military action (war powers resolutions).
 - [Western civilization](https://factionatlas.github.io/issues/western-civ/) — Whether policy should defend Western civilization as such, and what that means.
